@@ -58,6 +58,29 @@ jobs:
           \`\`\`
           EOF
 
+      - name: Cap oversized files (GitHub 100 MB limit)
+        run: |
+          set -e
+          for f in protocols/*.txt; do
+            [ -e "$f" ] || continue
+            sz=$(stat -c%s "$f")
+            if [ "$sz" -gt 95000000 ]; then
+              base=$(basename "$f" .txt)
+              dir="$(dirname "$f")/${base}-parts"
+              mkdir -p "$dir"
+              rm -f "$dir"/*
+              total=$(wc -l < "$f")
+              if [ "$total" -eq 0 ]; then total=1; fi
+              avg=$(( sz / total + 1 ))
+              lpp=$(( 80000000 / avg ))
+              if [ "$lpp" -lt 1 ]; then lpp=1; fi
+              split -d -a 3 -l "$lpp" "$f" "$dir/${base}-"
+              tail -c 90000000 "$f" | tail -n +2 > "$f.tmp"
+              mv "$f.tmp" "$f"
+              echo "$f capped to $(stat -c%s "$f") bytes; parts: $(ls "$dir" | wc -l)"
+            fi
+          done
+
       - name: Commit and push changes
         run: |
           git config user.name "sevcator"
