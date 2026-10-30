@@ -127,7 +127,6 @@ vmess://ewogICAgImFkZCI6ICI0NS4xMi4xNDQuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3Qi
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chromesecurity=tls#%F0%9F%87%A8%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-CY-1...
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080#CY_2430_@Surfboardv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh75fQ1lf5aGe5rWm6Lev5pavIiwiYWRkIjoieWg5LmR0a3U0MS54eXoiLCJwb3J0Ijo4MDgwLCJpZCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhhbmctYnJva2Utam9obi1uZWl0aGVyLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.177.107:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BECY_1%7C467KB%2Fs%7CF003-260618%2001
@@ -138,8 +137,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?security=none&typ
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080#CY  | @Raydikalx | 4A94DD
 trojan://humanity@194.55.164.118:443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CY  | @Raydikalx | DEDB6B
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@5.180.45.176:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#CY   VLESS-TCP-RLT - Pq Hosting Plus S.r.l.  5.180.45.176
-trojan://Pass-Client-1@171.22.119.74:8446?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-171.22.119.74-2724
-trojan://Pass-Client-1@171.22.119.74:8446?security=tls&type=grpc&serviceName=grpc-video-call#%F0%9F%87%A8%F0%9F%87%BECY-171.22.119.74-0673
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&type=tcp&headerType=none#[34152][CY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#[37404][CY][0][VLESS][None][rxv2ray][2025-10-26][2026-08-16 00:34]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#[38985][CY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
