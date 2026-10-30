@@ -1,3 +1,18 @@
+vless://TelegramChannel%3Adaredevill_404@91.107.187.5:20569?mode=auto&path=%2F%40daredevill_404&security=&encryption=none&type=xhttp# By EbraSha
+vless://TelegramChannel%3Adaredevill_404@91.98.229.73:20569?mode=auto&path=%2F%40daredevill_404&security=&encryption=none&type=xhttp# By EbraSha
+vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@5.75.194.133:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.107.140.25:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.107.144.36:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.107.182.134:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.107.184.214:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.107.244.167:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramChannel:daredevill_404@91.98.229.73:2957?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none# By EbraSha
+vless://TelegramJoin:TurboConfigs# By EbraSha
+vless://TelegramJoin:TurboConfigs @31.56.179.199:443?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp# By EbraSha
+vless://TelegramJoin:TurboConfigs @31.56.222.22:80?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp# By EbraSha
+vless://TelegramJoin:TurboConfigs@31.15.18.102:80?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp# By EbraSha
+vless://TelegramJoin:TurboConfigs@31.15.18.102:80?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp# By EbraSha
 vless://Telegram_VPNCUSTOMIZE@185.146.173.158:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws# By EbraSha
 vless://Telegram_VPNCUSTOMIZE@185.146.173.185:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws# By EbraSha
 vless://Telegram_VPNCUSTOMIZE@185.146.173.185:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws# By EbraSha
@@ -9983,18 +9998,3 @@ vless://ac2249c1-75d9-45d6-becc-5d987fbf5d11@rs.sv.temas-bor.ir:22023?security=r
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052/?type=ws&encryption=none&path=%2Fvless# By EbraSha
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws# By EbraSha
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?encryption=none&security=none&type=ws&path=%2Fvip# By EbraSha
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?encryption=none&type=ws&path=/vip&security=none# By EbraSha
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=%2Fvip&security=none&encryption=none&fp=chrome&type=ws# By EbraSha
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=%2Fvip&security=none&encryption=none&type=ws# By EbraSha
-vless://ac281681-7b6f-48ef-8d3d-d1b2c1a4f4f0@157.20.129.230:443?security=tls&sni=mz-hostyones.abraria.ir&type=grpc&serviceName=www.speedtest.net&fp=chrome&alpn=h3,h2# By EbraSha
-vless://ac281681-7b6f-48ef-8d3d-d1b2c1a4f4f0@157.20.129.230:443?security=tls&sni=mz-hostyones.abraria.ir&type=grpc&serviceName=www.speedtest.net&fp=edge&alpn=h3,h2# By EbraSha
-vless://ac281681-7b6f-48ef-8d3d-d1b2c1a4f4f0@84.47.234.19:443?security=tls&sni=mz-hostyones.abraria.ir&type=grpc&serviceName=www.speedtest.net&alpn=h3,h2# By EbraSha
-vless://ac28579d-1c73-489c-8e85-5cfa8e622763@185.251.82.170:2096?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com# By EbraSha
-vless://ac28579d-1c73-489c-8e85-5cfa8e622763@www.speedtest.net:2096?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com# By EbraSha
-vless://ac293655-21f0-4e90-9ffa-acc7fd8fa1ed@78.141.197.238:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=http&type=tcp# By EbraSha
-vless://ac293655-21f0-4e90-9ffa-acc7fd8fa1ed@78.141.197.238:443?security=none&encryption=none&headerType=http&type=tcp# By EbraSha
-vless://ac2acfeb-16e1-4240-bac4-73ea8ae956b7@104.18.32.47:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=md.moonknight.top&fp=chrome&type=ws&allowInsecure=1&sni=md.moonknight.top# By EbraSha
-vless://ac2c5c5d-19e5-4ecd-b96b-503989fb9ff0@speedtest.org:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun# By EbraSha
-vless://ac2c5c5d-19e5-4ecd-b96b-503989fb9ff0@zula.ir:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun# By EbraSha
-vless://ac2cbccd-9a09-4fd5-a006-d79d949f0265@ger.melov2ray.shop:28256?type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=reality&fp=chrome&pbk=eoTWjU-FluG2y0DfR5P0qjtchTx34qQTD8BkslRj-xw&sni=discord.com&sid=8237505a&spx=%2F# By EbraSha
-vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@45.196.224.110:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp# By EbraSha

@@ -1,3 +1,19 @@
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?allowInsecure=1&sni=www.nintendogames.net#4Mohsen-5503
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?security=tls&sni=www.nintendogames.net#4Mohsen-5504
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#4Mohsen-5505
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?sni=www.nintendogames.net#4Mohsen-5506
+trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#4Mohsen-5507
+trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#4Mohsen-5508
+trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#4Mohsen-5509
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#4Mohsen-5510
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#4Mohsen-5511
+trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#4Mohsen-5512
+trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#4Mohsen-5513
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#4Mohsen-5514
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud56.jafiyun.world:22056?type=tcp&sni=scloud56.jafiyun.world&allowInsecure=1#4Mohsen-5515
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud57.jafiyun.world:22057?type=tcp&sni=scloud57.jafiyun.world&allowInsecure=1#4Mohsen-5516
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud58.jafiyun.world:22058?type=tcp&sni=scloud58.jafiyun.world&allowInsecure=1#4Mohsen-5517
+trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36106?security=tls#4Mohsen-5518
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36116?security=tls#4Mohsen-5519
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201?security=tls#4Mohsen-5520
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36206?security=tls#4Mohsen-5521
@@ -9982,19 +9998,3 @@ trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?allowInse
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls# By EbraSha
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@sg.liangyuandian.top:443?allowInsecure=1&sni=# By EbraSha
 trojan://51eb38a0-48c1-11ee-8857-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=zula.ir# By EbraSha
-trojan://51eebef7-beaa-417b-9584-2794d10377c9@microsoft-hk03.syjd.xyz:443?allowInsecure=1# By EbraSha
-trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp# By EbraSha
-trojan://521314@103.83.87.111:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=/# By EbraSha
-trojan://521314@103.83.87.133:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F# By EbraSha
-trojan://521314@103.83.87.133:443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@103.83.87.133:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F# By EbraSha
-trojan://521314@103.83.87.133:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=/# By EbraSha
-trojan://521314@103.83.87.133:443?sni=tjplay.lxdxo.kdns.fr# By EbraSha
-trojan://521314@104.16.100.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@104.16.100.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@104.16.100.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram# By EbraSha
-trojan://521314@104.16.101.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@104.16.101.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@104.16.101.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram# By EbraSha
-trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
-trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha

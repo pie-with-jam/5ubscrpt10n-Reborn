@@ -56,10 +56,11 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&en
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX  | @Raydikalx | 321663
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#MX  | @Raydikalx | 055C21
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#MX  | @Raydikalx | 48F311
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp#MX  | @Raydikalx | 550EF9
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#MX  | @Raydikalx | 550EF9
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MX  | @Raydikalx | 7E0FFC
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#MX  | @Raydikalx | 9A0800
 vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#MX  | @Raydikalx | 3CCD99
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_1%7C1.0MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh71NWF8xfDMxMktCL3N8TTAwMy0yNjA4MDYgWzA5OTgwNDA0Y2Y1M10iLCJhZGQiOiIzOC42MC4yMjQuMTczIiwicG9ydCI6MzIxNTMsImlkIjoiNWNmMWY0NzAtM2Y3MC00NTg5LWEyYTQtNDY1N2VhM2ExZWRmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ==
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ul-mexico1.09vpn.com&path=%2Fvless%2F#[28809][MX][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#[28808][MX][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

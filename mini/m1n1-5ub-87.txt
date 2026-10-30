@@ -1,3 +1,19 @@
+trojan://51eebef7-beaa-417b-9584-2794d10377c9@microsoft-hk03.syjd.xyz:443?allowInsecure=1# By EbraSha
+trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp# By EbraSha
+trojan://521314@103.83.87.111:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=/# By EbraSha
+trojan://521314@103.83.87.133:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F# By EbraSha
+trojan://521314@103.83.87.133:443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@103.83.87.133:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F# By EbraSha
+trojan://521314@103.83.87.133:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=/# By EbraSha
+trojan://521314@103.83.87.133:443?sni=tjplay.lxdxo.kdns.fr# By EbraSha
+trojan://521314@104.16.100.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@104.16.100.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@104.16.100.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram# By EbraSha
+trojan://521314@104.16.101.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@104.16.101.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@104.16.101.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram# By EbraSha
+trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
+trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws# By EbraSha
 trojan://521314@104.16.97.215:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr# By EbraSha
 trojan://521314@104.16.97.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram# By EbraSha
 trojan://521314@104.16.98.215:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3# By EbraSha
@@ -9982,19 +9998,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?allowInsecure=1&host=Koma-Y
 trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr# By EbraSha
 trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr | TG@proxyshareCN |# By EbraSha
 trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr+|+TG@proxyshareCN+|+# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2Ftr%2B%7C%2B%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN%2B%7C%2B# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.229.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.230.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.230.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.34.230.253:443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.68.156.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@199.68.156.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.26.110.36:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.26.110.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.35.199:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.35.199:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.35.199:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.35.199:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.45.100:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.45.100:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.45.33:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
