@@ -2245,13 +2245,6 @@ vless://a9900333-444b-4a36-a2f0-0567946c47cd@78.129.208.44:421?security=reality&
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.128.190.209:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7GB_90%7C606KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.194.140.26:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7GB_91%7C634KB%2Fs%7CF003-260618%2001
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@roskaa6.api3-max.ru:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2,http/1.1&sni=roskaa6.api3-max.ru&fp=firefox&flow=xtls-rprx-vision-udp443#%F0%9F%87%AC%F0%9F%87%A7GB_93%7C6.0MB%2Fs%7CV010-260618%2001
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%237
-vless://77479eaf-c35e-4088-ae47-a2beb88a7272@uk.2ul.top:443?#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%233
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%234
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%235
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.171:443?sni=viper-21.moriarty-web.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%236
-vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fpsecurity=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%238
-vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%239
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RlF3WXBLTEZBTXE0ZW4ydEJWVERNLTNQeF9hWjk1Rw@85.234.91.167:443# GB | 85.234.91.167
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999# GB | 185.176.206.9
 vless://a9c52343-f289-4d4e-9fb2-255ed74e919a@uk.ulanbatur.pineaple.ir:8080?path=/&security=none&encryption=none&type=ws# GB | 51.89.226.139

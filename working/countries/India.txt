@@ -182,7 +182,6 @@ vless://5004e3d7-a9bd-4a7c-a6d5-58aa5e1be9ed@34.93.188.70:443?security=reality&t
 vless://3fed34dc-2fe6-4fe0-86e7-a80213f9b7cc@34.47.245.203:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=50440423703c945f&pbk=dB68n-Vyph0_KBtBIe45b5GCB4F1IqpBF_ohlN-KpkY#%F0%9F%87%AE%F0%9F%87%B3IN_40%7C758KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@13.200.106.232:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3IN_41%7C328KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@139.84.135.130:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3IN_42%7C324KB%2Fs%7CF003-260618%2001
-vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?#%F0%9F%87%AE%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-IN
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#IN  | @Raydikalx | 81895A
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#IN  | @Raydikalx | A6FE37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#IN  | @Raydikalx | 2FC761
