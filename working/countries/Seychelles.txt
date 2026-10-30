@@ -314,6 +314,7 @@ vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=/api/connect&headers={  "Host": "wstg.datasynctrue.online"}#SC_4140_@Surfboardv2ray
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#SC_4141_@Surfboardv2ray
 trojan://amclubs2024@154.83.2.200:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#Seychelles
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#SC-@VPNine1
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.92.114:5010?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b8%f0%9f%87%a8+SC+%e5%a1%9e%e8%88%8c%e5%b0%94+30
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b8%f0%9f%87%a8+SC+%e5%a1%9e%e8%88%8c%e5%b0%94+79
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b8%f0%9f%87%a8+SC+%e5%a1%9e%e8%88%8c%e5%b0%94+14

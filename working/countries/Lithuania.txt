@@ -83,7 +83,6 @@ vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=/fp&security
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#LT_4126_@Surfboardv2ray
 vless://bdd00939-26be-4c99-9f4f-2a94df83a9c6@84.32.84.33:443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=hNVOQ6YXqVOT71Fe-dptYmqMBDHsGE_LYu6mipfgExU&sid=cb69dab2&alpn=http/1.1# VL-TCP-RLT  LT-84.32.84.33:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.199-0965
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#LT-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%3E%3E%40configV2rayNG%3A%3ALT
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.9MB%2Fs%7CA004-260618%20%5B2ede309cc531%5D
 ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw@195.238.126.20:9078#%F0%9F%87%B1%F0%9F%87%B9LT_5%7C939KB%2Fs%7CA004-260618%20%5B58f82e405c0e%5D
@@ -112,11 +111,12 @@ ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9LT_3%7C1.9MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%F0%9F%87%B1%F0%9F%87%B9LT_5%7C1.8MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C1.9MB%2Fs%7CA004-260618%2001
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=android#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#LT-@VPNine1
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#LT  | @Raydikalx | 72F068
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#LT  | @Raydikalx | CB9299
 trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#LT  | @Raydikalx | 529EF5
