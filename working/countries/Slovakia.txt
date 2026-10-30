@@ -1,6 +1,4 @@
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Slovakia
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?security=reality&encryption=none&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&host=Telegram-mtmvpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.co.uk&sid=fcadf69c8d#SK_1719_@Surfboardv2ray
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Slovakia
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?security=reality&encryption=none&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&host=Telegram-mtmvpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.co.uk&sid=fcadf69c8d#SK_1731_@Surfboardv2ray
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.141:2053?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%B0SK_1%7C537KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.92:2053?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%B0SK_2%7C762KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@5.35.103.185:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%B0SK_3%7C525KB%2Fs%7CF003-260618%2001
