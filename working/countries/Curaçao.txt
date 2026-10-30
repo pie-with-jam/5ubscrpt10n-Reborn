@@ -1,6 +1,4 @@
 vless://probabblynot-ch@5.10.247.142:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#CW_4083_@Surfboardv2ray
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@45.38.190.101:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BwvlA1kuzTnXLIVO4AbvYMgbLG87MWPcwoodcZc_8S0&fp=firefox&type=xhttp&sni=google.com&sid=6e8a5b8428df2c7b#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Limburg%20an%20der%20Lahn%20%7C%20%5BBL%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=/&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#CW  | @Raydikalx | 5E250F
 vless://probabblynot-ch@5.10.247.142:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#CW  | @Raydikalx | CFE967
 vless://probabblynot-ch@5.10.247.142:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#CW_3481_@Surfboardv2ray
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#CW_1223_@Surfboardv2ray
