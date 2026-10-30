@@ -21,12 +21,10 @@ vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.37:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#%F0%9F%87%AD%F0%9F%87%BAHU-91.219.237.102-0762
 trojan://3747000103274291200@integral-malamute.adder289.quest:443#Hungary
 trojan://3747000103274291200@62.112.221.57:443?peer=integral-malamute.adder289.quest#Hungary
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-HU-6...
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7pIVV8zNzYiLAogICJhZGQiOiAiMTg1LjIyNS42OS4xMzQiLAogICJwb3J0IjogNDUwODEsCiAgImlkIjogIjNjM2JmZDc1LWRjMzAtNGU3Ni04OTQwLTQ3ZTExMzdlMjFmOSIsCiAgImFpZCI6IDY0LAogICJuZXQiOiAidGNwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0eXBlIjogIiIsCiAgInRscyI6ICIiLAogICJzbmkiOiAiIiwKICAic2N5IjogImF1dG8iCn0=
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@38.180.109.174:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C312KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@180.149.37.38:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_3%7C291KB%2Fs%7CF003-260618%2001
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HU  | @Raydikalx | 5C1081
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#HU  | @Raydikalx | 47E0DD
 vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#HU  | @Raydikalx | A6964E
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.37:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#HU  | @Raydikalx | 7CFE74
 vless://695e3dfd-14dd-4fa3-9c6a-f8108c376982@152.233.41.13:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#[17373][HU][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -199,3 +197,5 @@ ss://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.203.21:2087?mode=auto&path=%2F%
 ss://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.203.21:2087?mode=auto&path=%2F%3F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir#[4232][HU][0][SS][None][mehrosaboran][2026-07-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#%f0%9f%87%ad%f0%9f%87%ba%20HU%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#//Hungary/Budapest
+vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchromesecurity%3Dtls#%5Bwww.v2nodes.com%5D%20vless-HU-1...%20%231
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-HU-6...
