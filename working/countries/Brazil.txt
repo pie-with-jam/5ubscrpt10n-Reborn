@@ -48,6 +48,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.15
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_7%7C170KB%2Fs%7CM003-260806
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR+%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR%2b%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
+ss://chacha20-ietf-poly1305:banJ58KfDF21KoMFZ5TXmg@89.35.119.229:2083#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp#BR  | @Raydikalx | BE7C66
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#BR  | @Raydikalx | 245197
@@ -59,8 +60,7 @@ vmess://eyJhZGQiOiIxNzIuMjMzLjE0LjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#BR  | @Raydikalx | BE17EC
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#%F0%9F%87%A7%F0%9F%87%B7BR-144.22.250.122-1617
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?security=none&type=ws&path=%2F%3Fed%3D2560&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C207KB%2Fs%7CC002-260622%20%5B8e88cd9ae642%5D
-ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#%F0%9F%87%A7%F0%9F%87%B7BR_4%7C722KB%2Fs%7CM001-260618%20%5Bc5b51922beec%5D
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@146.235.59.153:2053?security=tls&type=ws&path=%2F&host=shin-ra.ccwu.cc&packetEncoding=xudp&sni=shin-ra.ccwu.cc&fp=unsafe&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C214KB%2Fs%7CF003-260618%20%5Bfce6475ff97f%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_3%7C683KB%2Fs%7CA004-260618%20%5B001ecce78984%5D
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#[9532][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#[44085][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#[9531][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -291,8 +291,3 @@ ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[openproxylist.com] trojan-BR
 vless://c6b1b2d0-ed5e-48ce-99e6-112ff330030d@177.7.51.29:8443?security=reality&encryption=none&pbk=laG5BxoSbdRozpauATNFBPPTwhuDuu0JFl_SCP2ZQlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=14fbf992#[openproxylist.com] vless-BR
-vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#[openproxylist.com] vless-BR
-vless://c6b1b2d0-ed5e-48ce-99e6-112ff330030d@177.7.51.29:8443?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BR-1...
-vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchromesecurity%3Dtls#%5Bwww.v2nodes.com%5D%20vless-BR-1...%20%231
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%5Bwww.v2nodes.com%5D%20trojan-BR-...
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003
