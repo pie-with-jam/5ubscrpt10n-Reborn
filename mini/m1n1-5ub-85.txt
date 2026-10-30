@@ -1,250 +1,3 @@
-trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#4Kian-4278
-trojan://MITIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=De&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#4Kian-4279
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Ger&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.App-Cloud.ir#4Kian-4280
-trojan://MITIVPN@162.159.38.119:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WINde&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-De-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-De-C-o.Maqror.ir#4Kian-4281
-trojan://MITIVPN@162.159.38.62:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s-W&security=tls&alpn=http/1.1&insecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-use-Cv-o.Maqror.ir#4Kian-4282
-trojan://MITIVPN@162.159.8.101:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USSA&security=tls&alpn=http/1.1&insecure=1&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.App-Cloud.ir#4Kian-4283
-trojan://MITIVPN@170.114.45.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&security=tls&alpn=http/1.1&insecure=1&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.MaQRor.Ir#4Kian-4284
-trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de--win&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododb-28.mAQror.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3-3j82vv-jkk282-8bvc2.Maqror.Ir#4Kian-4285
-trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win---usa&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododvb-28.App-ClouD.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3v-3j82vvb-jkk282-8bvc2.App-ClouD.Ir#4Kian-4286
-trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win-de&security=tls&alpn=http/1.1&insecure=0&host=8282-282-382-28.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9292-283-382-282-82.App-Cloud.Ir#4Kian-4287
-trojan://MITIVPN@199.232.22.39:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=u--s&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-4288
-trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#4Kian-4289
-trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#4Kian-4290
-trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#4Kian-4291
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#4Kian-4292
-trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#4Kian-4293
-trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#4Kian-4294
-trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=/&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#4Kian-4295
-trojan://MiTiVPN@104.16.71.213:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#4Kian-4296
-trojan://MiTiVPN@104.16.71.48:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=N--l&security=tls&alpn=http/1.1&insecure=1&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-nl.MaQRor.Ir#4Kian-4297
-trojan://MiTiVPN@104.18.6.178:2087?allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&type=ws&host=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl#4Kian-4298
-trojan://MiTiVPN@104.18.6.178:2087?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir#4Kian-4299
-trojan://MiTiVPN@104.18.6.178:2087?security=tls&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnl#4Kian-4300
-trojan://MiTiVPN@104.18.6.178:2087?security=tls&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&alpn=http/1.1&type=ws&host=op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl#4Kian-4301
-trojan://MiTiVPN@104.18.7.178:2083?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw#4Kian-4302
-trojan://MiTiVPN@104.18.7.178:2083?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir&alpn=http/1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw#4Kian-4303
-trojan://MiTiVPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SS-w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#4Kian-4304
-trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=Sw&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#4Kian-4305
-trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=sws&security=tls&alpn=h2,http/1.1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#4Kian-4306
-trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=sws&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#4Kian-4307
-trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---W&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#4Kian-4308
-trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sws-s&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#4Kian-4309
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#4Kian-4310
-trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-4311
-trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-4312
-trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#4Kian-4313
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-4314
-trojan://MiTiVPN@162.159.140.91:2096?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl&security=tls&alpn=http/1.1&insecure=1&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&fp=chrome&type=ws&allowInsecure=1&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir#4Kian-4315
-trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir#4Kian-4316
-trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl#4Kian-4317
-trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir&alpn=http/1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl#4Kian-4318
-trojan://MiTiVPN@162.159.38.200:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&security=tls&alpn=http/1.1&insecure=1&host=f--ls-Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.App-Cloud.ir#4Kian-4319
-trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#4Kian-4320
-trojan://MiTiVPN@188.114.96.6:443?type=ws&security=tls&path=/usa=mitivpn&host=f6r.ir&sni=f6r.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#4Kian-4321
-trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#4Kian-4322
-trojan://MiTiVPN@45.130.125.0:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw&security=tls&alpn=http/1.1&insecure=1&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#4Kian-4323
-trojan://MiTiVPN@45.130.125.0:443?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR&alpn=http%2F1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw#4Kian-4324
-trojan://MiTiVPN@45.130.125.0:443?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR&alpn=http/1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw#4Kian-4325
-trojan://MiTiVPN@46.202.30.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR#4Kian-4326
-trojan://MiTiVPN@66.81.247.155:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl&security=tls&alpn=http/1.1&insecure=1&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR#4Kian-4327
-trojan://MiTiVPN@66.81.247.155:443?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&alpn=http%2F1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl#4Kian-4328
-trojan://MiTiVPN@66.81.247.155:443?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&alpn=http/1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl#4Kian-4329
-trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#4Kian-4330
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#4Kian-4331
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#4Kian-4332
-trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#4Kian-4333
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#4Kian-4334
-trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-4335
-trojan://Mitivpn@167.82.101.251:443?allowInsecure=1&sni=ssl.fastly.com#4Kian-4336
-trojan://Mitivpn@167.82.101.251:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde#4Kian-4337
-trojan://Mitivpn@167.82.101.251:443?sni=ssl.fastly.com#4Kian-4338
-trojan://NQ26071394@13.38.35.46:443?fp=chrome&sni=lucky-marmot.rooster465.autos#4Kian-4339
-trojan://NQ26071394@35.181.65.111:443?fp=chrome&sni=ready-kangaroo.rooster465.autos#4Kian-4340
-trojan://NQ26071394@35.181.65.111:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#4Kian-4341
-trojan://NQ26071394@35.181.65.111:443?security=tls&sni=ready-kangaroo.rooster465.autos#4Kian-4342
-trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos#4Kian-4343
-trojan://NQ26071394@62.112.222.12:443?sni=ready-lion.rooster465.autos&type=tcp&fp=chrome#4Kian-4344
-trojan://NQ26071394@62.112.222.177:443?fp=chrome&sni=kind-unicorn.rooster465.autos#4Kian-4345
-trojan://NQ26071394@79.133.126.190:443?fp=chrome&sni=renewed-phoenix.rooster465.autos#4Kian-4346
-trojan://NQ26071394@79.133.126.190:443?security=tls&sni=renewed-phoenix.rooster465.autos#4Kian-4347
-trojan://NQ26071394@79.133.126.190:443?sni=renewed-phoenix.rooster465.autos&type=tcp&fp=chrome#4Kian-4348
-trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos#4Kian-4349
-trojan://NQ26071394@87.121.33.201:443?sni=chief-antelope.rooster465.autos&type=tcp&fp=chrome#4Kian-4350
-trojan://NQ26071394@87.121.33.68:443?sni=wanted-marmoset.rooster465.autos&type=tcp&fp=chrome#4Kian-4351
-trojan://NQ26071394@89.39.70.143:443?security=tls&sni=thorough-falcon.rooster465.autos#4Kian-4352
-trojan://NQ26071394@89.39.70.143:443?sni=thorough-falcon.rooster465.autos&type=tcp&fp=chrome#4Kian-4353
-trojan://NQ26071394@89.39.70.85:443?fp=chrome&sni=grateful-bedbug.rooster465.autos#4Kian-4354
-trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#4Kian-4355
-trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos#4Kian-4356
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls#4Kian-4357
-trojan://NQ26071394@full-ox.rooster465.autos:443?sni=full-ox.rooster465.autos&type=tcp&fp=chrome#4Kian-4358
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls#4Kian-4359
-trojan://NQ26071394@glad-roughy.rooster465.autos:443?sni=glad-roughy.rooster465.autos&type=tcp&fp=chrome#4Kian-4360
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#4Kian-4361
-trojan://NQ26071394@heroic-cow.rooster465.autos:443?sni=heroic-cow.rooster465.autos&type=tcp&fp=chrome#4Kian-4362
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?allowInsecure=0&sni=kind-unicorn.rooster465.autos#4Kian-4363
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls#4Kian-4364
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?sni=kind-unicorn.rooster465.autos&type=tcp&fp=chrome#4Kian-4365
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#4Kian-4366
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#4Kian-4367
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.rooster465.autos&type=tcp&fp=chrome#4Kian-4368
-trojan://NQ26071394@ready-kangaroo.rooster465.autos:443#4Kian-4369
-trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&sni=ready-kangaroo.rooster465.autos#4Kian-4370
-trojan://NQ26071394@ready-lion.rooster465.autos:443#4Kian-4371
-trojan://NQ26071394@ready-lion.rooster465.autos:443?security=tls#4Kian-4372
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#4Kian-4373
-trojan://NQ26071394@wealthy-loon.rooster465.autos:443#4Kian-4374
-trojan://NQ26071394@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#4Kian-4375
-trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#4Kian-4376
-trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#4Kian-4377
-trojan://OD90375861@62.112.222.69:443?sni=ideal-robin.rooster465.autos#4Kian-4378
-trojan://OD90375861@82.117.225.123:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#4Kian-4379
-trojan://OD90375861@82.117.225.123:443?sni=big-bonefish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Kian-4380
-trojan://OD90375861@87.121.33.171:443?security=tls&sni=selected-bison.rooster465.autos#4Kian-4381
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#4Kian-4382
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=raw&fp=chrome#4Kian-4383
-trojan://OD90375861@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=tcp&fp=chrome#4Kian-4384
-trojan://OD90375861@ideal-robin.rooster465.autos:443?security=tls&sni=ideal-robin.rooster465.autos#4Kian-4385
-trojan://OD90375861@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp&fp=chrome#4Kian-4386
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#4Kian-4387
-trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#4Kian-4388
-trojan://ON38567014@13.38.35.46:443?security=tls&sni=lucky-marmot.rooster465.autos#4Kian-4389
-trojan://ON38567014@13.38.35.46:443?sni=lucky-marmot.rooster465.autos&type=raw&fp=chrome#4Kian-4390
-trojan://ON38567014@13.38.35.46:443?sni=lucky-marmot.rooster465.autos&type=tcp&fp=chrome#4Kian-4391
-trojan://ON38567014@13.39.249.40:443?fp=chrome&sni=one-quail.rooster465.autos#4Kian-4392
-trojan://ON38567014@79.133.126.137:443?sni=workable-crawdad.rooster465.autos&type=tcp&fp=chrome#4Kian-4393
-trojan://ON38567014@actual-aardvark.rooster465.autos:443?fp=chrome#4Kian-4394
-trojan://ON38567014@actual-aardvark.rooster465.autos:443?sni=actual-aardvark.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Kian-4395
-trojan://ON38567014@actual-aardvark.rooster465.autos:443?sni=actual-aardvark.rooster465.autos&type=tcp&fp=chrome#4Kian-4396
-trojan://ON38567014@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#4Kian-4397
-trojan://ON38567014@genuine-grackle.rooster465.autos:443?allowInsecure=1#4Kian-4398
-trojan://ON38567014@humorous-parakeet.rooster465.autos:443?sni=humorous-parakeet.rooster465.autos&type=tcp&fp=chrome#4Kian-4399
-trojan://ON38567014@leading-ram.rooster465.autos:443?sni=leading-ram.rooster465.autos&type=tcp&fp=chrome#4Kian-4400
-trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#4Kian-4401
-trojan://ON38567014@lucky-marmot.rooster465.autos:443#4Kian-4402
-trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#4Kian-4403
-trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#4Kian-4404
-trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#4Kian-4405
-trojan://ON38567014@novel-mouse.rooster465.autos:443?sni=novel-mouse.rooster465.autos&type=tcp&fp=chrome#4Kian-4406
-trojan://ON38567014@one-quail.rooster465.autos:443?fp=chrome#4Kian-4407
-trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#4Kian-4408
-trojan://ON38567014@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.rooster465.autos&type=tcp&fp=chrome#4Kian-4409
-trojan://ON38567014@smiling-ray.rooster465.autos:443#4Kian-4410
-trojan://ON38567014@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos#4Kian-4411
-trojan://ON38567014@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp#4Kian-4412
-trojan://ON38567014@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp&fp=chrome#4Kian-4413
-trojan://ON38567014@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#4Kian-4414
-trojan://ON38567014@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&type=tcp#4Kian-4415
-trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#4Kian-4416
-trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#4Kian-4417
-trojan://OccIqeORGQwiNkwS@219.77.52.83:19128?sni=yazhou10.dynu.net&type=tcp&fp=chrome#4Kian-4418
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#4Kian-4419
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#4Kian-4420
-trojan://PD07395842@13.39.127.43:443?fp=chrome&sni=united-bedbug.rooster465.autos#4Kian-4421
-trojan://PD07395842@13.39.127.43:443?sni=united-bedbug.rooster465.autos&type=tcp&fp=chrome#4Kian-4422
-trojan://PD07395842@193.169.239.198:443?sni=present-warthog.rooster465.autos&type=tcp&fp=chrome#4Kian-4423
-trojan://PD07395842@85.234.65.26:443?sni=pro-crane.rooster465.autos&type=tcp&fp=chrome#4Kian-4424
-trojan://PD07395842@87.121.33.192:443?sni=darling-mutt.rooster465.autos&type=tcp&fp=chrome#4Kian-4425
-trojan://PD07395842@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&type=tcp&fp=chrome#4Kian-4426
-trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#4Kian-4427
-trojan://PD07395842@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster465.autos&type=tcp&fp=chrome#4Kian-4428
-trojan://PD07395842@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&type=tcp&fp=chrome#4Kian-4429
-trojan://PD07395842@enough-basilisk.rooster465.autos:443?fp=chrome#4Kian-4430
-trojan://PD07395842@enough-basilisk.rooster465.autos:443?sni=enough-basilisk.rooster465.autos&type=raw&fp=chrome#4Kian-4431
-trojan://PD07395842@enough-basilisk.rooster465.autos:443?sni=enough-basilisk.rooster465.autos&type=tcp&fp=chrome#4Kian-4432
-trojan://PD07395842@fast-ghost.rooster465.autos:443#4Kian-4433
-trojan://PD07395842@fast-ghost.rooster465.autos:443?security=tls&sni=fast-ghost.rooster465.autos#4Kian-4434
-trojan://PD07395842@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.autos&type=tcp#4Kian-4435
-trojan://PD07395842@liberal-salmon.rooster465.autos:443?sni=liberal-salmon.rooster465.autos&type=tcp&fp=chrome#4Kian-4436
-trojan://PD07395842@magical-kodiak.rooster465.autos:443?sni=magical-kodiak.rooster465.autos&type=tcp&fp=chrome#4Kian-4437
-trojan://PD07395842@present-warthog.rooster465.autos:443?fp=chrome#4Kian-4438
-trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#4Kian-4439
-trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#4Kian-4440
-trojan://PD07395842@strong-haddock.rooster465.autos:443?fp=chrome#4Kian-4441
-trojan://PD07395842@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&type=tcp&fp=chrome#4Kian-4442
-trojan://PD07395842@thorough-falcon.rooster465.autos:443?sni=thorough-falcon.rooster465.autos&type=tcp&fp=chrome#4Kian-4443
-trojan://PD07395842@tough-pigeon.rooster465.autos:443?fp=chrome#4Kian-4444
-trojan://PD07395842@tough-pigeon.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tough-pigeon.rooster465.autos#4Kian-4445
-trojan://PD07395842@tough-pigeon.rooster465.autos:443?sni=tough-pigeon.rooster465.autos&type=tcp&fp=chrome#4Kian-4446
-trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#4Kian-4447
-trojan://PD07395842@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Kian-4448
-trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#4Kian-4449
-trojan://PD07395842@united-bedbug.rooster465.autos:443?sni=united-bedbug.rooster465.autos&type=tcp&fp=chrome#4Kian-4450
-trojan://PI36027154@62.112.222.26:443?security=tls&sni=upright-hamster.rooster465.autos#4Kian-4451
-trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos#4Kian-4452
-trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#4Kian-4453
-trojan://PI36027154@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#4Kian-4454
-trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&type=tcp&fp=chrome#4Kian-4455
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Kian-4456
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.28:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Kian-4457
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4Kian-4458
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.34:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Kian-4459
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Kian-4460
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#4Kian-4461
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#4Kian-4462
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#4Kian-4463
-trojan://RH33sYWT00@77777777777777-1111111111111-0000000000.poki-pakipon.ir:49602?mode=gun&security=reality&pbk=XBRJmnemMgq-zpv0jjeHcEMUx43QAyHGfB9ON6Y-b1g&fp=chrome&spx=/@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network&type=grpc&sni=world.yahoo.com:443#4Kian-4464
-trojan://S.ibYdZshHTF-ne.M#4Kian-4465
-trojan://S51JaikfX6@179.237.75.190:16037?security=reality&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&host=rd.autos.yahoo.com:41636&headerType=http&fp=chrome&spx=/&type=tcp&sni=rd.autos.yahoo.com:40069#4Kian-4466
-trojan://SX95078263@legal-glider.rooster465.autos:443?security=tls#4Kian-4467
-trojan://SijoMNYVbPKQynblQeL9BjCnO43Zup3d@video.poki-pakipon.ir:32190?security=reality&pbk=myxNd1bvr963QPX-04CKcKkXSUfiUn2lLEQrdN4I4ms&headerType=none&fp=chrome&type=tcp&sni=rd.autos.yahoo.com&sid=141d17dfc73efe2c#4Kian-4468
-trojan://SijoMNYVbPKQynblQeL9BjCnO43Zup3d@video.poki-pakipon.ir:32190?security=reality&sni=rd.autos.yahoo.com&fp=chrome&pbk=myxNd1bvr963QPX-04CKcKkXSUfiUn2lLEQrdN4I4ms&sid=141d17dfc73efe2c&type=tcp&headerType=none#4Kian-4469
-trojan://SoftNetConnect@83.228.251.119:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#4Kian-4470
-trojan://SoftNetConnect@83.228.251.119:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=141b14d8#4Kian-4471
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#4Kian-4472
-trojan://Sp3eDVp@51.77.71.131:443?security=tls#4Kian-4473
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#4Kian-4474
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#4Kian-4475
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#4Kian-4476
-trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@jp1.t.sgateway.link:5223?security=tls&sni=pod-jp-z1.psusercontent.com&allowInsecure=1&type=tcp#4Kian-4477
-trojan://TNDSJfNv@36.151.195.48:4603?security=tls#4Kian-4478
-trojan://TNDSJfNv@36.151.195.48:4787?security=tls#4Kian-4479
-trojan://Tel-@ProxyMtAlpha#4Kian-4480
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#4Kian-4481
-trojan://Telegram_healer_config@104.21.89.41:443?path=%2Ftr%2Fj6tUJYR3oc4EhmK7TiULZCYQO%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV#4Kian-4482
-trojan://Telegram_healer_config@104.21.89.41:443?path=/tr/j6tUJYR3oc4EhmK7TiULZCYQO?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6r63-kkChIGHQM2.VxZ0dDUq7To7su0cdqf.wORKeRS.dEV#4Kian-4483
-trojan://Telegram_healer_config@172.67.156.87:443?path=%2Ftr%2Fyqf0HmXRcvB67eWDKZARhVo4Ts4%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev#4Kian-4484
-trojan://Telegram_healer_config@172.67.156.87:443?path=/tr/yqf0HmXRcvB67eWDKZARhVo4Ts4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev#4Kian-4485
-trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=%2Ftr%2FxwtrOUcg21SS0Ega%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#4Kian-4486
-trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?path=/tr/xwtrOUcg21SS0Ega?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV#4Kian-4487
-trojan://Telegram_healer_config@www.speedtest.net:443?path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV#4Kian-4488
-trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/mPZ7O1CUbIBPGNPZQ2HeV?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV#4Kian-4489
-trojan://TestingServer@@@94.102.53.19:443?security=tls#4Kian-4490
-trojan://TmxGNUA1jL@45.63.106.86:42903?type=tcp&allowInsecure=1#4Kian-4491
-trojan://Txoodd2HQP-Og7Y7MdVTbg@45.95.241.173:443?security=tls&sni=marzban01.barfak8184.space&allowInsecure=1&type=tcp#4Kian-4492
-trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network&type=grpc&sni=yahoo.com#4Kian-4493
-trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&type=grpc&sni=yahoo.com#4Kian-4494
-trojan://UZ15382649@15.188.75.92:443?sni=moral-dolphin.rooster465.autos#4Kian-4495
-trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral-dolphin.rooster465.autos#4Kian-4496
-trojan://UZ15382649@moral-dolphin.rooster465.autos:443?security=tls&sni=moral-dolphin.rooster465.autos#4Kian-4497
-trojan://UZ15382649@moral-dolphin.rooster465.autos:443?sni=moral-dolphin.rooster465.autos&type=tcp&fp=chrome#4Kian-4498
-trojan://UuSBh4nBfP@94.228.162.57:34607?security=reality&sni=www.icloud.com&fp=chrome&pbk=gJKFvilflB_PDTlZWatAqdHS4R-XEacvJQbaHL9u7Fw&sid=74&spx=/&type=tcp&headerType=none#4Kian-4499
-trojan://VPNCUSTOMIZE@104.18.16.56:443?security=tls&sni=ww.gameserver.de5.net&allowinsecure=0&type=xhttp&mode=stream-one&host=bvck-oizksj-swin-usje-c-o.gameserver.de5.net&path=/config#4Kian-4500
-trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#4Kian-4501
-trojan://VpRuqFDCJo@138.2.234.225:45555?security=tls&sni=sj1.alieszvps.cf&type=tcp#4Kian-4502
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#4Kian-4503
-trojan://WG39087154@109.61.127.127:443?sni=direct-goose.rooster465.autos&type=tcp&fp=chrome#4Kian-4504
-trojan://WG39087154@109.61.127.24:443?sni=artistic-pigeon.rooster465.autos&type=tcp&fp=chrome#4Kian-4505
-trojan://WG39087154@31.223.184.125:443?sni=moral-buzzard.rooster465.autos&type=tcp&fp=chrome#4Kian-4506
-trojan://WG39087154@35.181.168.168:443?sni=nearby-cod.rooster465.autos&type=tcp&fp=chrome#4Kian-4507
-trojan://WG39087154@79.133.126.111:443?sni=powerful-squid.rooster465.autos&type=tcp&fp=chrome#4Kian-4508
-trojan://WG39087154@82.117.226.45:443?sni=right-seahorse.rooster465.autos&type=tcp&fp=chrome#4Kian-4509
-trojan://WG39087154@82.117.226.60:443?sni=arriving-hyena.rooster465.autos&type=tcp&fp=chrome#4Kian-4510
-trojan://WG39087154@82.117.226.72:443?sni=flowing-gobbler.rooster465.autos&type=tcp&fp=chrome#4Kian-4511
-trojan://WG39087154@82.117.226.92:443?sni=superb-dory.rooster465.autos&type=tcp&fp=chrome#4Kian-4512
-trojan://WG39087154@87.121.33.201:443?sni=chief-antelope.rooster465.autos&type=tcp&fp=chrome#4Kian-4513
-trojan://WG39087154@87.121.33.237:443?sni=in-colt.rooster465.autos&type=tcp&fp=chrome#4Kian-4514
-trojan://WG39087154@89.39.70.49:443?sni=eager-louse.rooster465.autos&type=tcp&fp=chrome#4Kian-4515
-trojan://WG39087154@91.243.81.211:443?sni=eternal-gazelle.rooster465.autos&type=tcp&fp=chrome#4Kian-4516
-trojan://WG39087154@95.85.94.185:443?sni=maximum-elk.rooster465.autos&type=tcp&fp=chrome#4Kian-4517
-trojan://WG39087154@95.85.94.51:443?sni=tight-possum.rooster465.autos&type=tcp&fp=chrome#4Kian-4518
-trojan://WG39087154@absolute-boxer.rooster465.autos:443?sni=absolute-boxer.rooster465.autos&type=tcp&fp=chrome#4Kian-4519
-trojan://WG39087154@accurate-drake.rooster465.autos:443?sni=accurate-drake.rooster465.autos&type=tcp&fp=chrome#4Kian-4520
-trojan://WG39087154@arriving-hyena.rooster465.autos:443?sni=arriving-hyena.rooster465.autos&type=tcp&fp=chrome#4Kian-4521
-trojan://WG39087154@balanced-goat.rooster465.autos:443?fp=chrome#4Kian-4522
-trojan://WG39087154@caring-ghoul.rooster465.autos:443?security=tls#4Kian-4523
-trojan://WG39087154@casual-stallion.rooster465.autos:443?sni=casual-stallion.rooster465.autos&type=tcp&fp=chrome#4Kian-4524
 trojan://WG39087154@chief-cricket.rooster465.autos:443?security=tls&sni=chief-cricket.rooster465.autos#4Kian-4525
 trojan://WG39087154@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#4Kian-4526
 trojan://WG39087154@closing-crow.rooster465.autos:443?sni=closing-crow.rooster465.autos&type=tcp&fp=chrome#4Kian-4527
@@ -9998,3 +9751,250 @@ trojan://---------BanV2ray---------@179.237.74.104:1772?security=reality&pbk=STM
 trojan://---------BanV2ray---------@179.237.74.104:1772?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=4f8ae614dd2c# By EbraSha
 trojan://---------BanV2ray---------@179.237.74.104:2659?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=c9d8# By EbraSha
 trojan://---------BanV2ray---------@179.237.74.104:2659?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=c9d8# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?security=reality&sni=world.yahoo.com%3a443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=%2f69fd01d52663d39&type=grpc&path=%2f# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=/69fd01d52663d39&type=grpc&path=/# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?type=grpc&security=reality&mode=gun&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=%2F69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:2659?type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&sni=world.yahoo.com%3a443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=%2f69fd01d52663d39&type=grpc&path=%2f# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=/69fd01d52663d39&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=/69fd01d52663d39&type=grpc&path=/# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?type=grpc&security=reality&mode=gun&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=%2F69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:3611?type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=a385e5ea&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=5849771c39aa01# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?security=reality&sni=world.yahoo.com%3a443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=%2f69fd01d52663d39&type=grpc&path=%2f# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4288?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=/69fd01d52663d39&type=grpc&path=/# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4406?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4406?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:4406?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?security=reality&sni=world.yahoo.com%3a443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=%2f69fd01d52663d39&type=grpc&path=%2f# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=/69fd01d52663d39&type=grpc&path=/# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?type=grpc&security=reality&mode=gun&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=%2F69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5313?type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/69fd01d52663d39&type=grpc&sni=world.yahoo.com:443&sid=c9d8# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F69fd01d52663d39&type=grpc&sni=world.yahoo.com%3A443&sid=537b8f4ad4ddb860# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?security=reality&sni=world.yahoo.com%3a443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=%2f69fd01d52663d39&type=grpc&path=%2f# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=/69fd01d52663d39&type=grpc&path=/# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?type=grpc&security=reality&mode=gun&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=%2F69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.74.104:5841?type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=/69fd01d52663d39# By EbraSha
+trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&headerType=none&fp=chrome&spx=%2F6Iazy983oFVVWY8&type=tcp&sni=promotion.yahoo.com&sid=ba# By EbraSha
+trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&headerType=none&fp=chrome&spx=/6Iazy983oFVVWY8&type=tcp&sni=promotion.yahoo.com&sid=ba# By EbraSha
+trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp# By EbraSha
+trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=%2F6Iazy983oFVVWY8&type=tcp&headerType=none# By EbraSha
+trojan://---------BanV2ray---------@179.237.75.217:14771?security=reality&sni=promotion.yahoo.com&fp=chrome&pbk=KxROfjoX03DrY-S0chPO5LzYgSXFqt4-x4KWIRl4jl0&sid=ba&spx=/6Iazy983oFVVWY8&type=tcp&headerType=none# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:26653?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:26653?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:26653?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2Fvx5yLH3y04CSOlq&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:26653?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:26653?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2Fvx5yLH3y04CSOlq&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27112?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/sRTt8wlsKNYUyW3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27112?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/sRTt8wlsKNYUyW3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27112?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FsRTt8wlsKNYUyW3&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27112?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/sRTt8wlsKNYUyW3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27112?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FsRTt8wlsKNYUyW3&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/PEVzcQ9IYftDzCa&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/wMd1kMDFPrJT3E3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=0718b1f02a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/PEVzcQ9IYftDzCa&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/u1VfBHkmc18wVNP&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=0718b1f02a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/xyaH7oIC26JjL0k&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FPEVzcQ9IYftDzCa&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FxyaH7oIC26JjL0k&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/u1VfBHkmc18wVNP&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=0718b1f02a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/xyaH7oIC26JjL0k&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FPEVzcQ9IYftDzCa&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FxyaH7oIC26JjL0k&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/xyaH7oIC26JjL0k&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=/Loginmassaageeeee# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:27981?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/xyaH7oIC26JjL0k# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/YJqOEgw6YOyC550&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nWxfnvqGhhTUnMV&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/YJqOEgw6YOyC550&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nWxfnvqGhhTUnMV&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FYJqOEgw6YOyC550&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FnWxfnvqGhhTUnMV&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/YJqOEgw6YOyC550&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/nWxfnvqGhhTUnMV&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FYJqOEgw6YOyC550&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63# By EbraSha
+trojan://---------BanV2ray--------@84.234.30.16:30000?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=63&spx=/YJqOEgw6YOyC550&type=grpc&authority=&serviceName=/Loginmassaageeeee&mode=gun# By EbraSha
+trojan://---------BanV2ray-------66.poki-pakipon.ir:4382?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@179.237.75.89:43824?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:43824?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:43824?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:43824?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:4382?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:4382?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:4382?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:4382?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:4382?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@soskeynets-66.poki-pakipon.ir:43824?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://---------BanV2ray------@soskeynets-66.poki-pakipon.ir:4382?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=53661edd78# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:11332?security=reality&sni=yahoo.com&fp=chrome&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&sid=53661edd78&type=grpc# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:25238?type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:51104?security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:51104?security=reality&sni=yahoo.com&fp=chrome&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&sid=52a7aa2f4a&type=grpc# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:52079?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=20cf08fae8# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:55500?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=2616ed# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:55500?security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=2616ed# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:55500?security=reality&sni=yahoo.com&fp=chrome&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&sid=2616ed&type=grpc# By EbraSha
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=112a# By EbraSha
+trojan://--------BanV2ray---------@soskeynets-11111111111111111111111.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@soskeynets-11111111111111111111111.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@soskeynets-11111111111111111111111.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a# By EbraSha
+trojan://--------BanV2ray---------@soskeynets-11111111111111111111111.poki-pakipon.ir:52079?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=20cf08fae8# By EbraSha
+trojan://--------BanV2ray---------@soskeynets-11111111111111111111111.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=112a# By EbraSha
+trojan://--------BanV2ray--------@179.237.75.217:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CtGQ82BzaL3i-HPPmmnEUwjA2zPMTnN36r8ZMKGG4Ro&sid=9f9de956&spx=/5qqyHbduZNTV6Wr# By EbraSha
+trojan://--------BanV2ray-------@179.237.75.89:1302?security=reality&sni=chi.yahoo.com&type=grpc&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:13021?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:13021?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:13021?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:13021?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:1302?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:1302?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://--------BanV2ray-------@soskeynets.poki-pakipon.ir:1302?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------# By EbraSha
+trojan://-------BanV2ray-------66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:23780?security=reality&sni=chi.yahoo.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?fp=chrome&spx=/&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&sni=chi.yahoo.com&type=grpc&mode=gun&security=reality# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?security=reality&sni=chi.yahoo.com&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?security=reality&sni=chi.yahoo.com&type=grpc&spx=/&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&mode=gun&fp=chrome# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2F# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:53159?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:53159?security=reality&sni=chi.yahoo.com&type=grpc&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak# By EbraSha
+trojan://-------BanV2ray------@179.237.75.89:5315?security=reality&sni=chi.yahoo.com&type=grpc&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:315?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&mode=gun&type=grpc&fp=chrome&sni=chi.yahoo.com&spx=/&security=reality# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?sni=chi.yahoo.com&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&mode=gun&spx=%2F&security=reality&type=grpc&fp=firefox# By EbraSha
+trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?sni=chi.yahoo.com&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&mode=gun&spx=/&security=reality&type=grpc&fp=chrome# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?fp=chrome&mode=gun&sni=chi.yahoo.com&spx=/&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&type=grpc&security=reality# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?fp=chrome&sni=chi.yahoo.com&type=grpc&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&security=reality&mode=gun&spx=/# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?security=reality&sni=chi.yahoo.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?security=reality&sni=chi.yahoo.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:2378?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:2378?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:2378?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:2378?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2F&type=grpc# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=firefox&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&type=grpc&path=/# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?sni=chi.yahoo.com&fp=chrome&type=grpc&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&mode=gun&security=reality# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2F# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?type=grpc&spx=/&fp=chrome&mode=gun&sni=chi.yahoo.com&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&security=reality# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:3626?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:3626?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:23780?mode=gun&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:2378?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:36268?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:36268?type=grpc&security=reality&mode=gun&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=/# By EbraSha
+trojan://-------BanV2ray------@soskeynets-66.poki-pakipon.ir:3626?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets.poki-pakipon.ir:53159?mode=gun&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://-------BanV2ray------@soskeynets.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com# By EbraSha
+trojan://------BanV2ray-----# By EbraSha
+trojan://------BanV2ray-------# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/8FCCPPXagxu1Ksj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:2665?security=reality&sni=chi.yahoo.com&type=grpc&serviceName=%2FLoginmassaageeeee&fp=firefox&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=f4b34559dd56# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/aNcHe4w9zawCcjk&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:2711?security=reality&sni=chi.yahoo.com&type=grpc&serviceName=%2FLoginmassaageeeee&fp=firefox&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:2798?security=reality&sni=chi.yahoo.com&type=grpc&serviceName=%2FLoginmassaageeeee&fp=firefox&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=f8f4a6a4654b70a0# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:3000?security=reality&sni=chi.yahoo.com&type=grpc&serviceName=%2FLoginmassaageeeee&fp=firefox&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=63# By EbraSha
+trojan://------BanV2ray-------@179.237.74.76:5272?security=reality&sni=chi.yahoo.com&type=grpc&serviceName=%2FLoginmassaageeeee&fp=firefox&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=0718b1f02a# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26655?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/EW9czXfLnMMqIp0&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26655?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/EW9czXfLnMMqIp0&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26655?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FEW9czXfLnMMqIp0&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26655?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/EW9czXfLnMMqIp0&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/8FCCPPXagxu1Ksj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/JxHSKUBCeng0I8N&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2F8FCCPPXagxu1Ksj&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FJxHSKUBCeng0I8N&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/8FCCPPXagxu1Ksj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/8FCCPPXagxu1Ksj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2665?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2F8FCCPPXagxu1Ksj&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FzDBshpA8sZgGge5&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/aNcHe4w9zawCcjk&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/uHr5k5D0zCMWdK6&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/zDBshpA8sZgGge5&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956# By EbraSha
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FaNcHe4w9zawCcjk&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56# By EbraSha

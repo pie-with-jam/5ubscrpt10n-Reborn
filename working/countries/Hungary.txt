@@ -22,7 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#%F0
 trojan://3747000103274291200@integral-malamute.adder289.quest:443#Hungary
 trojan://3747000103274291200@62.112.221.57:443?peer=integral-malamute.adder289.quest#Hungary
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-HU-6...
-vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C255KB%2Fs%7CB007-260618
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7pIVV8zNzYiLAogICJhZGQiOiAiMTg1LjIyNS42OS4xMzQiLAogICJwb3J0IjogNDUwODEsCiAgImlkIjogIjNjM2JmZDc1LWRjMzAtNGU3Ni04OTQwLTQ3ZTExMzdlMjFmOSIsCiAgImFpZCI6IDY0LAogICJuZXQiOiAidGNwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0eXBlIjogIiIsCiAgInRscyI6ICIiLAogICJzbmkiOiAiIiwKICAic2N5IjogImF1dG8iCn0=
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@38.180.109.174:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C312KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@180.149.37.38:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_3%7C291KB%2Fs%7CF003-260618%2001
@@ -200,3 +199,5 @@ ss://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.203.21:2087?mode=auto&path=%2F%
 ss://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.203.21:2087?mode=auto&path=%2F%3F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir#[4232][HU][0][SS][None][mehrosaboran][2026-07-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#%f0%9f%87%ad%f0%9f%87%ba%20HU%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#//Hungary/Budapest
+vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchromesecurity%3Dtls#%5Bwww.v2nodes.com%5D%20vless-HU-1...%20%231
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-HU-6...
