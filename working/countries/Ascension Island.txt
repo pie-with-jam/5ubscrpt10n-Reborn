@@ -36,15 +36,11 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@160.153.138.253:443?security=tls&insecure=0&he
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&sni=43.167.186.78#4FreeIran-43f4ac66a5
 trojan://M%69TiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#4Jadi-9f4718d9ac
 trojan://MiTiVPN@151.101.56.6:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls#4Jadi-9ac266b12d
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267#4Kian-5df72d2ac2
 trojan://humanity@104.18.35.86:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#4FreeIran-6ac756f84c
 trojan://humanity@104.18.45.38:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#4Jadi-5ac363c9cc
-trojan://humanity@141.101.115.104:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-7fc83228ac
 trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=//assignment&sni=www.calmlunch.com&type=ws#4FreeIran-a30c4ac634
-trojan://humanity@172.64.145.133:443?security=tls&sni=www.pleadcourt.org&fp=unsafe&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fragment=null%2Cnull%2Ctlshello%2C0&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%2C%22type%22%3A%22fragment%22%7D%2C%7B%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#4Kian-9cfd773ac2
 trojan://humanity@172.64.231.133:443?sni=www.calmlunch.com&type=ws#4Jadi-ed122ac98f
 trojan://humanity@172.66.0.172:443?allowInsecure=0&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#4Sarina-e1ac33c404
-trojan://humanity@172.66.1.36:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Mohsen-73ac6ec14c
 trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Sarina-a94ac6c8ad
 trojan://humanity@188.114.97.6:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#4Kian-f79fa4ac5a
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23telegram---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=www.calmlunch.com#4Sarina-ac90a684f8
@@ -109,7 +105,6 @@ vless://52d5e686-9f27-4064-91a1-70407e43b45a@www.speedtest.net:80?encryption=non
 vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.18.0.181:2052?security=none&type=ws&path=%2Frain1226&host=eu02.123450908.xyz&packetEncoding=none&sni=eu02.123450908.xyz#4Kian-0da4b4ac08
 vless://5f11c240-89df-494c-9c81-8b619023bb58@789156.xyz:443?security=tls&type=ws&path=%2F%3Fed%3D2048fp%3Dchrome&host=789156.xyz&packetEncoding=xudp&sni=789156.xyz&fp=chrome&encryption=none#4Sarina-ac7b50d40a
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?encryption=none&security=tls&sni=freedom13.bypasojd.workers.dev&fp=chrome&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F#4Mohsen-808ac76ba5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime28.workers.dev&packetEncoding=xudp#4Kian-4970ac0a61
 vless://622aa2a4-9e68-4ab2-8ed1-9aaa4250189f@cdn-v2ahop.povrak.ir:8443?path=%2Fcdn&security=tls&encryption=none&insecure=0&host=cdn-v2ahop.povrak.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn-v2ahop.povrak.ir#4Sarina-a1ac180867
 vless://64726966-0000-4000-8000-740000000000@8.6.112.242:443?fp=firefox&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2F&security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&type=ws#4Kian-358857ac06
 vless://67b7716d-64f5-4ad9-b075-c95b636bf159@199.232.78.152:443?encryption=none&security=tls&sni=www.firefox.com&fp=chrome&insecure=0&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&host=fastmovie.global.ssl.fastly.net&path=/vistav2ray&mode=auto&extra={#4FreeIran-936ac16ab8

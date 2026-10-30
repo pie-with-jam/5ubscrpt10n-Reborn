@@ -27,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNUprMEJoUk5LamI1d1FCQk9YeDJ3d2tXWl95V1UwTg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#4Jadi-5ba48619fe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#4Mohsen-93e3a57ba7
 ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.220:8080#4Jadi-7b03c52ba7
-ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ@49.254.204.133:1774#4Nika-ba1c71919c
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#4Mohsen-3ba9ce7baa
 ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#4FreeIran-05a3ba1827
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#4Kian-fa4ba8369c
@@ -50,7 +49,6 @@ trojan://f53d2b849a03b2e06fd1c1a04968aff6@tyy129.magiclampcloud.com:59443?allowI
 trojan://humanity@104.18.152.73:443?allowInsecure=1&sni=www.ignitelimit.com#4Jadi-ba3735e110
 trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#4FreeIran-409266ba63
 trojan://humanity@162.159.133.152:443?sni=www.pleadcourt.org&type=ws#4Jadi-43d1f01ba4
-trojan://humanity@162.159.244.91:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-f3b3bc95ba
 trojan://humanity@166.1.36.83:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#4Sarina-ba4344445b
 trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=%2F%2Fassignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&fp=chrome&alpn=http%2F1.1#4FreeIran-ba0de4c25d
 trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-333dcc76ba
@@ -150,7 +148,6 @@ vless://c60cd62f-8dc5-415f-826b-abb7856027d1@91.107.247.173:443?encryption=mlkem
 vless://c86558f9-6c76-466c-95ec-09eb3e6ffe50@joe75o62evcwqmt.global.ssl.fastly.net:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=icjucvsgoqjwmtw102020123.global.ssl.fastly.net#4Jadi-ba5fc871de
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc#4Mohsen-ba36a241dc
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ad-dedic-3.failspace.top:443?encryption=none&security=tls&sni=ekb.eg&fp=chrome&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#4Kian-0db59ba8cf
-vless://cd5cd7f6-f714-45b6-ae5c-fbac0c48e375@146.75.57.111:443?vcn=firefox.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=firefox.com&mode=auto&path=/fast&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=grrgermany-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#4Nika-ba4e9c7f19
 vless://ce334334-3ab8-45a2-8af7-f151f413e402@tun12.momasvps.ir:5018?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&pbk=KVrKzcMWnFc8-s2Cre3PUS3ojMvugd1BxS9on54vBW0&host=hostname&fp=chrome&type=xhttp&sni=www.aparat.com&sid=9d57eae0ee3fd6cb#4Nika-d2a76ba5c7
 vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=/fp#4Jadi-3746c53ba7
 vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#4Mohsen-1ba8634120
