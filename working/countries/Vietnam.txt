@@ -51,11 +51,10 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX%2001
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.251:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_3%7C2.9MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CX%7CHistory%2001
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.80:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_2%7C1.6MB%2Fs%7CGPT%7CX%7CHistory%2001
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C722KB%2Fs%7CM003-260806
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&packetEncoding=xudp#%F0%9F%87%BB%F0%9F%87%B3VN_2%7C342KB%2Fs%7CA004-260618
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=random&flow=xtls-rprx-vision&sid=bb82c8&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A#%F0%9F%87%BB%F0%9F%87%B3VN_3%7C91KB%2Fs%7CA004-260618
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3VN_4%7C282KB%2Fs%7CP002-260618
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&type=raw&packetEncoding=xudp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=bb82c8&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A#%F0%9F%87%BB%F0%9F%87%B3VN_5%7C212KB%2Fs%7CM003-260806
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C375KB%2Fs%7CM003-260806
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&packetEncoding=xudp#%F0%9F%87%BB%F0%9F%87%B3VN_2%7C346KB%2Fs%7CA004-260618
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=random&flow=xtls-rprx-vision&sid=bb82c8&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A#%F0%9F%87%BB%F0%9F%87%B3VN_3%7C150KB%2Fs%7CA004-260618
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3VN_4%7C294KB%2Fs%7CP002-260618
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)_2
@@ -74,7 +73,7 @@ trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#V
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#VN  | @Raydikalx | F1C381
 trojan://c0f32867-001f-43f6-a0cc-9fd8730e5430@103.9.77.6:443?sni=Free.Shecan.Ir&type=tcp#VN  | @Raydikalx | 536142
 trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN  | @Raydikalx | 663774
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#VN  | @Raydikalx | DE68F9
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp#VN  | @Raydikalx | DE68F9
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#VN  | @Raydikalx | DE68F9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
@@ -552,6 +551,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_5%7C0.8MB%2Fs%7CGPT%E2%81%BA%7CGM%7CYT%7CX%7CSucceed%7C%5B%E5%8E%9F%E7%94%9F%7C%E6%9C%BA%E6%88%BF%5D
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.173:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_6%7C0.5MB%2Fs%7CGPT%7CYT%7CX%7CHistory
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#[openproxylist.com] vless-VN
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#[openproxylist.com] vless-VN
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-VN-1...
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-VN-1...%20%231

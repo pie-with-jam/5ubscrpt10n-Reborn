@@ -25,3 +25,4 @@ vless://probabblynot-ch@5.10.247.142:2087?alpn=http/1.1&encryption=none&fp=chrom
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQERlYW1OZXRf8J+HqPCfh7NUYWknYW4tMjE5Ni0zODAiLCAiYWRkIjogIjE0Mi40LjEwOC41NiIsICJwb3J0IjogNTkxMDksICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
 ss://7612dd26-d0ce-4fe0-be7c-d093bb8645da@88.216.67.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cf11.evan00.dpdns.org&type=ws#[2865][CW][0][SS][None][oneclickvpnkeys][2026-07-19][2026-07-25 02:07]
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#Germany/Limburg an der Lahn [TG]
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?encryption=none&security=none&type=tcp#Germany/Limburg an der Lahn [TG] #2

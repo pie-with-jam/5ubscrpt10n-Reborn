@@ -91,6 +91,7 @@ vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?allowInsecure=1&
 vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?sni=tau1.freerunet.online&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-1...%20%231
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?allowInsecure=0&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/A11Ufp=chrome&security=tls#AT_speednode_0001
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.31.46:8443?allowInsecure=0&sni=usa3.pad-sservice.lat&type=ws&host=usa3.pad-service.com&path=/U1SAfp=firefox&security=tls#AT_speednode_0002
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@178.236.245.59:443?sni=tau1.freerunet.online&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-1...%20%231
 vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI&sid=ee740b4fd675&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#AT_1615_@Surfboardv2ray
 vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?security=reality&encryption=none&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aezau1.uni-plan.com&sid=8f0f92607e5b353c#AT_1761_@Surfboardv2ray
 vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?security=reality&encryption=none&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aezau1.uni-plan.com&sid=8f0f92607e5b353c#AT_1762_@Surfboardv2ray
@@ -102,7 +103,7 @@ vmess://ewogICAgImFkZCI6ICIyMTIuMTgzLjg4Ljc3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?security=tls&type=ws&path=/@Marisa_kristi&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&packetEncoding=xudp&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C383KB%2Fs%7CM002-260618%2001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?security=tls&type=ws&path=/archive?ed=2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_6%7C2.2MB%2Fs%7CR002-260618%2001
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?security=reality&type=tcp&packetEncoding=xudp&sni=at.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C3.6MB%2Fs%7CR002-260618%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C2.6MB%2Fs%7CA001-260618
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C1.9MB%2Fs%7CA001-260618
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-0803
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-0804
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%9F%87%B9AT-185.180.12.81-0729
@@ -117,7 +118,7 @@ ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J%2BHsw@130.195.222.215:443?plugin
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@130.195.222.215:443/?plugin=v2ray-plugin%3Btls%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560#AT  | @Raydikalx | 96567F
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT  | @Raydikalx | BA246D
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT  | @Raydikalx | DC0C67
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT  | @Raydikalx | BE2A03
+trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#AT  | @Raydikalx | BE2A03
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT  | @Raydikalx | 8BFCF0
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#AT  | @Raydikalx | 509CC4
 vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?security=reality&encryption=none&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&headerType=none&fp=chrome&spx=/xK9FUOc178i0I31&type=tcp&flow=xtls-rprx-vision&sni=at-3.wizard.select&sid=cee953f6#AT  | @Raydikalx | 282667
