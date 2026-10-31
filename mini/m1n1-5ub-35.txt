@@ -1,3 +1,4 @@
+vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80?path=%2F&security=&encryption=none&host=support.mindigosupport.ir&type=ws# By EbraSha
 vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro# By EbraSha
 vless://061277e0-aea4-449c-bbeb-05a55fa825df@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray# By EbraSha
 vless://0612c343-bfe0-4971-963c-40c31ae440af@jp.caball.link:443?security=tls&sni=jp.caball.link&type=ws&path=/?ed%3D2048&encryption=none# By EbraSha
@@ -9997,4 +9998,3 @@ vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLk
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=chrome&type=ws&sni=ensHOLP-91s.pageS.DEv# By EbraSha
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&type=ws&sni=ensHOLP-91s.pageS.DEv# By EbraSha
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.18.141.40:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv# By EbraSha
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.18.26.90:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv# By EbraSha

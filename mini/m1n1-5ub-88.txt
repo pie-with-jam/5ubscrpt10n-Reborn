@@ -1,3 +1,4 @@
+trojan://NQ26071394@52.78.68.191:443?sni=sensible-mongrel.rooster465.autos&path=%2f# By EbraSha
 trojan://NQ26071394@52.78.68.191:443?sni=sensible-mongrel.rooster465.autos&path=/# By EbraSha
 trojan://NQ26071394@52.78.68.191:443?sni=sensible-mongrel.rooster465.autos&type=tcp&fp=chrome# By EbraSha
 trojan://NQ26071394@52.79.249.115:443?allowInsecure=0&sni=gentle-platypus.rooster465.autos# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@v02.gutingting.com:20223?security=
 trojan://b5181de8-66d4-4f8f-904c-23e606303a13@delivery.flareai.site:13243?allowInsecure=1&alpn=h2# By EbraSha
 trojan://b5656155c1a536c@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/z4mLYk7x66Y968n&type=tcp&sni=google.com&sid=019dd851# By EbraSha
 trojan://b5656155c1a536c@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2Fz4mLYk7x66Y968n&type=tcp&sni=google.com&sid=019dd851# By EbraSha
-trojan://b5656155c1a536c@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/nqySyHzE1tBT7X0&type=tcp&sni=google.com&sid=44b7794788ed# By EbraSha

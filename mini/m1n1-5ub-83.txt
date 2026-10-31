@@ -1,3 +1,4 @@
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com#4Kian-4781
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com#4Kian-4782
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#4Kian-4783
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?security=tls&sni=hk.catxstar.com#4Kian-4784
@@ -9997,4 +9998,3 @@ trojan://034def70-28b0-11ee-b7a4-1239d0255272@51.81.82.15:443?security=tls&heade
 trojan://035450e9-317a-49c8-95f3-a497460646a4@57.128.36.168:443?sni=s124.internetazad.pro# By EbraSha
 trojan://036c4b831e934b33b3964fdd1f850563@r1.beyondshop.site:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=r1.beyondshop.site# By EbraSha
 trojan://036c4b831e934b33b3964fdd1f850563@r1.beyondshop.site:2087?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=r1.beyondshop.site# By EbraSha
-trojan://036c4b831e934b33b3964fdd1f850563@r1.beyondshop.site:2087?path=/&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=r1.beyondshop.site# By EbraSha

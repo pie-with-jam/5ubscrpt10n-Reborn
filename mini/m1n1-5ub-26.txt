@@ -1,3 +1,4 @@
+vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:4b02:5400:6ff:fe42:b713]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3139.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3139.wagahaha.xyz&serviceName=&mode=&alpn=#%E6%9C%AA%E7%9F%A5%20VLESS-236%20%7C%20free-nodes
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:4b02:5400:6ff:fe42:b713]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3140.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3140.wagahaha.xyz&serviceName=&mode=&alpn=#%E6%9C%AA%E7%9F%A5%20VLESS-237%20%7C%20free-nodes
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7002:51a:5400:6ff:fe44:1d16]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3977.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3977.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5%20VLESS-238%20%7C%20free-nodes
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7002:51a:5400:6ff:fe44:1d16]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3978.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3978.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5%20VLESS-239%20%7C%20free-nodes
@@ -9997,4 +9998,3 @@ vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/&packetEncoding=xudp#NL_109_@Surfboardv2ray
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#NL_110_@Surfboardv2ray
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#NL_111_@Surfboardv2ray
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#NL_112_@Surfboardv2ray

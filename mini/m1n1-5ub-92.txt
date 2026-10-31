@@ -1,3 +1,4 @@
+trojan://9c05cc37-a142-330c-9c5a-1780b8b11fc3@yqy31118.birpagi.cn:31148?sni=ip4125306560.mobgslb.tbcache.com
 trojan://b2119912-55bb-4e69-a002-b1d2ae75e47e@vn.iamnotagoodman.com:443?allowInsecure=1
 trojan://717c3a16-6871-425c-a158-40cc37ff3543@sg.421421.xyz:20230?allowInsecure=1&sni=421421.xyz
 trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.220:21001?allowInsecure=1
@@ -9997,4 +9998,3 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.u
 trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk# b2n.ir/v2ray-configs | 522
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com# b2n.ir/v2ray-configs | 479
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk# b2n.ir/v2ray-configs | 544
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls# b2n.ir/v2ray-configs | 453

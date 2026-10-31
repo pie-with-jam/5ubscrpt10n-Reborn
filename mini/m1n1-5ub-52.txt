@@ -1,3 +1,4 @@
+vless://233251d4-0110-4ad7-9e54-79ff28d53393@mobiledevelop1212.global.ssl.fastly.net:80?path=%2F%3Fed&security=&encryption=none&host=mobiledevelop1212.global.ssl.fastly.net&type=ws# By EbraSha
 vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082/?type=ws&encryption=none&host=n10.asmdns.net&path=%2F%3Fed%3D2590# By EbraSha
 vless://2344a14e-154c-44f4-9df5-6de9ab7ea346@104.18.86.70:80?encryption=none&host=Kanal-polproxy.Vipnufilter.Online.&path=%2Ftelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%3Fed%3D2048&security=none&type=ws# By EbraSha
 vless://234c52f2-0d7b-dc4a-0d6b-b0b300000025@104.27.2.172:80?encryption=none&type=ws&host=billowing-surf-d251.netizo06.workers.dev&path=%2Fsync&security=none# By EbraSha
@@ -9997,4 +9998,3 @@ vless://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053?type=ws&encry
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?path=/&security=none&encryption=none&host=play.google.com&type=ws# By EbraSha
 vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?encryption=none&security=none&type=tcp&headerType=none# By EbraSha
 vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&headerType=none&type=tcp# By EbraSha
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp# By EbraSha

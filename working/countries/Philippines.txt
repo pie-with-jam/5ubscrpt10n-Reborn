@@ -41,7 +41,8 @@ vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&f
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH_3728_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_3984_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_3985_@Surfboardv2ray
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C462KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C448KB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C569KB%2Fs%7CM003-260806
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?type=tcp&security=tls&fp=chrome&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=de8d3223e7d85761#PH  | @Raydikalx | 740B1F
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH  | @Raydikalx | E4B79E

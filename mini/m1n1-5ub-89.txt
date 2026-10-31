@@ -1,3 +1,4 @@
+trojan://b5656155c1a536c@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/nqySyHzE1tBT7X0&type=tcp&sni=google.com&sid=44b7794788ed# By EbraSha
 trojan://b5656155c1a536c@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2FnqySyHzE1tBT7X0&type=tcp&sni=google.com&sid=44b7794788ed# By EbraSha
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1# By EbraSha
 trojan://b576f7ee-e31c-4dcc-940d-518129fbce3b@1j8p01.abzoones.xyz:36106# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&fp=chrom
 trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&fp=ios&type=ws&path=/assignment# By EbraSha
 trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&fp=ios&type=ws&path=/assignment&allow_insecure=0# By EbraSha
 trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&allow_insecure=0# By EbraSha
-trojan://humanity@104.18.23.63:443?security=tls&type=ws&path=/assignment# By EbraSha

@@ -1,3 +1,4 @@
+trojan://I0shjZ@xxxmg1.xiaoliebao.club:4434?security=tls&sni=xxxmg1.xiaoliebao.club&type=tcp&headerType=none# By EbraSha
 trojan://I0shjZ@xxxmg1.xiaoliebao.club:4434?sni=xxxmg1.xiaoliebao.club# By EbraSha
 trojan://I0shjZ@xxxmg1.xiaoliebao.club:443?allowInsecure=0&sni=xxxmg1.xiaoliebao.club# By EbraSha
 trojan://I0shjZ@xxxmg1.xiaoliebao.club:443?security=tls&sni=xxxmg1.xiaoliebao.club&type=tcp&headerType=none# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://NQ26071394@52.78.241.83:443?sni=flexible-titmouse.rooster465.autos&type
 trojan://NQ26071394@52.78.68.191:443?allowInsecure=0&sni=sensible-mongrel.rooster465.autos# By EbraSha
 trojan://NQ26071394@52.78.68.191:443?security=tls&sni=sensible-mongrel.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0# By EbraSha
 trojan://NQ26071394@52.78.68.191:443?security=tls&sni=sensible-mongrel.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0# By EbraSha
-trojan://NQ26071394@52.78.68.191:443?sni=sensible-mongrel.rooster465.autos&path=%2f# By EbraSha

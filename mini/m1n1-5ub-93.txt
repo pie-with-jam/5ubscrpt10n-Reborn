@@ -1,3 +1,4 @@
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls# b2n.ir/v2ray-configs | 453
 trojan://XG59623478@194.99.79.214:443?security=tls&sni=growing-oyster.rooster465.autos# b2n.ir/v2ray-configs | 45
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?security=tls&sni=vpn.rnmcnm.com# b2n.ir/v2ray-configs | 97
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev# b2n.ir/v2ray-configs | 770
@@ -9997,4 +9998,3 @@ trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?security=tls&s
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19233?security=tls# b2n.ir/v2ray-configs | 906
 trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls# b2n.ir/v2ray-configs | 977
 trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos# b2n.ir/v2ray-configs | 851
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls# b2n.ir/v2ray-configs | 593

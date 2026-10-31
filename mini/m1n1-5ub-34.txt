@@ -1,3 +1,4 @@
+vless://bc9a5ce3-8e0a-4e0a-bad7-bb264ad28780@57.129.23.82:3030?security=&encryption=mlkem768x25519plus.native.0rtt.7VMbh7tBAmkAXhl5j8s_nwk2X0DIZ3huTlqF0gqEMz8&host=www.icloud.com&headerType=http&type=tcp#4Mohsen-10934
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#4Mohsen-10935
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=s1.pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=s1.pishparda.ir#4Mohsen-10936
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#4Mohsen-10937
@@ -9997,4 +9998,3 @@ vless://0611401f-a49e-4a55-9954-e74d4af47100@65.109.186.44:45026?security=none&e
 vless://0611401f-a49e-4a55-9954-e74d4af47100@65.109.186.44:45026?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp# By EbraSha
 vless://06115e0d-f0ee-4af7-a81d-e612b6f6a990@Mci.RxV2ray.cfd:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@RxV2ray&sni=tm.RxV2ray.cfd# By EbraSha
 vless://06115e0d-f0ee-4af7-a81d-e612b6f6a990@tm.RxV2ray.cfd:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@RxV2ray&sni=tm.RxV2ray.cfd# By EbraSha
-vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80?path=%2F&security=&encryption=none&host=support.mindigosupport.ir&type=ws# By EbraSha

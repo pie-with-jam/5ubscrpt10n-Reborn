@@ -1,3 +1,4 @@
+trojan://036c4b831e934b33b3964fdd1f850563@r1.beyondshop.site:2087?path=/&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=r1.beyondshop.site# By EbraSha
 trojan://036ebef7d1b1d6205fd0c55f28800e674@usa-server-02.selfupay.com:443?allowInsecure=0# By EbraSha
 trojan://03793bc4-e0e9-4527-b0ff-8fe1ce7aaf3d@172.67.171.49:443?path=%2F&security=tls&host=us1.trojanvpn.xyz&type=ws&sni=us1.trojanvpn.xyz# By EbraSha
 trojan://03bb7640-df39-11ef-a9b1-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://86bf6aa3-e823-439c-8514-004a4da3725c@v02.gutingting.com:30017?allowInse
 trojan://86bf6aa3-e823-439c-8514-004a4da3725c@zzus01.gutingting.com:20220?allowInsecure=1&sni=zzus01.gutingting.com# By EbraSha
 trojan://86c3d0120be44c409242898dfb40a926@81.161.229.124:23179?host=&path=/&security=none&type=ws# By EbraSha
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?allowInsecure=1&sni=www.nintendogames.net# By EbraSha
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=1&sni=www.nintendogames.net# By EbraSha

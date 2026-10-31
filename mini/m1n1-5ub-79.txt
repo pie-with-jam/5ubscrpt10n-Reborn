@@ -1,3 +1,4 @@
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@supsig.xiaohouzi.club:10102?security=tls#[522][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10821?security=tls#[1609][CN][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://NISHIKUITAN111@104.18.198.40:443/?type=tcp&security=tls&allowInsecure=1#[6296][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#[8139][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -9997,4 +9998,3 @@ trojan://FH72359861@learning-ibex.rooster465.autos:443?sni=learning-ibex.rooster
 trojan://FH72359861@literate-cow.rooster465.autos:443?sni=literate-cow.rooster465.autos&type=tcp&fp=chrome#4Nika-967ce49361
 trojan://FH72359861@literate-grizzly.rooster465.autos:443?sni=literate-grizzly.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Mohsen-1dbcbe8db0
 trojan://FH72359861@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp&fp=chrome#4Jadi-c2877d23fd
-trojan://FH72359861@loyal-killdeer.rooster465.autos:443?sni=loyal-killdeer.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Nika-f07d8b19cf

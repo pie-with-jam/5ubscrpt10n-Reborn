@@ -1,3 +1,4 @@
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud44.jafiyun.ltd:22044?security=tls&sni=scloud44.jafiyun.ltd#4Mohsen-3059
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud45.jafiyun.world:22045?security=tls&sni=scloud45.jafiyun.world#4Mohsen-3060
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud47.jafiyun.world:22047?security=tls&sni=scloud47.jafiyun.world#4Mohsen-3061
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud50.jafiyun.ltd:22050?security=tls&sni=scloud50.jafiyun.ltd#4Mohsen-3062
@@ -9997,4 +9998,3 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20085?security=tls&
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20085?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#4Kian-4778
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20025?allowInsecure=1&sni=tw.catxstar.com#4Kian-4779
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#4Kian-4780
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com#4Kian-4781
