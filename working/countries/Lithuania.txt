@@ -97,6 +97,7 @@ ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ@195.238.126.20:9002#%F0%9F%87%B1%F0%
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9LT_4%7C2.3MB%2Fs%7CA004-260618%20%5B004827458b61%5D
 ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#%F0%9F%87%B1%F0%9F%87%B9LT_7%7C2.4MB%2Fs%7CA004-260618%20%5B122b6a0ce85e%5D
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@195.238.126.20:9008#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C2.4MB%2Fs%7CA004-260618%20%5B839cb526e8b7%5D
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?allowInsecure=0&sni=lt-1.1984.love#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.6MB/s
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@84.32.215.94:443?security=reality&type=tcp&packetEncoding=xudp&sni=lt.aether-runet.top&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk#%F0%9F%87%B1%F0%9F%87%B9LT_8%7C609KB%2Fs%7CA004-260618%2001
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@lt.aether-runet.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=lt.aether-runet.top&fp=firefox&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk#%F0%9F%87%B1%F0%9F%87%B9LT_7%7C846KB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C2.2MB%2Fs%7CA004-260618
@@ -114,12 +115,11 @@ ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9LT_3%7C1.9MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%F0%9F%87%B1%F0%9F%87%B9LT_4%7C2.0MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C1.9MB%2Fs%7CA004-260618%2001
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=android#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?type=tcp&security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&sni=lt-1.1984.love&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086# LT | 195.238.126.20
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#LT  | @Raydikalx | 155EDF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#LT  | @Raydikalx | CB9299
@@ -1329,4 +1329,3 @@ ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23T
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?security=tls&sni=vangoghhh.info&allowInsecure=1&type=ws&path=/rdfgtws&host=vangoghhh.info&encryption=none#[718][LT][0][SS][None][v2ray_vpn_ir][2026-07-21][2026-07-25 02:07]
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[698][LT][0][SS][None][marambashi][2026-07-20][2026-07-25 02:07]
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[705][LT][0][SS][None][marambashi][2026-07-18][2026-07-25 02:07]
-vmess://ewogICAgImFkZCI6ICI3Ny44My4yNTQuMTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjE2ZmJkMzNhLTExN2QtNDg2Yi1iMGRmLTExYTI3NTlmM2IxNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1MTA5MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTc3LjgzLjI1NC4xOC0yNzI5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
