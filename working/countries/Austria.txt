@@ -106,7 +106,7 @@ vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?security=tls&ty
 vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?sni=tau1.freerunet.online&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-1...%20%231
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?security=tls&type=ws&path=/archive?ed=2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_6%7C2.2MB%2Fs%7CR002-260618%2001
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?security=reality&type=tcp&packetEncoding=xudp&sni=at.quattro-tech.ru&fp=qq&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C3.6MB%2Fs%7CR002-260618%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.6MB%2Fs%7CA001-260618
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C3.8MB%2Fs%7CA001-260618
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-0803
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-0804
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%9F%87%B9AT-185.180.12.81-0729
@@ -533,4 +533,4 @@ ss://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&security=re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#[4785][AT][0][SS][None][v2rayNG_Matsuri][2026-07-17][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-8225
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp&fp=qq#[openproxylist.com] vless-AT
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@178.236.245.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp#[openproxylist.com] vless-AT
