@@ -32,43 +32,44 @@ vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%232
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=raw&packetEncoding=xudp&sni=ads.x5.ru&fp=ios&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BEBY_9%7C1.0MB%2Fs%7CM003-260806%20%5Ba701c3a65a0a%5D
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjAyLTA3IDA0OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?security=none&type=ws&path=%2Fvless&host=95.128.71.79&packetEncoding=xudp&sni=95.128.71.79&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_1%7C93KB%2Fs%7CF003-260618
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.124&packetEncoding=xudp&sni=178.172.227.124#%F0%9F%87%A7%F0%9F%87%BEBY_2%7C733KB%2Fs%7CA004-260618
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_3%7C1.6MB%2Fs%7CA004-260618
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.124&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_1%7C1.1MB%2Fs%7CS004-260618
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?security=none&type=ws&path=%2Fvless&host=95.128.71.79&packetEncoding=xudp&sni=95.128.71.79&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_2%7C843KB%2Fs%7CF003-260618
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_3%7C768KB%2Fs%7CF003-260618
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?security=none&type=ws&path=%2Fvless&host=95.128.71.79&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_4%7C1.2MB%2Fs%7CS004-260618
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp&sni=178.172.227.228#%F0%9F%87%A7%F0%9F%87%BEBY_5%7C67KB%2Fs%7CA004-260618
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_6%7C80KB%2Fs%7CA004-260618
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.124&packetEncoding=xudp&sni=178.172.227.124#%F0%9F%87%A7%F0%9F%87%BEBY_7%7C621KB%2Fs%7CA004-260618
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BEBY_8%7C1.2MB%2Fs%7CA004-260618
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_9%7C797KB%2Fs%7CA004-260618
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=raw&packetEncoding=xudp&sni=ads.x5.ru&fp=ios&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BEBY_10%7C98KB%2Fs%7CM003-260806
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjAxLTIwIDA4OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 trojan://humanity@91.149.167.147:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#BY  | @Raydikalx | 628EDD
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?type=ws&host=178.172.227.124&path=/vless#BY  | @Raydikalx | 010655
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#BY  | @Raydikalx | BB53C0
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY  | @Raydikalx | 3F1B1B
-vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&security=reality&sid=20ed7ee26095771b&sni=s3-fi-1.rucdn777.com&type=tcp#BY  | @Raydikalx | C6152E
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&fp=chrome#BY  | @Raydikalx | C6152E
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&security=none&type=ws&host=95.128.71.79&path=%2Fvless&sni=95.128.71.79&fp=chrome#BY  | @Raydikalx | 3629D8
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#BY  | @Raydikalx | A3DD6E
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#BY  | @Raydikalx | 5BD250
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp&sni=178.172.227.228#BY  | @Raydikalx | 2466B3
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#BY  | @Raydikalx | 77CE15
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=edge#BY  | @Raydikalx | 7917B4
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?fp=firefox&host=178.172.227.124&path=%2Fvless&security=none&sni=178.172.227.124&type=ws#BY  | @Raydikalx | 66AEC5
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY  | @Raydikalx | 010655
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&security=none&type=ws&host=178.172.227.124&path=%2Fvless#BY  | @Raydikalx | 010655
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#BY  | @Raydikalx | 001707
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=/vless&security=none&type=ws#BY  | @Raydikalx | A0F4D9
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=false&type=ws#BY  | @Raydikalx | 77DC46
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=none&sni=178.172.227.228&type=ws#BY  | @Raydikalx | 2466B3
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#BY  | @Raydikalx | 77CE15
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY  | @Raydikalx | AD592D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443 # [ Configs by DukeMehdi ] SS-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443 # [ Configs by DukeMehdi ] SS-XX
@@ -82,16 +83,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080? # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080 # [ Configs by DukeMehdi ] SS-GB
@@ -116,6 +116,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN # [ Configs by DukeMehdi ] SS-IR
 ss://Y2hhY2hhMjAtcG9seTEzMDU6aWt1L0dmcnQ5WWVFVVVsZVhyMlB0ZjN1dnMwaHN6Q1IwSkhQcUdTanMrYz0@31.76.11.83:11650?type=tcp # [ Configs by DukeMehdi ] SS-DE
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.167:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.54:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.167:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.54:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtcG9seTEzMDU6ckhtVWhuanY3YitWOG8zWVdBTWFJREJTQmxnU05qdjN6SFlNdTZBTEZVOD0@31.77.148.89:56752?type=tcp # [ Configs by DukeMehdi ] SS-DE
@@ -126,30 +128,30 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443 # [ Configs by DukeMehd
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443 # [ Configs by DukeMehdi ] SS-CA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443 # [ Configs by DukeMehdi ] SS-CH
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443 # [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443 # [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443 # [ Configs by DukeMehdi ] SS-NL
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054 # [ Configs by DukeMehdi ] SS-BG
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.46.196:443 # [ Configs by DukeMehdi ] SS-SG
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443 # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.189.171.163:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206L09MZUlmZ0xhUnREeUxwc2hXRUIrWDhXUWtXWDZGa09FSDg3YkdybWlCdz0=@185.126.3.131:8080 # [ Configs by DukeMehdi ] SS-IR
+ss://YWVzLTI1Ni1nY206L09MZUlmZ0xhUnREeUxwc2hXRUIrWDhXUWtXWDZGa09FSDg3YkdybWlCdz0% # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80 # [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1nY206MTJxaGRmNm5oM2swYXkyMQ==@82.40.63.16:3060 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ@154.36.158.197:8388 # [ Configs by DukeMehdi ] SS-XX
@@ -164,15 +166,15 @@ ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@176.32.34.253:1
 ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.34:18443 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206TWpOaE4yUXdObUZsWVRSbFpHTXhOV1ZsT1RJME1HSTBNVFU0TURZMQ@helsinki03.npvnot.com:995 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206TlRReFpERmlaRGhtWXpaalpUUXdOMkUzTkRjMU1tTXdZems1TVRKbA==@37.32.29.37:9147 # [ Configs by DukeMehdi ] SS-IR
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.107:18443? # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443 # [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.41.61:18443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.41.61:18443 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443? # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206U25PU1JmbzBoNm1uV2VoVEdfWGFuZw@node11.botkeep.cloud:53567 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.53:8090 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002 # [ Configs by DukeMehdi ] SS-IN
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009 # [ Configs by DukeMehdi ] SS-US
@@ -184,20 +186,12 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000 # [ Configs by Duk
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5001 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:9090 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999 # [ Configs by DukeMehdi ] SS-IT
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999 # [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999 # [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999 # [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@45.86.51.18:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@45.86.51.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-XX
@@ -237,15 +231,13 @@ ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:4
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443 # [ Configs by DukeMehdi ] SS-SC
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376 # [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388 # [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206alhLSExrUkJUZU1YSmttZg@103.115.17.8:8388 # [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTI1Ni1nY206alhLSExrUkJUZU1YSmttZg@103.115.17.8:8388 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw==@51.75.118.5:20222 # [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw==@51.75.118.5:20222 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw@51.75.118.5:20222 # [ Configs by DukeMehdi ] SS-FR
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.120:5498 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206bHk3dWNzM3IzZWx0Yml0cw==@phone-tiklite.redonlinephone.ir:8443 # [ Configs by DukeMehdi ] SS-XX
@@ -262,10 +254,13 @@ ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:1999
 ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi # [ Configs by DukeMehdi ] SS-XX
 ss://chacha20-ietf-poly1305:UUjphkQAh5BkOdbf@4.210.68.244:443 # [ Configs by DukeMehdi ] SS-XX
 ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.62:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6VDBXMmJjVEdjZ1k1dTBuWSs4QTJQZzVyVHNRSkozaGxtbEJOV2Z6Y3paaz0@mojtun.mlbaz.ir:555?type=tcp # [ Configs by DukeMehdi ] SS-XX
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com # [ Configs by DukeMehdi ] TJ-SG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp&fp=chrome # [ Configs by DukeMehdi ] TJ-SG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443? # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&headerType=none&type=tcp&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
@@ -273,9 +268,12 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?security=tls&insec
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp&fp=chrome # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&headerType=none&type=tcp&sni=blog.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
@@ -285,50 +283,51 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&host=MTMVPN&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?sni=courses.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.nextjobopportunityandclaimyouridealrole.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=1&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443 # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com # [ Configs by DukeMehdi ] TJ-BR
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com # [ Configs by DukeMehdi ] TJ-BR
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connectwithtopemployersandfindidealjobs.com # [ Configs by DukeMehdi ] TJ-MX
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com # [ Configs by DukeMehdi ] TJ-MX
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com # [ Configs by DukeMehdi ] TJ-MX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com # [ Configs by DukeMehdi ] TJ-MX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp # [ Configs by DukeMehdi ] TJ-IL
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com # [ Configs by DukeMehdi ] TJ-AU
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com # [ Configs by DukeMehdi ] TJ-CL
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&sni=blog.unlockyourfuturefindyourperfectcareer.com&fp=chrome # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?sni=learn.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?security=tls&sni=unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none &fp=chrome&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.126:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com # [ Configs by DukeMehdi ] TJ-US
@@ -339,21 +338,18 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecur
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?allowInsecure=1&insecure=1&security=tls&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=1&insecure=1&security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com # [ Configs by DukeMehdi ] TJ-SE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com # [ Configs by DukeMehdi ] TJ-SE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com # [ Configs by DukeMehdi ] TJ-PL
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net # [ Configs by DukeMehdi ] TJ-XX
 trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?mode=auto&security=tls&alpn=h2&extra={  "uplinkDataPlacement" : "auto"}&insecure=0&host=denyyyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-US
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999 # [ Configs by DukeMehdi ] TJ-TW
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-XX
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN # [ Configs by DukeMehdi ] TJ-JP
-trojan://418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6@51.75.118.5:20222?security=none&type=ws&host=51.75.118.5&path=/parham-confing-trojan?u=Scnqz84F-E2l # [ Configs by DukeMehdi ] TJ-FR
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-DE
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de9.dedushka.top # [ Configs by DukeMehdi ] TJ-DE
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top # [ Configs by DukeMehdi ] TJ-DE
@@ -373,13 +369,12 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top # [ Configs by DukeMehdi ] TJ-XX
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1 # [ Configs by DukeMehdi ] TJ-XX
 trojan://50414e45-4c5f-5a45-5553-a0ce99682025@104.21.200.224:443?path=/stream/PANEL_ZEUS/a0ce99682025&security=tls&insecure=0&host=7pzcmuemuf6s.mahdi1395ra.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=7pzcmuemuf6s.mahdi1395ra.workers.dev # [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?allowInsecure=1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://5t6i121em5lkmsmk@108.61.177.57:16778?sni=fr001.zestapp778.com&type=tcp&fp=chrome # [ Configs by DukeMehdi ] TJ-FR
+trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&headerType=none&type=tcp # [ Configs by DukeMehdi ] TJ-XX
+trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-XX
 trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?allowInsecure=1&sni=en001.zestapp778.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome # [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&sni=sj6.freeguard.org # [ Configs by DukeMehdi ] TJ-US
+trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?security=tls&headerType=none&type=tcp&sni=en001.zestapp778.com # [ Configs by DukeMehdi ] TJ-XX
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&fp=chrome # [ Configs by DukeMehdi ] TJ-XX
 trojan://65IHvp68B85OE3zc2K9VwUShp8ibgFOq@199.232.8.223:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&insecure=1&host=gahgs6.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=www.firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://6c73b7937b3e44e5982f9d5efa57d8cd@172.67.131.217:443?path=/tr/9LJwNSQPh5UJMu8TbPKBJPtkZWKkYFFl?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=auto-ScaLe-728382.builD-sVc-267891.WoRkeRS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=aUTO-scale-728382.BuiLD-sVc-267891.wORkErs.dEv # [ Configs by DukeMehdi ] TJ-XX
@@ -387,11 +382,23 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net # [ Configs by DukeMehdi ] TJ-HK
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net # [ Configs by DukeMehdi ] TJ-HK
 trojan://6npGanUwKLm3ojK2QLM79Z3Rjz-z19W6@yandexcdn16.ookcdn.ru:448?security=tls&alpn=h2&authority=yandexcdn16.ookcdn.ru&insecure=0&fp=chrome&type=grpc&serviceName=TrojanGRPC&allowInsecure=0&sni=yandexcdn16.ookcdn.ru # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.10:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.10:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.183:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.183:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@demonvpn.shop:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@demonvpn.shop:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@vexpanel-dcd001fcab.pages.dev:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@vexpanel-dcd001fcab.pages.dev:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http/1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=/tj&ech=iranva.ir+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65 # [ Configs by DukeMehdi ] TJ-TR
 trojan://8mjHjiRVsOT5@3.10.143.243:16151?allowInsecure=0&sni=appsvs.shop # [ Configs by DukeMehdi ] TJ-GB
 trojan://8r<[9'l6hAO # [ Configs by DukeMehdi ] TJ-XX
 trojan://@ZhilaVPN@91.107.174.133:14639?mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67 # [ Configs by DukeMehdi ] TJ-XX
-trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?sni=m.ctrip.com&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-XX
+trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:12107?sni=m.ctrip.com&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-XX
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN # [ Configs by DukeMehdi ] TJ-HK
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN # [ Configs by DukeMehdi ] TJ-HK
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click # [ Configs by DukeMehdi ] TJ-DE
@@ -421,17 +428,21 @@ trojan://MiTIVPN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarks
 trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?host=mitivpn--mitivpn.ac.ir&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&fp=chrome&security=tls&insecure=0&type=ws&alpn=http/1.1&allowInsecure=0&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM------TOOTFFARANGI &security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TelegramV2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpnmitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?alpn=http/1.1&fp=chrome&host=mitivpn--mitivpn.ac.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&type=ws # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@146.75.57.120:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn--mitivpn.ac.ir&sni=firefox.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@151.101.36.120:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.56.101:443?path=@VPsave&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-GB
+trojan://MiTiVPN@151.101.36.120:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn--mitivpn.ac.ir&sni=firefox.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@151.101.56.230:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=MiTiVPN-MiTiVPN-MiTiVPN---MiTiVPN--MiTiVPN.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN # [ Configs by DukeMehdi ] TJ-GB
 trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-GB
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-GB
@@ -440,15 +451,23 @@ trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran # [ Configs by DukeMehdi ] TJ-GB
 trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-GB
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TelegramV2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpnmitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@167.82.76.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@167.82.64.120:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn--mitivpn.ac.ir&sni=firefox.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@199.232.78.101:443?path=/--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@199.232.78.120:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn--mitivpn.ac.ir&sni=firefox.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1 # [ Configs by DukeMehdi ] TJ-US
 trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com # [ Configs by DukeMehdi ] TJ-US
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir # [ Configs by DukeMehdi ] TJ-GB
 trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TelegramV2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpnmitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com # [ Configs by DukeMehdi ] TJ-XX
@@ -459,7 +478,6 @@ trojan://Q@dAX_BClug;Yp7lE@www.speedtest.net:443?path=/tr/iPNjTpnee2Dadanj376J?e
 trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc # [ Configs by DukeMehdi ] TJ-XX
 trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16 # [ Configs by DukeMehdi ] TJ-US
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru # [ Configs by DukeMehdi ] TJ-XX
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io # [ Configs by DukeMehdi ] TJ-HK
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg # [ Configs by DukeMehdi ] TJ-US
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg # [ Configs by DukeMehdi ] TJ-XX
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg # [ Configs by DukeMehdi ] TJ-XX
@@ -475,7 +493,6 @@ trojan://djHTZmNXIVnA@18.199.218.181:16154?allowInsecure=0&sni=appsvs.shop # [ C
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=/0962&security=tls&alpn=http/1.1&insecure=0&host=nimm.mpd.cc.cd.&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd. # [ Configs by DukeMehdi ] TJ-XX
 trojan://e57m7a2ayx98v1h6@chatgpt.com:443?path=/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/--@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY&security=tls&alpn=http/1.1&insecure=0&host=wenoos.pecasoou.ir&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=wenoos.pecasoou.ir # [ Configs by DukeMehdi ] TJ-XX
 trojan://e57m7a2ayx98v1h6@openai.com:443?path=/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/--@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY&security=tls&alpn=http/1.1&insecure=0&host=wenoos.pecasoou.ir&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=wenoos.pecasoou.ir # [ Configs by DukeMehdi ] TJ-XX
-trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&sni=jiangjc.pages.dev&type=ws&path=/&Host=jiangjc.pages.dev # [ Configs by DukeMehdi ] TJ-XX
 trojan://euEUAqUnKhIX@18.226.163.196:15349?allowInsecure=0&sni=appsvs.shop # [ Configs by DukeMehdi ] TJ-US
 trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-XX
@@ -485,21 +502,21 @@ trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.16.34.14:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
+trojan://humanity@104.16.34.14:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.17.206.147:443?security=tls&sni=www.trusteeforward.com&fp=chrome&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.17.44.17:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.17.44.17:443?path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.18.19.2:443?type=ws&path=//assignment&host=www.calmlunch.com&security=tls&sni=www.calmlunch.com&alpn=http/1.1 # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.192.53:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.32.47:443?path=/assignment?ed # [ Configs by DukeMehdi ] TJ-XX
+trojan://humanity@104.18.32.47:443?security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.33.97:443?path=//assignment&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.18.33.97:443?type=ws&path=/assignment&host=www.calmlunch.com&security=tls&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM. # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.35.86:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=www.volumerOot.coM. # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
@@ -513,25 +530,15 @@ trojan://humanity@104.18.8.83:443?path=/assignment&security=tls&insecure=0&host=
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0 # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.19.229.21:443?type=ws&path=//assignment&host=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.20.55.137:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.20.55.137:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.20.55.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.21.0.1:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment?ed&sni=www.calmlunch.com&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1 # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.21.102.36:443?cs=semi-python&path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
+trojan://humanity@104.20.61.103:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com # [ Configs by DukeMehdi ] TJ-XX
+trojan://humanity@104.21.102.36:443?path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.25.10.54:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.25.10.54:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
+trojan://humanity@104.25.10.54:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
 trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.27.203.207:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment?ed # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@104.27.203.207:443?path=/assignment?ed # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@108.162.194.134:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment?ed # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@108.162.194.134:443?allowInsecure=1&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@108.162.194.134:443?path=/assignment?ed # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@108.162.194.134:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment # [ Configs by DukeMehdi ] TJ-XX
-trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org # [ Configs by DukeMehdi ] TJ-ES
 vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?encryption=none&flow=xtls-rprx-vision&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&security=reality&sid=0bc73dd1f045&sni=qwins-mirrorconv.ru&type=tcp#[23830][BY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?encryption=none&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=d4f2a3a536b962&spx=%2FUQmrtcbSPy1IqFX#[35199][BY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#[28282][BY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -348529,10 +348536,10 @@ ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcEAyMy4xODUuMjAwLjEzNTo1Nzg0MQ==# By Eb
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:20801# By EbraSha
 ss://YWVzLTI1Ni1nY206T0dReVpEVXpZemd6WkRaak5UUTNOelk1WkRkaU5tWTRPR1E1WVRZMw@helsinki03.npvnot.com:995# By EbraSha
 ss://YWVzLTI1Ni1nY206TlROak1tWTBZek0yT1RJd1l6QmtObUprWkdGaU5qSm1OR1V4WkdFeA@helsinki02.npvnot.com:995# By EbraSha
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp&sni=178.172.227.228#[openproxylist.com] vless-BY
-vless://bbcacaa-abac-caab-cdba-cacacbbabacb@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJiY2FjYWEtYWJhYy1jYWFiLWNkYmEtY2FjYWNiYmFiYWNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-trojan://bbcacaa-abac-caab-cdba-cacacbbabacb@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTpiYmNhY2FhLWFiYWMtY2FhYi1jZGJhLWNhY2FjYmJhYmFjYg==@127.0.0.1:8080# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#[openproxylist.com] vless-BY
+vless://aaabbcc-baac-abac-dacb-ababccbabcac@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhYWJiY2MtYmFhYy1hYmFjLWRhY2ItYWJhYmNjYmFiY2FjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://aaabbcc-baac-abac-dacb-ababccbabcac@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
+ss://bm9uZTphYWFiYmNjLWJhYWMtYWJhYy1kYWNiLWFiYWJjY2JhYmNhYw==@127.0.0.1:8080# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?&sni=178.172.227.228&type=ws&headerType=none&host=178.172.227.228&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-BY-1...
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?&sni=95.128.71.79&type=ws&headerType=none&host=95.128.71.79&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231

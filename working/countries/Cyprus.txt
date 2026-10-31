@@ -132,7 +132,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.177.107:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BECY_1%7C467KB%2Fs%7CF003-260618%2001
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#CY  | @Raydikalx | AE9D73
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
-trojan://humanity@194.55.164.118:443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#CY  | @Raydikalx | DEDB6B
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@5.180.45.176:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#CY   VLESS-TCP-RLT - Pq Hosting Plus S.r.l.  5.180.45.176
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&type=tcp&headerType=none#[34152][CY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#[37404][CY][0][VLESS][None][rxv2ray][2025-10-26][2026-08-16 00:34]
