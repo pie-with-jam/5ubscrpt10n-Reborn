@@ -621,64 +621,64 @@ trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=pl2.dedushka.top#[537][PL][0][TROJAN][None][rxv2ray][2026-10-19][2026-11-01 02:55]
 trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?allowInsecure=0&sni=ftp.debian.org#[44][PL][0][TROJAN][None][Hope_Net][2026-09-16][2026-11-01 02:55]
 trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?allowInsecure=0&sni=ftp.debian.org#[43][PL][0][TROJAN][None][Hope_Net][2026-09-16][2026-11-01 02:54]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%F0%9F%87%B5%F0%9F%87%B1PL-185.223.57.174-0236
 vmess://ewogICAgImFkZCI6ICI1MS42OC4xMzkuMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImM2NzQ0YzQ0LTRlYjctNDhkNS1hODc5LWExMDQ3NGUyYmEzNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTEuNjguMTM5LjIyLTAzNjciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI1MS42OC4xMzkuMjIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%F0%9F%87%B5%F0%9F%87%B1PL-185.223.57.174-0465
-vmess://ewogICAgImFkZCI6ICIxNDYuNTkuMTE4LjI1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxhbW1hbGFuZC5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HtfCfh7FQTC0xNDYuNTkuMTE4LjI1MC0xMzc1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vmess://ewogICAgImFkZCI6ICIxOTQuMTUuMTk2LjE3MiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuODc0MTYxMzIueHl6IiwKICAgICJpZCI6ICI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HtfCfh7FQTC0xOTQuMTUuMTk2LjE3Mi0xNDI1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2613
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2614
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2615
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2616
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2617
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2618
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2619
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2620
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2621
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2622
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2623
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2624
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2625
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2629
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2632
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2650
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2651
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2652
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2653
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2654
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2655
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2656
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2657
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3379
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-4408
-vmess://ewogICAgImFkZCI6ICI3MC4zNC4yNTIuMTc2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5ODRmZjI0ZS0yYmJiLTQ0NjEtYTc2MS1iZjhjY2I3N2I4MGQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MSwKICAgICJwcyI6ICLwn4e18J+HsVBMLTcwLjM0LjI1Mi4xNzYtNDgzMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-5857
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-5858
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-5861
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.108.10:989#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.10-7527
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-7688
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7689
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.68:9038#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7690
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7691
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.68:9010#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7692
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.68:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7693
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@217.30.10.68:9007#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7694
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7695
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.68:9011#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7696
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7697
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.68:9027#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7698
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7699
-ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.68:9073#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7700
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.68:9033#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7701
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.68:9031#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7702
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.68:9014#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7703
-ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@217.30.10.68:9026#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7704
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7705
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.68:9018#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7706
-ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.68:9070#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7707
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7708
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7709
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7710
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-7711
+vmess://ewogICAgImFkZCI6ICIxNDYuNTkuMTE4LjI1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxhbW1hbGFuZC5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HtfCfh7FQTC0xNDYuNTkuMTE4LjI1MC0xNTI2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxOTQuMTUuMTk2LjE3MiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuODc0MTYxMzIueHl6IiwKICAgICJpZCI6ICI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HtfCfh7FQTC0xOTQuMTUuMTk2LjE3Mi0xNTY5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3218
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3219
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3220
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3221
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3222
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3224
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3225
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3226
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3227
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3228
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3229
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3230
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3234
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3237
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3255
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3256
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3257
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3258
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3259
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3260
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3261
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3262
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3984
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-5013
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3223
+vmess://ewogICAgImFkZCI6ICI3MC4zNC4yNTIuMTc2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5ODRmZjI0ZS0yYmJiLTQ0NjEtYTc2MS1iZjhjY2I3N2I4MGQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MSwKICAgICJwcyI6ICLwn4e18J+HsVBMLTcwLjM0LjI1Mi4xNzYtNTQzNiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-6462
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-6463
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-6466
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.108.10:989#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.10-8132
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8293
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8294
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.68:9038#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8295
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8296
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.68:9010#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8297
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.68:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8298
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@217.30.10.68:9007#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8299
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8300
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.68:9011#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8301
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8302
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.68:9027#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8303
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8304
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.68:9073#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8305
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.68:9033#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8306
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.68:9031#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8307
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.68:9014#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8308
+ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@217.30.10.68:9026#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8309
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8310
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.68:9018#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8311
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.68:9070#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8312
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8313
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8314
+ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8315
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8316
 vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOjAsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwibmV0IjoidGNwIiwicG9ydCI6NTYwODAsInBzIjoi8J+HtfCfh7FfUExf5rOi5YWwLT7wn4en8J+HrF9CR1/kv53liqDliKnkupoiLCJzZWN1cml0eSI6ImF1dG8ifQ==
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&security=tls#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=unsafe&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%237
@@ -862,19 +862,37 @@ vless://f8d52ece-fad4-478d-875d-df6eed3befa7@pl-b1.golangwikito.cfd:61374?securi
 vless://fafc7c16-f890-45ee-a856-02df225172dd@201.58.181.231:2053?security=reality&type=tcp&packetEncoding=xudp&sni=ya.ru&fp=firefox&flow=xtls-rprx-vision&sid=cc91595f8222fda2&pbk=MNiFXYg5jUmPSGK799ApRlrPR1CV8QflX85dDakOzRg&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_36%7C84KB%2Fs%7CM003-260806%20%5Be229f771bd29%5D
 vless://fafc7c16-f890-45ee-a856-02df225172dd@201.58.181.231:2083?security=reality&type=tcp&packetEncoding=xudp&sni=ya.ru&fp=firefox&flow=xtls-rprx-vision&sid=e69c662141e37e7b&pbk=uKk4cvAJii_YbhzUm9IeMKLHR851E_1sfiMP-ncyeyM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_42%7C812KB%2Fs%7CM003-260806%20%5Bd93ea31e6831%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7FQTF8xMHwyNzdLQi9zfEIwMDctMjYwNjE4IFs4ODE1MTIzYWU0NGFdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOjgwLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4ifQ==
-ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ==@217.30.10.44:9052#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C508KB%2Fs%7CA004-260618
-vless://8d42d29a-ed53-4684-a9ff-6b33826149de@95.130.84.36:8443?security=tls&type=ws&path=%2Faioproxybot%2F94.23.144.99-2053&host=aio.eth0.dpdns.org&packetEncoding=xudp&sni=aio.eth0.dpdns.org&fp=unsafe#%F0%9F%87%B5%F0%9F%87%B1PL_4%7C177KB%2Fs%7CM003-260806
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=fa3ea655619a3e78&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E#%F0%9F%87%B5%F0%9F%87%B1PL_5%7C729KB%2Fs%7CA004-260618
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&sid=fa3ea655619a3e78&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_6%7C2.7MB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%F0%9F%87%B5%F0%9F%87%B1PL_8%7C2.2MB%2Fs%7CA004-260618
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@pl-b1.golangwikito.cfd:61374?security=reality&type=xhttp&path=%2F&host=pl-b1.golangwikito.cfd&packetEncoding=xudp&sni=pl-b1.golangwikito.cfd&fp=chrome&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-500%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A%223%22%7D%7D&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_9%7C1.2MB%2Fs%7CB007-260618
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1PL_11%7C394KB%2Fs%7CA004-260618
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=xudp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_12%7C304KB%2Fs%7CS001-260618
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#%F0%9F%87%B5%F0%9F%87%B1PL_13%7C391KB%2Fs%7CA004-260618
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=none#%F0%9F%87%B5%F0%9F%87%B1PL_14%7C227KB%2Fs%7CP002-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_15%7C2.5MB%2Fs%7CS004-260618
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_16%7C2.2MB%2Fs%7CB007-260618
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=al2.magazinnarubeva.ru&fp=chrome&flow=xtls-rprx-vision&sid=8718c58d3d51db59&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_21%7C329KB%2Fs%7CM003-260806
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=50ba05992b05c1c3&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1004KB%2Fs%7CA004-260618
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=150a627d15154cf2&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C651KB%2Fs%7CM002-260618
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=50ba05992b05c1c3&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A#%F0%9F%87%B5%F0%9F%87%B1PL_7%7C981KB%2Fs%7CA004-260618
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=150a627d15154cf2&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8#%F0%9F%87%B5%F0%9F%87%B1PL_8%7C994KB%2Fs%7CR002-260618
+vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=none&sni=ccc.010304.xyz&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_10%7C599KB%2Fs%7CP002-260618
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%F0%9F%87%B5%F0%9F%87%B1PL_11%7C2.3MB%2Fs%7CA004-260618
+vless://8d42d29a-ed53-4684-a9ff-6b33826149de@95.130.84.36:8443?security=tls&type=ws&path=%2Faioproxybot%2F94.23.144.99-2053&host=aio.eth0.dpdns.org&packetEncoding=xudp&sni=aio.eth0.dpdns.org&fp=unsafe#%F0%9F%87%B5%F0%9F%87%B1PL_12%7C327KB%2Fs%7CM003-260806
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=fa3ea655619a3e78&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E#%F0%9F%87%B5%F0%9F%87%B1PL_13%7C2.9MB%2Fs%7CA004-260618
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@cz.pythonmakemigreat.wiki:61374?security=reality&type=xhttp&path=%2F&host=cz.pythonmakemigreat.wiki&packetEncoding=xudp&sni=cz.pythonmakemigreat.wiki&fp=chrome&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-500%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A%223%22%7D%7D&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_15%7C2.5MB%2Fs%7CB007-260618
+ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076#%F0%9F%87%B5%F0%9F%87%B1PL_16%7C173KB%2Fs%7CA004-260618
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@pl-b1.golangwikito.cfd:61374?security=reality&type=xhttp&path=%2F&host=pl-b1.golangwikito.cfd&packetEncoding=xudp&sni=pl-b1.golangwikito.cfd&fp=chrome&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-500%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A%223%22%7D%7D&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_17%7C2.6MB%2Fs%7CB007-260618
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?security=tls&type=ws&path=%2Fpyip%3Dbpb.yousef.isegaro.com&host=free.cndyw.ggff.net&packetEncoding=xudp&sni=free.cndyw.ggff.net&fp=random#%F0%9F%87%B5%F0%9F%87%B1PL_18%7C632KB%2Fs%7CT001-260618
+ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ==@217.30.10.44:9052#%F0%9F%87%B5%F0%9F%87%B1PL_20%7C2.1MB%2Fs%7CA004-260618
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=xudp&sni=2.26.6.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_21%7C442KB%2Fs%7CB007-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1PL_22%7C3.4MB%2Fs%7CA004-260618
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=xudp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_23%7C1.3MB%2Fs%7CS001-260618
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=none&sni=2.26.6.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_24%7C71KB%2Fs%7CP002-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#%F0%9F%87%B5%F0%9F%87%B1PL_25%7C2.0MB%2Fs%7CA004-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1PL_26%7C3.6MB%2Fs%7CA004-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#%F0%9F%87%B5%F0%9F%87%B1PL_27%7C2.6MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#%F0%9F%87%B5%F0%9F%87%B1PL_28%7C2.4MB%2Fs%7CB007-260618
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=none#%F0%9F%87%B5%F0%9F%87%B1PL_29%7C417KB%2Fs%7CP002-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_30%7C411KB%2Fs%7CA004-260618
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@31.59.143.147:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl2.waspnest.space&fp=firefox&flow=xtls-rprx-vision&sid=ae97223a8f799889&pbk=Liu35gmIQJtbul5AeCrceJTjsmln4RaqxX6joKlaBjk#%F0%9F%87%B5%F0%9F%87%B1PL_31%7C2.1MB%2Fs%7CM003-260806
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_32%7C964KB%2Fs%7CB007-260618
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&type=tcp&packetEncoding=xudp&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_33%7C1.1MB%2Fs%7CM003-260806
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@2.26.231.218:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_34%7C1.1MB%2Fs%7CM002-260618
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&type=tcp&packetEncoding=xudp&alpn=http%2F1.1%2Ch2&sni=hvtlr-ru-47sb.fade.mom&fp=qq&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_35%7C76KB%2Fs%7CM003-260806
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&type=tcp&packetEncoding=xudp&sni=media2.usicloid.my&fp=qq&flow=xtls-rprx-vision&sid=953e2426ac9a7c0e&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_37%7C974KB%2Fs%7CS001-260618
+vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@217.60.33.67:8443?security=reality&type=tcp&packetEncoding=xudp&sni=go-obsh-auto-drun.keno.su&fp=chrome&flow=xtls-rprx-vision&sid=de&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc#%F0%9F%87%B5%F0%9F%87%B1PL_38%7C2.6MB%2Fs%7CS004-260618
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?security=reality&type=tcp&packetEncoding=xudp&sni=media.usicloid.my&fp=chrome&flow=xtls-rprx-vision&sid=0cabf7c24918fe72&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8#%F0%9F%87%B5%F0%9F%87%B1PL_39%7C862KB%2Fs%7CS004-260618
 vless://f2d78dd4-ec5a-4720-be82-5df263fd5272@146.59.13.37:80?encryption=none&security=none&type=ws&host=pl1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%B5%F0%9F%87%B1%2BPoland
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%40v2ray_free_config_iran%20%7C%20Outline%20VPN%20%7C%20%F0%9F%8C%90PL%20%7C%20%F0%9F%87%AE%F0%9F%87%B7152ms%20%7C%20%E2%9A%A13.97Mbps%20%7C%20SS
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com&type=tcp&headerType=none#%40v2ray_free_config_iran%20%7C%20V2Ray%20%7C%20%F0%9F%8C%90PL%20%7C%20%F0%9F%87%AE%F0%9F%87%B7142ms%20%7C%20%E2%9A%A13.78Mbps%20%7C%20TROJAN
@@ -905,20 +923,25 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:8443?security=tls&type=
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_58%7C407KB%2Fs%7CF003-260618%2001
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?host=vms.lifetime58.workers.dev&path=%2F&type=ws#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=firefox&alpn=h2&headerType=none&mode=packet-up#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=chrome&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&security=reality&sid=0cabf7c24918fe72&sni=media.usicloid.my&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?security=reality&encryption=none&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=media.usicloid.my&sid=0cabf7c24918fe72#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&encryption=none&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=media2.usicloid.my&sid=953e2426ac9a7c0e#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&fp=edge&host=static.bakarova-top.ru&mode=packet-up&path=/api/v2/events&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&fp=chrome&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&fp=ios&host=static.bakarova-top.ru&mode=packet-up&path=/api/v2/events&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&security=reality&sid=0cabf7c24918fe72&sni=media.usicloid.my&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&security=reality&sid=0cabf7c24918fe72&sni=media.usicloid.my&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&security=reality&sid=0cabf7c24918fe72&sni=media.usicloid.my&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?security=reality&encryption=none&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=media.usicloid.my&sid=0cabf7c24918fe72#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&encryption=none&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=media2.usicloid.my&sid=953e2426ac9a7c0e#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&fp=edge&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&fp=firefox&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&fp=firefox&mode=packet-up&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=qq&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=unsafe&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%238
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?allowInsecure=0&sni=2.26.6.1&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%233
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%237
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=edge&headerType=none&mode=packet-up#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=chrome&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=edge&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=firefox&alpn=h2&headerType=none&mode=packet-up#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388# PL | 51.83.192.80
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3# PL | 54.37.136.194
 vless://b33e4571-de3f-4249-b246-b2acf3db2f36@poland-sgood.wopd.butnorwa.butter.silicore.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8# PL | 45.144.49.64
@@ -1019,7 +1042,7 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@2.59.253.251:443?security=reality&e
 vless://b33e4571-de3f-4249-b246-b2acf3db2f36@poland-sgood.wopd.butnorwa.butter.silicore.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#PL  | @Raydikalx | 31BD0C
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#PL  | @Raydikalx | C66779
 vless://b55dd203-630d-46a3-b506-c52ebcafa77c@154.222.9.98:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#PL  | @Raydikalx | 8CD9FC
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?sni=2.26.6.1&fp=chrome&security=tls#PL  | @Raydikalx | B6F0CD
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.26.6.1#PL  | @Raydikalx | B6F0CD
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&security=tls&type=tcp&fp=chrome#PL  | @Raydikalx | 13EFC5
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@144.31.5.171:753?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=b91a73752053b039#PL  | @Raydikalx | F5394E
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#PL  | @Raydikalx | F9E5A2
@@ -1046,17 +1069,17 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=bro
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#PL  | @Raydikalx | 4C0839
 vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?fp=chrome&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&security=reality&serviceName=openway_ndrl&sid=af86f23452bf025a&sni=ya.ru&type=grpc#PL  | @Raydikalx | EC3B04
 vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?security=reality&encryption=none&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.edge.rbullet.net&sid=458374ae#PL  | @Raydikalx | 22CE54
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.26.6.1#PL  | @Raydikalx | B6F0CD
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#PL  | @Raydikalx | 6AAD21
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#PL  | @Raydikalx | 2A6D0A
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#PL  | @Raydikalx | F52924
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#PL  | @Raydikalx | D2E1AF
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#PL  | @Raydikalx | AA2273
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?security=reality&type=tcp&packetEncoding=xudp&sni=al2.magazinnarubeva.ru&fp=chrome&flow=xtls-rprx-vision&sid=8718c58d3d51db59&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C1.6MB%2Fs
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@45.198.0.101:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl1.waspnest.space&fp=firefox&flow=xtls-rprx-vision&sid=ae97223a8f799888&pbk=3mwnEPHvepmazp4pa3VFMinhqfCSMrOw7lMSk2CN5Sc#%F0%9F%87%B5%F0%9F%87%B1PL_3%7C1.2MB%2Fs
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&type=tcp&packetEncoding=xudp&sni=media2.usicloid.my&fp=qq&flow=xtls-rprx-vision&sid=953e2426ac9a7c0e&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&encryption=none#%F0%9F%87%B5%F0%9F%87%B1PL_4%7C1.5MB%2Fs
 vless://9034468f-b93d-407f-bfc0-87a178ba5c8c@144.31.2.86:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072#PL   VLESS-TCP-RLT - H2nexus Ltd  144.31.2.86
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?type=grpc&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#PL   VLESS-GRPC-RLT - Regxa Company for Information Technology Ltd  91.108.250.245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#%F0%9F%87%B5%F0%9F%87%B1PL-185.223.57.174-0465
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3379
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-4408
+vmess://ewogICAgImFkZCI6ICIxOTQuMTUuMTk2LjE3MiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuODc0MTYxMzIueHl6IiwKICAgICJpZCI6ICI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HtfCfh7FQTC0xOTQuMTUuMTk2LjE3Mi0xNDI1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=faster.yandex-apicloud.ru&type=tcp#[20409][PL][0][VLESS][None][oneclickvpnkeys][2026-08-12][2026-08-16 00:34]
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?type=ws&security=tls&encryption=none&path=%2F10336%2F2GCOqG7bvA&host=31.76.251.127.cdn-one.org&sni=31.76.251.127.cdn-one.org&fp=chrome&headerType=none#[13285][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.253.134:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#[14445][PL][0][VLESS][None][oneclickvpnkeys][2026-08-12][2026-08-16 00:34]
@@ -3425,15 +3448,8 @@ ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#//Poland/War
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@178.255.41.214:1080#%f0%9f%87%b5%f0%9f%87%b1%20PL%202
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0=@185.126.64.86:10536# PL | 185.126.64.86
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#[openproxylist.com] trojan-PL
-vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?&security=tls&fp=qq&alpn=http%2F1.1%2Ch2&sni=hvtlr-ru-47sb.fade.mom&type=tcp&headerType=none&path=%2F#[openproxylist.com] vless-PL
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&alpn=http/1.1%2Ch2&fp=qq&security=tls#[openproxylist.com] vless-PL
 vless://d4001352-dc64-48b8-b786-5860b284ad3d@94.183.209.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=edge&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#[openproxylist.com] vless-PL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#[openproxylist.com] vless-PL
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#[openproxylist.com] vless-PL
-vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?&security=tls&fp=unsafe&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%237
-vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?&security=tls&fp=qq&alpn=http%2F1.1%2Ch2&sni=hvtlr-ru-47sb.fade.mom&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-1...
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?&security=tls&fp=chrome&sni=2.26.6.1&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%233
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?&type=tcp&headerType=none&host=site.teslamotor.site&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%234
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%236
-vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?&security=tls&fp=unsafe&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dunsafe#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-PL-4...
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?allowInsecure=0&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#%F0%9F%87%B5%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20trojan-PL-...
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.26.6.1#[openproxylist.com] vless-PL
+vmess://ewogICAgImFkZCI6ICI3MC4zNC4yNTIuMTc2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5ODRmZjI0ZS0yYmJiLTQ0NjEtYTc2MS1iZjhjY2I3N2I4MGQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MSwKICAgICJwcyI6ICLwn4e18J+HsVBMLTcwLjM0LjI1Mi4xNzYtNDgzMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9

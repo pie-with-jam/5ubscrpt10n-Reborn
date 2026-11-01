@@ -26,7 +26,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connectwithtopemployersandfindidealjobs.com#[288][MX][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#[287][MX][0][TROJAN][None][oneclickvpnkeys][2026-10-28][2026-11-01 02:55]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#[289][MX][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-4644
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5249
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BD%5Bwww.v2nodes.com%5D%20vless-MX-1...%20%231
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQiOiAibXgxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2MWZiNDk0LTUyMzMtNDE5ZS04NDNkLTE1NjBmNGVhYzY2NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteDEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogIm14MS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=/154.16.10.34-8080#MX_304_@Surfboardv2ray
@@ -45,16 +45,18 @@ vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&e
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C872KB%2Fs%7CA004-260618%20%5Bf1719b69c2a0%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_6%7C129KB%2Fs%7CM003-260806%20%5B74dd1dc1fa69%5D
 vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=6c059ecfddf9b179&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q#%F0%9F%87%B2%F0%9F%87%BDMX_2%7C451KB%2Fs%7CA004-260618%2001
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_4%7C434KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_5%7C741KB%2Fs%7CA004-260618
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_6%7C687KB%2Fs%7CM003-260806
+vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?security=tls&type=ws&path=%2F154.16.10.34-8080&host=kclx.eu.org&packetEncoding=xudp&sni=kclx.eu.org&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_2%7C467KB%2Fs%7CT001-260618
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C717KB%2Fs%7CA004-260618
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_4%7C671KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@149.104.87.33:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_5%7C686KB%2Fs%7CM003-260806
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#%F0%9F%87%B2%F0%9F%87%BDMX_6%7C635KB%2Fs%7CB007-260618
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGMlx1RDgzQ1x1RERGRE1Y5aKo6KW/5ZOlIiwNCiAgImFkZCI6ICJjaW5keTUwLmNlb2lpaS5jb20iLA0KICAicG9ydCI6ICIzNjgwMSIsDQogICJpZCI6ICJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogImFqYXgubWljcm9zb2Z0LmNvbSIsDQogICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
 vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=6c059ecfddf9b179&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q&encryption=none#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C529KB%2Fs%7CM002-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_7%7C329KB%2Fs%7CF003-260618%2001
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX  | @Raydikalx | 321663
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#MX  | @Raydikalx | 252F9A
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#MX  | @Raydikalx | 48F311
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&sni=connectwithtopemployersandfindidealjobs.com#MX  | @Raydikalx | 48F311
 trojan://5t6i121em5lkmsmk@149.104.87.33:15083?security=tls&fp=chrome&sni=mx001.zestapp778.com#MX  | @Raydikalx | 78ADA5
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=0&sni=mx001.zestapp778.com&type=tcp#MX  | @Raydikalx | 550EF9
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.205.152.109:443?sni=154.205.152.109&allowInsecure=1&type=tcp#MX  | @Raydikalx | C97CDD
@@ -120,5 +122,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5327
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.1.27:990#[4719][MX][0][SS][None][free4allVPN][2025-10-20][2026-07-25 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5192
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#[openproxylist.com] trojan-MX
-vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#%5Bwww.v2nodes.com%5D%20vless-MX-1...%20%231
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&sni=connectwithtopemployersandfindidealjobs.com#[openproxylist.com] trojan-MX
