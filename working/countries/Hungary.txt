@@ -27,6 +27,7 @@ vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7pIVV8zNzYiLAogICJhZGQiOiAiMTg1LjIy
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@38.180.109.174:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_2%7C312KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@180.149.37.38:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AD%F0%9F%87%BAHU_3%7C291KB%2Fs%7CF003-260618%2001
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HU  | @Raydikalx | 5C1081
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#HU  | @Raydikalx | 3A416B
 trojan://humanity@38.180.225.247:2053?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#HU  | @Raydikalx | 8D215F
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.37:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#HU  | @Raydikalx | 7CFE74
 vless://695e3dfd-14dd-4fa3-9c6a-f8108c376982@152.233.41.13:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#[17373][HU][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

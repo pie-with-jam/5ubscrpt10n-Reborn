@@ -32,8 +32,11 @@ vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&f
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH_3720_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_3977_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_3978_@Surfboardv2ray
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C540KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C396KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C461KB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C564KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C462KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C471KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C439KB%2Fs%7CM001-260618
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?security=tls&sni=ph001.zestapp778.com&fp=firefox#PH  | @Raydikalx | C4EA95
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?type=tcp&security=tls&fp=chrome&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
