@@ -22,7 +22,6 @@ vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?type=t
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@91.196.33.216:8443?type=tcp&security=reality&sni=&pbk=ZrTR1U8J1h4XtIzjKLznaMY6U_fogsndbuHlJmK-Ti4&sid=#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-CBF98AF2
 vless://d604d0be-e942-46c8-82c2-0e49d506b0cf@94.156.232.72:8443?type=tcp&security=reality&sni=&pbk=szNyp0kNUPRKF4gJmAHY1h42Kh5m2_55cTmPj7be-Wc&sid=34c2f5e6883680#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-63AF00F6
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.94:443?type=tcp&security=reality&sni=&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-90AF5CEF
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&packetEncoding=xudp&sni=fast.145779.xyz&fp=chrome&encryption=none#%E2%9D%93Other_53%7C228KB%2Fs%7CS004-260618%20%5Baf9b4da230fa%5D
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?type=ws&security=tls&sni=&host=t1s1.rittbo.kdns.fr&path=%2F#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-710AF91F
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1N2Y4ZVx1NTZmZC1BRjU0OTBFNCIsImFkZCI6IjEwNC4yMzMuMjE0LjE3NiIsInBvcnQiOjEzNTgxLCJpZCI6ImQ0ZDcxNWE2LTBhMmUtNDMwNC1kZjJmLWQ1ZWZkODVhNWE1ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#4Nika-49c9af0bd6
