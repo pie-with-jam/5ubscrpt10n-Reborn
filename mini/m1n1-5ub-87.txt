@@ -1,3 +1,9 @@
+trojan://IQ68037294@91.243.81.129:443?security=tls&path=/# By EbraSha
+trojan://IQ68037294@91.243.81.129:443?security=tls&sni=casual-stallion.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0# By EbraSha
+trojan://IQ68037294@91.243.81.129:443?security=tls&sni=casual-stallion.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0# By EbraSha
+trojan://IQ68037294@91.243.81.129:443?sni=casual-stallion.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@91.243.81.129:443?sni=casual-stallion.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
+trojan://IQ68037294@91.243.81.129:443?sni=casual-stallion.rooster465.autos&path=%2f# By EbraSha
 trojan://IQ68037294@91.243.81.129:443?sni=casual-stallion.rooster465.autos&path=/# By EbraSha
 trojan://IQ68037294@91.243.81.178:443?security=tls&path=/# By EbraSha
 trojan://IQ68037294@91.243.81.178:443?security=tls&sni=brave-cattle.rooster465.autos&path=/# By EbraSha
@@ -9992,9 +9998,3 @@ trojan://NQ26071394@gentle-turtle.rooster465.autos:443?security=tls&sni=gentle-t
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?security=tls&sni=gentle-turtle.rooster465.autos&path=/# By EbraSha
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
-trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&path=%2f# By EbraSha
-trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&path=/# By EbraSha
-trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&type=tcp&fp=chrome# By EbraSha
-trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=0&sni=genuine-cougar.rooster465.autos# By EbraSha
-trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=1&sni=genuine-cougar.rooster465.autos# By EbraSha
-trojan://NQ26071394@genuine-cougar.rooster465.autos:443?security=tls&sni=genuine-cougar.rooster465.autos# By EbraSha

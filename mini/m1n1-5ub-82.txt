@@ -1,3 +1,9 @@
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?sni=resolved-gelding.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3849
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#4Mohsen-3850
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?sni=rested-pheasant.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3851
+trojan://FC60532879@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3852
+trojan://FC60532879@saved-mudfish.rooster465.autos:443?allowInsecure=0&sni=saved-mudfish.rooster465.autos#4Mohsen-3853
+trojan://FC60532879@saving-sawfly.rooster465.autos:443?sni=saving-sawfly.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3854
 trojan://FC60532879@smooth-cougar.rooster465.autos:443?sni=smooth-cougar.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3855
 trojan://FC60532879@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3856
 trojan://FC60532879@sterling-fowl.rooster465.autos:443?sni=sterling-fowl.rooster465.autos&type=tcp&fp=chrome#4Mohsen-3857
@@ -9992,9 +9998,3 @@ trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5562
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5563
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5564
-trojan://telegram-id-privatevpns@18.185.219.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5565
-trojan://telegram-id-privatevpns@18.193.207.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5566
-trojan://telegram-id-privatevpns@18.196.217.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5567
-trojan://telegram-id-privatevpns@18.196.39.57:22222?type=tcp&sni=trojan.burgerip.co.uk#4Kian-5568
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5569
-trojan://telegram-id-privatevpns@3.120.80.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5570

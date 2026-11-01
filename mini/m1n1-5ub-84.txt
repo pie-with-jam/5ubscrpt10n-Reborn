@@ -1,3 +1,9 @@
+trojan://1------------------BanV2ray------------------1@37.156.45.60:17262?security=reality&sni=world.yahoo.com%3a443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=db&spx=%2f3a4e7061e937f69&type=grpc&path=%2f# By EbraSha
+trojan://1------------------BanV2ray------------------1@37.156.45.60:17262?security=reality&sni=world.yahoo.com:443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=db&spx=/3a4e7061e937f69&type=grpc&path=/# By EbraSha
+trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=1502957d103082b4# By EbraSha
+trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=1502957d103082b4# By EbraSha
+trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=9d50bfcefa# By EbraSha
+trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=fc1849f57be0# By EbraSha
 trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=4a76cd52# By EbraSha
 trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9d50bfcefa# By EbraSha
 trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=fc1849f57be0# By EbraSha
@@ -9992,9 +9998,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev# By EbraSha
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram+@WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.167.196.91:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2&host=Koma-YT.PAGeS.Dev# By EbraSha
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.168.82.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev# By EbraSha

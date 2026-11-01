@@ -1,3 +1,9 @@
+trojan://AE62539071@43.202.48.137:443?sni=glorious-lark.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
+trojan://AE62539071@43.202.48.137:443?sni=glorious-lark.rooster465.autos&type=tcp&fp=chrome# By EbraSha
+trojan://AE62539071@43.202.55.63:443?sni=causal-ladybug.rooster465.autos&type=tcp&path=/# By EbraSha
+trojan://AE62539071@43.203.212.56:443?sni=oriented-pegasus.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
+trojan://AE62539071@43.203.220.94:443?sni=skilled-monster.rooster465.autos&type=tcp&fp=chrome# By EbraSha
+trojan://AE62539071@43.207.118.231:443?sni=joint-ewe.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://AE62539071@43.207.140.98:443?sni=right-seahorse.rooster465.autos&type=tcp&path=/# By EbraSha
 trojan://AE62539071@43.207.176.210:443?sni=whole-perch.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://AE62539071@43.207.235.64:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome# By EbraSha
@@ -9992,9 +9998,3 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=%2Ftelegra
 ss://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#[1730][EE][0][SS][None][marambashi][2026-08-10][2026-08-16 00:34]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.147:800#[8406][JP][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjk6ODA4MA==#[10152][GB][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.64.138.145:8080#[12746][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.143.66.20:5500#[12570][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://6be7a597-9892-585b-a59d-5dd3cd5e7a4f@104.19.198.8:80?encryption=none&security=none&type=ws&host=rtxWs.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#[3917][US][0][SS][None][DarkVPNpro][2024-10-11][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.92:443#[15632][CA][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://8bcfe782-60c4-4c09-b46c-330f1aa3741c@172.67.209.127:8880?encryption=none&security=none&type=ws&host=snowy-lab-6cab.237-2da.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#[5214][US][0][SS][None][DeamNet_Proxy][2026-08-15][2026-08-16 00:34]
-ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@188.114.98.0:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#[618][US][0][SS][None][DarkVPNpro][2026-01-26][2026-08-16 00:34]
