@@ -14,7 +14,6 @@ vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.53:8443?type=tcp&security
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.8:8443?type=tcp&security=reality&sni=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%20%E5%8C%88%E7%89%99%E5%88%A9-F4AD14EE
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@51.89.227.192:443?type=tcp&security=reality&sni=&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-AD782DE5
 vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&security=tls&sni=#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-AD5DBB7E
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?security=none&type=ws&path=%2Fvless&host=45.138.100.248&packetEncoding=xudp#%E2%9D%93Other_30%7C337KB%2Fs%7CA004-260618%20%5B0ad85ff13500%5D
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@5.183.253.171:9999?type=tcp&security=none#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-4813AD7A
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?type=tcp&security=none#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-0AD04FC0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4c0daOThheUxUVDNPcmlFQjF0S29QTXo2WXV4UVE0WA@gr1s.sublinkplas.ir:53731#4Sarina-ad3cad88fe
@@ -259,6 +258,7 @@ vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&en
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops5.localip.ir:2087?path=/hokm&security=tls&alpn=http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ops5.localip.ir#Global  | @Raydikalx | 8AD961
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=none#%E2%9D%93Other_14%7C64KB%2Fs%7CP002-260618%20%5Bad2356c3dc9d%5D
 vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@104.21.70.21:8080?security=none&type=ws&path=%2Fconnect&host=cf-vless-4cf55824.aimall.fr&packetEncoding=xudp#%E2%9D%93Other_22%7C290KB%2Fs%7CM003-260806%20%5Bc861a8b5ad02%5D
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?security=none&type=ws&path=%2Fvless&host=45.138.100.248&packetEncoding=xudp#%E2%9D%93Other_30%7C337KB%2Fs%7CA004-260618%20%5B0ad85ff13500%5D
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@95.169.201.169:13868?security=reality&encryption=none&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#4Sarina-a02ad69605
 vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&sid=cf12caecc0&type=tcp&headerType=none#4FreeIran-f6ad65204d
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=neth6.lckdwn.ru#4Nika-ad67f9a9ed
