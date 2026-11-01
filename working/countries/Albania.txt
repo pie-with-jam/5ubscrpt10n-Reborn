@@ -36,7 +36,6 @@ vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XM
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4244_@Surfboardv2ray
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@85.155.228.24:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=qq&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C198KB%2Fs%7CA004-260618%2001
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=safari&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C375KB%2Fs%7CA004-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_5%7C1.8MB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388?#AL  | @Raydikalx | DFB2D0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ@130.49.189.158:43558#AL  | @Raydikalx | 5AB7D3
@@ -173,3 +172,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141
 ss://YWVzLTEyOC1nY206Z2Z0Z2ZkZGFmZ2Rmcw@260323.1.0.l2.unclemanco.com:39184/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%A6%F0%9F%87%B1%20AL_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925# AL | 157.22.240.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdmZIUGJReUw5RDZSTXdWTEhmWHlF@130.49.189.158:10792#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Dchromesecurity%3Dtls#%5Bwww.v2nodes.com%5D%20vless-AL-1...

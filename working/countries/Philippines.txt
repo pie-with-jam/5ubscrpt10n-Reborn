@@ -38,11 +38,11 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH-@VPNine1
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C454KB%2Fs%7CM003-260806%20%5B19949bc39375%5D
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C482KB%2Fs%7CM001-260618%20%5B61a45a53a9ad%5D
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C469KB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C193KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C482KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C460KB%2Fs%7CM001-260618
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C475KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C445KB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C448KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C486KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C468KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C472KB%2Fs%7CM001-260618
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | C4EA95
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
@@ -705,4 +705,3 @@ trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30053?security=
 trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30053/?type=tcp&security=tls&sni=v2phl01.fuqiangren.com#[7868][PH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none#[673][PH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@154.90.32.5:5601#PH Da365
-vmess://ewogICAgImFkZCI6ICIxMjAuMjguMTAuNDYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzYXpnYXIuc2VydmVpcmMuY29tIiwKICAgICJpZCI6ICJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HtfCfh61QSC0xMjAuMjguMTAuNDYtMTM0MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
