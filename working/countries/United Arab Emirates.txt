@@ -341,8 +341,6 @@ vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@45.86.228.104:443?path=/jx-o4e0xzvx
 vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  AE-217.60.249.171:45375
 vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@109.61.42.127:8811?security=none&type=grpc# VL-GRPC-NONE  AE-109.61.42.127:8811
 vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@94.183.152.153:443?security=reality&pbk=uAoKx_ePWGe_jowwFZt7x3oZSNU3VJl9dIQmeYG22FM&sid=9a4d61e8c2f735b0&sni=www.bing.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#AE-@VPNine1
-vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@20.174.15.226:443?path=/jx-o4e0xzvx0107se&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#AE-@VPNine1
-vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@45.86.228.104:443?path=/jx-o4e0xzvx0107se&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#AE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-6A8A70AE
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9-B81AE6A2
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?sni=207.126.167.162#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-E0AE9D75
@@ -540,15 +538,22 @@ vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C673KB%2Fs%7CM003-260806%2001
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C600KB%2Fs%7CT001-260618%2001
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxMDkuNjEuMTguMTg4IiwiYWRkIjoiMTA5LjYxLjE4LjE4OCIsInBvcnQiOiI4MCIsImlkIjoiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
+vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&security=tls&sni=hw6.divarkhaghazi.com.&alpn=http%2F1.1&fp=chrome&type=ws&host=hw6.divarkhaghazi.com.&path=%2F#%40Qara_atayi%20%7C%20F0%9F%87%AE%F0%9F%87%B7%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
+vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?encryption=none&security=tls&sni=hw3.divarkhaghazi.com.&alpn=http%2F1.1&type=ws&host=hw3.divarkhaghazi.com.&path=%2F#%40Qara_atayi%20%7C%20F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%81%D8%B9%D8%A7%D9%84%20%E2%9C%85
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#AE  | @Raydikalx | 6A5013
-trojan://humanity@46.8.124.8:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#AE  | @Raydikalx | FFB50E
 trojan://humanity@95.182.95.144:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#AE  | @Raydikalx | 7FD900
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#Global  | @Raydikalx | 8D96AE
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#AE  | @Raydikalx | 9BF71A
+vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@91.132.48.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&security=reality&sid=e7c5f2a9&sni=bunny.net&type=tcp#AE  | @Raydikalx | 3508FA
+vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@uae.purchasebot.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&security=reality&sid=e7c5f2a9&sni=bunny.net&type=tcp#AE  | @Raydikalx | AB4315
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp#AE  | @Raydikalx | 134D04
 vless://49996e29-93c5-4975-b56f-792acbbf3444@20.174.15.226:443?path=/jx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#AE  | @Raydikalx | 82D1B8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.40:8880?path=/?ed&security=none&encryption=none&host=vms.lifetime61.workers.dev&type=ws#AE  | @Raydikalx | 86654E
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=/vless#AE  | @Raydikalx | F16E75
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#AE  | @Raydikalx | 3BEC03
 vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#AE  | @Raydikalx | 04523B
+vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@46.8.125.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&security=reality&sid=0123456789abcdef&sni=dubai-cdn-keno.keno.su&type=tcp#AE  | @Raydikalx | DE4918
+vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef&flow=xtls-rprx-vision#AE  | @Raydikalx | 01F2A0
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#AE  | @Raydikalx | EA3D62
 vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@156.154.245.84:443?path=/jx-o4e0xzvx0107se&security=tls&encryption=none&host=jyfrj1cims.dev.onappjet.com&type=ws#AE  | @Raydikalx | BA9750
 vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@20.174.15.226:443?path=/jx-o4e0xzvx0107se&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#AE  | @Raydikalx | F188A2
