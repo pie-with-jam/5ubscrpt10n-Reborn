@@ -705,7 +705,6 @@ trojan://4c1511d220e1437b234fa40571c43810@118.253.167.243:59443?sni=tyy129.magic
 trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#CN  | @Raydikalx | D9B3FD
 trojan://4d8e20bdae228d69021cdac530a5ce6d@tyy129.magiclampcloud.com:59443?type=tcp#CN  | @Raydikalx | DD556E
 trojan://4fa64bc99914bc5e4339589945720e94@tyy129.magiclampcloud.com:59443?type=tcp#CN  | @Raydikalx | 27592F
-trojan://521314@176.124.223.27:443?allowInsecure=1&sni=hhtj.hhllfly.kdns.fr&ws=1&wspath=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#CN  | @Raydikalx | 3F6DC5
 trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | DC49F0
 trojan://53e00b660ad5da37f677dafeee646c9b@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#CN  | @Raydikalx | AFA62F
 trojan://5649c062bf0b037bee58842aa4b2a568@ja304.magiclampcloud.cn:59443?type=tcp#CN  | @Raydikalx | AAA843

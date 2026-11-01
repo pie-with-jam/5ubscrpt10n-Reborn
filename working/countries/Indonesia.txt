@@ -482,10 +482,14 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?sni=id1.nathaya
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C186KB%2Fs%7CB007-260618%2001
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3ID
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?sni=in001.zestapp778.com&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20vless-ID-1...
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_3%7C458KB%2Fs%7CA004-260618
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_4%7C522KB%2Fs%7CA004-260618
-vless://1d08ca28-9c86-43c6-9eff-7d3c13df06a8@id.huahua.wiki:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=b6343f999147d133&pbk=O_f5yv1Cb3_4Rk2MKYpjnpCEyPNY4_GPUTJYi9usUzc&encryption=none#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C800KB%2Fs%7CM003-260806
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_3%7C517KB%2Fs%7CA004-260618
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6lJRF80fDQ5MEtCL3N8UzAwMS0yNjA2MTgiLCJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJwb3J0IjoiNTUzODYiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsImhvc3QiOiJhei0xLmxpbmthYS54eXoifQ==
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=in001.zestapp778.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C522KB%2Fs%7CP002-260618
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#ID  | @Raydikalx | 49126A
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#ID  | @Raydikalx | FE15AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 27BFAA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#ID  | @Raydikalx | 1B5E27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 6029CD
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE@aio.unlimited.biz.id:443#ID  | @Raydikalx | 66BCE2
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#ID  | @Raydikalx | 1BFF9A
 vless://ad4492d1-6858-4841-bd50-1dff56dedcb7@172.232.250.227:443?security=tls&sni=id-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#ID  | @Raydikalx | 0E4450
@@ -820,3 +824,4 @@ ss://eyJpZCI6IjIzODUwOTlmLTMwMWItNDMzZi04MzBkLWEyZmQwYWM1NWY1NyIsImFscG4iOiIiLCJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YUBub2RlLWlkLTEudjJzdi50b3A6OTkw#[4987][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdW1teXBhc3N3b3JkQDAuMC4wLjA6MTA4MA==#[ID][COUNTRY][REAL DELAY][TYPE][TEST TYPE][CHANNEL][POST DATE][SCRAPE DATE]
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#[openproxylist.com] vless-ID
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?&security=tls&fp=firefox&sni=in001.zestapp778.com&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-ID-1...
