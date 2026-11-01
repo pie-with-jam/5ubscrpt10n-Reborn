@@ -507,7 +507,6 @@ trojan://3747000103274291200@open-maggot.pigeon031.one:443?peer=open-maggot.pige
 trojan://3782591447421952000@inspired-dinosaur.adder289.quest:443#Japan
 trojan://3747000103274291200@94.177.131.199:443?peer=open-maggot.pigeon031.one#Japan
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN# - JP - @FreeOnlineVPN
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJKYXBhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C727KB%2Fs%7CA004-260618%20%5B72449bfc69d0%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP_5%7C628KB%2Fs%7CA004-260618%20%5B8e55315a35e5%5D
@@ -732,6 +731,7 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@101.142.129.72:443?security=tls&typ
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@45.202.254.133:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_65%7C348KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.250.250.48:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_66%7C295KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@35.72.179.15:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJKYXBhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAxNzIuMTExLjE0Ni42NCIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoiem9vbS51cyIsInBhdGgiOiIvdm1lc3MvIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP  | @Raydikalx | 554D18
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP  | @Raydikalx | 2459E0
@@ -932,7 +932,6 @@ vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?fp=chrome&pbk=h
 vless://ef857676-6b00-4c1b-8d98-712dd355230a@jp.huahua.wiki:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=dr63-MwSmvcVljij8PHNZasukHgBv0mHk-QKa7i4yyo&sid=bff486649d0ae69e&flow=xtls-rprx-vision&headerType=none#JP  | @Raydikalx | C72EAB
 vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp5-r.link-t7.com:10035?security=reality&type=grpc&mode=gun&serviceName=update&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.0MB%2Fs
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C5.9MB%2Fs
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:24133?sni=cm.g.doubleclick.net&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.8MB%2Fs
 trojan://BxceQaOe@13.113.192.229:2595?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.113.192.229
 trojan://BxceQaOe@13.192.163.115:381?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.192.163.115
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#JP   TROJAN-TCP-TLS - Klayer LLC  93.93.246.88
@@ -5862,3 +5861,12 @@ vmess://ewogICAgImFkZCI6ICIxMDMuNzIuNS4yMjciLAogICAgImFpZCI6IDY0LAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICJvci41MjExNjYueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib3IuNTIxMTY2Lnh5eiIsCiAgICAiaWQiOiAiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL29yMyIsCiAgICAicG9ydCI6IDIwODMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNDAuMjM4LjU1Ljg0LTU0ODUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMzguMi41Mi4yNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjkxNjQ2ZjlhLWI0ZTktNGFjYS1iZmUzLTg4OTJiM2U1OGZlNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yYXkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xMzguMi41Mi4yNDQtNzIwNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImxnMzAuY2ZjZG4zLnh5eiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNzIuMTA0Ljc4Ljk4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2hhdCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ev8J+HtUpQLTE3Mi4xMDQuNzguOTgtMjIzMSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-1...
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-1...%20%231
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-1...%20%232
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-1...%20%233
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-1...%20%234
+vless://4cf798ba-5c0a-40a8-a985-263e4c164f9c@bro-per-bro.cc.cd:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=mellow-pine-465b-4e9d050c.pages.dev&type=ws&headerType=none&host=mellow-pine-465b-4e9d050c.pages.dev&path=%2Fe47f26811455%2Fproxyip%3D146.190.100.44%3Fu%3Ddailydoseofvpn#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20vless-JP-7...
+trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=0&sni=43.167.186.78#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20trojan-JP-...
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%231
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=0&sni=45.32.52.173#%F0%9F%87%AF%F0%9F%87%B5%20%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%232

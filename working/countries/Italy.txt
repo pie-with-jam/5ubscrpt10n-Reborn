@@ -1966,4 +1966,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035#%F0
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-2314
 ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-2320
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%f0%9f%87%ae%f0%9f%87%b9%20IT%201
-vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=37fbf155c7a9f3ff&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY#[openproxylist.com] vless-IT
+vless://4f735420-0179-45d7-ba4e-ed66d1bf3a89@www.visa.com.hk:443?&security=tls&sni=it-mil.862400.xyz&type=ws&headerType=none&host=it-mil.862400.xyz&path=%2Fannouncement%3Fed%3D2048fp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-IT-1...
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%233
+vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-IT-1...%20%234
+vless://7b102311-43fd-4e8f-877e-8090623c101d@80.211.170.53:443?&security=tls&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20fp%3Dchromefp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IT-7...
