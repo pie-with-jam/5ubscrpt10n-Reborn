@@ -1899,7 +1899,6 @@ vless://60a361f9-3c45-4954-9e4c-92a85bda243d@new2.smart-cats.ru:2053?encryption=
 vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#RU%20VLESS-994%20%7C%20free-nodes
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#RU%20VLESS-1022%20%7C%20free-nodes
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@198.62.62.4:443?encryption=none&security=tls&sni=page-us-qg0.pages.dev&type=ws&host=page-us-qg0.pages.dev&path=twitterfreecodes#%E7%BE%8E%E5%9B%BD_King%20of%20Prussia
-vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@72.56.37.135:52443?mode=auto&path=/api/v2/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"96-2020"}&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&fp=chrome&type=xhttp&sni=api-gateway.cyou&sid=624ef62512cfcbef#RU-@VPNine1
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=/api/v1/?ed# RU | 185.126.93.225
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&encryption=none&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-26.spbstudentlife.com&sid=a7856800c2deb7b2# RU | 31.76.227.57
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=/api/v1/?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org# RU | 185.126.93.225

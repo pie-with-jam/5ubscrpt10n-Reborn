@@ -252,7 +252,6 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C513KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.150.20.112:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C429KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@167.160.177.68:2096?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_4%7C542KB%2Fs%7CF003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE  | @Raydikalx | 70A7E0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#IE  | @Raydikalx | 35C96B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEczNobFBlcm81b3Y2Z2Fl@20.223.233.241:443#IE  | @Raydikalx | D01D46
@@ -283,6 +282,7 @@ trojan://IQ68037294@52.208.138.36:443?sni=vast-turkey.rooster465.autos&fp=chrome
 trojan://ND91608427@54.170.212.206:443?type=tcp&security=tls&headerType=none&sni=skilled-lioness.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#IE  | @Raydikalx | 9A4092
 trojan://ON38567014@52.208.138.36:443?fp=chrome&sni=vast-turkey.rooster465.autos#IE  | @Raydikalx | BEF839
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.50.233.226:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE  | @Raydikalx | 3AC782
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE-@VPNine1
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV8zfDEuOU1CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV82fDQuOU1CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 vless://ac5313ae-803b-4104-a047-94c97ecb621e@ie.orpheous.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru#[29621][IE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
