@@ -37,11 +37,11 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_4160_@Surfboardv2ray
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C454KB%2Fs%7CM003-260806%20%5B19949bc39375%5D
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C482KB%2Fs%7CM001-260618%20%5B61a45a53a9ad%5D
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C428KB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C519KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C475KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C489KB%2Fs%7CM001-260618
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C417KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C450KB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C437KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C434KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C469KB%2Fs%7CM001-260618
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C483KB%2Fs%7CM001-260618
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | C4EA95
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
