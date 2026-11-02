@@ -255,6 +255,8 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C513KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.150.20.112:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C429KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@167.160.177.68:2096?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_4%7C542KB%2Fs%7CF003-260618%2001
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=sopelka.yandex-api.com&host=sopelka.yandex-api.com#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B%2ACIDR%5D
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=sopelka.yandex-api.com#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B%2ACIDR%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE  | @Raydikalx | 70A7E0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#IE  | @Raydikalx | 35C96B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEczNobFBlcm81b3Y2Z2Fl@20.223.233.241:443#IE  | @Raydikalx | D01D46

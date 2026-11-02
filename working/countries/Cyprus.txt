@@ -1022,3 +1022,5 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5792
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#/Cyprus
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#/Cyprus
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandomsecurity%3Dtls#%5Bwww.v2nodes.com%5D%20vless-CY-1...
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?&security=tls&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080fp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-CY-1...%20%231

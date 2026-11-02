@@ -1,3 +1,6 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US_85%7C1.2MB%2Fs%20%5B9c42f2a7a641%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US_315%7C1.1MB%2Fs%20%5B5e9ad2fef6a7%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#%E2%9D%93Other_21%7C8.4MB%2Fs%7CT001-260618%20%5B9cd2b3684900%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1NL_134%7C3.3MB%2Fs%7CA003-260618%20%5B33c6910ddff2%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US_24%7C1.1MB%2Fs%20%5Ba25a5f4b0320%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US_36%7C256KB%2Fs%7CA004-260618%20%5Bef5dab9eb43c%5D
@@ -9995,6 +9998,3 @@ trojan://humanity@91.196.32.217:443?allowInsecure=1&sni=www.cordweave.com&type=w
 trojan://humanity@91.196.32.217:443?security=tls&sni=www.cordweave.com#4Sarina-43846c28b4
 trojan://humanity@91.197.3.7:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#4Nika-a9a651fb83
 trojan://humanity@91.239.6.47:443?type=ws&path=%2Fassignment&sni=www.cordweave.com#4Sarina-6b944c169b
-trojan://humanity@91.245.225.79:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-5df0730adb
-trojan://humanity@91.245.225.79:2053?sni=www.calmlunch.com&type=ws#4Sarina-18eb9e0ebf
-trojan://humanity@91.250.248.151:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#4Jadi-cc30ecaf5f

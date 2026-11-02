@@ -243,7 +243,7 @@ vless://1ebcb694-875c-4be7-b6a2-d53c8208991b@195.123.208.32:443?security=reality
 vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@72.56.52.248:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=lv.dexlen.cc#LV  | @Raydikalx | FFBB14
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@85.159.228.223:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#LV  | @Raydikalx | 12C74F
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@lv.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#LV  | @Raydikalx | B0B797
-vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?security=reality&type=tcp&packetEncoding=xudp&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&sid=f77f3068&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo#LV  | @Raydikalx | A2CA2C
+vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?flow=xtls-rprx-vision&fp=chrome&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo&security=reality&sid=f77f3068&sni=dl.google.com&type=tcp#LV  | @Raydikalx | A2CA2C
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#LV  | @Raydikalx | B55611
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#LV  | @Raydikalx | EBC9DA
 vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:10464?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=31.56.27.50&type=tcp#LV  | @Raydikalx | 850933
@@ -270,7 +270,6 @@ vless://f24c25fe-937d-414b-8180-d54c96220e71@31.76.104.164:2053?encryption=none&
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#LV  | @Raydikalx | F083AC
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#LV  | @Raydikalx | 289D87
 vless://28e7f9e1-006c-4c38-822d-2d2903477444@109.248.148.140:443?security=reality&encryption=none&pbk=RFZXfsd3WfxOKRcdO4Q7RoElfE8JbMpR6bG3jYLV_Uc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#LV  | @Raydikalx | C527E1
-vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?flow=xtls-rprx-vision&fp=chrome&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo&security=reality&sid=f77f3068&sni=dl.google.com&type=tcp#LV  | @Raydikalx | A2CA2C
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=raw#LV  | @Raydikalx | B55611
 vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:10464?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=31.56.27.50&type=tcp#LV  | @Raydikalx | 850933
 vless://6532f37a-3b31-4b0a-8370-ad50a7e79831@31.56.27.50:27060?encryption=none&fp=chrome&pbk=55dHJ98JJF5OyKLOqF8ACF3PYFCq_1ax89TmIQEFDGM&security=reality&sid=16&sni=www.cloudflare.com&spx=%2Fd35593c25c982a9&support-x25519mlkem768=true&type=tcp#LV  | @Raydikalx | FD1293
@@ -1231,4 +1230,3 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@185.135.86.173:9041#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8335
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@185.135.86.173:9037#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8336
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8337
-vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?security=reality&type=tcp&packetEncoding=xudp&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&sid=f77f3068&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo#[openproxylist.com] vless-LV
