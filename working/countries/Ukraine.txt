@@ -47,10 +47,9 @@ vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.c
 vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#[8799][UA][0][VLESS][None][prrofile_purple][2026-08-07][2026-11-01 02:55]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?path=/ws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=indigostar.click#[14328][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@staging.lastilhame.monster:49917#%F0%9F%87%BA%F0%9F%87%A6UA-104.253.216.227-0222
-trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-0669
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8424
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0113
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8365
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?sni=www.bing.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%234
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%231
 vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?sni=www.mozilla.org&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%232
@@ -81,6 +80,7 @@ vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none
 vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@79.175.102.64:18443?mode=auto&path=/cdn/ingest&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"328-1060"}&pbk=EgXwMBzSh55Cln_g_ElwV9EF8ijDmd9A1ZotQzdKRlw&fp=chrome&type=xhttp&sni=edge-event.cfd&sid=694eb64512caabef#UA  | @Raydikalx | 3653AB
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#UA  | @Raydikalx | FCB590
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=a25d0f&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.5MB%2Fs%7CB007-260618%20%5Bfc24a34a111c%5D
+trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-0669
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun#[37520][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=@one_shop_official&fp=chrome&type=#[37509][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#[37495][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -259,3 +259,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlRQDE5NC41NC44MC4
 ss://904704c1-b571-47e5-e57f-a3b97017f4b9@195.28.182.4:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#[3966][UA][0][SS][None][xrayproxy][2023-05-21][2026-07-25 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8016
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8280
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-UA
