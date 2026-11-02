@@ -16,7 +16,6 @@ vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?security=reality
 vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#GE_1957_@Surfboardv2ray
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.46.169:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#GE_4234_@Surfboardv2ray
 vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@94.43.238.112:2053?sni=jp-osa.862400.xyz&type=ws&host=jp-osa.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20GE_46%20%231
-vless://e5ec2701-f2d6-42ee-b125-1e17fce8daff@93.190.8.153:3090?&type=grpc&serviceName=&mode=gun#%F0%9F%87%AC%F0%9F%87%AA%20GE_43
 trojan://humanity@194.135.119.82:2053?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment&host=www.cordweave.com#GE  | @Raydikalx | 1B2E3A
 vless://0deac3ec-a11a-4b24-a332-19c93e7e2182@93.190.9.160:3090?type=grpc&mode=multi&serviceName=vless#GE  | @Raydikalx | B21EAB
 vless://3426bbf0-ed82-4400-94f2-923e62f808cd@93.190.9.227:3090?type=grpc&mode=multi&serviceName=vless#GE  | @Raydikalx | B376B8

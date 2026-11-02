@@ -1,6 +1,7 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#[9122][PE][0][SS][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8444
-vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#%F0%9F%87%B5%F0%9F%87%AAPE_1%7C167KB%2Fs%7CF003-260618
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#%F0%9F%87%B5%F0%9F%87%AAPE_1%7C266KB%2Fs%7CF003-260618
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=raw&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4#%F0%9F%87%B5%F0%9F%87%AAPE_2%7C294KB%2Fs%7CA004-260618
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-2481
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.173.150:443?sni=38.180.173.150&type=tcp#PE  | @Raydikalx | DB4CA5
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#[9537][PE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -17,4 +18,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8497
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8440
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8300
-vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#[openproxylist.com] vless-PE
