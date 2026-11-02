@@ -46,7 +46,6 @@ vless://e0216964-ffa1-4d39-82c4-0e40879a470d@91.196.163.150:8443?security=realit
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.click&type=ws&allowInsecure=0&security=tls&path=/ws&encryption=none&insecure=0&fp=chrome#[14334][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
 vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#[8799][UA][0][VLESS][None][prrofile_purple][2026-08-07][2026-11-01 02:55]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?path=/ws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=indigostar.click#[14328][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0118
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0113
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8365
@@ -66,7 +65,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4emX1VBX+S5jOWFi+WFsC0+8J+HqfCf
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1189
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@104.253.216.227:49917# UA | 104.253.216.227
+vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@104.253.216.227:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12# UA | 104.253.216.227
 trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#UA  | @Raydikalx | E3194C
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#UA  | @Raydikalx | 245E1E
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#UA  | @Raydikalx | 3A6203
