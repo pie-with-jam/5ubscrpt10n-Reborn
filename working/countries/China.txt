@@ -677,6 +677,7 @@ trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecur
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:18572?allowInsecure=1&sni=cm.g.doubleclick.net#%F0%9F%87%A8%F0%9F%87%B3%20CN_129
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9IiwiYWRkIjoiMTEyLjEzMi4yMTUuMTA4IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 122.9.124.211
+vmess://eyJ2IjogIjIiLCAicHMiOiAiWzEyODE1M10gLSDwn4eo8J+HsyBDaGluYSB8IEBmcmVlbmV0dGlyIiwgImFkZCI6ICIxMjAuMTk3LjEzMC4xMjYiLCAicG9ydCI6ICIxMzAwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMjFkY2JlYzgtZWVlOC0zZDIwLTgyYjYtZjhjMTZmZTZkYzhkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMTIwLjE5Ny4xMzAuMTI2IiwgInRscyI6ICIifQ==
 trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 3A2284
 trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#CN  | @Raydikalx | 2B53CC
 trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?allowInsecure=0&sni=tyy129.magiclampcloud.com&type=tcp#CN  | @Raydikalx | 05C8C2

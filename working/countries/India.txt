@@ -187,7 +187,7 @@ trojan://3763495894587285504@185.67.125.147:443?sni=optimal-owl.goat627.mom&type
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#IN  | @Raydikalx | 787FF1
 trojan://5t6i121em5lkmsmk@139.84.210.39:42733?sni=in002.zestapp778.com#IN  | @Raydikalx | 44A920
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#IN  | @Raydikalx | 29B220
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#IN  | @Raydikalx | ED0FA3
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=in002.zestapp778.com#IN  | @Raydikalx | ED0FA3
 trojan://humanity@5.253.29.83:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#IN  | @Raydikalx | D38C2C
 trojan://Tg3RnK7Xp8B1@65.20.82.177:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#IN  | @Raydikalx | B5A0AD
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#IN  | @Raydikalx | 0A66AE
@@ -211,9 +211,9 @@ vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQHZwbl80NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#IN  | @Raydikalx | 9C836E
 vmess://eyJhZGQiOiI2OC4xODMuODMuOTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImI4ZjZhNzFjLTY5MjUtNGU4NC1mYjkzLTZlNTRmOGQ5OGIyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1OTQ3NywicHMiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCA1RkQxMzgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#IN  | @Raydikalx | 81895A
-trojan://5t6i121em5lkmsmk@139.84.210.39:42733?sni=in002.zestapp778.com&type=tcp&fp=chrome#IN  | @Raydikalx | 44A920
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&type=tcp#IN  | @Raydikalx | 515F34
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?sni=in002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#IN  | @Raydikalx | 29B220
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com&type=tcp#IN  | @Raydikalx | 29B220
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#IN  | @Raydikalx | ED0FA3
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#IN  | @Raydikalx | E43169
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?fp=chrome&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#IN  | @Raydikalx | 8537A4
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?flow=xtls-rprx-vision&fp=random&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#IN  | @Raydikalx | 62D200
@@ -883,8 +883,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%f0%9f%87%ae%f0%9f%87%b3%20IN%203
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%87%ae%f0%9f%87%b3%20IN%201
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#[openproxylist.com] vless-IN
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#[openproxylist.com] trojan-IN
 vmess://ewogICAgImFkZCI6ICIxMjkuMjI3LjIwMS4yMzQiLAogICAgImFpZCI6IDQsCiAgICAiaG9zdCI6ICJhaWNvbzZkdS5jb20iLAogICAgImlkIjogImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTEyOS4yMjcuMjAxLjIzNC0yMDAyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI4Ny4yNTQuMzEuMjMiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhYWUwMmZjYy0xNzliLTRlZGMtYWE2OS02ODc4ZmYyOWQwMWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdWsvZ2V0RGF0YSIsCiAgICAicG9ydCI6IDQxNjQ3LAogICAgInBzIjogIvCfh67wn4ezSU4tODcuMjU0LjMxLjIzLTI2NDIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ1ay5saW5rZWRlbi5jbyIKfQ==
 vmess://ewogICAgImFkZCI6ICI2OC4xODMuODMuOTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImI4ZjZhNzFjLTY5MjUtNGU4NC1mYjkzLTZlNTRmOGQ5OGIyNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1OTQ3NywKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTY4LjE4My44My45NC0yODIzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0NS43OS4xMjAuMjQzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMzgwMTA3Yy01NGYzLTRkYTYtZDAzNC0xOGVkNjYxNTJmMDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAsCiAgICAicHMiOiAi8J+HrvCfh7NJTi00NS43OS4xMjAuMjQzLTU0MjYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20vless-IN-1...
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%F0%9F%87%AE%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%231
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%F0%9F%87%AE%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20vless-IN-1...%20%232
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20vless-IN
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=0&sni=in002.zestapp778.com#%F0%9F%87%AE%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20trojan-IN-...
