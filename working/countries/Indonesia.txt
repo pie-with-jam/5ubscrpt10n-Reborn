@@ -489,7 +489,6 @@ vmess://eyJhZGQiOiJ2cG5zaG9wdGVzdC52cG5zaG9wLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6lJRF80fDQ5MEtCL3N8UzAwMS0yNjA2MTggWzgyNzA2N2UwMGM5N10iLCJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJwb3J0Ijo1NTM4NiwiaWQiOiI2RTU3MTQ4NC00MTY2LTQ2OTktOEY1OC1CMzRBMTgyMzY5MUYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2dhbWUvcmVzb3VyY2VzIiwiaG9zdCI6ImF6LTEubGlua2FhLnh5eiJ9
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_3%7C517KB%2Fs%7CA004-260618%20%5Be60c8fd534fd%5D
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=in001.zestapp778.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C522KB%2Fs%7CP002-260618%20%5Beb4f0e4e11b8%5D
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7733
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
