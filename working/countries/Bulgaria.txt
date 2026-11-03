@@ -334,15 +334,11 @@ vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.177:8081?security=none&t
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&type=tcp&packetEncoding=xudp&sni=sheetpeek.com&fp=chrome&flow=xtls-rprx-vision&sid=84be686ea1d16478&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo#%F0%9F%87%A7%F0%9F%87%ACBG_6%7C1.4MB%2Fs%7CA004-260618%2001
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=77bb0d07bddbc832&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo#%F0%9F%87%A7%F0%9F%87%ACBG_12%7C2.3MB%2Fs%7CA004-260618%20%5Bf299fa145e10%5D
 vless://c82760c4-6cbc-4e73-8724-da9008ee9710@5.160.198.183:8443?security=tls&type=xhttp&path=/&host=bgx.pizzamizza.blog&packetEncoding=xudp&sni=bgx.pizzamizza.blog&fp=chrome&mode=auto&encryption=none#%F0%9F%87%A7%F0%9F%87%ACBG_9%7C876KB%2Fs%7CV010-260618%2001
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#%F0%9F%87%A7%F0%9F%87%ACBG_1%7C3.0MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049#%F0%9F%87%A7%F0%9F%87%ACBG_2%7C2.9MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%ACBG_4%7C3.2MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066#%F0%9F%87%A7%F0%9F%87%ACBG_6%7C3.3MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA==@213.183.63.60:9028#%F0%9F%87%A7%F0%9F%87%ACBG_7%7C2.7MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@213.183.63.60:9098#%F0%9F%87%A7%F0%9F%87%ACBG_8%7C3.0MB%2Fs%7CA004-260618
-vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=none&sni=ccc.010304.xyz&fp=chrome#%F0%9F%87%A7%F0%9F%87%ACBG_9%7C654KB%2Fs%7CP002-260618
-ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%F0%9F%87%A7%F0%9F%87%ACBG_10%7C2.6MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@213.183.63.60:9029#%F0%9F%87%A7%F0%9F%87%ACBG_12%7C3.0MB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066#%F0%9F%87%A7%F0%9F%87%ACBG_1%7C218KB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA==@213.183.63.60:9028#%F0%9F%87%A7%F0%9F%87%ACBG_2%7C502KB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@213.183.63.60:9098#%F0%9F%87%A7%F0%9F%87%ACBG_3%7C1.8MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%ACBG_4%7C279KB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#%F0%9F%87%A7%F0%9F%87%ACBG_5%7C412KB%2Fs%7CA004-260618
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_16
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_22
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&security=reality&type=grpc&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&spx=%2FHesarWeb&serviceName=api.v2.PushService&mode=gun#%40v2ray_free_config_iran%20%7C%20V2Ray%20%7C%20%F0%9F%8C%90BG%20%7C%20%F0%9F%87%AE%F0%9F%87%B7110ms%20%7C%20%E2%9A%A13.78Mbps%20%7C%20VLESS
@@ -395,7 +391,6 @@ vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@areal2.greewebservices.ir:3435?secu
 vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@areal3.greewebservices.ir:4445?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=edge&sid=e3085d4fc679ba12&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#BG  | @Raydikalx | 30B87E
 vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@p2real33.greewebservices.ir:1330?security=reality&type=tcp&sni=play.googleapis.com&fp=ios&sid=9b60d3&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#BG  | @Raydikalx | 0306E2
 vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.242:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#BG   VLESS-TCP-RLT - WorkTitans B.V.  146.19.80.242
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpjeU5tVmpNVFUxWldVNU5EQTVaRGswT0RnMU5XTTFNekpqWlRFM05Eaz06TUdWa05ERTFObUUwWXpRNE5HUmlNRGc1WmpVd016RXpZVE5oWm1RMU9UZz0@6.bmi.ir.asopardaz.ir:35176#BG-@VPNine1
 vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?security=none&type=ws&path=%2F&host=gb.privatevip.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%ACBG_7%7C865KB%2Fs%7CM003-260806%20%5B2f6c3da5d5fc%5D
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@213.183.63.60:9064#%F0%9F%87%A7%F0%9F%87%ACBG_3%7C1.6MB%2Fs%7CA004-260618%20%5B65012ede8764%5D
 vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=none&sni=ccc.010304.xyz&fp=chrome#%F0%9F%87%A7%F0%9F%87%ACBG_2%7C756KB%2Fs%7CP002-260618%20%5B7b045b45010c%5D
