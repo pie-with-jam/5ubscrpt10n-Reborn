@@ -112,7 +112,6 @@ vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?security=
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d06d78e974491b6e&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU#%F0%9F%87%B7%F0%9F%87%B4RO_83%7C169KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.126.50.196:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4RO_102%7C674KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@154.46.31.118:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4RO_103%7C392KB%2Fs%7CF003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0480
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO  | @Raydikalx | 60A557
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#RO  | @Raydikalx | 45C460
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bu2.freeguard.org#RO  | @Raydikalx | F4A534
@@ -157,6 +156,7 @@ vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?security=reality
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@155.117.5.208:2052?security=none&type=tcp&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%B4RO_107%7C2.6MB%2Fs%7CA004-260618%20%5Bcbd2595f1117%5D
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-ms-90.next-gen-shopping.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=assets-ms-90.next-gen-shopping.com&fp=randomized&flow=xtls-rprx-vision&sid=36b707a341db758d&pbk=HA8RX24k72lyACy0T1mCDeYcUQh22XRlT4wuhj3Onl4&encryption=none#%F0%9F%87%B7%F0%9F%87%B4RO_110%7C1.3MB%2Fs%7CM003-260806%20%5Bfd5eed4297a9%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%87%B7%F0%9F%87%B4RO-154.46.31.106-0481
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0480
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#[24704][RO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.31.51:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#[41193][RO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.31.206:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#[41188][RO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
