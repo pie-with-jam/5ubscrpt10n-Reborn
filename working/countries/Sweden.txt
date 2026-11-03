@@ -562,27 +562,28 @@ trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@16.170.88.78:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[2897][SE][0][TROJAN][None][Hope_Net][2026-09-16][2026-11-01 02:55]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#[407][SE][0][TROJAN][None][proxy_kafee][2026-10-30][2026-11-01 02:54]
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AASE-95.143.196.97-3128
-vmess://ewogICAgImFkZCI6ICIzNy4xMjAuMjA5LjEyNiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuNjg1NDc0NzYueHl6IiwKICAgICJpZCI6ICJkYzBjZjIyZC1lMzVjLTRiNzctODkyNC05NzdmNjg0NDkwOWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMTAwMiwKICAgICJwcyI6ICLwn4e48J+HqlNFLTM3LjEyMC4yMDkuMTI2LTE1OTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.202.26-2719
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AASE-70.34.212.124-3053
-vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTM4NDIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpweWRRSUxoMDZBdko=@13.49.241.14:27092#%F0%9F%87%B8%F0%9F%87%AASE-13.49.241.14-5217
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-8179
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-8180
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.212-8181
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8182
-trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8579
-trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8581
-trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.16.231-8734
-trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.16.231-8736
-trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.46.49-8737
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-8739
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-8741
-trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-8742
-trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-8744
-trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8748
-trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8750
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8761
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AASE-95.143.196.97-0261
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AASE-70.34.212.124-0527
+vmess://ewogICAgImFkZCI6ICIzNy4xMjAuMjA5LjEyNiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuNjg1NDc0NzYueHl6IiwKICAgICJpZCI6ICJkYzBjZjIyZC1lMzVjLTRiNzctODkyNC05NzdmNjg0NDkwOWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMTAwMiwKICAgICJwcyI6ICLwn4e48J+HqlNFLTM3LjEyMC4yMDkuMTI2LTE1NzgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.202.26-2697
+vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTM4ODMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpweWRRSUxoMDZBdko=@13.49.241.14:27092#%F0%9F%87%B8%F0%9F%87%AASE-13.49.241.14-5258
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-8209
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-8210
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.212-8211
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8212
+trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8609
+trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8611
+trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.16.231-8764
+trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.16.231-8766
+trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.46.49-8767
+trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-8769
+trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-8771
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-8772
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-8774
+trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8778
+trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-8780
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8791
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?sni=sw.golangwikito.cfd&flow=xtls-rprx-vision&fp=ios&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?sni=swidenafterlanzerotte.space&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%232
 vless://b95eb0b3-a8dc-41ce-8bc0-888f81731e7c@static.fatcutecat.net:443?fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233
@@ -694,15 +695,10 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Sweden
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=e3daad69&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE#%F0%9F%87%B8%F0%9F%87%AASE_2%7C2.3MB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@144.31.217.95:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%AASE_30%7C630KB%2Fs%7CF003-260618%2001
-vless://b95eb0b3-a8dc-41ce-8bc0-888f81731e7c@static.fatcutecat.net:443?fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%232
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?sni=swidenafterlanzerotte.space&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%231
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?sni=de1.waspnest.space&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?sni=s12.bsh-net.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%234
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%235
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%236
 vless://d1f89d92-6f60-48e6-9438-240270a77602@13.49.78.36:3030?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.zwbf4SDDlILonqV9OP4jd2_hVMXulgyaykwGvIj2fR0&pbk=cnlOjcTkyS0FvkxYlaJjP1cZJAG_6c0h5oU_vx6ZC04&fp=chrome&type=grpc&serviceName=@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org-@Uvpn_org&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5003d57bcb9bf5e4# SE | 13.49.78.36
 vless://69158986-cfae-4567-8391-0f96d9d985bd@185.186.78.170:2083?security=none&encryption=none&headerType=none&type=tcp# SE | 185.186.78.170
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?security=reality&encryption=none&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de1.waspnest.space&sid=5212dad2aa9723d7# SE | 150.241.79.124
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%20C3C7E8
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#SE  | @Raydikalx | F94C4A
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#SE  | @Raydikalx | 0DCA3F
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@193.68.89.220:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Bhost%3Dmfvpn.fuchen.indevs.in%3Btls#SE  | @Raydikalx | 9245AA
@@ -735,7 +731,7 @@ vless://4cac189c-5611-4cfa-9946-bf1b2b3d152c@185.146.173.37:8080?security=none&t
 vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#SE  | @Raydikalx | E1A0F0
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.177.107:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&sni=swidenafterlanzerotte.space&type=tcp#SE  | @Raydikalx | 4CF380
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.187.145:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#SE  | @Raydikalx | 656E9D
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=swidenafterlanzerotte.space&fp=chrome&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&encryption=none#SE  | @Raydikalx | BA0A66
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=swidenafterlanzerotte.space&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&fp=qq#SE  | @Raydikalx | BA0A66
 vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@89.125.37.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se.frgcdn.xyz&type=tcp#SE  | @Raydikalx | 17AB9A
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#SE  | @Raydikalx | 5141DD
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#SE  | @Raydikalx | 0B5022
@@ -802,6 +798,9 @@ vless://acc10ba5-a222-44b3-8a1a-4f247ffc6466@89.22.224.146:43788?security=tls&ty
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&type=raw&packetEncoding=xudp&sni=cloudflare-dns.com&fp=firefox&flow=xtls-rprx-vision&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ#%F0%9F%87%B8%F0%9F%87%AASE_11%7C715KB%2Fs%7CM003-260806%20%5Bac3105dcee2a%5D
 vless://6fbd9bd1-ccd4-4e2f-a918-a0f871965763@89.22.224.146:43788?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AASE_5%7C317KB%2Fs%7CM003-260806%20%5Bb7699b20f713%5D
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE_9%7C2.0MB%2Fs%7CA004-260618%20%5Bf59a0b6b47a4%5D
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.212-8181
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-8180
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-8179
 vless://d3074030-0133-4691-ac4c-f8b8321b522a@77.221.141.20:20851?path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=none&encryption=none&host=cdn-apple.com&type=httpupgrade#soskeynet%20%20VL-HTTPUPGRADE-N/A%20%20SE%20down
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.3.54:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#soskeynet%20%20VL-TCP-%20%20SE%20127ms
 vless://5c7d90fe-f7d5-40bf-bfca-7726d5e44786@185.146.173.185:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#[15831][SE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -3159,5 +3158,5 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8110
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8689
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.golangwikito.cfd&fp=ios&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&type=tcp&headerType=none#[openproxylist.com] vless-SE
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=swidenafterlanzerotte.space&fp=chrome&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&encryption=none#[openproxylist.com] vless-SE
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?security=reality&type=tcp&packetEncoding=xudp&sni=de1.waspnest.space&fp=firefox&flow=xtls-rprx-vision&sid=5212dad2aa9723d7&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM#[openproxylist.com] vless-SE
+vmess://ewogICAgImFkZCI6ICIzNy4xMjAuMjA5LjEyNiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuNjg1NDc0NzYueHl6IiwKICAgICJpZCI6ICJkYzBjZjIyZC1lMzVjLTRiNzctODkyNC05NzdmNjg0NDkwOWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLAogICAgInBvcnQiOiAzMTAwMiwKICAgICJwcyI6ICLwn4e48J+HqlNFLTM3LjEyMC4yMDkuMTI2LTE1OTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==

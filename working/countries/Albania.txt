@@ -26,8 +26,8 @@ vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?security=realit
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prod.pl-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#[11008][AL][0][VLESS][None][lrnbymaa][2026-09-18][2026-11-01 02:55]
 vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none#[11321][AL][0][VLESS][None][lrnbymaa][2026-10-20][2026-11-01 02:54]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[987][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-1046
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8209
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-1026
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8239
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chromesecurity=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4350_@Surfboardv2ray
