@@ -165,6 +165,8 @@ vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#CY_523_@Surfboardv2ray
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#CY_524_@Surfboardv2ray
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#CY_525_@Surfboardv2ray
+vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@ee1.vpngold.ru:8443?security=reality&encryption=none&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee1.vpngold.ru&sid=385cb18df0892069#CY-@VPNine1
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#CY-@VPNine1
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh75fQ1lf5aGe5rWm6Lev5pavIiwiYWRkIjoieWg5LmR0a3U0MS54eXoiLCJwb3J0Ijo4MDgwLCJpZCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhhbmctYnJva2Utam9obi1uZWl0aGVyLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.177.107:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BECY_1%7C467KB%2Fs%7CF003-260618%2001
