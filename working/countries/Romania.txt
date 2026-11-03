@@ -86,8 +86,8 @@ vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=realit
 vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#[14319][RO][0][VLESS][None][prrofile_purple][2026-07-05][2026-11-01 02:55]
 vless://9c54d883-97a8-4b49-af23-fe052eff2c3a@193.168.140.237:443?security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=byjOBWoaPgKQoy7yj91s7Uavs9VNpBns773wt-UeRxM&fp=chrome&type=grpc&sni=ads.x5.ru&sid=3e0c480d#[9517][RO][0][VLESS][None][V2rayng_Fast][2026-10-23][2026-11-01 02:55]
 vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@95.133.245.250:2027?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&security=reality&sid=6ba7b8109dad11d1&sni=deo.skysafe.online&type=tcp#[6846][RO][0][VLESS][None][oneclickvpnkeys][2026-10-30][2026-11-01 02:54]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0524
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%87%B7%F0%9F%87%B4RO-154.46.31.106-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0524
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8387
 vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%B4%5Bwww.v2nodes.com%5D%20vless-RO-1...
 vless://33972eb3-3f57-4558-80ff-b6926480ff69@88.80.135.65:4127?path=/Telegram=@AmyraxVPN&security=&encryption=none&host=88.80.135.65&type=httpupgrade#RO_973_@Surfboardv2ray
