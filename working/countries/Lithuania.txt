@@ -170,6 +170,7 @@ ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%F0%9F%87%B1%F0%9F%87%B9LT_4%7C2.0MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%F0%9F%87%B1%F0%9F%87%B9LT_5%7C1.8MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C1.9MB%2Fs%7CA004-260618%2001
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406# LT | 93.115.24.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#LT  | @Raydikalx | CB9299
 trojan://humanity@195.181.244.216:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#LT  | @Raydikalx | 9CF989
 trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#LT  | @Raydikalx | 529EF5

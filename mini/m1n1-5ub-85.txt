@@ -1,3 +1,24 @@
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-5495
+trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@51.89.22.228:443?security=tls&sni=t1.samsung.bforward2.uk#%F0%9F%87%AC%F0%9F%87%A7GB-51.89.22.228-5498
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-5527
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-5558
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.239.193.198-5576
+trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-15.204.20.229-5581
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?security=tls&sni=edge.apple.com#%F0%9F%8F%81RELAY-104.21.24.68-5597
+trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.155.72-5604
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-104.21.24.68-5642
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5648
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-5691
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10821?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.8-5692
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-5693
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10820?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-5694
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-5695
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10825?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.8-5696
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-5697
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5698
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10820?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5699
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5700
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.9-5701
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.3-5702
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-5703
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-5704
@@ -9977,24 +9998,3 @@ trojan://3747000103274291200@95.85.93.45:443?peer=simple-coyote.adder289.quest# 
 trojan://3747000103274291200@awaited-chicken.adder289.quest:443# By EbraSha
 trojan://3747000103274291200@better-crappie.treefrog761.one:443# By EbraSha
 trojan://3747000103274291200@crucial-moccasin.adder289.quest:443# By EbraSha
-trojan://3747000103274291200@dynamic-liger.adder289.quest:443?peer=dynamic-liger.adder289.quest# By EbraSha
-trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443# By EbraSha
-trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443# By EbraSha
-trojan://3747000103274291200@humble-rodent.treefrog761.one:443# By EbraSha
-trojan://3747000103274291200@integral-malamute.adder289.quest:443# By EbraSha
-trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest# By EbraSha
-trojan://3747000103274291200@open-maggot.pigeon031.one:443?peer=open-maggot.pigeon031.one# By EbraSha
-trojan://3747000103274291200@oriented-pug.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=oriented-pug.adder289.quest# By EbraSha
-trojan://3747000103274291200@polished-collie.adder289.quest:443# By EbraSha
-trojan://3747000103274291200@probable-drum.treefrog761.one:443# By EbraSha
-trojan://3747000103274291200@quality-albacore.adder289.quest:443# By EbraSha
-trojan://3747000103274291200@ultimate-civet.adder289.quest:443# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@hg.jiashumao.net:34210?allowInsecure=1&sni=hg.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@jpa-zf.jiashumao.net:29881?allowInsecure=1&sni=jpa.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@mlxy-zf.jiashumao.net:27171?allowInsecure=1&sni=mlxy.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@sg-zf.jiashumao.net:29465?allowInsecure=1&sni=sg.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@sxdx-nf.jiashumao.net:35401?allowInsecure=1&sni=nf.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@szdx-anhb.jiashumao.net:22481?allowInsecure=1&sni=ahbn.jiashumao.net# By EbraSha
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@yn-zf.jiashumao.net:40375?allowInsecure=1&sni=yn.jiashumao.net# By EbraSha
-trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one# By EbraSha
-trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp# By EbraSha
