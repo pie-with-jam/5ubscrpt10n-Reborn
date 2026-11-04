@@ -1,3 +1,4 @@
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.223:443?sni=kdlsupport.zendesk.com&allowInsecure=1# TR-TCP-NA  VN-103.77.247.223:443
 trojan://auto@104.20.20.78:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.78:443
 trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&host=pardazeshvpn-tg18.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome# TR-WS-TLS  NA-172.66.44.150:443
 trojan://NISHIKUITAN222@162.159.36.112:443?# TR-TCP-NA  NA-162.159.36.112:443
@@ -9997,4 +9998,3 @@ vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=%2F%3Fed%3D
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&security=tls&sni=cf6.rumedia-cdn.com&alpn=http/1.1&fp=chrome&type=ws&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://08ffff12-93bb-42eb-8c83-6489644a1d04@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI
 vless://160ca353-676d-4b7f-a041-0289e388b865@172.66.140.62:8880?security=none&sni=skk.moe&type=ws&host=proud-cloud-7bdd.208-a52.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
-vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@172.67.209.127:8880?security=none&type=ws&host=calm-silence-d4a1.217.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS

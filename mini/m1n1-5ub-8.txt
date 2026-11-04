@@ -1,3 +1,4 @@
+vless://2My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#TR_764_@Surfboardv2ray
 vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#US_765_@Surfboardv2ray
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=kind-wolf.cdn.cachefleet.com&type=tcp#NL_766_@Surfboardv2ray
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#NL_767_@Surfboardv2ray
@@ -9997,4 +9998,3 @@ trojan://NISHIKUITAN222@104.19.71.183:443?allowInsecure=0# TR-TCP-NA  NA-104.19.
 trojan://auto@104.20.20.152:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.152:443
 trojan://auto@104.20.19.119:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.19.119:443
 trojan://NISHIKUITAN222@173.245.59.133:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=%2F# TR-WS-TLS  NA-173.245.59.133:443
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.223:443?sni=kdlsupport.zendesk.com&allowInsecure=1# TR-TCP-NA  VN-103.77.247.223:443
