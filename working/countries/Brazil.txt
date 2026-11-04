@@ -16,9 +16,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls#[284]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[285][BR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-01][2026-11-01 02:55]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls#%F0%9F%87%A7%F0%9F%87%B7BR-216.238.104.154-0532
 vmess://ewogICAgImFkZCI6ICI3OC4xMTEuMTAyLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAzMzg5LAogICAgInBzIjogIvCfh6fwn4e3QlItNzguMTExLjEwMi4yMzItMDc0MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?allowInsecure=0&sni=de9.pad-sservice.lat&type=ws&host=de9.pad-service.com&path=/DE9Wsecurity=tls#BR_speednode_0003
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?allowInsecure=0&sni=de9.pad-sservice.lat&type=ws&host=de9.pad-service.com&path=/DE9Wsecurity=tls#BR_speednode_0003
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#Brazil
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJpcC52NiDwn4ep8J+HqiA1LXp2MGJyIiwKICAiYWRkIjogImRkamRqLnYydHJ5LnNicyIsCiAgInBvcnQiOiAxNzU3NiwKICAiaWQiOiAiYjNkMGUwZTAtYjg5ZC00YTFjLThlNTItNjkwZmMwYTg2ZmM5IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAia2NwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogImhONFI3VmxEbHYiCn0=
 vmess://eyJhZGQiOiAiMTcyLjIzMy4xNC4xNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3QlJfMjM0X0BTdXJmYm9hcmR2MnJheSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
@@ -43,12 +42,14 @@ vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&fl
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_6%7C697KB%2Fs%7CM003-260806%20%5Bb2a0ead00561%5D
 trojan://humanity@179.255.132.69:443?sni=www.cordweave.com#%F0%9F%87%A7%F0%9F%87%B7BR_02
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_25%7C353KB%2Fs%7CF003-260618%2001
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C703KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_3%7C663KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_4%7C697KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_5%7C713KB%2Fs%7CC002-260622
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C667KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_3%7C719KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_4%7C672KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_5%7C709KB%2Fs%7CC002-260622
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_6%7C200KB%2Fs%7CM003-260806
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR+%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR%2b%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
 ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#BR  | @Raydikalx | F5A15A
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443#BR  | @Raydikalx | 2F52D9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
@@ -67,6 +68,7 @@ trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&al
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_3%7C723KB%2Fs%7CA004-260618%20%5B001ecce78984%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_5%7C629KB%2Fs%7CM003-260806%20%5B24ac2f848636%5D
 vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@146.235.59.153:2053?security=tls&type=ws&path=%2F&host=shin-ra.ccwu.cc&packetEncoding=xudp&sni=shin-ra.ccwu.cc&fp=unsafe&encryption=none#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C263KB%2Fs%7CF003-260618%20%5Bfce6475ff97f%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#[9532][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#[44085][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#[9531][BR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -295,5 +297,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#BR Da410
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F%87%B7%20BR%2038.54.57.90%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Kaopu%20Cloud%20HK%20Limited%20%2F%20LightNode-BR%20%E2%97%88%20eb687
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%5Bwww.v2nodes.com%5D%20trojan-BR-...
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[openproxylist.com] trojan-BR
