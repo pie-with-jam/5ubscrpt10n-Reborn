@@ -177,8 +177,7 @@ vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reali
 vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?path=%2F&security=tls&encryption=none&insecure=0&host=hw14.roghanmo.com&type=ws&allowInsecure=0&sni=hw14.roghanmo.com.#ar14n24b%20%20VL-WS-N/A%20%20DE%20142ms
 vless://a356fa77-7199-417a-80dd-0c0925789161@hw5.roghanmo.com:465?path=%2F&security=tls&encryption=none&insecure=0&host=hw5.roghanmo.com&type=ws&allowInsecure=0&sni=hw5.roghanmo.com.#ar14n24b%20%20VL-WS-N/A%20%20DE%20down
 vless://c7f0b683-61ea-48c5-93f1-783459ba2124@piracy-android.video-streams.org:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=piracy-android.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=piracy-android.video-streams.org#ar14n24b%20%20VL-WS-N/A%20%20US%203ms
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#[1287][AR][0][TROJAN][None][free4allVPN][2025-11-23][2026-11-01 02:55]
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#[1286][AR][0][TROJAN][None][free4allVPN][2025-11-23][2026-11-01 02:54]
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#[1274][AR][0][TROJAN][None][free4allVPN][2025-11-23][2026-11-04 03:39]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0770
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#%f0%9f%87%a6%f0%9f%87%b7AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
