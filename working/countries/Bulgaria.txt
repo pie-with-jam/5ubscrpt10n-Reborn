@@ -309,7 +309,6 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=
 ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%F0%9F%87%A7%F0%9F%87%ACBG_3%7C2.4MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%ACBG_4%7C2.6MB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.143.204.237:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%ACBG_10%7C712KB%2Fs%7CF003-260618%2001
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@bg1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg1.fox-lisa.ru&sid=027af64166562b09# BG | 185.246.131.55
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpjeU5tVmpNVFUxWldVNU5EQTVaRGswT0RnMU5XTTFNekpqWlRFM05Eaz06T0RjMU9UUXlZell4WkRReU5EWTRNV0kwT1dJMU1qRmhNbUptTVRCbE9HTT0=@6.bmi.ir.asopardaz.ir:35176#BG  | @Raydikalx | 358CDC
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#BG  | @Raydikalx | B3868C
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#BG  | @Raydikalx | 601424
@@ -890,4 +889,5 @@ ss://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encr
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-0288
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.36.192-7942
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#%f0%9f%87%a7%f0%9f%87%ac%20BG%201
-vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=77bb0d07bddbc832&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo#[openproxylist.com] vless-BG
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-BG-3...%20%231
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?&security=tls&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchromefp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-BG-3...%20%232

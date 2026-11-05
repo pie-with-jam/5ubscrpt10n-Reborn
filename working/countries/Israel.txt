@@ -31,8 +31,7 @@ vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1IL_3%7C141KB%2Fs%7CA004-260618
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1IL_4%7C1.5MB%2Fs%7CA001-260618
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@il.mjt001.com:443?allowInsecure=1&sni=il.mjt001.com#IL%e4%bb%a5%e8%89%b2%e5%88%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com# IL | 64.176.163.182
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#IL  | @Raydikalx | 7C445A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#IL  | @Raydikalx | 7C445A
 vless://02722550-1915-4629-a653-cbe95e594f70@188.72.103.3:443/?type=xhttp&encryption=none&flow=&security=tls&sni=cdnapi.streamru15.net&alpn=h2,http/1.1&fp=chrome#IL  | @Raydikalx | 9FE840
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#IL  | @Raydikalx | B6A72D
 vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@188.72.103.4:443/?type=xhttp&encryption=none&flow=&security=tls&sni=ru.nnight.cfd&fp=chrome#IL  | @Raydikalx | DA0F44
@@ -97,4 +96,4 @@ ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#[10735][IL][0][SS][None]
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@169.150.202.174:990#%F0%9F%87%AE%F0%9F%87%B1%20IL%20169.150.202.174%20%E2%97%88%20tcp%3A990%20%E2%97%88%20DataCamp%20Limited%20%2F%20Cdn77%20TLV%20%E2%97%88%206c54a
 ss://4352f2a7-d620-474e-9249-e866774a2c81@5.188.94.5:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#[1849][IL][0][SS][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.185.134.70:1080#%f0%9f%87%ae%f0%9f%87%b1%20IL%201
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#[openproxylist.com] trojan-IL
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#%5Bwww.v2nodes.com%5D%20trojan-IL-...

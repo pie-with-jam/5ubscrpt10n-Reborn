@@ -293,3 +293,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#BR Da410
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F%87%B7%20BR%2038.54.57.90%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Kaopu%20Cloud%20HK%20Limited%20%2F%20LightNode-BR%20%E2%97%88%20eb687
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-BR-...
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003
