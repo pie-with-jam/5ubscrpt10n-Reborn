@@ -1,12 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.114.69:5601#4Sarina-2233
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:3306#4Sarina-2234
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:3389#4Sarina-2235
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:5000#4Sarina-2236
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:5600#4Sarina-2237
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:8888#4Sarina-2238
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.20:5000#4Sarina-2239
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.87:3306#4Sarina-2240
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.87:3389#4Sarina-2241
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.87:5000#4Sarina-2242
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.99:5001#4Sarina-2243
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.99:5600#4Sarina-2244
@@ -9998,3 +9989,12 @@ ss://9e0af40e-b2c6-4634-a79a-1554efd60093@itv2ray.ddns.net:666/?type=grpc&encryp
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[8420][US][0][SS][None][free1_vpn][2026-07-14][2026-07-28 02:00]
 ss://31ee875d-63cf-4d85-839e-2def5ca4f794@master.bluesky1.monster:27900?security=none&type=tcp&host=kukala.ir&headerType=http&path=%2F#[1421][US][0][SS][None][shopingv2ray][2023-12-17][2026-07-28 02:00]
 ss://Telegram-%40Cooonfig-%40Cooonfig@65.109.217.136:80?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#[4710][UnResolvedDomains][0][SS][None][lrnbymaa][2026-06-30][2026-07-28 02:00]
+ss://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#[9661][UnResolvedDomains][0][SS][None][proxy_mtm][2026-07-23][2026-07-28 02:00]
+ss://YWVzLTI1Ni1nY206NFM4NUxGMlEzUUs5MjE3MQ==@w72tapyb.slashdevslashnetslashtun.net:18008#[5447][UnResolvedDomains][0][SS][None][mftizi][2025-02-26][2026-07-28 02:00]
+ss://fac084f8-33a2-4e47-902c-9d1c1526094b@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#[9688][UnResolvedDomains][0][SS][None][Configforvpn01][2023-12-15][2026-07-28 02:00]
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22223?encryption=none&security=none&type=tcp#[7652][FR][0][SS][None][DirectVPN][2026-07-20][2026-07-28 02:00]
+ss://983ca061-f7ba-493a-8482-2896163b3584@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#[4338][UnResolvedDomains][0][SS][None][rxv2ray][2025-12-13][2026-07-28 02:00]
+ss://475823b6-71f6-4a63-a7de-0ecf0958f8db@104.21.52.100:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-011.signalo3gjj.site&fp=chrome&type=ws&allowInsecure=0&sni=ad-011.signalo3gjj.site#[1918][US][0][SS][None][shh_proxy][2026-07-09][2026-07-28 02:00]
+ss://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#[1480][NL][0][SS][None][marambashi][2026-07-22][2026-07-28 02:01]
+ss://eefcf749-fcfc-4321-b974-2828d4acb15c@allrevolt.r8volt.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=guerrilla-games.com&fp=chrome&security=reality&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#[9241][UnResolvedDomains][0][SS][None][Capital_NET][2023-09-12][2026-07-28 02:00]
+ss://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#[5763][IR][0][SS][None][FreakConfig][2026-07-27][2026-07-28 02:00]

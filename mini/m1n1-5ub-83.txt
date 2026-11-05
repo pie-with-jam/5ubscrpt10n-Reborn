@@ -1,19 +1,3 @@
-trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#4Mohsen-4708
-trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#4Mohsen-4709
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?allowInsecure=1&sni=syndication-statutes-wanted-logo.trycloudflare.com&ws=1&wspath=%2Fargox-tr#4Mohsen-4710
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#4Mohsen-4711
-trojan://b21af1e78d194c2093aabbee770c8529@118.142.17.238:443?security=tls&sni=www.gpt123.one&allowInsecure=1&type=tcp#4Mohsen-4712
-trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#4Mohsen-4713
-trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#4Mohsen-4714
-trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@103.224.182.210:443?security=tls&sni=14.earths.team&allowInsecure=1&type=tcp#4Mohsen-4715
-trojan://b3df8f31-da3a-4cda-90b1-b3b777cd48e7@51.255.49.192:443?security=tls&sni=ba24.ir&allowInsecure=1&type=tcp#4Mohsen-4716
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?allowInsecure=1&sni=www.nintendogames.net#4Mohsen-4717
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?security=tls&sni=www.nintendogames.net#4Mohsen-4718
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#4Mohsen-4719
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?sni=www.nintendogames.net#4Mohsen-4720
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?allowInsecure=1&sni=www.nintendogames.net#4Mohsen-4721
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?security=tls&sni=www.nintendogames.net#4Mohsen-4722
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#4Mohsen-4723
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?sni=www.nintendogames.net#4Mohsen-4724
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.229:38937?allowInsecure=1&sni=www.nintendogames.net#4Mohsen-4725
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.229:38937?security=tls&sni=www.nintendogames.net#4Mohsen-4726
@@ -9998,3 +9982,19 @@ trojan://c4da094b-3487-4607-b703-bc380ea3f461@aafrtpfxr.twl01i9zjfegelp.5xfsur8v
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[858][US][0][TROJAN][None][V2rayng_Fast][2026-07-20][2026-07-25 02:07]
 trojan://humanity@104.16.62.25:443?encryption=none&security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2Fassignment#[825][UnResolvedDomains][0][TROJAN][None][DeamNet_Proxy][2026-07-19][2026-07-25 02:07]
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1#[1160][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-18][2026-07-25 02:07]
+trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?security=tls&type=tcp&headerType=none#[115][UnResolvedDomains][0][TROJAN][None][mftizi][2024-10-26][2026-07-25 02:07]
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#[200][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-06-23][2026-07-25 02:07]
+trojan://cc491f13e9@51.158.63.14:443?security=tls&sni=fra1.connecton.surf&type=tcp#[767][UnResolvedDomains][0][TROJAN][None][VPNGate_Config][2023-09-30][2026-07-25 02:07]
+trojan://rdC7DTr5wK@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=si.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=si.farxmode.ir#[1129][UnResolvedDomains][0][TROJAN][None][vpn_tehran][2026-06-30][2026-07-25 02:07]
+trojan://---------%42%61%6E%56%32%72%61%79------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8#[47][UnResolvedDomains][0][TROJAN][None][proxy_mtm][2026-07-24][2026-07-25 02:07]
+trojan://Mitivpn@151.101.56.6:443?path=%2Fboost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[567][US][0][TROJAN][None][prrofile_purple][2026-06-26][2026-07-25 02:07]
+trojan://MiTiVPN@151.101.1.194:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=chrome&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dsws&sni=ssl.fastly.com&type=ws#[435][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-24][2026-07-25 02:07]
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#[740][UnResolvedDomains][0][TROJAN][None][yaney_01][2024-04-19][2026-07-25 02:07]
+trojan://ON38567014@one-quail.rooster465.autos:443?fp=chrome#[645][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-20][2026-07-25 02:07]
+trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[814][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-07-10][2026-07-25 02:07]
+trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#[1155][UnResolvedDomains][0][TROJAN][None][free4allVPN][2025-10-30][2026-07-25 02:07]
+trojan://MITIVPN@188.114.97.6:443?type=ws&host=8jidkdj282-2ododb-28.mAQror.Ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN%3Dde--win&security=tls&fp=chrome&sni=9bvv292-28bv3-3j82vv-jkk282-8bvc2.Maqror.Ir&alpn=http/1.1#[384][US][0][TROJAN][None][DarkTeam_VPN][2026-07-17][2026-07-25 02:07]
+trojan://humanity@45.130.125.112:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=chrome&type=ws&path=/assignment#[1057][UnResolvedDomains][0][TROJAN][None][v2ray_vpn_ir][2026-07-20][2026-07-25 02:07]
+trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=jobscareerfortoday.com&fp=chrome&type=ws&sni=jobscareerfortoday.com#[123][UnResolvedDomains][0][TROJAN][None][ConfigsHUB][2026-07-25][2026-07-25 02:07]
+trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#[399][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-07][2026-07-25 02:07]
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#[204][UnResolvedDomains][0][TROJAN][None][rxv2ray][2025-10-23][2026-07-25 02:07]

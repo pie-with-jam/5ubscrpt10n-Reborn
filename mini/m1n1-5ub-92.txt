@@ -1,19 +1,3 @@
-trojan://telegram-id-privatevpns@13.36.253.90:22222?type=tcp&security=tls&headerType=none&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1# By EbraSha
-trojan://telegram-id-privatevpns@13.36.253.90:22222?type=tcp&security=tls&headerType=none&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1# By EbraSha
-trojan://telegram-id-privatevpns@13.36.26.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.26.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.29.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.29.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.32.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.35.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.44.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.46.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.47.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
-trojan://telegram-id-privatevpns@13.36.48.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.49.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.49.197:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.49.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@13.36.49.219:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@13.36.49.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@13.36.49.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@13.36.51.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
@@ -9998,3 +9982,19 @@ trojan://d7ca0e41-0799-40c2-b7eb-bb2ed0281f93@8t6w02.abzoones.xyz:36306
 trojan://1e85da50-c97a-4431-986e-6296b889c28b@6w7j3p01.mcfront.xyz:31306
 trojan://ddcc589b-146e-4eab-9957-800ac92a8db1@6w7j3p03.mcfront.xyz:31111
 trojan://d7ca0e41-0799-40c2-b7eb-bb2ed0281f93@7p3h01.abzoones.xyz:36801
+trojan://0f218d19-cdfa-475d-bf65-8f0d7e5331a5@dl-us2.steamdownload.top:443
+trojan://81432434-ac6a-4992-9abe-c4f140bcb379@1c7s2g03.mcfront.xyz:31211
+trojan://36d9d131-6319-4758-b4ce-3011f0afc72a@hkt.iamnotagoodman.com:443
+trojan://f8d19ba5-8684-45f2-8523-77dbea588955@jp.iamnotagoodman.com:443
+trojan://YWVzLTI1Ni1nY206WWd1c0gyTac5a3ef0-b4ablWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d02536ebef7d1b1d6205fd0c55f28800e674@hk-server-02.selfupay.com:443
+trojan://49df813f-555b-465a-9fe4-e85558e1e681@zzus01.gutingting.com:20220
+trojan://8965bbcb-c028-4136-a92d-f3a09f5fac56@sg0001.170203.xyz:443
+trojan://6b0333aab4d046ebacc35e04f426cb82@hk01.shenzhouplus.cf:10009
+trojan://eb5ed2f8-e74a-421c-9d1e-39af8e90e97a@6w7j3p01.mcfront.xyz:31821
+trojan://db467204-04c2-4f7a-909f-8daf6424fadc@dl-hk6.steamdownload.top:443
+trojan://cfd8d443-a9de-4966-8d2f-7ad5b994f86a@gzdx1.170203.xyz:11376
+trojan://043c7441-f354-42b7-91ce-398c4b0b29ea@5m4h0k03.mcfront.xyz:31611
+trojan://83424e8d-5734-41ad-a0fa-0235bfb62b9c@5c1a01.abzoones.xyz:36701
+trojan://493a62cf-e685-42da-9a30-cad8ddf1b559@gzdx1.170203.xyz:27528
+trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@103.173.255.228:28000?allowInsecure=1&sni=huayun.xyz
+trojan://7b6991cf-2d91-4e2d-a59a-148b52edec75@3d1c4a01.mcfront.xyz:31701
