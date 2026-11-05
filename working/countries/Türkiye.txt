@@ -3655,4 +3655,4 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
 vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@153.56.210.61:443?security=reality&type=tcp&packetEncoding=xudp&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&encryption=none#[openproxylist.com] vless-TR
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@146.103.24.187:8443?&security=tls&fp=firefox&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-3...
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=safari&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#[openproxylist.com] vless-TR
