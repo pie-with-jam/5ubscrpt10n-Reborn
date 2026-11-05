@@ -443,7 +443,7 @@ vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&s
 vless://193528c4-26e4-43b1-baa9-d1b5b3a2fd3b@46.8.100.37:15012?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=46.8.100.37#AE  | @Raydikalx | 1A12CE
 vless://43a26f1a-99b7-4b17-98c7-b836fb466999@178.83.122.128:443?security=reality&encryption=none&fm={"tcp":[{"settings":{"delays":["0","0"],"length":"256","packets":"tlshello","maxSplit":"2"},"type":"fragment"}]}&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gb-v.global-cdn.org&sid=7a3f9e2b1c8d4f6a#AE  | @Raydikalx | 8C8214
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?path=/&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws#AE  | @Raydikalx | 91F342
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless&host=95.174.68.188&packetEncoding=xudp#AE  | @Raydikalx | 64BB8E
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?encryption=none&host=95.174.68.188&path=/vless&security=none&type=ws#AE  | @Raydikalx | 64BB8E
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#AE  | @Raydikalx | 3BEC03
 vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@46.8.125.64:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#AE  | @Raydikalx | DE4918
 vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#AE  | @Raydikalx | 01F2A0
@@ -1360,6 +1360,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:801#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-6283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVUVZZ0JJdjNVaW5FWWNCL0hhNUpmNzkyQUVqeU53bkd1MGhJS0srbzVRPQ==@e1.cover20.ir:51570#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB%2Fs
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&host=95.174.68.188&path=%2fvless#%f0%9f%87%a6%f0%9f%87%aa%20AE%201
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless&host=95.174.68.188&packetEncoding=xudp#[openproxylist.com] vless-AE
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-AE
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-AE
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-AE
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%231
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-AE-1...%20%232
