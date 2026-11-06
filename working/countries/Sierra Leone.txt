@@ -1,1 +1,2 @@
-vless://6635ed18-8671-45d8-8a78-e1221ba8b008@sl.anselteam.monster:8443?type=ws&security=tls&path=/&sni=wht.anselteam.monster&fp=chrome#sl.anselteam.monster:8443
+vless://2638a2fb-48f4-4595-bbdd-c1ba3f13c861@sl2.anselshp.ir:220?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20sl2.anselshp.ir%3A220
+vmess://eyJhZGQiOiIyMDY2MjZiNy5mbHp4ajJvYTVzbDBqN24uZTdtYnFoeC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3YmJkYTAtMzc3My0zZTg5LThhMWMtMTU1NTdlYzUwODAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTkzNCIsInBzIjoiXHVEODNDXHVERjEwIFVua25vd24gLSBVbmtub3duIHwgMjA2NjI2YjcuZmx6eGoyb2E1c2wwajduLmU3bWJxaHguY29tOjU5OTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

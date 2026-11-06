@@ -1,3 +1,5 @@
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@tn.mxspeed8-1.ir:8880?encryption=none&security=none&type=ws&headerType=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20tn.mxspeed8-1.ir%3A8880
+vless://3780c8bf-2f9b-436f-b4cf-2be3afe97bdd@tn.pingtools.net:2087?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp&sni=3780c8bf-2f9b-436f-b4cf-2be3afe97bdd.skyroom.online#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20tn.pingtools.net%3A2087
 vless://87b914ba-c4ba-4760-b485-cb55ebeb0c32@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-145
 vless://63b9192c-0beb-4b7d-8ad2-4faa5acdff2e@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-146
 vless://5fa9d30f-081b-40f9-8512-dae4e34ea9fc@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-147
