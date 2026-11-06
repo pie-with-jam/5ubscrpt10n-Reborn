@@ -131,4 +131,7 @@ https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1
 https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-111.txt
 https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-112.txt
 https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-113.txt
+https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-114.txt
+https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-115.txt
+https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-116.txt
 ```

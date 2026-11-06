@@ -34,23 +34,22 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAcGhfb25leDw9PdqG2YbZhCDYqtmE2q/Ysdin2YUt
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#PH_3782_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_4625_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_4626_@Surfboardv2ray
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH-149.104.109.252-0196
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C540KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&peer=ph001.zestapp778.com&security=tls#ph001.zestapp778.com:46298
-vless://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?type=tcp&security=reality&sni=ae.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#PH
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@61.245.11.164:443?type=tcp&security=reality&sni=ph-1.kihsuyhf8jkiugsxb.cfd&fp=firefox&flow=xtls-rprx-vision&pbk=19h48_R3YFHGEKiWsZi0kHgum4AJgyPsuJuui7K8q3A#PH
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
+vless://26524cce-d514-4014-a426-365fb266a14d@8.220.180.112:80?path=/danfeng?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xy1ej.stream-node-us.danfeng.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=xy1ej.stream-node-us.danfeng.qzz.io#[1772][PH][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04
+vless://26524cce-d514-4014-a426-365fb266a14d@8.220.180.112:80?security=tls&sni=xy1ej.stream-node-us.danfeng.qzz.io&fp=firefox&alpn=http%2F1.1&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=xy1ej.stream-node-us.danfeng.qzz.io#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-42
+vless://caafb022-ed9a-47a5-f35f-cffe760c9d22@free.bartartek.ir:53285?security=reality&encryption=none&pbk=mbok0ZF27k8XOyqh6r_hwou60jUhw7vctMjlQdsj_Ec&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=eset.com&sid=3282a4#Free-Telegram:+@BarTarTek_ph
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiLVx1MDAzZVBIIChARGVhbU5ldF9Qcm94eSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com#PH  | @Raydikalx | 226DC5
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp#PH  | @Raydikalx | 3DD07A
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH  | @Raydikalx | 3DD07A
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C389KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C542KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C454KB%2Fs%7CM003-260806%20%5B19949bc39375%5D
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_5%7C482KB%2Fs%7CM001-260618%20%5B61a45a53a9ad%5D
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C436KB%2Fs%7CM003-260806%20%5Ba8253b6209aa%5D
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C517KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C439KB%2Fs%7CM001-260618%20%5Bcd761f8ea127%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C389KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
-vmess://ewogICAgImFkZCI6ICIxMjAuMjguMTAuNDYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzYXpnYXIuc2VydmVpcmMuY29tIiwKICAgICJpZCI6ICJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HtfCfh61QSC0xMjAuMjguMTAuNDYtMTIwNyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B5%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-PH-...
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#PH_2745_@Surfboardv2ray
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#PH_2746_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.148:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_3375_@Surfboardv2ray
