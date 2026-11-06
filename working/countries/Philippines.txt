@@ -39,6 +39,7 @@ trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&ty
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?allowInsecure=1&sni=ph001.zestapp778.com#PH  | @Raydikalx | 226DC5
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#PH  | @Raydikalx | A8AFEC
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH  | @Raydikalx | 3DD07A
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C389KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C542KB%2Fs%7CM003-260806%20%5Bbccfafa6565b%5D
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_3%7C454KB%2Fs%7CM003-260806%20%5B19949bc39375%5D

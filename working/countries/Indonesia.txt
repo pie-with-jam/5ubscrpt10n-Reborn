@@ -380,6 +380,7 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?sni=id1.nathaya
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C377KB%2Fs%7CM003-260806%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C186KB%2Fs%7CB007-260618%2001
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3ID
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headertype=none#%F0%9F%87%AE%F0%9F%87%A9Indonesia+-%3E+%F0%9F%87%AE%F0%9F%87%A9Indonesia+%E2%9A%A1@DeamNet_Proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#ID  | @Raydikalx | 49126A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#ID  | @Raydikalx | FE15AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 27BFAA
