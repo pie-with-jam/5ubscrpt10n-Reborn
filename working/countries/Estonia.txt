@@ -81,11 +81,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=%2F&securit
 trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#[2534][EE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 trojan://xxoo@138.124.183.226:443?security=tls#[2535][EE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 trojan://xxoo@138.124.183.216:443?security=tls#[2533][EE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
-vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNTk0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.222-3121
-trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3518
-trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.226-3607
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-5044
+vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNjk4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.222-3201
+trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3598
+trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.226-3687
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-5124
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#%F0%9F%87%AA%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-EE-1...
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?sni=www.samsung.com&fp=chrome&security=tls#%F0%9F%87%AA%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-EE-1...%20%231
 vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?#%F0%9F%87%AA%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-EE-1...%20%232
@@ -339,7 +339,9 @@ vmess://eyJhZGQiOiAib3IzLnNmYWNnLnVrIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vmess://eyJhZGQiOiAibm9kZS5zb2NrczUua2Rucy5mciIsICJhaWQiOiAiMCIsICJob3N0IjogInNvZnRiYWxsLWNoaWVmLW9ic2VydmF0aW9ucy1teXNwYWNlLnRyeWNsb3VkZmxhcmUuY29tIiwgImlkIjogImU1MzczMmQ5LTg1YzYtNDRmZS05MWViLTUyZmU5MzQ5ZGNjYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZTUzNzMyZDktODVjNi00NGZlLTkxZWItNTJmZTkzNDlkY2NjLXZtIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIjRTYXJpbmEtYzZiZGE3ZjBlZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic29mdGJhbGwtY2hpZWYtb2JzZXJ2YXRpb25zLW15c3BhY2UudHJ5Y2xvdWRmbGFyZS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAicGxhbmIubW9qY24uY29tLmxpbnV4bGgueGluIiwgImFpZCI6IDAsICJob3N0IjogImQyZTdmNWQxMTBiYTZkNGIxMjJiNDcyM2IxM2VjYzhmLm1vYmdzbGIudGJjYWNoZS5jb20iLCAiaWQiOiAiN2I5ZDQ4MGItZmY1YS00ZmRlLWExOTItYWM3OTEzMWNhYTlhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE2NjIyLCAicHMiOiAiNE1vaHNlbi1lZTRhZTNlNzI0IiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAieEdxT3BpaUpMRGdhZWROUS52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAieEdxT3BpaUpMRGdhZWROUS52LjNkbnMudmlwIiwgImlkIjogIjg3OTU4NjBiOTJlNzQzMTZhYTMyYjE5NjQzNTFlNzcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy12bWVzcyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICI0RnJlZUlyYW4tZWUyMTI0ZDQwNiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAieEdxT3BpaUpMRGdhZWROUS52LjNkbnMudmlwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@201.8.71.38:443?security=reality&type=tcp&packetEncoding=xudp&sni=71b840t.de7.h1clayd.click&fp=chrome&sid=e572b6579ea525d4&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_1%7C404KB%2Fs%7CM003-260806
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_2%7C302KB%2Fs%7CM003-260806
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?security=reality&type=tcp&packetEncoding=xudp&sni=files.porsche.com&fp=chrome&flow=xtls-rprx-vision&sid=1a2b3c4d&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_3%7C86KB%2Fs%7CS004-260618
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&type=tcp&packetEncoding=xudp&sni=ee2.japancase.site&fp=chrome&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_4%7C455KB%2Fs%7CB007-260618
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%F0%9F%87%AA%F0%9F%87%AAEE_3%7C1.4MB%2Fs%7CA004-260618%2001
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?security=none&type=ws&path=/&packetEncoding=xudp&sni=estproxy4.lockdwn.com#%F0%9F%87%AA%F0%9F%87%AAEE_4%7C702KB%2Fs%7CA004-260618%2001
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=109.206.241.10&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AAEE_12%7C1.3MB%2Fs%7CB007-260618%2001
@@ -359,7 +361,7 @@ trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@ee1.nngo.cc:443?security=tls&sni=ee1.n
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.aava.lalibobi.online:443?security=tls&sni=checkout.aava.lalibobi.online&fp=&type=tcp#EE  | @Raydikalx | 3EB5C0
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?security=tls&sni=checkout.salu.lalibobi.online&fp=&type=tcp#EE  | @Raydikalx | 099345
 trojan://wQz5G4ybA9eC3BQDkd@ee-1.kamediorg.com:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ee-1.kamediorg.com#EE  | @Raydikalx | 55E0BD
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#EE  | @Raydikalx | 29C4D9
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#EE  | @Raydikalx | 29C4D9
 vless://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ibm.com&pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&sid=e88cb983f3c97528&type=tcp&headerType=none#EE  | @Raydikalx | C4B61A
 vless://2e69b088-6ef3-417f-8247-125cf257fafd@179.254.126.164:443/?type=grpc&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=9-toGMQSTcKzSjjvJpjzhPG9le56hMNqRvx4_YKwIgY&sid=5dba4e0c74ce97dc#EE  | @Raydikalx | 37AE93
 vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=2e82d7ac#EE  | @Raydikalx | D680CC
@@ -399,6 +401,7 @@ vless://43a26f1a-99b7-4b17-98c7-b836fb466999@ee.frgcdn.xyz:443?security=reality&
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?security=reality&type=tcp&packetEncoding=xudp&sni=files.porsche.com&fp=chrome&flow=xtls-rprx-vision&sid=1a2b3c4d&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_15%7C666KB%2Fs%7CS004-260618%20%5B6aa93f622a85%5D
 vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=2e82d7ac&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_11%7C308KB%2Fs%7CS004-260618%20%5B7881e2953d89%5D
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_12%7C2.5MB%2Fs%7CM003-260806%20%5Bd2a203d09000%5D
+trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3518
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#[4939][EE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#[6696][EE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@138.124.100.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee4.fast-connect-service.site&type=tcp#[14394][EE][0][VLESS][None][oneclickvpnkeys][2026-08-12][2026-08-16 00:34]
@@ -1293,4 +1296,5 @@ ss://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encry
 ss://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#[7841][EE][0][SS][None][vpnx44][2026-07-17][2026-07-25 02:07]
 ss://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#[7844][EE][0][SS][None][free1_vpn][2026-07-17][2026-07-25 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-5191
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#[openproxylist.com] vless-EE
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-EE-1...
+vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-EE-1...%20%231

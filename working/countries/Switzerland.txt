@@ -169,9 +169,10 @@ trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#[189][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#[195][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#[182][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.19-0509
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3483
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5054
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0673
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.19-0540
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3563
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5134
 vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?sni=s3-fi-1.rucdn777.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?sni=twitch.tv&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%231
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%232
@@ -236,6 +237,10 @@ vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@ch-xh01.tcp-reset-club.net:443?secu
 vless://CH_A2L__PG_A2L@185.225.201.145:18789?encryption=none&security=none&type=tcp&headerType=none&path=%2FCH_A2L__PG_A2L#%40CH_A2L%2B%40PG_A2L
 vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal5.greewebservices.ir:5455?security=reality&type=tcp&packetEncoding=xudp&sni=amp-api-edge.apps.apple.com&fp=edge&sid=e3085d4fc679ba12&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_59%7C1.4MB%2Fs%7CM003-260806%20%5Bd58174d8c95a%5D
 vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@netlivpn5505.ffffdsaaa.workers.dev:443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C654KB%2Fs%7CB007-260618%2001
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C239KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C369KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C165KB%2Fs%7CC002-260622
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH_5%7C110KB%2Fs%7CM003-260806
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0728
 vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%A8%F0%9F%87%AD%2BSwitzerland
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.189.2.206:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_12%7C1.1MB%2Fs%7CF003-260618%2001
@@ -342,6 +347,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY#%F0%9F%87%A8%F0%9F%87%ADCH_18%7C411KB%2Fs%7CM002-260618%20%5Bf47a3c2da604%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_53%7C1.6MB%2Fs%7CM003-260806%20%5Bf5d6147fc3a8%5D
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?security=tls&type=ws&path=%2Fevents%2Fclassfp%3Dchrome&host=vp7.1145678.xyz&packetEncoding=xudp&sni=vp7.1145678.xyz&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_50%7C944KB%2Fs%7CA001-260618%20%5Bff2fb4288f83%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.19-0509
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#[10756][CH][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?security=none&type=tcp&headerType=none&encryption=none#[40938][CH][0][VLESS][None][shopingv2ray][2023-11-17][2026-08-16 00:34]
 vless://8bbee7e0-2dae-4810-887d-f14d0c6085aa@184.tradeip.store:443?security=reality&encryption=none&pbk=aJZZHw8BiVQMsFDsMrujF5ah2uH2FOfXd_YhjmbiyCA&headerType=none&fp=chrome&spx=/cef185ec44fa75d&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=49#[23202][CH][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -1281,5 +1287,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#[5142][CH][0][SS][None]
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#/Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#/Switzerland
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#[openproxylist.com] trojan-CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=1&sni=courses.yourultimateprofessionalcareerhub.com#[openproxylist.com] trojan-CH
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#[openproxylist.com] trojan-CH
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%235
