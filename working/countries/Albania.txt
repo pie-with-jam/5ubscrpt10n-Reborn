@@ -45,11 +45,8 @@ vless://f28ce4eb-62cd-45f5-b3b3-be1c1a95e335@157.22.240.20:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_2%7C455KB%2Fs%7CS004-260618
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53# AL | 147.45.221.5
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%E2%80%94%20%23163
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%E2%80%94%20%23162
-vless://b39aca97-e9f2-4a94-b87f-8748299846cd@78.159.131.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BxD77zyPkOaShiNfOkRbbJvpmSzFHIKx4xhhLR4PSQU&security=reality&sid=9c2378562188c3cb&sni=alb.denditop.site&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%E2%80%94%20%23165
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@45.15.170.237:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%E2%80%94%20%23161
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&security=reality&sid=4fc5e35bdb69d36b&sni=al.cdn.stun.su&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%E2%80%94%20%23164
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UjVsVDlwdzhucXdqVGtMdGdxaGJo@93.123.46.81:8443#AL
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&sni=pingless.com&fp=random&flow=xtls-rprx-vision&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#AL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWkdyOG5MSGRmK0ZFNVpBdzBZL1J6c21sNEF5aWtHTDQ4MVBnN2VCcHNJPQ==@130.49.189.158:43558#AL  | @Raydikalx | C7E3DD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#AL  | @Raydikalx | 666CFC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#AL  | @Raydikalx | EF9071
