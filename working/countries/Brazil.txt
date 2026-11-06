@@ -16,6 +16,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls#%F0%9
 vmess://ewogICAgImFkZCI6ICI3OC4xMTEuMTAyLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAzMzg5LAogICAgInBzIjogIvCfh6fwn4e3QlItNzguMTExLjEwMi4yMzItMDc1OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?allowInsecure=0&sni=de9.pad-sservice.lat&type=ws&host=de9.pad-service.com&path=/DE9Wsecurity=tls#BR_speednode_0003
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-BR-...%20%231
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#Brazil
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJpcC52NiDwn4ep8J+HqiA1LXp2MGJyIiwKICAiYWRkIjogImRkamRqLnYydHJ5LnNicyIsCiAgInBvcnQiOiAxNzU3NiwKICAiaWQiOiAiYjNkMGUwZTAtYjg5ZC00YTFjLThlNTItNjkwZmMwYTg2ZmM5IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAia2NwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogImhONFI3VmxEbHYiCn0=
 vmess://eyJhZGQiOiAiMTcyLjIzMy4xNC4xNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3QlJfMjA1X0BTdXJmYm9hcmR2MnJheSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
@@ -36,14 +38,21 @@ trojan://humanity@179.255.132.69:443?sni=www.cordweave.com#%F0%9F%87%A7%F0%9F%87
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_25%7C353KB%2Fs%7CF003-260618%2001
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR+%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR%2b%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#BR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#BR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.147:17283#BR
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#BR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.5.232.23:4248#BR
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_4%7C727KB%2Fs%7CC002-260622%20%5B24ac2f848636%5D
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_5%7C503KB%2Fs%7CM003-260806%20%5Bb2a0ead00561%5D
+trojan://trojan@185.133.35.46:443?sni=test-a23.pages.dev&peer=test-a23.pages.dev&security=tls#BR
+vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.164.57.152:443?type=tcp&security=reality&sni=amd.com&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#BR
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?type=tcp&security=reality&sni=hollandlanzerotte.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc#BR
+vless://58f12e5f-36f9-41cd-83be-d5aa443a2131@bra.hackkcah.xyz:3442?type=grpc&security=none#BR
+vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@vdsin.xvanta.online:443?type=raw&security=reality&sni=vdsin.xvanta.online&fp=firefox&flow=xtls-rprx-vision&pbk=xEDYfxVdiRkY-z7qiUvoly7fYDz4U6wI5p69oNbjWA4&sid=f9d991431c87703c#BR
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@189.44.242.222:29500?type=tcp&security=none#BR
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#br1.levikogjgfdd.ir:443
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@cz.pythonmakemigreat.wiki:61374?type=xhttp&security=reality&path=/&sni=cz.pythonmakemigreat.wiki&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI#BR
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNFUlZFUiBNRURJQSBDT01VTklDQUNBTyBMVERBIFx1MjUwNyA0NS4yMzEuMTMyLjQ0IiwiYWRkIjoiNDUuMjMxLjEzMi40NCIsInBvcnQiOjQxMjk1LCJpZCI6ImYzNjkyMWI1LTYxZjQtNGZiNC1lNTk4LTJkMGQ1MjllYTY2YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQlItMTU0Njg3IiwiYWRkIjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443#BR  | @Raydikalx | 2F52D9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
-trojan://5t6i121em5lkmsmk@216.238.116.204:39533?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#BR  | @Raydikalx | 51C39E
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?allowInsecure=1&sni=br001.zestapp778.com&type=tcp#BR  | @Raydikalx | E3724D
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?type=tcp&security=reality&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=br.monkora.org#BR  | @Raydikalx | 1365D5
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=/Channel-ELiV2RAY---ELiV2RAY?ed=2048&host=Channel-ELiV2RAY--ELiV2RAY.nET&type=ws#BR  | @Raydikalx | FE4A26
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#BR  | @Raydikalx | C83471
@@ -290,5 +299,6 @@ ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6fwn4e3IEJSIDEiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[openproxylist.com] trojan-BR
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-BR-...
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?allowInsecure=0&sni=br001.zestapp778.com#%5Bwww.v2nodes.com%5D%20trojan-BR-...
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%5Bwww.v2nodes.com%5D%20trojan-BR-...%20%231
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003

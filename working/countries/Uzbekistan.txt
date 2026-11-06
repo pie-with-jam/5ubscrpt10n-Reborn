@@ -8,7 +8,10 @@ vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#UZ_4323_@Surfboardv2ray
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#%3E%3E%40V2rayNG3%3A%3AUZ
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#%3E%3E%40V2rayNG3%3A%3AUZ
-vless://6f222ef2-bccd-4de1-94b6-c16c0f8fbbc1@panel.amazonwashop.top:32860?type=tcp&security=reality&fp=chrome&pbk=GExSPrju9nYQqtBTEKiujjPjT-Ek6qAnriWJfBV_z3Q&sni=www.speedtest.net&sid=cc6822e0&spx=%2F#uz4gfg2n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnN0V2T1JKS0s4cU1yR3Ry@45.138.158.74:20004#UZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnN0V2T1JKS0s4cU1yR3Ry@45.138.158.75:20005#UZ
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@185.76.14.21:443?type=tcp&security=reality&sni=stats.vk-portal.net&flow=xtls-rprx-vision&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#UZ
+vless://c7270753-bd18-4696-956d-57dbde1183fe@gb.puflino.com:443?type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&fp=edge&flow=xtls-rprx-vision&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1#UZ
 vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#UZ  | @Raydikalx | F9BD64
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#UZ  | @Raydikalx | 67A40E
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#UZ  | @Raydikalx | 8DD418

@@ -37,19 +37,20 @@ vless://2471e7da-5dcd-5da4-983a-3ef758abb17c@87.58.159.20:443?security=none&type
 vless://8124ddbb-bf22-49d9-945d-2e72c554deb2@den-khad-nxt.ramzshadi.ir:31770?security=reality&type=tcp&packetEncoding=xudp&sni=sheets.google.com&fp=ios&flow=xtls-rprx-vision&sid=6a2a03e809012832&pbk=GZqmhFHyMfIyRUi1k-2UDeJtjUakgZRhyXLhGLfL3Ws&encryption=none#%F0%9F%87%A9%F0%9F%87%B0DK_5%7C4.0MB%2Fs%7CV001-260618%2001
 vless://8124ddbb-bf22-49d9-945d-2e72c554deb2@den-khad-nxt.ramzshadi.ir:43312?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&sid=194eb312877c9c35&pbk=06vBWFA7tgljTVI9N1pY6L6Ls88me171hrKzeH9-7EQ&encryption=none#%F0%9F%87%A9%F0%9F%87%B0DK_6%7C918KB%2Fs%7CV001-260618%2001
 vless://awlix_ir@87.58.159.20:443?security=none&type=tcp&packetEncoding=xudp&encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU#%F0%9F%87%A9%F0%9F%87%B0DK_2%7C1.6MB%2Fs%7CS004-260618%2001
-vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C459KB%2Fs%7CA004-260618
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@193.180.209.136:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A9%F0%9F%87%B0DK_7%7C548KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@193.180.208.169:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A9%F0%9F%87%B0DK_8%7C487KB%2Fs%7CF003-260618%2001
 vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp# DK | 87.58.159.20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.104.184.78:806#%F0%9F%87%A9%F0%9F%87%B0DK-185.104.184.78-0763
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.104.184.78:808#%F0%9F%87%A9%F0%9F%87%B0DK-185.104.184.78-7521
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.104.184.78:809#%F0%9F%87%A9%F0%9F%87%B0DK-185.104.184.78-7524
-ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#DK
-ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#DK
-vless://8a2a95af-8d31-40e0-aaf0-f4b99ed8ae59@95.164.10.184:8443?type=tcp&security=reality&sni=DEDUso.su&fp=chrome&flow=xtls-rprx-vision&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#DK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#DK
+vless://1b9427d9-a318-4c3d-bf88-c8b849295897@185.9.25.99:25174?type=tcp&security=none#DK
+vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#DK
+vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C2.7MB%2Fs%7CA004-260618%20%5B50af97ac2ef9%5D
+vless://cfed68c4-fc10-4638-b3ca-140e1e873797@45.148.30.199:443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=mTNULmml_nyg58kpGZpygCwSVcVIiRbqjdRGeB6ZpDE&sid=27a20fd8f228e31b#DK
+vless://cfed68c4-fc10-4638-b3ca-140e1e873797@45.153.48.178:443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=P1AqrrfNQhPrEv6wAtwWvSsl3WDEN9X-8j4J74orXiA&sid=7713e6b2cb0e0804#DK
 vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#DK  | @Raydikalx | E00ACD
 vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#DK  | @Raydikalx | B40C3B
 vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#DK  | @Raydikalx | 42A547
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.46.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk#DK  | @Raydikalx | 596F3C
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.46.9:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU#DK  | @Raydikalx | 43086A
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#DK  | @Raydikalx | 6307C7
 vless://f8bdf363-ff05-4fe6-a013-a5605266657e@144.31.242.142:443?encryption=none&security=tls&type=xhttp&sni=883f1393.con.rasterparcel.tech&fp=chrome&alpn=h2#DK  | @Raydikalx | E99AC9
 vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#%F0%9F%87%A9%F0%9F%87%B0DK_2%7C1.7MB%2Fs%7CA004-260618%20%5B50af97ac2ef9%5D

@@ -128,6 +128,7 @@ trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5758
 vmess://ewogICAgImFkZCI6ICI0NS4xMi4xNDQuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4e+Q1ktNDUuMTIuMTQ0LjY4LTgwNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chromesecurity=tls#%F0%9F%87%A8%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-CY-1...
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-CY-1...
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#CY_552_@Surfboardv2ray
@@ -136,13 +137,17 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?encryption=none&fl
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh75fQ1lf5aGe5rWm6Lev5pavIiwiYWRkIjoieWg5LmR0a3U0MS54eXoiLCJwb3J0Ijo4MDgwLCJpZCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhhbmctYnJva2Utam9obi1uZWl0aGVyLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.177.107:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BECY_1%7C467KB%2Fs%7CF003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#CY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990#CY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@88.218.93.231:2198?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20Unknown%20%7C%2088.218.93.231%3A2198
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#CY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#CY
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@45.8.201.121:443?type=grpc&security=reality&sni=us7.bbobr.win&fp=chrome&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&sid=a59ba372400e4779#CY
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@45.8.201.83:443?type=grpc&security=reality&sni=us7.bbobr.win&fp=chrome&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&sid=a59ba372400e4779#CY
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@nl.song69.fun:443?type=tcp&security=reality&sni=metrika.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=HbK-TTnL1Dog-wKCowjLrKsx5ECIt2uxBsdGfeWG6kQ&sid=7bbf811a#CY
+vless://475b8f39-acb9-460f-b000-32127248fdb8@imtheproblem.itsnotfair.ir:2096?type=tcp&security=reality&sni=www.oracle.com&fp=edge&flow=xtls-rprx-vision&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&sid=ec8926fc13a19d95#CY
+vless://4cf9c712-11c4-47d8-aa31-a1693a1aa4e5@185.249.153.108:443?type=tcp&security=reality&sni=www.nordivablog.ru&flow=xtls-rprx-vision&pbk=xOJ3INBNzRKOKYGQZmSYczgTjTKwdYQ4BFfc75wVazw&sid=73c9e31ccafda20e#CY
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#CY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?type=grpce=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---&security=none#CY
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#CY  | @Raydikalx | AE9D73
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
-trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#CY  | @Raydikalx | 0F485E
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#CY  | @Raydikalx | 0FFE7B
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#CY  | @Raydikalx | 506E7A
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#CY  | @Raydikalx | 51D3FA
@@ -998,4 +1003,4 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5792
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#/Cyprus
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#/Cyprus
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?&security=tls&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080fp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-CY-1...
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?&security=tls&fp=chrome&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#%5Bwww.v2nodes.com%5D%20vless-CY-1...
