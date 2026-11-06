@@ -66,12 +66,12 @@ vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?security=realit
 vless://6e74e8ba-9f93-4229-8c3a-8132992948c9@rom.color-shop.ir:8080?security=none&encryption=mlkem768x25519plus.native.0rtt._Lo8Y8qK1GrcRZ1xRptYizqgpC1iKA8dK6rsci6hoAw&host=play.google.com&headerType=none&type=tcp#[6050][RO][0][VLESS][None][v2ray1_ng][2026-10-23][2026-11-04 03:39]
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#[13134][RO][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#[12186][RO][0][VLESS][None][prrofile_purple][2026-07-05][2026-11-04 03:39]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0490
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0270
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%87%B7%F0%9F%87%B4RO-154.46.31.106-0523
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-8256
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%B4%5Bwww.v2nodes.com%5D%20vless-RO-1...
 vless://33972eb3-3f57-4558-80ff-b6926480ff69@88.80.135.65:4127?path=/Telegram=@AmyraxVPN&security=&encryption=none&host=88.80.135.65&type=httpupgrade#RO_984_@Surfboardv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4RO-194.68.44.42-0490
 vless://62747cff-793c-4be6-8bac-254e003132ed@185.126.237.16:443?security=reality&sni=mdundo.com&type=tcp&fp=chrome&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f# VL-TCP-RLT  RO-185.126.237.16:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0770
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%F0%9F%87%B7%F0%9F%87%B4RO_76%7C1.1MB%2Fs%7CA004-260618%2001
