@@ -61,8 +61,6 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&e
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#[8818][ZA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[10334][ZA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-04][2026-11-04 03:39]
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[10335][ZA][0][VLESS][None][nofiltering2][2026-08-10][2026-11-04 03:39]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0225
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0245
 vmess://ewogICAgImFkZCI6ICIxMjkuMTUxLjE2NC4xNTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImUzMGY4NTg4LTI1NTUtNDhiOC1jMzU0LWM4ZTYzZjU3MjMyZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1NTYwMCwKICAgICJwcyI6ICLwn4e/8J+HplpBLTEyOS4xNTEuMTY0LjE1Mi0xOTE0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -70,15 +68,15 @@ vmess://ewogICAgImFkZCI6ICIxNDAuOTkuMTU3Ljg2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#%F0%9F%87%BF%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-ZA-1...
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#%F0%9F%87%BF%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-ZA-1...%20%231
 vmess://eyJwb3J0IjoiMzQ0OTciLCJmcCI6InJhbmRvbWl6ZWQiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwibmV0IjoidGNwIiwiYWRkIjoidHRsLnVuaXF1ZTY5LmNvbSIsInR5cGUiOiJodHRwIiwicGF0aCI6IlwvQEhvc3NlaW5TdG9yZV9aYVwvQE5FS09fWmEiLCJzbmkiOiJ0dGwudW5pcXVlNjkuY29tIiwicHMiOiIlNDBIb3NzZWluWnRvcmVfWmEiLCJpZCI6Ijg2MGExMjk1LTBkODEtNDAzYy1hMTc5LTk3ZjM5NjQzNzgwOSIsInNjeSI6IiIsInRscyI6InRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#%F0%9F%87%BF%F0%9F%87%A6ZA_2%7C825KB%2Fs%7CX001-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C888KB%2Fs%7CA004-260618
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA_3%7C929KB%2Fs%7CA004-260618
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#%F0%9F%87%BF%F0%9F%87%A6ZA-41.203.4.34-0751
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA_1%7C853KB%2Fs%7CA004-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA_3%7C812KB%2Fs%7CA004-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443# ZA | 20.87.210.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443# ZA | 20.164.45.116
-ss://YWVzLTEyOC1nY206OTQ5YjIzNDg3NThlM2ZkMWVjNGE0ZjA1ODgyNzYyYjA@38.54.64.62:17161#ZA  | @Raydikalx | E69AD8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#ZA  | @Raydikalx | F1E030
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#ZA  | @Raydikalx | 655E27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#ZA  | @Raydikalx | 34D674
@@ -98,6 +96,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.16
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#%F0%9F%87%BF%F0%9F%87%A6ZA_4%7C567KB%2Fs%7CF003-260618%20%5Bb953d0875d57%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA_3%7C974KB%2Fs%7CA004-260618%20%5Bcd6d9db3b97d%5D
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#%F0%9F%87%BF%F0%9F%87%A6ZA_5%7C623KB%2Fs%7CF003-260618%20%5Be43e1295c84b%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443# ZA | 20.87.210.166
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[32744][ZA][0][VLESS][None][marambashi][2026-08-08][2026-08-16 00:34]
 vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#[25986][ZA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[32724][ZA][0][VLESS][None][free1_vpn][2026-08-07][2026-08-16 00:34]
@@ -514,5 +513,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#//South Africa/Johannesburg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443# ZA | 20.87.211.186
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?&security=tls&fp=chrome&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#%5Bwww.v2nodes.com%5D%20vless-ZA-1...
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?&security=tls&fp=chrome&sni=vlso5.1d.mom&type=ws&headerType=none&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#%5Bwww.v2nodes.com%5D%20vless-ZA-1...%20%231

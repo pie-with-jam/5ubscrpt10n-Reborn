@@ -50,7 +50,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUl84fDY2NEtCL3N8TTAwMy0yNjA4MDYiLCJhZGQi
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR+%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@br.mjt001.com:443?allowInsecure=1&sni=br.mjt001.com#BR%2b%e5%b7%b4%e8%a5%bf(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443#BR  | @Raydikalx | 2F52D9
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#BR  | @Raydikalx | 245197
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?type=tcp&security=reality&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=br.monkora.org#BR  | @Raydikalx | 1365D5
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=/Channel-ELiV2RAY---ELiV2RAY?ed=2048&host=Channel-ELiV2RAY--ELiV2RAY.nET&type=ws#BR  | @Raydikalx | FE4A26
@@ -302,6 +302,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#BR
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F%87%B7%20BR%2038.54.57.90%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Kaopu%20Cloud%20HK%20Limited%20%2F%20LightNode-BR%20%E2%97%88%20eb687
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#[openproxylist.com] trojan-BR
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[openproxylist.com] trojan-BR
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?allowInsecure=0&sni=br001.zestapp778.com#%5Bwww.v2nodes.com%5D%20trojan-BR-...
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003
