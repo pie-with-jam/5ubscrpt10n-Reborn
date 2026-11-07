@@ -249,7 +249,6 @@ trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.o
 trojan://3782591447421952000@13.125.25.144:443?peer=sincere-stud.adder289.quest#South+Korea
 trojan://3747000103274291200@13.125.85.5:443?peer=moral-buffalo.treefrog761.one#South+Korea
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.220.26-0213
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR_72
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C462KB%2Fs%7CA004-260618%20%5B9f554161863d%5D
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%F0%9F%87%B0%F0%9F%87%B7KR_36%7C562KB%2Fs%7CB007-260618%20%5B01e7e386d204%5D
@@ -400,6 +399,7 @@ trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?sni=154.90.62.70&al
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7KR_39%7C610KB%2Fs%7CV003-260618%2001
 vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=71110d3f7ef57760&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w#%F0%9F%87%B0%F0%9F%87%B7KR_41%7C534KB%2Fs%7CF003-260618%2001
 vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=3fd0a8ddef3ae5c6&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8#%F0%9F%87%B0%F0%9F%87%B7KR_53%7C544KB%2Fs%7CA004-260618%2001
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.220.26-0213
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#KR  | @Raydikalx | 534F13
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#KR  | @Raydikalx | 93F916
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101#KR  | @Raydikalx | 921AB4
@@ -460,12 +460,12 @@ trojan://FH72359861@3.36.49.203:443?sni=destined-skylark.rooster465.autos&type=t
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&insecure=1&type=tcp&security=tls#KR  | @Raydikalx | 5D97CE
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=/#KR  | @Raydikalx | 6913F7
 vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@158.247.241.102:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#KR  | @Raydikalx | 8465E2
-vless://6dd58a09-430e-4ecf-81eb-95ca94f8b765@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#KR  | @Raydikalx | 6FAC2B
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#KR  | @Raydikalx | 6E78E9
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR  | @Raydikalx | F949F0
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#KR  | @Raydikalx | C26A71
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?type=tcp&security=tls&fp=firefox&sni=kr002.zestapp778.com#KR  | @Raydikalx | 3B1003
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@kr002.zestapp778.com:37095?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#KR  | @Raydikalx | 30BD69
+vless://f877d913-9f87-45dd-bfe8-d95043081184@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#KR  | @Raydikalx | D928AD
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cxNjA1NDkgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvTG9uVXBfTSIsICJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#KR  | @Raydikalx | 1CF837
 vmess://eyJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwMCIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgN0U4Nzk4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEE5OUQ3MyIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -3174,7 +3174,7 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#%f0%9f%87%b0%f0%9f
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f%87%b7%20KR%2013
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#%f0%9f%87%b0%f0%9f%87%b7%20KR%2014
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%f0%9f%87%b0%f0%9f%87%b7%20KR%204
-vless://6dd58a09-430e-4ecf-81eb-95ca94f8b765@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#[openproxylist.com] vless-KR
+vless://f877d913-9f87-45dd-bfe8-d95043081184@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#[openproxylist.com] vless-KR
 vmess://ewogICAgImFkZCI6ICI5Mi4yMjMuNjEuMjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJtaXpiYW44ODguc2VydmVjb3VudGVyc3RyaWtlLmNvbSIsCiAgICAiaWQiOiAiMjJhYTcyYjEtNjA1Yi00ODA3LThhODEtZmI0MTRjYmI0MDljIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Dwn4e3S1ItOTIuMjIzLjYxLjI1LTExMjAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxLjIzOC4xMDIuMjE0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiAzMDAwMSwKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTEuMjM4LjEwMi4yMTQtNzE1MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInAzLmNoaWd1YS50ayIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMy4xMjUuMjQuMTEyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDk1MTcsCiAgICAicHMiOiAi8J+HsPCfh7dLUi0xMy4xMjUuMjQuMTEyLTQzMzMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
