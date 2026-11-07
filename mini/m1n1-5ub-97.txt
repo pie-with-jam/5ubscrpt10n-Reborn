@@ -1,35 +1,3 @@
-ss://{"add":"vip.bigchanger.site","aid":"0","alpn":"","fp":"","host":"","id":"99316f50-d177-4ac2-93fa-07482d5954cc","insecure":"0","net":"tcp","path":"","port":"8087","ps":"Tel-@Alpha_V2rayip 1","scy":"auto","sni":"","tls":"","type":"none","v":"2"}#[21194][UnResolvedDomains][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#[10288][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#[2852][IR][0][SS][None][rxv2ray][2025-10-11][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#[12797][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@156.146.38.195:1080#[9036][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.99.188.71:3389#[14226][NL][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#[13398][PL][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://eyJhZGQiOiI5MS45OS4xNTMuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhbmVsLmFydXNoYXNvZnQuY29tIiwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM5MTMwIiwicHMiOiJAY29uZmlnZnJlZTIwMjU1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9<br/>vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[20070][US][0][SS][None][v2rayngvp][2025-08-06][2026-08-16 00:34]
-ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058#[10531][FR][0][SS][None][FreakConfig][2026-08-10][2026-08-16 00:34]
-ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#[10532][FR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.47:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#[387][AE][0][SS][None][v2ray1_ng][2026-08-10][2026-08-16 00:34]
-ss://eyJhZGQiOiIxNDIuOTMuMTc2LjYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJQbGF5Lmdvb2dsZS5jb20iLCJpZCI6IjQwZWM2NjQ0LTRjNjgtNDgyNS1iZTFlLWNmNzFjMTY5NDJjNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMTU0MjIiLCJwcyI6IkBGYXJhelYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9<br/><br/>vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#[20115][IT][0][SS][None][v2ray1_ng][2026-08-13][2026-08-16 00:34]
-ss://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[1623][US][0][SS][None][v2ray1_ng][2026-08-04][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:805#[7997][GB][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:2053?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[1612][US][0][SS][None][Outline_Vpn][2026-08-03][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ==@91.186.193.50:56985?type=tcp#[8803][IR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.102.30:8080#[12638][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://14927bde-0fc8-447c-8c5f-e7fd1bfc6698@78.17.159.71:8443?encryption=none&fp=&pbk=wjwbbmCr0pjMb6Qvvcf7KMrE-w92jsqJbrNQy8g5EDg&security=reality&serviceName=tab.cf.v1&sid=617a11ec485b2d90&sni=www.cloudflare.com&type=grpc#[757][PL][0][SS][None][oneclickvpnkeys][2026-08-10][2026-08-16 00:34]
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA1MS4xOTUuMjE3LjIxOjUwMDAz#[10759][FR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.4.2:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[19731][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#[7151][AE][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://Telegram-ipV2Ray-xaq@www.speedtest.net:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#[6433][US][0][SS][None][Hope_Net][2026-08-09][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.61:5500#[12515][GB][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8090#[12958][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#[6520][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.6:62145?encryption=none&security=none&type=tcp#[5392][NL][0][SS][None][oneclickvpnkeys][2026-08-14][2026-08-16 00:34]
-ss://08f9b1a1-a4f6-4dd5-a356-face1c91624e@www.zula.ir:8080?encryption=none&security=none&type=ws&host=v2riran.ir.www.speedtest.net.www.zula.ir.cloudflare.com.rizzlerlegacy.Ink.&path=telegram-QJoinbedeY@V2riraN%3Fed%3D2560#[479][IR][0][SS][None][v2ray_swhil][2024-08-03][2026-08-16 00:34]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&security=reality&sid=84f9881951050a30&sni=gb1.murhost.network&type=tcp#[16125][GB][0][SS][None][oneclickvpnkeys][2026-08-15][2026-08-16 00:34]
-ss://Tel-ELiV2ray-Tel-ELiV2ray@repo.steampowered.com:80?path=/eli.elmahstyle.ir?ed=80&security=none&encryption=none&host=eLi.eLMaHstYlE.ir&type=ws#[6351][US][0][SS][None][Hope_Net][2026-08-09][2026-08-16 00:34]
-ss://%58pnTeam-17@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[28][US][0][SS][None][mehrosaboran][2026-08-08][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.67:7001#[13159][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:5600#[13752][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#[396][RU][0][SS][None][free1_vpn][2026-08-08][2026-08-16 00:34]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#[9289][NL][0][SS][None][daredevill_404][2024-05-14][2026-08-16 00:34]
 ss://fa0dd13b-6d2a-4558-815b-7252196aeb8a@norman.ns.cloudflare.com:443?path=%2Fvtenwows&security=tls&encryption=none&host=639005752550846284.accord-lmnxa.info&fp=chrome&type=ws&sni=639005752550846284.accord-lmnxa.info#[20711][US][0][SS][None][rxv2ray][2025-12-10][2026-08-16 00:34]
@@ -9998,3 +9966,35 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#4Sarina-9bf3bf5843
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.77:38388#4Kian-2aef948ec1
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.9:38388#4Kian-68a5b0de24
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.103:38388#4Jadi-218de64fc0
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.121:38388#4Jadi-8ec9d8173e
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.122:38388#4Nika-02ecd0d1b7
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#4FreeIran-9fc17d9627
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.13:38388#4Kian-b98abc8a23
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#4Kian-cdb41e2a18
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.19:38388#4Jadi-d98020b57b
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#4Nika-1db234810e
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.21:38388#4Sarina-51b82578be
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.224:38388#4FreeIran-f645c7c2bc
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#4Jadi-82cf097716
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.236:38388#4Jadi-3ed9b0f1f1
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.23:38388#4Nika-58562af7f7
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388#4Jadi-b56c34e5c7
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#4Jadi-83d231d5b1
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.26:38388#4Sarina-d5d34bfaea
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.28:38388#4Nika-88296ad5b0
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.32:38388#4Jadi-2c4d240599
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388#4Mohsen-f437437dfe
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.35:38388#4Kian-8b0de8a0ee
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.37:38388#4Jadi-0697c0ef70
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.42:38388#4Jadi-2e772bd7c6
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.51:38388#4Jadi-c8c64f4b61
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.52:38388#4Jadi-b1db30d5d4
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.60:38388#4FreeIran-7fa8f7d0bc
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.62:38388#4Sarina-9125bf4667
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.71:38388#4Jadi-3028ab5f36
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.76:38388#4Sarina-805efbf6d0
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.84:38388#4Nika-f3031a0b6d
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@213.183.59.190:9005#4Mohsen-c9946c4f40
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#4Mohsen-3aec951b62
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.70:9005#4Kian-32e010d43a
