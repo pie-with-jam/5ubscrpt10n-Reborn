@@ -153,7 +153,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.247.28:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.247.28:22223?encryption=none&security=none&type=tcp#ar14n24b%20%20VL-TCP-N/A%20%20XX%20down
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.247.28:22224?encryption=none&security=none&type=tcp#ar14n24b%20%20VL-TCP-N/A%20%20XX%20down
 vless://f3142393-fc7a-4917-b569-f707fa6ea65e@91.98.102.222:33893?path=%2Findex.php&security=none&encryption=mlkem768x25519plus.native.0rtt.NKPRuMtNCQWANLFRcdAEtwcCClpEBUsAFSTojPaHamk&host=dynu.com&type=ws#ar14n24b%20%20VL-WS-N/A%20%20XX%20127ms
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#[1274][AR][0][TROJAN][None][free4allVPN][2025-11-23][2026-11-04 03:39]
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#[1389][AR][0][TROJAN][None][free4allVPN][2025-11-23][2026-11-07 03:30]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0770
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#%f0%9f%87%a6%f0%9f%87%b7AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
