@@ -243,13 +243,13 @@ vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@158.247.241.102:443?security=realit
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#KR_2433_@Surfboardv2ray
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR_2434_@Surfboardv2ray
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#KR_2925_@Surfboardv2ray
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.220.26-0213
 trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
 trojan://3747000103274291200@humble-rodent.treefrog761.one:443#South+Korea
 trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.one#South+Korea
 trojan://3782591447421952000@13.125.25.144:443?peer=sincere-stud.adder289.quest#South+Korea
 trojan://3747000103274291200@13.125.85.5:443?peer=moral-buffalo.treefrog761.one#South+Korea
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.220.26-0213
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR_72
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C462KB%2Fs%7CA004-260618%20%5B9f554161863d%5D
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%F0%9F%87%B0%F0%9F%87%B7KR_36%7C562KB%2Fs%7CB007-260618%20%5B01e7e386d204%5D
@@ -400,7 +400,6 @@ trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?sni=154.90.62.70&al
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#%F0%9F%87%B0%F0%9F%87%B7KR_39%7C610KB%2Fs%7CV003-260618%2001
 vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=71110d3f7ef57760&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w#%F0%9F%87%B0%F0%9F%87%B7KR_41%7C534KB%2Fs%7CF003-260618%2001
 vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=3fd0a8ddef3ae5c6&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8#%F0%9F%87%B0%F0%9F%87%B7KR_53%7C544KB%2Fs%7CA004-260618%2001
-vmess://eyJ2IjogIjIiLCAicHMiOiAiWzEzNjkzMV0gLSDwn4ew8J+HtyBTb3V0aCBLb3JlYSB8IEBmcmVlbmV0dGlyIiwgImFkZCI6ICIxMjkuMTU0LjYxLjE5NiIsICJwb3J0IjogODAwLCAiaWQiOiAiYTkxNWIxZDYtY2YyOC00ZGM4LWU0YjQtZTA5YzQ4YzM3ZWMwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiYXV0byIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#KR  | @Raydikalx | 534F13
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#KR  | @Raydikalx | 93F916
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101#KR  | @Raydikalx | 921AB4

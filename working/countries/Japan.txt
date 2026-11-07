@@ -534,11 +534,6 @@ vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality
 vless://e8a346c2-e14c-4f82-876f-367dc19ee541@23.27.11.86:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jp.burmy.xyz#JP_4148_@Surfboardv2ray
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp#JP_4201_@Surfboardv2ray
 vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#JP_4343_@Surfboardv2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0180
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0179
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0178
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0242
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0246
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@zmaoz.faculty.ucdavis.edu:443?allowInsecure=1&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=Falcunargo.net&path=/5Ve373mPjKg4vceF?edfp=chrome&security=tls#15|JP_speednode_0028
 trojan://3747000103274291200@open-maggot.pigeon031.one:443?peer=open-maggot.pigeon031.one#Japan
 trojan://3782591447421952000@inspired-dinosaur.adder289.quest:443#Japan
@@ -546,6 +541,11 @@ trojan://3747000103274291200@94.177.131.199:443?peer=open-maggot.pigeon031.one#J
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN# - JP - @FreeOnlineVPN
 vless://326f28ad-30b8-4c02-9d1f-2db2969c8a69@172.235.199.46:2095?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#JP-@VPNine1
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0180
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0179
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0178
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0242
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0246
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP_20%7C244KB%2Fs%7CA004-260618%20%5B3f599e2706f4%5D
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%87%AF%F0%9F%87%B5JP_68
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?sni=discoverparttimepositionsandsupplementyourincomeguide.com&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_37%7C582KB%2Fs%7CM003-260806%20%5B785a0fa3a7a0%5D
@@ -753,7 +753,7 @@ trojan://!str18844@zxcvbn@os-tr-2.cats22.net:443#JP  | @Raydikalx | F278EA
 trojan://!str18844@zxcvbn@os-tr-3.cats22.net:443#JP  | @Raydikalx | ED4401
 trojan://!str18844@zxcvbn@os-tr-5.cats22.net:443#JP  | @Raydikalx | AF45EA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?allowInsecure=1&sni=#JP  | @Raydikalx | 299CB1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#JP  | @Raydikalx | 93578B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#JP  | @Raydikalx | 93578B
 trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#JP  | @Raydikalx | 68383D
 trojan://18844%40zxcvbn@49.212.203.7:443/?type=tcp&security=tls&sni=os-tr-2.cats22.net&alpn=http%2F1.1&allowInsecure=1&fp=chrome#JP  | @Raydikalx | D56F9A
 trojan://18844%40zxcvbn@tk-tr-4.cats22.net:443/?type=tcp&security=tls&allowInsecure=1#JP  | @Raydikalx | 40FBC6
@@ -918,7 +918,7 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?fp=chrome&host=jp3.
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&security=reality&sid=bd6f67b6b2152b45&sni=fuji.etherhub.cc&type=tcp#JP  | @Raydikalx | F460C2
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?fp=qq&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#JP  | @Raydikalx | 7A38C5
 vless://7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d@47.74.3.200:443?security=reality&encryption=none&pbk=kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk&host=www.logitech.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.logitech.com&sid=ab3b914f0c9d9de5#JP  | @Raydikalx | D9835E
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#JP  | @Raydikalx | 02A024
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#JP  | @Raydikalx | 02A024
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?flow=xtls-rprx-vision&fp=ios&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | 8451BB
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | 68B267
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | 147361
@@ -934,7 +934,6 @@ vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?fp=chrome&pbk=h
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJOb25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDc1QzdFRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp5-r.link-t7.com:10035?security=reality&type=grpc&mode=gun&serviceName=update&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.0MB%2Fs
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C5.9MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguNjA6ODg4Mg==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%ACss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTM0NzA1Ny03YWY1LTQ1NjItYjkxMi1mMWMyMTdjNGMxNjBAaG50LmNuZG5zLnNob3A6Mjc3NjY=#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6vmess://eyJhZGQiOiJwb3dlcnNlcnZpY2UuY29tIiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70tPvCfh6vwn4e3X0ZSX+azleWbvSIsInBvcnQiOjQ0MywiaWQiOiIwNzY0YTU5OC04MmM0LTRiNDEtYmExMC01NTFhNjI1YmVlZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3NzaG9jZWFuIiwiaG9zdCI6InVrMi52MnJheXNlcnYuY29tIn0=vmess://eyJhZGQiOiIxOTguNDEuMjAzLjQiLCJ2IjoyLCJwcyI6ImRlZmF1bHRfbmFtZSIsInBvcnQiOjQ0MywiaWQiOiJmY2ZhZWM5MS02MDk2LTQ0ZDgtOTU2Yy03ODY4ZDllODc0YjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJsZzEuY2ZjZG4xLnh5eiJ9------------------------------------------TG 1V2rayN win https://t.me/macwinappchat/242V2rayNG   https://t.me/macwinappchat/233V2rayU Mac https://t.me/macwinappchat/254IosOneClick  
 trojan://BxceQaOe@13.113.192.229:2595?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.113.192.229
 trojan://BxceQaOe@13.192.163.115:381?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.192.163.115
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#JP   TROJAN-TCP-TLS - Klayer LLC  93.93.246.88
@@ -5834,7 +5833,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%f0%9f%87%af%f0%9f%87%b5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%2033
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50004#JP%2F1|Github%E6%90%9C%E7%B4%A2TrojanLinks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE@120.238.122.207:50005#JP%2F2|Github%E6%90%9C%E7%B4%A2TrojanLinks
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#[openproxylist.com] trojan-JP
 vmess://ewogICAgImFkZCI6ICIxMzguMi40OS4yMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImExMmU0OTZlLWY4OWEtNDM0YS04MDExLTEwODg0NmYwZTQxMiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAxMDAyMSwKICAgICJwcyI6ICLwn4ev8J+HtUpQLTEzOC4yLjQ5LjIzMC0zMzY4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMzguMi41Mi4yNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjkxNjQ2ZjlhLWI0ZTktNGFjYS1iZmUzLTg4OTJiM2U1OGZlNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yYXkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xMzguMi41Mi4yNDQtNzE5MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImxnMzAuY2ZjZG4zLnh5eiIKfQ==
 vmess://ewogICAgImFkZCI6ICI5Mi4zOC4xNzguOTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI5Mi4zOC4xNzguOTMiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC05Mi4zOC4xNzguOTMtMDc3NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9

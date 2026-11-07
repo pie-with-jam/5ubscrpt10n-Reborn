@@ -1808,20 +1808,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tl
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#CA_4424_@Surfboardv2ray
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#CA_4425_@Surfboardv2ray
 vless://ffa431ab-a59b-4092-a418-905fcb1e4d5f@172.67.173.89:443?encryption=none&security=tls&sni=s0p42f8wwpdde5tf7m4l6l.ab1x-sn9o4y3n7ondkrd.workers.dev&fp=chrome&alpn=http/1.1&type=ws&host=s0p42f8wwpdde5tf7m4l6l.ab1x-sn9o4y3n7ondkrd.workers.dev&path=/vl/rYScQPG1EEjxXdswdMEU2b3rM4?ed=2560#CA_4435_@Surfboardv2ray
-trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zestapp778.com#%F0%9F%87%A8%F0%9F%87%A6CA-149.248.50.252-0521
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.93-0219
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0211
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.152-0214
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-2497
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.201-2492
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.74-0212
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0172
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0170
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.136.236-0247
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6CA-51.79.64.198-0431
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.141.125-0425
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.200.165-0245
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.155.113-0250
 vmess://eyJhZGQiOiAiMTcyLjY3LjI0NC4xOTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ3dkZWYuc2JzIiwgImlkIjogImJjODY0MDc4LWRjZjMtNGJmNC04ZGJmLWNhOWYyMDBiNTZiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJnd2RlZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40Ny4xMjIiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS41Ny40IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
@@ -1906,6 +1892,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#%3E%3E%40one
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%3E%3E%40outline_vpn%3A%3ACA
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#%3E%3E%40freeland8%3A%3ACA
+trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zestapp778.com#%F0%9F%87%A8%F0%9F%87%A6CA-149.248.50.252-0521
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0172
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.93-0219
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0211
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.152-0214
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-2497
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0170
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.201-2492
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.74-0212
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.136.236-0247
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6CA-51.79.64.198-0431
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.141.125-0425
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.200.165-0245
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.155.113-0250
 ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:HWFFJN19JkvbTKo/79AfnbRBK9uHUUaFNZJyLjEoJGs=@51.222.107.43:2083#%F0%9F%87%A8%F0%9F%87%A6CA_40%7C1.6MB%2Fs%7CA004-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6CA_41%7C1.2MB%2Fs%7CA004-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@142.4.216.225:443#%F0%9F%87%A8%F0%9F%87%A6CA_43%7C1.3MB%2Fs%7CA004-260618%2001
@@ -2200,7 +2200,7 @@ vless://c8f9e08d-7d07-4059-9f71-0b014b9e0ec7@66.70.179.124:443?security=reality&
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6CA_36%7C233KB%2Fs%7CM003-260806%2001
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=83f8317a948bb769&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU#%F0%9F%87%A8%F0%9F%87%A6CA_38%7C1.5MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6CA_39%7C1.2MB%2Fs%7CB007-260618%2001
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782#CA-@VPNine1
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir# CA | 104.16.72.70
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir# CA | 104.16.72.41
 trojan://MITIVPN@openai.com:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&security=tls&alpn=h2,http/1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR# CA | 172.64.154.211
@@ -2247,9 +2247,6 @@ vmess://eyJhZGQiOiJqcDAzMjAwNS5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZXRjLnRlbGxzcy5pciIsImlkIjoiYTA2ZjBmMDQtZDMyZC00YzM5LWEwZGMtZjFmZTJjZmM2N2M4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIsInBzIjoi8J+HqPCfh6YgQ0EgfCAxMDQuMTcuMTQ4LjIyIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyNjA2OjQ3MDA6MzAzMjo6YWM0Mzo5Yzc5Iiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5ncHRjbG91ZGFpLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiWzEzNjk4NF0gLSDwn4eo8J+HpiBDYW5hZGEgfCBAZnJlZW5ldHRpciIsICJhZGQiOiAiVVMwMzIwMjMuc3NncmVlbi5vcmciLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiOTU2ZWYxMjMtMWNlZC00YjNlLTgzZWYtYjY1ZGM1YzE0OGVjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvd2VzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJmcCI6ICIiLCAic2N5IjogImF1dG8iLCAiYWxwbiI6ICIifQ==
-vmess://eyJhZGQiOiAid3d3LnNob3BpZnkuY29tIiwgImFpZCI6IDAsICJob3N0IjogImd1YW53YW5nLmF3c25vLmNvbSIsICJpZCI6ICI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlsxMzY5MTFdIC0g8J+HqPCfh6YgQ2FuYWRhIHwgQGZyZWVuZXR0aXIiLCAic2N5IjogImF1dG8iLCAic2VydmljZU5hbWUiOiAiIiwgInNuaSI6ICJndWFud2FuZy5hd3Nuby5jb20iLCAidGxzIjogInRscyIsICJ2IjogIjIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiWzEzNjkzNl0gLSDwn4eo8J+HpiBDYW5hZGEgfCBAZnJlZW5ldHRpciIsICJhZGQiOiAiSlAwMzIwMDIuc3NncmVlbi5vcmciLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNGE2MjExMDAtY2IyZS00ZDllLWExZmMtOTYwNzE1YzdkMzc4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvd2VzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJmcCI6ICIiLCAic2N5IjogImF1dG8iLCAiYWxwbiI6ICIifQ==
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ny42IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzP2VkIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJbMTM2OTQxXSAtIPCfh6jwn4emIENhbmFkYSB8IEBmcmVlbmV0dGlyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAidmNuIjogIiJ9
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083#CA  | @Raydikalx | 903532
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#CA  | @Raydikalx | DEBC1A
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#CA  | @Raydikalx | AE85DD
@@ -2314,18 +2311,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#CA  | 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | A9E2DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | BD1919
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?allowInsecure=1&sni=courses.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 09103E
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&fp=chrome&sni=courses.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | CBBAAB
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | CBBAAB
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?fp=chrome&headerType=none&insecure=0&allowInsecure=0&security=tls&type=tcp&sni=api.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 735E00
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | B73860
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | B73860
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 11B948
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | FB5613
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 6B3EB5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&fp=chrome&sni=connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 6B3EB5
 trojan://123456@104.18.35.86:2096?allowInsecure=1&sni=321dfbc6.uir-9i6.pages.dev&type=ws&host=321dfbc6.uir-9i6.pages.dev&path=/#CA  | @Raydikalx | 2425DC
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#CA  | @Raydikalx | 34E815
 trojan://5392c4d3-b13e-456f-a0e5-8eaf52b7fc1d@137.184.172.228:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=termux.com#CA  | @Raydikalx | E060F9
 trojan://558e3e91-0ffa-4180-9386-5813fa7c3cb1@172.64.152.234:443?sni=pz333.pzmike.dpdns.org&fp=chrome&type=ws&path=%2F%3Fed%3D2048&host=pz333.pzmike.dpdns.org#CA  | @Raydikalx | 898511
 trojan://5t6i121em5lkmsmk@149.248.50.252:46977?security=tls&sni=ca001.zestapp778.com&type=tcp#CA  | @Raydikalx | B726F9
-trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?sni=ca001.zestapp778.com#CA  | @Raydikalx | AA675E
+trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&fp=firefox&sni=ca001.zestapp778.com#CA  | @Raydikalx | 5B0528
+trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?allowInsecure=0&sni=ca001.zestapp778.com#CA  | @Raydikalx | AA675E
 trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ca001.zestapp778.com#CA  | @Raydikalx | 76F0F6
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#CA  | @Raydikalx | 52AF13
 trojan://6c73b7937b3e44e5982f9d5efa57d8cd@172.67.131.217:443?path=/tr/9LJwNSQPh5UJMu8TbPKBJPtkZWKkYFFl?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=auto-ScaLe-728382.builD-sVc-267891.WoRkeRS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=aUTO-scale-728382.BuiLD-sVc-267891.wORkErs.dEv#CA  | @Raydikalx | C786B4
@@ -3126,7 +3124,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&sni=co
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?sni=api.connectingpeoplewithgreatjobs.com&type=tcp#CA  | @Raydikalx | 7C5A8D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | 735E00
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=1&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp#CA  | @Raydikalx | 168319
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#CA  | @Raydikalx | B73860
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?sni=cdn.connectingpeoplewithgreatjobs.com&type=tcp#CA  | @Raydikalx | 6CB1D6
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?sni=connectingpeoplewithgreatjobs.com&type=tcp#CA  | @Raydikalx | 540A40
 trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?sni=ca001.zestapp778.com&type=tcp&fp=chrome#CA  | @Raydikalx | AA675E
@@ -13153,7 +13150,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODE4@20.124.221.217:2818#//Canada/Toronto
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#%f0%9f%87%a8%f0%9f%87%a6%20CA%202
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%203
 vless://c166ca49-4af0-416d-8411-2100f7bde9fe@66.154.101.36:443?security=reality&encryption=none&sni=www.tesla.com&fp=chrome&pbk=t_aj99mkcVXDY_7xI9RhWyEY3khupiGiDsGKEJ7EajM&sid=5590a9bae52e0586&type=tcp&path=%2f#%f0%9f%87%a8%f0%9f%87%a6%20CA%201
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&fp=chrome&sni=courses.connectingpeoplewithgreatjobs.com#[openproxylist.com] trojan-CA
+trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&fp=firefox&sni=ca001.zestapp778.com#[openproxylist.com] trojan-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&fp=chrome&sni=connectingpeoplewithgreatjobs.com#[openproxylist.com] trojan-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#[openproxylist.com] trojan-CA
 vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC45MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjEzNC4xOTUuMTk4LjkyIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4emQ0EtMTM0LjE5NS4xOTguOTItMDc0NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxNDkuNTYuOTUuMTU5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjM3ODQsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNDkuNTYuOTUuMTU5LTQ4ODgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNDguMTEzLjE1My4xMDkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5aWNodWVuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNDguMTEzLjE1My4xMDktMTMyMCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
