@@ -1414,4 +1414,3 @@ ss://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encry
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.234-5191
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#[openproxylist.com] vless-EE
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?security=none&type=tcp&packetEncoding=none#[openproxylist.com] vless-EE
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-EE-1...%20%233
