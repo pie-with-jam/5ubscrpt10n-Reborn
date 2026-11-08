@@ -197,6 +197,7 @@ vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality
 vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d725f0dd8cce210f&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E#%F0%9F%87%A6%F0%9F%87%BAAU_11%7C455KB%2Fs%7CA004-260618%2001
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20TROJAN%20%7C%20120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU  | @Raydikalx | DFABBD
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 373E2E
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443#AU  | @Raydikalx | B8A7BF
@@ -231,6 +232,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=45.63.30.142&type=tcp#AU  | @Raydikalx | FAFA65
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU  | @Raydikalx | 063CD6
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&type=tcp&fp=chrome#AU  | @Raydikalx | 1AED59
+trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&sni=au001.zestapp778.com&fp=chrome#AU  | @Raydikalx | 52AF17
+vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6#AU  | @Raydikalx | 4D86F4
 vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#AU  | @Raydikalx | 45BDB9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMzg5Mjg5IiwiYWRkIjoiY2YuaWVwbDEubWUiLCJwb3J0IjoiNDQzIiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgRDVCQjNBIiwiYWRkIjoiZGUtMDEuY2xvdWRsaW9uLm1lIiwicG9ydCI6ODA4MCwiaWQiOiI3MDY2Njc3Ni00ZTlmLTQzNTAtYjNmMC1hZmFmZjZhNzBkYjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJkZS0wMS5jbG91ZGxpb24ubWUiLCJwYXRoIjoiLyIsInRscyI6IiJ9

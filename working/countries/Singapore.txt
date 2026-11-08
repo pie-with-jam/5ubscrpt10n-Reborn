@@ -1337,12 +1337,22 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.173.67.144:443?security=tls&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708# SG | 188.166.220.70
 vless://0cd8ccfe-c4f0-479c-b246-07fcfd75925d@web-production-90ce33.up.railway.app:443?path=/ws/0cd8ccfe-c4f0-479c-b246-07fcfd75925d&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-90ce33.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-90ce33.up.railway.app# SG | 153.52.255.94
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.# SG | 5.223.59.36
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20164
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20174
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20192
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20194
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20193
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20143
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HuPCfh6wgU0cgfCBWTUVTUyB8IDgzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidjJnbyB8IPCfh7jwn4esIFNHIHwgVk1FU1MgfCAyMjciLCJzbmkiOiIxNDkuODguMjMuMjAyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNS4yMzUuMTQ0LjkyIiwiYWlkIjoiMCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicG9ydCI6IjEyNzAiLCJwcyI6InYyZ28gfCDwn4e48J+HrCBTRyB8IFZNRVNTIHwgMjI4Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HuPCfh6wgU0cgfCBWTUVTUyB8IDE5NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl%2FDUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA=@129.150.59.74:14384#SG  | @Raydikalx | E1ED10
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#SG  | @Raydikalx | 7E3D28
 ss://YWVzLTI1Ni1nY206MTIzNDU2@3.1.4.5:2#SG  | @Raydikalx | A74280
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#SG  | @Raydikalx | 1B824A
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#SG  | @Raydikalx | A37693
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#SG  | @Raydikalx | E05C49
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#SG  | @Raydikalx | E05C49
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#SG  | @Raydikalx | E1886A
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#SG  | @Raydikalx | 4E5504
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#SG  | @Raydikalx | 8C6CD2
@@ -1600,7 +1610,8 @@ vmess://eyJhZGQiOiJ1aXV4ZXJ0c3RlLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJhaWQiOiIw
 vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgNjg5NjU5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl%2FDUxconwxg6VZyFdsdfaVCvEatJo%3D%3A7bTEhHgpErKiRjE1ega%2BH6pcpJsNLFB0CjQseujAHrA%3D@129.150.59.74:14384#SG  | @Raydikalx | E1ED10
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#SG  | @Raydikalx | 1B824A
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#SG  | @Raydikalx | E1886A
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#SG  | @Raydikalx | A37693
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#SG  | @Raydikalx | E1886A
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#SG  | @Raydikalx | 4E5504
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#SG  | @Raydikalx | 8C6CD2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#SG  | @Raydikalx | 0244F1
@@ -1643,6 +1654,7 @@ vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?flow=xtls-rprx
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?flow=xtls-rprx-vision&fp=ios&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#SG  | @Raydikalx | 06ADB4
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?flow=xtls-rprx-vision&fp=qq&host=www.intel.com&path=%2F&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#SG  | @Raydikalx | E1BB9A
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?flow=xtls-rprx-vision&fp=random&host=www.intel.com&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#SG  | @Raydikalx | 16FAE1
+vless://52bf4a3c-829e-4a4f-abf8-df3c00da8617@whitepanel-ui-production-e884.up.railway.app:443?path=/ws/52bf4a3c-829e-4a4f-abf8-df3c00da8617&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=whitepanel-ui-production-e884.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=whitepanel-ui-production-e884.up.railway.app#SG  | @Raydikalx | 2A457E
 vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?fp=chrome&host=copy_shode_az_chanel0111net&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&security=reality&sid=f0e6a8bb98db3efd&sni=www.cloudflare.com&type=tcp#SG  | @Raydikalx | D674B6
 vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?fp=chrome&host=telegram-mtmvpn&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&security=reality&sid=eb9539689690d35c&sni=www.cloudflare.com&type=tcp#SG  | @Raydikalx | 762248
 vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&security=reality&sid=38d72071&sni=www.tesla.com&type=tcp#SG  | @Raydikalx | A3CA74
@@ -1667,6 +1679,7 @@ vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-v
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-vision&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp%23%F0%9F%8E%A188%40oneclickvpnkeys#SG  | @Raydikalx | FD8EA3
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-vision&fp=chrome&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp%2523%25f0%259f%258e%25a188%2540oneclickvpnkeys#SG  | @Raydikalx | 860381
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?flow=xtls-rprx-vision&fp=random&host=www.intel.com&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&security=reality&sid=7205d9079521832c&sni=www.intel.com&type=tcp#SG  | @Raydikalx | 9C70F7
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&sid=feedbacc&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs#SG  | @Raydikalx | 925E93
 vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=chrome&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#SG  | @Raydikalx | 88D59C
 vless://e23c0f8e-c68e-4675-8974-42840e114598@panel-production-fb3a.up.railway.app:443?path=%2Fws&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.2UUI6mzH47SWktMv0lyg6Eckdd62hNt6c86vJ5B5bQw&insecure=0&host=panel-production-fb3a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panel-production-fb3a.up.railway.app#SG  | @Raydikalx | D40D34
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.155.179:443?security=tls&type=tcp&sni=sg003.zestapp778.com&fp=chrome#SG  | @Raydikalx | CC9818

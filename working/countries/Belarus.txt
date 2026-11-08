@@ -69,7 +69,6 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=no
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?fp=firefox&host=178.172.227.124&path=%2Fvless&security=none&sni=178.172.227.124&type=ws#BY  | @Raydikalx | 66AEC5
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#BY  | @Raydikalx | BB53C0
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#BY  | @Raydikalx | 001707
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4443?encryption=none&fp=chrome&mode=auto&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#BY  | @Raydikalx | C04F51
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=false&type=ws#BY  | @Raydikalx | 77DC46
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=none&sni=178.172.227.228&type=ws#BY  | @Raydikalx | 2466B3
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#BY  | @Raydikalx | 77CE15
