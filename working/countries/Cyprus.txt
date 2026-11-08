@@ -145,12 +145,10 @@ vless://f9263e65-f75f-487a-b700-4a99a886a8bd@upload8.net:443?encryption=none&sec
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh75fQ1lf5aGe5rWm6Lev5pavIiwiYWRkIjoieWg5LmR0a3U0MS54eXoiLCJwb3J0Ijo4MDgwLCJpZCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhhbmctYnJva2Utam9obi1uZWl0aGVyLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.177.107:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BECY_1%7C467KB%2Fs%7CF003-260618%2001
-vless://6eaf5e8f-e4fe-4dc7-a1cd-f24343536abe@45.86.67.114:8443?security=reality&encryption=none&pbk=vzxQR7aijDhEEV2Dq6P6eFJckkgOLTq86bySpqVGsQo&fp=chrome&type=grpc&serviceName=us-tor&sni=us1.kittieslabs.tech&sid=de9061cbed448be3#CY-@VPNine1
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#CY  | @Raydikalx | AE9D73
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
 trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#CY  | @Raydikalx | 0F485E
 vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@45.83.85.4:443?encryption=none&fp=&host=velka.qikbro.com&mode=auto&path=/assets/js/app.043c9513.js&pbk=yG9PCRThFyrRI10PjbNzQPvWzjnvxGbzwzHuvYMWRys&security=reality&sid=6300ca9f9d90b6f3&sni=velka.qikbro.com&type=xhttp#CY  | @Raydikalx | E0026F
-vless://6eaf5e8f-e4fe-4dc7-a1cd-f24343536abe@45.86.67.114:8443?security=reality&encryption=none&pbk=vzxQR7aijDhEEV2Dq6P6eFJckkgOLTq86bySpqVGsQo&fp=chrome&type=grpc&serviceName=us-tor&sni=us1.kittieslabs.tech&sid=de9061cbed448be3#CY  | @Raydikalx | 41B3A9
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#CY  | @Raydikalx | 0FFE7B
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#CY  | @Raydikalx | 506E7A
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#CY  | @Raydikalx | 51D3FA
