@@ -20,7 +20,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#[431][MX][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-07][2026-11-07 03:31]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#[432][MX][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-07][2026-11-07 03:31]
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#%F0%9F%87%B2%F0%9F%87%BDMX-64.177.90.30-0225
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5154
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#%F0%9F%87%B2%F0%9F%87%BDMX-64.177.90.30-0253
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-5151
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BD%5Bwww.v2nodes.com%5D%20vless-MX-1...
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#Mexico
 vmess://eyJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgY29ubmVjdG9uLW14MSIsICJhZGQiOiAibXgxLmNvbm5lY3Rvbi5zdXJmIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2MWZiNDk0LTUyMzMtNDE5ZS04NDNkLTE1NjBmNGVhYzY2NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteDEuY29ubmVjdG9uLnN1cmYiLCAic25pIjogIm14MS5jb25uZWN0b24uc3VyZiIsICJwYXRoIjogInZtZXNzIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJhbGxvd0luc2VjdXJlIjogZmFsc2UsICJ2MiI6ICIyIiwgInByb3RvY29sIjogInZtZXNzIn0=
