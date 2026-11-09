@@ -185,18 +185,18 @@ vless://4f865f35-cf47-4e7f-a7e6-8882511a1b36@34.87.229.148:443?security=reality&
 vless://6faeb6a0-5055-4e4b-8fb1-ffd77e57aefa@188.114.97.6:80?security=none&type=ws&path=/au-do&host=somersby.pt.r3xxe.eu.cc&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C404KB%2Fs%7CC002-260622%2001
 vless://8be20011-59b1-4118-91ed-83e8e6b662cd@202.166.187.132:443?encryption=none&security=tls&type=ws&host=f.yoptybla.ru&path=%2F&sni=f.yoptybla.ru&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA_AU_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A-%3E%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.101.72:23010?security=tls&type=ws&path=/books?ed=2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=1&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_7%7C218KB%2Fs%7CR002-260618%2001
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C365KB%2Fs%7CA004-260618
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C390KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_6%7C475KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_7%7C495KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_8%7C500KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_9%7C482KB%2Fs%7CB007-260618
-trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_11%7C388KB%2Fs%7CM003-260806
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_12%7C479KB%2Fs%7CM003-260806
-trojan://Trojan@82164024@45.32.241.180:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_13%7C467KB%2Fs%7CA001-260618
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=26b26357bfcd59a1&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&encryption=none#%F0%9F%87%A6%F0%9F%87%BAAU_14%7C265KB%2Fs%7CF003-260618
-trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_15%7C497KB%2Fs%7CA001-260618
-trojan://Trojan@82164024@45.32.241.180:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_16%7C439KB%2Fs%7CC002-260622
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C531KB%2Fs%7CA004-260618
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C438KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_5%7C469KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_6%7C494KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_7%7C464KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_8%7C482KB%2Fs%7CB007-260618
+trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_10%7C215KB%2Fs%7CM003-260806
+trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_11%7C465KB%2Fs%7CM003-260806
+trojan://Trojan@82164024@45.32.241.180:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_12%7C95KB%2Fs%7CA001-260618
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=26b26357bfcd59a1&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&encryption=none#%F0%9F%87%A6%F0%9F%87%BAAU_13%7C518KB%2Fs%7CF003-260618
+trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_14%7C133KB%2Fs%7CA001-260618
+trojan://Trojan@82164024@45.32.241.180:443?sni=au.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_15%7C80KB%2Fs%7CC002-260622
 trojan://6248895b-4255-4f07-9479-d198bc1eb8db@202.8.9.27:28443?security=tls&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA_AU_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_Cow%20Vagina_1
 trojan://752a9404-c729-485e-8ea5-acb3f4fc8180@hg5.leifengkeji.live:6666?security=tls&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA%20AU_28%20%7C24.58Mb
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFVX0BiYWlwaWFvMDEiLA0KICAiYWRkIjogImhrMTIuYnA3NzcuYnV6eiIsDQogICJwb3J0IjogIjIxNjY1IiwNCiAgImlkIjogIjY2NGJhNWJkLTU0Y2UtNGEwOC05NjNiLWI4MTQ3ZjY0MmM0MyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGsxMi5icDc3Ny5idXp6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
@@ -232,6 +232,9 @@ vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?encryption=none&flo
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=tcp#AU  | @Raydikalx | 4787DF
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=45.63.30.142&type=tcp#AU  | @Raydikalx | FAFA65
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU  | @Raydikalx | 063CD6
+trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&allowInsecure=1&type=tcp#AU  | @Raydikalx | 1AED59
+trojan://Trojan@82164024@45.32.241.180:443?sni=au.tronsg.com&type=tcp&fp=chrome#AU  | @Raydikalx | 9056FB
+trojan://Trojan@82164024@au.tronsg.com:443?sni=au.tronsg.com&type=tcp&fp=chrome#AU  | @Raydikalx | FE8F3A
 vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6#AU  | @Raydikalx | 4D86F4
 vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#AU  | @Raydikalx | 45BDB9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMzg5Mjg5IiwiYWRkIjoiY2YuaWVwbDEubWUiLCJwb3J0IjoiNDQzIiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
