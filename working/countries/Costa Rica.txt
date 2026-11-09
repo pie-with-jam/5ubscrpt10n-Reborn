@@ -57,10 +57,9 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.60:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#15|CR_speednode_0016
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=1&sni=late-tooth.granzinhannah.workers.dev&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#15|CR_speednode_0017
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=0&sni=late-tooth.granzinhannah.workers.dev&alpn=h3,h2,http/1.1&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/?ed=2560fp=chrome#15|CR_speednode_0018
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@190.93.246.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#CR  | @Raydikalx | A2770C
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@190.93.246.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#CR  | @Raydikalx | A2770C
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#CR  | @Raydikalx | 66119D
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#CR  | @Raydikalx | 9AD2A3
-trojan://NISHIKUITAN111@190.93.247.7:443/?type=tcp&security=tls&allowInsecure=1#CR  | @Raydikalx | 0756D6
 vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#[37702][CR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&encryption=none&headerType=none&type=tcp&sni=udp.HiV2ray.cfd#[30688][CR][0][VLESS][None][v2ray_outlineir][2023-12-04][2026-08-16 00:34]
 vless://a41dc39a-828f-489c-9046-ea84ce7555c6@190.93.246.241:2053/?type=grpc&encryption=none&flow=&security=tls&sni=proxystore11.miladphotoshop.sbs&fp=chrome#[28384][CR][0][VLESS][None][freeconfigv2][2023-10-22][2026-08-16 00:34]
