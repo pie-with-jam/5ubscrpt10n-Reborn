@@ -376,9 +376,10 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?encryption=none&se
 ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#%F0%9F%87%A7%F0%9F%87%ACBG_3%7C2.4MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%ACBG_4%7C2.6MB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.143.204.237:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%ACBG_10%7C712KB%2Fs%7CF003-260618%2001
-vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real1.greewebservices.ir:1020?encryption=none&pbk=xwbp4EcOtus1W5Au4XCJJbCl9jCb4DwGgYQYEwUDqTY&security=reality&sid=354e34396eaa89ab&sni=play.googleapis.com&type=tcp#BG-@VPNine1
-vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real2.greewebservices.ir:1030?encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#BG-@VPNine1
-vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real3.greewebservices.ir:1040?encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#BG-@VPNine1
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?encryption=none&fp=firefox&mode=gun&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20CDN
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc&fp=edge#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20CDN
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc&fp=ios#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20CDN
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.71:444?pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20CDN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpjeU5tVmpNVFUxWldVNU5EQTVaRGswT0RnMU5XTTFNekpqWlRFM05Eaz06WWpZMFpERmtNbU0wTVRnMk5ESTJOV0UzWVRZek5qZGpZMlJtWm1aa056UT0@6.bmi.ir.asopardaz.ir:35176#BG  | @Raydikalx | FC9696
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpjeU5tVmpNVFUxWldVNU5EQTVaRGswT0RnMU5XTTFNekpqWlRFM05Eaz06Wm1VMFpESmlNMlU1TmpWbU5ETTRPV0UyWlRRd05UZzROMlZtTldaa01tST0@6.bmi.ir.asopardaz.ir:35176#BG  | @Raydikalx | 9CE5D4
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#BG  | @Raydikalx | B3868C

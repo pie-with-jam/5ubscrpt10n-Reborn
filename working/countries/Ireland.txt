@@ -197,7 +197,6 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C513KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.150.20.112:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C429KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@167.160.177.68:2096?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_4%7C542KB%2Fs%7CF003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXa0txck5IUnhRWEEtYmtMMnp0QXlsWHc4bUVfQllZcw==@83.141.92.138:1080#IE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWRNMFpyTmRBazRPSGlN@20.107.206.186:443#IE  | @Raydikalx | 1C2E06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE  | @Raydikalx | 70A7E0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#IE  | @Raydikalx | 35C96B
@@ -214,7 +213,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#IE  |
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#IE  | @Raydikalx | 5A4E88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@20.223.172.81:443#IE  | @Raydikalx | 358884
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@4.210.68.244:443#IE  | @Raydikalx | 57524D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXa0txck5IUnhRWEEtYmtMMnp0QXlsWHc4bUVfQllZcw==@83.141.92.138:1080#IE  | @Raydikalx | 53093A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc043R0pka2FuUEI0bHNNVGlxSVJx@13.79.22.98:33759#IE  | @Raydikalx | 852A92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE  | @Raydikalx | B51E1B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE  | @Raydikalx | 7C923B
@@ -222,7 +220,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE 
 trojan://IQ68037294@34.253.182.161:443?allowInsecure=1&sni=moving-wren.rooster465.autos#IE  | @Raydikalx | 5EA449
 trojan://ND91608427@54.170.212.206:443?type=tcp&security=tls&headerType=none&sni=skilled-lioness.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#IE  | @Raydikalx | 9A4092
 vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?encryption=auto&headerType=http&path=/&security=none&type=tcp#IE  | @Raydikalx | 425492
-vmess://eyJ2IjoiMiIsInBzIjoiSUUg8J+HrvCfh6ogfCBAUmF5ZGlrYWx4IHwgMDM3NjBEIiwiYWRkIjoiNTQuMjI5LjE1MS45NyIsInBvcnQiOiI1OTIzNiIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV8zfDQuMU1CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV8xfDMuNk1CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV80fDQuNE1CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
