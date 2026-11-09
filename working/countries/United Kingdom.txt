@@ -2859,6 +2859,7 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?peer=yourjobnavigator
 trojan://telegram-id-privatevpns@13.42.81.29:22222?peer=trojan.burgerip.co.uk#United+Kingdom
 trojan://3747000103274291200@ultimate-civet.adder289.quest:443#United+Kingdom
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom
 vless://2303c25e-0359-4772-d730-fbf2d34bc9c2@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI      9999GB 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@tr.gacvpn.site:443?security=reality&encryption=none&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr-edge.gacvpn.site&sid=ab7cbe5f#GB-@VPNine1
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#GB_78_@Surfboardv2ray
@@ -3098,7 +3099,7 @@ vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?encryption=none&f
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999# GB | 198.244.201.129
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807# GB | 5.254.8.148
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3# GB | 102.177.189.29
-vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.255.53:443?mode=stream-one&path=/assets/js/app.15026f72.js&security=reality&encryption=none&pbk=0hI8gffvrad6AN41MZnEhEp5al31P_BZLnJe38P71R8&host=fraceee.qikbro.com&fp=chrome&type=xhttp&sni=fraceee.qikbro.com&sid=3874010ae4612548#%F0%9F%87%AC%F0%9F%87%A7GB_33_@Surfboardv2ray
+vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=%2FgVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#Ray-80.50GB%F0%9F%93%8A
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#GB  | @Raydikalx | 7AD800
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#GB  | @Raydikalx | 4A01A8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#GB  | @Raydikalx | 7CCEC9
@@ -3409,6 +3410,7 @@ vless://1b8a6692-d057-41f8-a108-7a02daefcfd6@212.69.135.27:8443?Telegram=@Gozarg
 vless://1b8a6692-d057-41f8-a108-7a02daefcfd6@5.104.74.27:8443?encryption=none&flow=xtls-rprx-vision&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp&fp=ios#GB  | @Raydikalx | CFC4DF
 vless://1f734181-97b2-479e-87f9-3dda35fc3685@212.69.135.28:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#GB  | @Raydikalx | 2E9B0F
 vless://201e0019-2e79-4147-8a09-e510d630abeb@57.129.130.57:52014?encryption=none&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&type=ws&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi#GB  | @Raydikalx | BB5868
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#GB  | @Raydikalx | 10EFB7
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.39.253:443?security=reality&encryption=none&pbk=Hbbi45lhaIjHmcZoXD84dVlGhHnVOTM8LvC3_kh3dis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eng.jokervpn.space&sid=ff3f36afdec470#GB  | @Raydikalx | 509FC5
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#GB  | @Raydikalx | 2CFB99
 vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real4.greewebservices.ir:1340?encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&headerType=none&sid=9b60d3&type=tcp&sni=play.googleapis.com&fp=chrome#GB  | @Raydikalx | 38F082
