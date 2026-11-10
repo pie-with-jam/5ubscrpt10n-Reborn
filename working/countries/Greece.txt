@@ -28,6 +28,8 @@ vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/&security=tls&encryption=none&host=fs.qicai99.com&fp=chrome&type=ws&sni=fs.qicai99.com#GR_2820_@Surfboardv2ray
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/&security=tls&encryption=none&host=fs.qicai99.com&fp=chrome&type=ws&sni=fs.qicai99.com#GR_2821_@Surfboardv2ray
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/&security=tls&encryption=none&host=fs.qicai99.com&fp=chrome&type=ws&sni=fs.qicai99.com#GR_2822_@Surfboardv2ray
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#GR_95_@Surfboardv2ray
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/&security=tls&encryption=none&host=fs.qicai99.com&fp=chrome&type=ws&sni=fs.qicai99.com#GR-@VPNine1
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?security=none&type=grpc&mode=gun&serviceName=security.debian.org&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%B7GR_3%7C1.1MB%2Fs%7CB007-260618%2001
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=94acb54627612d43&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&encryption=none#%F0%9F%87%AC%F0%9F%87%B7GR_3%7C350KB%2Fs%7CM002-260618
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=94acb54627612d43&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&encryption=none#%F0%9F%87%AC%F0%9F%87%B7GR_2%7C583KB%2Fs%7CB007-260618%2001
@@ -39,7 +41,7 @@ vless://8f6e49e6-7f03-4f10-9da9-1716158d80ed@greeeeeek.pumpkinpie.study:443?type
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&type=tcp&headerType=none#GR  | @Raydikalx | C82D7F
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#GR  | @Raydikalx | A10A3D
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#GR  | @Raydikalx | C4F857
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#GR  | @Raydikalx | C82D7F
+vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&allowInsecure=1#GR  | @Raydikalx | C82D7F
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#GR  | @Raydikalx | A10A3D
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#GR  | @Raydikalx | 0B689A
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#GR  | @Raydikalx | C4F857

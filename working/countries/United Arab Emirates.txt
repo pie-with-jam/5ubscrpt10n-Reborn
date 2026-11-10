@@ -225,6 +225,7 @@ vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@46.8.125.64:443?security=reality&en
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#AE_3920_@Surfboardv2ray
 vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http# VL-TCP-NONE  AE-217.60.249.171:45375
 vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@109.61.42.127:8811?security=none&type=grpc# VL-GRPC-NONE  AE-109.61.42.127:8811
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@217.60.30.53:443?encryption=none&flow=xtls-rprx-vision&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&security=reality&sid=e8d6c07aa30b81fa&sni=de3.hat.onl&type=tcp&fp=chrome#AE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-6A8A70AE
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9-B81AE6A2
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?sni=207.126.167.162#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-E0AE9D75
@@ -434,12 +435,12 @@ vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?security=none&enc
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxMDkuNjEuMTguMTg4IiwiYWRkIjoiMTA5LjYxLjE4LjE4OCIsInBvcnQiOiI4MCIsImlkIjoiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#AE  | @Raydikalx | 6A5013
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#Global  | @Raydikalx | 8D96AE
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@217.60.30.53:443?encryption=none&flow=xtls-rprx-vision&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&security=reality&sid=e8d6c07aa30b81fa&sni=de3.hat.onl&type=tcp&fp=chrome#AE  | @Raydikalx | 7DEB1B
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&packet-encoding=xudp&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#AE  | @Raydikalx | 134D04
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=&type=ws#AE  | @Raydikalx | 7A5ED4
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#AE  | @Raydikalx | ABB365
 vless://49245416-d794-4db9-8141-0b60724005f7@46.8.100.46:35940?security=&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp#AE  | @Raydikalx | C1246E
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#AE  | @Raydikalx | 3BEC03
-vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?security=&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp#AE  | @Raydikalx | 49F02A
+vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&security=none&type=tcp#AE  | @Raydikalx | 49F02A
 vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@46.8.125.64:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#AE  | @Raydikalx | DE4918
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#AE  | @Raydikalx | EA3D62
 vless://f85ba8bb-a3da-4389-a67a-2b0afde7bbc1@uk-tube-01.stre4m.net:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#AE  | @Raydikalx | 9300D0
