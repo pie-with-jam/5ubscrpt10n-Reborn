@@ -31,7 +31,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAcGhfb25leDw9PdqG2YbZhCDYqtmE2q/Ysdin2YUt
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#PH_3702_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_4383_@Surfboardv2ray
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#PH_4384_@Surfboardv2ray
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ph001.zestapp778.com#PH  | @Raydikalx | 3DD07A
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#PH  | @Raydikalx | 3DD07A
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C479KB%2Fs%7CM001-260618%20%5B61a45a53a9ad%5D
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C434KB%2Fs%7CM003-260806%20%5Ba8253b6209aa%5D
 trojan://5t6i121em5lkmsmk@130.94.51.219:46298?sni=ph001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%ADPH_4%7C460KB%2Fs%7CB007-260618%20%5Bde8169d2e6d6%5D
