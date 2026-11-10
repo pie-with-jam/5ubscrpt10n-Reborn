@@ -218,6 +218,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=c
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=/#AU  | @Raydikalx | 05791C
 trojan://Trojan@82164024@45.32.241.180:443?security=tls&sni=au.tronsg.com#AU  | @Raydikalx | 6D92D9
 trojan://Trojan@82164024@au.tronsg.com:443?security=tls&sni=au.tronsg.com#AU  | @Raydikalx | 774E5C
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#AU  | @Raydikalx | 36AF35
 vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#AU  | @Raydikalx | 45BDB9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMzg5Mjg5IiwiYWRkIjoiY2YuaWVwbDEubWUiLCJwb3J0IjoiNDQzIiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.130.150-1527

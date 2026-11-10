@@ -115,11 +115,12 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9AT_4%7C1.8MB%2Fs%7CA001-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.200.28.113:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_7%7C477KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9AT_8%7C730KB%2Fs%7CF003-260618%2001
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?encryption=none&host=fs.qicai99.com&path=/&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%87%A6%F0%9F%87%B9AT_21_@Surfboardv2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q1ZGaTNxNmVCZWxSc25KWFhpb3pQTXBSbE5PRDJiVzhLOTNDZmtjZnY0Zz06QVlUQ2cySmFueURla09KN241cFRPRllIRk5adko4d01yaHMzNzdzOC84dz0@138.124.90.40:46194?#AT  | @Raydikalx | EFE3AA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZVJreUROSEVKT0RWZlBxMFJEL25FTlc4RkRTWUdabmdtM25SU08yYVBxST06c3o5QXVTdFVrUG9ibDFZbHl1cVZoRXg3SzJCMUlWN0swK2JaK212UlZIMD0@138.124.90.40:40374?#AT  | @Raydikalx | 316300
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UWJRamwzclRML2t0ckoyVVZGTDhaQkYzQlAxdElReU5jdC9yNEFDWUt5RT06OTQ2OVgxRmY0Y1RwalpNMGMxS0lpMlRTd2k2WDB4UGRNalpBVXNxS2FLdz0@138.124.90.40:54052?#AT  | @Raydikalx | 92CC9D
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J%2BHsw@130.195.222.215:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#AT  | @Raydikalx | 8470B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT  | @Raydikalx | 88EA53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#AT  | @Raydikalx | 88EA53
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@130.195.222.215:443/?plugin=v2ray-plugin%3Btls%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560#AT  | @Raydikalx | 96567F
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT  | @Raydikalx | BA246D
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT  | @Raydikalx | DC0C67
@@ -135,9 +136,7 @@ vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?&security=tls&fp
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.192.27.171:2053?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#AT  | @Raydikalx | C5D325
 vless://eb733326-d5b1-4e96-a0b5-ba0d61b2f60a@147.45.71.230:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=s7pfm2CSaAD1_KTtfMjSzky3MUvHNFLodKwloZ1cEQY&sid=ba68eb2bb350c7a2&sni=cdn.coldcrate.pro#AT  | @Raydikalx | 920657
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#AT  | @Raydikalx | 70A710
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#AT  | @Raydikalx | 88EA53
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#AT  | @Raydikalx | 881C59
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.192.27.171:2053?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#AT  | @Raydikalx | 09C4A6
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&sni=at1.japancase.site&type=tcp&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#AT  | @Raydikalx | AB7E9C
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?security=reality&type=raw&packetEncoding=xudp&sni=at1.japancase.site&fp=firefox&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg#%F0%9F%87%A6%F0%9F%87%B9AT_5%7C841KB%2Fs%7CP001-260618%20%5B00891d6ffc26%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C1.8MB%2Fs%7CM003-260806%20%5B66de9f2a1327%5D
