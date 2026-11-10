@@ -39,7 +39,12 @@ vless://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&en
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[1531][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[2089][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[2090][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8655
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8179
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#CR_2776_@Surfboardv2ray
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#CR_2777_@Surfboardv2ray
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=chrome&type=ws&host=moz.ar-marz.fun&path=/man#CR_2778_@Surfboardv2ray
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR_2779_@Surfboardv2ray
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR_2780_@Surfboardv2ray
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0006
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.38:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0007
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#15|CR_speednode_0008
@@ -53,7 +58,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.60:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#15|CR_speednode_0016
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=1&sni=late-tooth.granzinhannah.workers.dev&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#15|CR_speednode_0017
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=0&sni=late-tooth.granzinhannah.workers.dev&alpn=h3,h2,http/1.1&type=ws&host=late-tooth.granzinhannah.workers.dev&path=/?ed=2560fp=chrome#15|CR_speednode_0018
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni40MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiWzE0MTg1Nl0gLSDwn4eo8J+HtyBDb3N0YSBSaWNhIHwgQGZyZWVuZXR0aXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@190.93.246.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#CR  | @Raydikalx | A2770C
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#CR  | @Raydikalx | 66119D
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#CR  | @Raydikalx | 9AD2A3
