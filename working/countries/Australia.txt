@@ -189,6 +189,7 @@ trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU  | @Raydikalx | DFABBD
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@161.248.254.27:443/?plugin=v2ray-plugin%3Btls%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560#AU  | @Raydikalx | 37F78E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 063CD6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=/#AU  | @Raydikalx | 05791C
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 373E2E
 trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#AU  | @Raydikalx | 241968
 trojan://3828095943467868160@103.106.231.55:443?sni=closing-longhorn.dolphin109.quest&type=tcp#AU  | @Raydikalx | 910E67
@@ -204,17 +205,20 @@ trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#AU  | @Raydikalx | 270EF
 trojan://owreRY1bmquS1WcYN2@193.187.119.75:443?security=tls&sni=au-3.tr202605.com&type=tcp&allowInsecure=1#AU  | @Raydikalx | FCC189
 trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#AU  | @Raydikalx | C070B0
 trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#AU  | @Raydikalx | 9E1839
+trojan://Trojan@82164024@45.32.241.180:443?security=tls&sni=au.tronsg.com#AU  | @Raydikalx | 6D92D9
 trojan://Trojan@82164024@au.tronsg.com:443?security=tls&sni=au.tronsg.com#AU  | @Raydikalx | 774E5C
 vless://38a6b5c4-3534-4a31-9d77-81d3a06ede79@mci.vpncustomize.website:2096?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=multi.TrV2ray.cfd#AU  | @Raydikalx | C1BB51
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#AU  | @Raydikalx | 4C475F
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#AU  | @Raydikalx | 6D786F
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&sid=4cc9dc65f7770115&type=tcp&headerType=none#AU  | @Raydikalx | 6D786F
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#AU  | @Raydikalx | 2BE43A
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&sid=26b26357bfcd59a1&type=tcp&headerType=none#AU  | @Raydikalx | 6D4004
-vmess://eyJhZGQiOiIyNS43MmltZy54eXoiLCJhaWQiOjAsImhvc3QiOiIyNS43MmltZy54eXoiLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMTQ1RDdCIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=tcp#AU  | @Raydikalx | 4787DF
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=45.63.30.142&type=tcp#AU  | @Raydikalx | FAFA65
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU  | @Raydikalx | 063CD6
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&allowInsecure=1&type=tcp#AU  | @Raydikalx | 1AED59
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#AU  | @Raydikalx | 6D786F
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#AU  | @Raydikalx | 2BE43A
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=26b26357bfcd59a1&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&encryption=none#AU  | @Raydikalx | 6D4004
 vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#AU  | @Raydikalx | 45BDB9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMzg5Mjg5IiwiYWRkIjoiY2YuaWVwbDEubWUiLCJwb3J0IjoiNDQzIiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiJ9
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C3.5MB%2Fs
@@ -1061,6 +1065,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcEN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#//Australia/Sydney
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#[openproxylist.com] vless-AU
 vmess://ewogICAgImFkZCI6ICIyMS43MmltZy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIyMS43MmltZy54eXoiLAogICAgImlkIjogIjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HpvCfh7pBVS0xMDMuMjI0LjIxMi4yMTEtMDA4NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIyOS43MmltZy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIyOS43MmltZy54eXoiLAogICAgImlkIjogIjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HpvCfh7pBVS0xMDMuMjI0LjIxMi4yMTEtMTUyOSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJkZS0yLnNoYXJlY2VudHJlLm9ubGluZSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImRlLTIuc2hhcmVjZW50cmUub25saW5lIiwKICAgICJpZCI6ICIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvc2hpcmtlciIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4em8J+HukFVLTE2Mi40Ljg0LjI0MS0yMTE1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
