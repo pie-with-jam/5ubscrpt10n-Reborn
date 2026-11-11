@@ -51,3 +51,4 @@ ss://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA Da433
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA  ROSE90
 ss://YWVzLTEyOC1nY206ZGFqa2RramRhJmRqYSovPw@260323.1.0.l3.unclemanco.com:6559/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%B8%F0%9F%87%A6%20SA_98
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@216.106.191.201:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6aa50b0cc8d23464&pbk=suK-MYTtZhJ9IJgsxPLTHLQadNotDqYslQcd5BNV_EQ#[openproxylist.com] vless-SA
