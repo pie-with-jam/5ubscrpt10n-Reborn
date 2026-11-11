@@ -179,7 +179,6 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C513KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.150.20.112:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C429KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@167.160.177.68:2096?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_4%7C542KB%2Fs%7CF003-260618%2001
-vless://a06cf434-4b38-4328-b769-19b3e2f627e8@unix1tbilion.wizardxray.net:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=unix1tbilion.wizardxray.net#IE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443?# IE | 20.166.20.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443# IE | 20.166.20.135
 ss://YWVzLTEyOC1nY206ODgxY2YzOWFmZmM1Mjg2Nzk5YTU4NWYxYWNkMjRkMTE@146.70.90.198:17456#IE  | @Raydikalx | CE2581
