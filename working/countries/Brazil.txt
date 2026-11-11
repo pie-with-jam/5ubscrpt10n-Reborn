@@ -38,7 +38,7 @@ vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?security=realit
 vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?encryption=none&type=grpc&serviceName=google.storage.v2.Storage&security=reality&fp=chrome&sni=dl.google.com&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&sid=8bd80253&spx=/#BR_3912_@Surfboardv2ray
 vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?security=reality&encryption=none&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=/&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253#BR_3913_@Surfboardv2ray
 trojan://3747000103274291200@216.238.99.123:443?peer=fancy-javelin.treefrog761.one#Brazil
-trojan://humanity@179.255.132.69:443?sni=www.cordweave.com#%F0%9F%87%A7%F0%9F%87%B7BR_04
+trojan://humanity@179.255.132.69:443?sni=www.cordweave.com#%F0%9F%87%A7%F0%9F%87%B7BR_03
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_25%7C353KB%2Fs%7CF003-260618%2001
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUl84fDcxM0tCL3N8TTAwMy0yNjA4MDYgWzUzNWM4YjQ5N2E1M10iLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20ifQ==
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7BR_2%7C644KB%2Fs%7CA004-260618
@@ -301,5 +301,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#BR Da410
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@38.54.57.90:989#%F0%9F%9A%AB%F0%9F%87%A7%F0%9F%87%B7%20BR%2038.54.57.90%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Kaopu%20Cloud%20HK%20Limited%20%2F%20LightNode-BR%20%E2%97%88%20eb687
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319# BR | 137.131.170.144
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6fwn4e3IEJSIDEiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6MTI3MCwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6bnVsbH0=
 vmess://ewogICAgImFkZCI6ICI3OC4xMTEuMTAyLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAzMzg5LAogICAgInBzIjogIvCfh6fwn4e3QlItNzguMTExLjEwMi4yMzItMDc0OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-BR-...
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de9.pad-sservice.lat:8443?&security=tls&sni=de9.pad-sservice.lat&type=ws&headerType=none&host=de9.pad-service.com&path=%2FDE9W#BR_speednode_0003

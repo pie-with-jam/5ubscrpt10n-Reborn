@@ -428,7 +428,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&se
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C610KB%2Fs%7CC002-260622%2001
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_2%7C673KB%2Fs%7CM003-260806%2001
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_3%7C600KB%2Fs%7CT001-260618%2001
-vless://35c26e15-4297-4187-9628-0ef4178b162d@188.72.103.4:443?mode=packet-up&path=/uploadfiles/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1200","seqKey":"chunk_id","seqPlacement":"query","sessionIDKey":"sid","sessionIDPlacement":"query","uplinkDataKey":"d","uplinkDataPlacement":"header","uplinkHTTPMethod":"GET","xPaddingBytes":"64-256","xPaddingKey":"x_padding","xPaddingMethod":"tokenish","xPaddingPlacement":"query"}&insecure=0&host=cdn-ya.sh-api.ru&type=xhttp&allowInsecure=0&sni=cdn-ya.sh-api.ru#AE-@VPNine1
 vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?security=none&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp# AE | 46.8.100.46
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxMDkuNjEuMTguMTg4IiwiYWRkIjoiMTA5LjYxLjE4LjE4OCIsInBvcnQiOiI4MCIsImlkIjoiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#AE  | @Raydikalx | 6A5013
@@ -441,21 +440,17 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tl
 vless://f85ba8bb-a3da-4389-a67a-2b0afde7bbc1@uk-tube-01.stre4m.net:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#AE  | @Raydikalx | 9300D0
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@ae-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#AE  | @Raydikalx | 845756
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?fp=chrome&host=uae.unixzone.us&path=%2F&security=false&type=ws#AE  | @Raydikalx | 1D228E
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE  | @Raydikalx | A14EFE
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us#AE  | @Raydikalx | 134D04
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?host=uae.unixzone.us&path=%2F&security=none&sni=uae.unixzone.us&type=ws#AE  | @Raydikalx | A14EFE
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?host=uae.unixzone.us&path=%2F&security=none&type=ws#AE  | @Raydikalx | 134D04
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=chrome&path=%2F&security=false&type=ws#AE  | @Raydikalx | 4D5793
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&sni=uae.unixzone.us&type=ws#AE  | @Raydikalx | 03AC51
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=random&security=none&type=ws#AE  | @Raydikalx | 7A5ED4
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE  | @Raydikalx | 2B1CF9
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&encryption=none#AE  | @Raydikalx | ABB365
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@217.60.30.39:443?type=grpc&security=tls&fp=firefox&sni=u209akv3ob.hat.onl&serviceName=v1.segment.9wLukD7VB0oToI10.ts#AE  | @Raydikalx | B42B10
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@217.60.30.53:443?security=tls&sni=bfbpkc7enr29p4.hat.onl&alpn=h2%2Chttp%2F1.1&fp=qq&type=xhttp&host=bfbpkc7enr29p4.hat.onl&path=%2Fvod%2Fzxoxpi65vp%2Fchunks&mode=auto#AE  | @Raydikalx | 9643D6
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@m2hq5bkwx.apruxdomain.online:443?type=xhttp&security=tls&sni=bfbpkc7enr29p4.hat.onl&fp=qq&alpn=h2%2Chttp%2F1.1&path=%2Fvod%2Fzxoxpi65vp%2Fchunks&host=bfbpkc7enr29p4.hat.onl&mode=auto#AE  | @Raydikalx | 12DA55
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=firefox&host=uae.unixzone.us&path=%2F&security=none&type=ws#AE  | @Raydikalx | ABB365
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?fp=chrome&host=95.174.68.188&path=%2Fvless&security=false&type=ws#AE  | @Raydikalx | 90DB69
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?fp=unsafe&host=95.174.68.188&path=%2Fvless&security=none&sni=95.174.68.188&type=ws#AE  | @Raydikalx | F16E75
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless&host=95.174.68.188&sni=95.174.68.188#AE  | @Raydikalx | F16E75
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?host=95.174.68.188&path=%2Fvless&security=none&type=ws#AE  | @Raydikalx | 64BB8E
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&sni=95.174.68.188&type=ws#AE  | @Raydikalx | 607218
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&type=ws#AE  | @Raydikalx | 01F511
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless#AE  | @Raydikalx | 01F511
 vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiQFYycmF5X0FscGhh8J+bju+4jyA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless#Global  | @Raydikalx | 9378AE
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_6%7C539KB%2Fs%7CT001-260618%20%5B0054a5727ef2%5D
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%AAAE_7%7C64KB%2Fs%7CC002-260622%20%5B229db3bd1e26%5D
@@ -1358,3 +1353,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:802#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:801#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-4128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-6283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVUVZZ0JJdjNVaW5FWWNCL0hhNUpmNzkyQUVqeU53bkd1MGhJS0srbzVRPQ==@e1.cover20.ir:51570#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB%2Fs
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-AE-1...
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-AE-...%20%233
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?allowInsecure=1&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-AE-...%20%231
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-AE-...%20%234
