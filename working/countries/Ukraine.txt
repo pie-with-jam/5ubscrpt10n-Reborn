@@ -31,9 +31,10 @@ vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.c
 vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#[7536][UA][0][VLESS][None][prrofile_purple][2026-08-07][2026-11-10 04:58]
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#[2010][UA][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0179
-trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5468
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7554
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7818
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0124
+trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5410
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7503
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7767
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?sni=www.bing.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%233
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@104.253.216.227:443?sni=www.microsoft.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%232
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=androidsecurity=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-4...
@@ -75,6 +76,7 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&f
 vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.INbYCJ8SZwWsVdqNfGXJPOnTPIJo6G86khEyV52tBF0&pbk=TDnaM_SEdm44hyHFXcs1diltCym-iqjxOsJz6wHMySU&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2Fdc2ed36aac1bf6b&type=tcp&sni=play.google.com&sid=03#UA  | @Raydikalx | 80DD76
 vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951#UA  | @Raydikalx | 03CD24
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#UA  | @Raydikalx | FCB590
+trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5468
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun#[37520][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=@one_shop_official&fp=chrome&type=#[37509][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#[37495][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
