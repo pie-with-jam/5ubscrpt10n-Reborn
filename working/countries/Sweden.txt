@@ -935,6 +935,7 @@ vless://6fbd9bd1-ccd4-4e2f-a918-a0f871965763@89.22.224.146:43788?security=tls&ty
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@144.31.217.95:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B8%F0%9F%87%AASE_30%7C630KB%2Fs%7CF003-260618%2001
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=copy_Shode_az_Chanel0111Net&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313# SE | 185.189.45.195
 vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoi8J+HuPCfh6ogU0UgfCA2Mi45My4xNjYuMTg0Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vmess://eyJhZGQiOiAiNjIuOTMuMTY2LjE4NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICIlRjAlOUYlODclQjglRjAlOUYlODclQUFTRV8xNV9AU3VyZmJvYXJkdjJyYXkiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206azhJZ1JURkFJWmRwYmRSQlZ0TlFwc1l2YzlleTMwTVh4VFh6amhSczBVdz06SGFVQUNZdnM3ejRFVXF2WkN0T3J5S3ZHMDJ0aFJDWmV6Znp1c0lmUGxNUT0=@16.171.44.134:443#SE  | @Raydikalx | E6BEDA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VGZhbUUzTTZheEF1VEc0WG1HY3BoQUgxMDVUeUsyTFZLMmMvNmlkQS9NST06dDI0aTNBNnJtZkR6Vzc5ZnRoMXFSNmN1L0dCVHhkcitERW4xNlAxMnpnZz0=@13.63.50.22:12#SE  | @Raydikalx | FF3976
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ek1zNjBtVzdCZUlqN2dMYmc1WXJkSDdVbGNleThmQjd6L2lmWlNhZ3RJWT06YzBubnhpTGFlZCt3S3RxNkV2b0h3cnpXcWFKUVpYZno3TjFCelhrNFlSQT0@subgift.r7vx4-shadow-matrix.space:47022?#SE  | @Raydikalx | DF9AFB
@@ -943,8 +944,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206elVLNm5YYlBOelFKQ1l1enc0eE9IRitTTlVmOUp5ZFN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206elVLNm5YYlBOelFKQ1l1enc0eE9IRitTTlVmOUp5ZFNKNkZkd0ovRG0wdz06bkRXaWxCbEpqeFhaMmUvYnh5TS9WVnNVdXJ2bDc5VERFM09MZjhNOVpKRT0@51.21.253.12:58317?#SE  | @Raydikalx | 917AE2
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#SE  | @Raydikalx | F94C4A
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#SE  | @Raydikalx | 0DCA3F
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@138.199.55.243:19999#SE  | @Raydikalx | 6B785C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTU1NWU0NmRiYzQyMTQ1MjQxNjgzNDk2MmZkMDE0Zg==@62.182.193.228:8388#SE  | @Raydikalx | 1D5700
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#SE  | @Raydikalx | 6B785C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTU1NWU0NmRiYzQyMTQ1MjQxNjgzNDk2MmZkMDE0Zg@62.182.193.228:8388#SE  | @Raydikalx | 1D5700
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@193.68.89.220:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#SE  | @Raydikalx | 9245AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#SE  | @Raydikalx | A7EA6C
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&allowInsecure=1&fp=chrome&type=tcp#SE  | @Raydikalx | 7E2B3F
@@ -1028,8 +1029,6 @@ vless://Telegram-ipV2Ray-zew@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed
 vless://Telegram-ipV2Ray@185.146.173.59:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=www.cafebazaar.ir.www.myket.ir.69.site.&type=ws#SE  | @Raydikalx | DA89E2
 vmess://eyJhZGQiOiIxMzguMTk5LjU1LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IlNFIPCfh7jwn4eqIHwgQFJheWRpa2FseCB8IDkxM0ZFRiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IlNFIPCfh7jwn4eqIHwgQFJheWRpa2FseCB8IEIyMzlCNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#SE  | @Raydikalx | 6B785C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTU1NWU0NmRiYzQyMTQ1MjQxNjgzNDk2MmZkMDE0Zg@62.182.193.228:8388#SE  | @Raydikalx | 1D5700
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#SE  | @Raydikalx | 19D6DC
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision-udp443&sni=google.com#SE  | @Raydikalx | 5EA78A
 vless://7119ec7e-17e3-427d-8afa-02856da86a1b@13.50.207.209:14214?type=tcp&security=none#SE  | @Raydikalx | 840403
@@ -3435,7 +3434,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.212-8109
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8110
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8689
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-SE
 vmess://ewogICAgImFkZCI6ICIxMy41MC4xNTMuMjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZTJiZDc3ZC0zMTJlLTRhYzAtZGVmZS1hZmRiMjc5NTI4YTAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyODksCiAgICAicHMiOiAi8J+HuPCfh6pTRS0xMy41MC4xNTMuMjMwLTMzMTUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&type=grpc&serviceName=&mode=gun#%5Bwww.v2nodes.com%5D%20vless-SE-1...
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%231
