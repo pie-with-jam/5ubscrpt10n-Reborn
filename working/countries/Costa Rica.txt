@@ -62,6 +62,9 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@190.93.246.16:443/?
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#CR  | @Raydikalx | 66119D
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#CR  | @Raydikalx | 9AD2A3
 trojan://NISHIKUITAN111@190.93.247.7:443/?type=tcp&security=tls&allowInsecure=1#CR  | @Raydikalx | 0756D6
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#CR  | @Raydikalx | 6F4EF0
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR  | @Raydikalx | 128D78
+vmess://eyJhZGQiOiIxOTAuOTMuMjQ2LjQxIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzMTM4ODkiLCJwb3J0Ijo0NDMsInBzIjoiQ1Ig8J+HqPCfh7cgfCBAUmF5ZGlrYWx4IHwgQTI5QjhCIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=firefox&type=ws&host=moz.ar-marz.fun&path=%2Fman#CR  | @Raydikalx | 6F4EF0
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=firefox&type=ws&host=moz.ar-marz.fun&path=%2Fman#CR  | @Raydikalx | 128D78
 vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#[37702][CR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

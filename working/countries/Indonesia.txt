@@ -186,7 +186,6 @@ trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&secur
 trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID  | @Raydikalx | 323809
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353/?type=tcp&encryption=none&flow=&security=tls&sni=in001.zestapp778.com&fp=firefox#ID  | @Raydikalx | E1822C
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#ID  | @Raydikalx | 8281C8
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7675
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -513,4 +512,3 @@ ss://cbb3f877-d1fb-344c-87a9-d153bffd5484@48.193.46.7:30833?encryption=auto&secu
 ss://eyJpZCI6IjIzODUwOTlmLTMwMWItNDMzZi04MzBkLWEyZmQwYWM1NWY1NyIsImFscG4iOiIiLCJob3N0Ijoibm9kZS1pZC0xLnYyc3YudG9wIiwic25pIjoid3d3LmZhY2Vib29rLmNvbSIsInBzIjoiVm1lc3MlMjAtJTIwSUQlMjAxJTIwLSUyMHRlbGVncmFtJTIwJTNBJTIwJTQwa2lhdmEiLCJwb3J0IjoiODQ0MyIsImFkZCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsInBhdGgiOiJcL3dzIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIn0=</pre><br/><br/><br/><pre>trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[8786][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YUBub2RlLWlkLTEudjJzdi50b3A6OTkw#[4987][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdW1teXBhc3N3b3JkQDAuMC4wLjA6MTA4MA==#[ID][COUNTRY][REAL DELAY][TYPE][TEST TYPE][CHANNEL][POST DATE][SCRAPE DATE]
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?&security=tls&fp=firefox&sni=in001.zestapp778.com&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-ID-1...
