@@ -8,8 +8,8 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&
 vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=reality&alpn=http/1.1&encryption=none&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.alba.xanka.best&sid=c692a719#[14156][AL][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none#[10130][AL][0][VLESS][None][lrnbymaa][2026-10-20][2026-11-10 04:58]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[1146][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0982
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8032
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0980
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8019
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?&security=reality&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967&fp=firefox&sni=e60833x.nl7.h1clayd.click&type=xhttp#%F0%9F%87%A6%F0%9F%87%B1%20AL_20
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
