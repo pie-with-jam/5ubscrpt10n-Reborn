@@ -8,8 +8,8 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&
 vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=reality&alpn=http/1.1&encryption=none&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.alba.xanka.best&sid=c692a719#[14156][AL][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none#[10130][AL][0][VLESS][None][lrnbymaa][2026-10-20][2026-11-10 04:58]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[1146][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0980
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8019
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0954
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8010
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50120?#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...%20%231
@@ -19,8 +19,7 @@ vless://f28ce4eb-62cd-45f5-b3b3-be1c1a95e335@157.22.240.20:443?security=reality&
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4706_@Surfboardv2ray
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@85.155.228.24:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=qq&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C198KB%2Fs%7CA004-260618%2001
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=safari&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C375KB%2Fs%7CA004-260618%2001
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?sni=e60833x.nl7.h1clayd.click&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%20AL_20%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C1.4MB%2Fs%7CS004-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C403KB%2Fs%7CS004-260618
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWkdyOG5MSGRmK0ZFNVpBdzBZL1J6c21sNEF5aWtHTDQ4MVBnN2VCcHNJPQ==@130.49.189.158:43558#AL  | @Raydikalx | C7E3DD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#AL  | @Raydikalx | 6A1329
@@ -152,5 +151,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141
 ss://YWVzLTEyOC1nY206Z2Z0Z2ZkZGFmZ2Rmcw@260323.1.0.l2.unclemanco.com:39184/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%A6%F0%9F%87%B1%20AL_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925# AL | 157.22.240.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdmZIUGJReUw5RDZSTXdWTEhmWHlF@130.49.189.158:10792#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50120?security=reality&encryption=none&pbk=n4sk3x-GS3uCHsert4qOJQt_RzjcTPGFQvRImsnsyTA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=289f5ebf78f79b#[openproxylist.com] vless-AL
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50120?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-AL-1...

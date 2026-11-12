@@ -39,7 +39,7 @@ vless://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&en
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[1531][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[2089][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[2090][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-10][2026-11-10 04:58]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8523
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8514
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:52549?#%F0%9F%87%A8%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-CR-1...
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR_2842_@Surfboardv2ray
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR_2843_@Surfboardv2ray
@@ -70,7 +70,6 @@ trojan://NISHIKUITAN111@190.93.247.7:443/?type=tcp&security=tls&allowInsecure=1#
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR  | @Raydikalx | 756D8F
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR  | @Raydikalx | 6F4EF0
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#CR  | @Raydikalx | 128D78
-vless://1fc13329-ad0b-4848-85e7-29f9bb553556@190.93.247.200:443?encryption=none&security=tls&sni=vidag-xqtz.mml007.workers.dev&fp=chrome&type=ws&host=vidag-xqtz.mml007.workers.dev&path=%2Fstream%2FDEVCOP%2F29f9bb553556%2Floc-3#CR  | @Raydikalx | C18537
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&host=moz.ar-marz.fun&fp=firefox&type=ws&sni=moz.ar-marz.fun# CR | 190.93.244.47
 vless://e0782d4d-246a-4832-88e1-6d7e73c8eb22@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#[37702][CR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&encryption=none&headerType=none&type=tcp&sni=udp.HiV2ray.cfd#[30688][CR][0][VLESS][None][v2ray_outlineir][2023-12-04][2026-08-16 00:34]
@@ -320,5 +319,4 @@ ss://fa65902e-abb9-4dac-9e26-01f0564a8a64@190.93.246.241:2053?security=tls&encry
 ss://c7e63cbd-0341-4d86-e8b3-ecd02d750d06@190.93.247.155:8880?type=ws&host=liV2helh.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=/@LIGHTNING6&security=none#[6712][CR][0][SS][None][shopingv2ray][2024-01-25][2026-07-28 02:00]
 ss://b31d462b-069c-497f-97d9-b6903e4f7a27@190.93.246.241:2087?security=tls&encryption=none&headerType=none&type=tcp&sni=udp.HiV2ray.cfd#[6280][CR][0][SS][None][v2ray_outlineir][2023-12-04][2026-07-28 02:00]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8641
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:52549?security=reality&encryption=none&pbk=CIS3STK15LH3cVRA0Xjy95HkIQ7aFuVy0IEL_B7l8Vo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=4925f29fc9b0#[openproxylist.com] vless-CR
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:52549?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-CR-1...
