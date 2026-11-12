@@ -231,15 +231,9 @@ trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.2
 ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.49.222-7984
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.108.109-7985
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.5:2003#%F0%9F%87%B0%F0%9F%87%B7KR-125.141.26.5-8583
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-4...
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-3...%20%231
 vless://e15db5c2-2dca-49fc-857b-aa37a7ba1c79@43.108.85.54:443?sni=cloudflare.com&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%231
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%232
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-3...%20%233
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%234
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%235
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-3...%20%231
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-3...%20%234
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%233
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%234
@@ -252,7 +246,6 @@ vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&header
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR_2444_@Surfboardv2ray
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#KR_3073_@Surfboardv2ray
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#KR_3074_@Surfboardv2ray
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgN0U4Nzk4IiwiYWRkIjoiMTI5LjE1NC42MS4xOTYiLCJwb3J0IjoiODAwIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0=
 trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
 trojan://3747000103274291200@humble-rodent.treefrog761.one:443#South+Korea
 trojan://3747000103274291200@43.202.142.243:443?peer=humble-rodent.treefrog761.one#South+Korea
@@ -268,8 +261,10 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@141.164.45.187:8008#%F0%9F%87%B0%F0%9F%
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%F0%9F%87%B0%F0%9F%87%B7KR_37%7C68KB%2Fs%7CT001-260618%20%5Bbd5e0d16598f%5D
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101#%F0%9F%87%B0%F0%9F%87%B7KR_33%7C655KB%2Fs%7CA001-260618%20%5B9f36ea6b0055%5D
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#%F0%9F%87%B0%F0%9F%87%B7KR_38%7C112KB%2Fs%7CB007-260618%20%5Bd5b3599c1c44%5D
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?sni=154.90.62.70&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_14%7C484KB%2Fs%7CA004-260618%20%5B3a76896e531c%5D
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?fp=chrome&host=s5.868001.xyz&path=%2Fproxyipfp%3Dchrome&security=tls&sni=s5.868001.xyz&type=ws#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%232
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@47.80.57.116:443?security=tls&type=ws&path=/TG:@MiaChatChannel&host=mia6.pages.dev&packetEncoding=xudp&sni=mia6.pages.dev&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_50%7C418KB%2Fs%7CT001-260618%2001
 vless://581cb8c3-dadb-4e10-a18b-5e79bfe7bd93@47.80.14.8:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=71110d3f7ef57760&pbk=OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w#%F0%9F%87%B0%F0%9F%87%B7KR_40%7C553KB%2Fs%7CA004-260618%2001
 vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=3fd0a8ddef3ae5c6&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8#%F0%9F%87%B0%F0%9F%87%B7KR_51%7C521KB%2Fs%7CF003-260618%2001
@@ -277,6 +272,7 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&t
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%235
 vless://8638521a-7d64-4ad0-9112-83aa1fc19867@175.195.149.58:10280?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_37%7C281KB%2Fs%2001
 vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@172.64.94.251:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=withered-morning-aa51.64-c79.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C561KB%2Fs%7CB007-260618%2001
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...%20%234
 vless://beec57a5-8266-4279-b279-f495bdc70699@211.48.30.184:30017?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B0%F0%9F%87%B7KR_38%7C83KB%2Fs%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@123.111.169.70:2083?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@kr002.zestapp778.com:37095?security=tls&type=tcp&packetEncoding=xudp&sni=kr002.zestapp778.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_40%7C261KB%2Fs%7CM003-260806%20%5B26c6ffbf5b63%5D
@@ -564,6 +560,7 @@ vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2485.gogocs.xyz:443?encryption=non
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@[2401:c080:1c01:4ad:5400:7ff:fe03:a588]:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=04af05e4s2473.xxti.top&path=47835048fa926e1dc3323ae57dcac72b&flow=&security=tls&sni=u695098u04af05e4s2473.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#KR%20VLESS-69%20%7C%20free-nodes
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@[2401:c080:1c01:f23:5400:7ff:fe03:a582]:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#KR%20VLESS-74%20%7C%20free-nodes
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@141.164.40.4:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=66e05ed8s2448.xxti.top&path=bfaa4bbe8cd76b7477b05453d8d48ecc&flow=&security=tls&sni=u695098u66e05ed8s2448.xxti.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#KR%20VLESS-86%20%7C%20free-nodes
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.37.88.18:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#[4390][KR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.249.67:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue#[27885][KR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.44:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=firefox#[34746][KR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -3192,6 +3189,7 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#%f0%9f%87%b0%f0%9f
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#%f0%9f%87%b0%f0%9f%87%b7%20KR%2012
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f%87%b7%20KR%2013
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#%f0%9f%87%b0%f0%9f%87%b7%20KR%2014
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#[openproxylist.com] trojan-KR
 vmess://ewogICAgImFkZCI6ICIxMy4xMjUuMjQuMTEyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDk1MTcsCiAgICAicHMiOiAi8J+HsPCfh7dLUi0xMy4xMjUuMjQuMTEyLTQzNjYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI1NC4xODAuMTUyLjE4OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjViNTIwOWYtYmNiZC00YmFjLWIwNDQtMGQxNzk2OThjNjJkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQyNTE3LAogICAgInBzIjogIvCfh7Dwn4e3S1ItNTQuMTgwLjE1Mi4xODgtMDI2OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI1NC4xODAuMTMxLjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjViNTIwOWYtYmNiZC00YmFjLWIwNDQtMGQxNzk2OThjNjJkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQyNTE3LAogICAgInBzIjogIvCfh7Dwn4e3S1ItNTQuMTgwLjEzMS4xOTEtMDI3MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
