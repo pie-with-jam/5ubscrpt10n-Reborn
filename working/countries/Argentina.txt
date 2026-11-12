@@ -362,6 +362,7 @@ vless://95d0e214-eab0-4701-93ed-fea4f1b56062@84.32.96.251:443?mode=gun&security=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.102.223:22222?encryption=none&security=none&type=tcp#ar14n24b%20%20VL-TCP-N/A%20%20XX%20135ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.102.223:22223?encryption=none&security=none&type=tcp#ar14n24b%20%20VL-TCP-N/A%20%20XX%20138ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.102.223:22224?encryption=none&security=none&type=tcp#ar14n24b%20%20VL-TCP-N/A%20%20XX%20138ms
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:59899?security=reality&type=tcp&packetEncoding=xudp&sni=api.adidas.com&fp=firefox&flow=xtls-rprx-vision&sid=4ac1692abefd&pbk=5RmlkTNSD3o7K21MaILXo6_tAox6WCFeB3srTxkWIAM#%F0%9F%87%A6%F0%9F%87%B7AR_1%7C88KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0770
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#%f0%9f%87%a6%f0%9f%87%b7AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?allowInsecure=1&sni=ar.mjt001.com#AR%e9%98%bf%e6%a0%b9%e5%bb%b7(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
