@@ -166,7 +166,6 @@ vmess://eyJhZGQiOiJ0dHIyLmRmc2FoLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJ0dXJraXAuaGFydG9zaGk3Ny54eXoiLCJob3N0Ijoic3BlZWR0ZXN0LmNvbSIsImlkIjoiNDliYzJjMDgtODY0ZS00ZjEwLTkzMzUtM2FkMDJmODIzYjE1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiVFIg8J+HufCfh7cgfCBAUmF5ZGlrYWx4IHwgOTVDQjJGIiwic2N5IjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://2bca38e7-c6b8-45ca-bfc4-311a359b8154@trn26.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=e8f4426268c05621#soskeynet%20%20VL-TCP-%20%20TR%20199ms
 vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany24kvlcvkzcxvlqwe312adscrfsdcrc234cef.soft421.ir:1152?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43#configfa%20%20VL-TCP-%20%20TR%20down
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs%20%7C%20%E7%BD%91%E7%9B%98%E6%90%9C%E5%AE%9D%3A%20https%3A%2F%2Ft.me%2Fdiskseeker
 ss://c0f6351a-d007-4a36-b6d2-5fa27071a912@93.190.9.229:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#[10114][TR][0][SS][None][vpn_tehran][2026-10-01][2026-11-10 04:58]
 ss://YWVzLTI1Ni1nY206bTF2RTlwdTNRV3NhalZLb1I2T2pBRDl2Vkl0ZE1rZzc%3D@melli-shekan.tr:5048#[9121][TR][0][SS][None][v2rayngvpn][2026-11-05][2026-11-10 04:58]
 ss://1ae6bff4-1516-44f3-b9da-87bcab5191b1@185.226.93.120:8443?security=reality&encryption=none&pbk=VQtNAOH-O0dwJVIx4gyBgi2VRD4HJh3qLKm6tpAvigA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c6906dcafe931ef2#[809][TR][0][SS][None][nofiltering2][2026-07-22][2026-11-10 04:58]
@@ -1692,6 +1691,7 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B9%F0%9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0805
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9e419c0759b54d6f&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C885KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.143.204.23:8443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7_TR_%E5%9C%9F%E8%80%B3%E5%85%B6-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.6MB%2Fs%20%7C%20%E7%BD%91%E7%9B%98%E6%90%9C%E5%AE%9D%3A%20https%3A%2F%2Ft.me%2Fdiskseeker
 vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany24kvlcvkzcxvlqwe312adscrfsdcrc234cef.soft421.ir:1152?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43# TR | 143.246.136.145
 vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&security=none&fm={"tcp":[{"settings":{"clients":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]],"servers":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]]},"type":"header-custom"}]}&type=tcp&headerType=http&host=play.google.com# TR | 64.49.13.89
 vless://06f86f1b-1fa0-437e-9e5d-8f8cf27bdf96@45.92.219.204:8088?security=reality&encryption=none&pbk=6m_clJWpXHndi176bB428JqroczCuJVMyhfMGuI9wRI&headerType=none&fp=ios&spx=/da033db9ffa4104&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=11e9# TR | 45.92.219.204
@@ -1704,11 +1704,10 @@ ss://2022-blake3-aes-256-gcm:hEzBZw+S3SFV5kRjyKhvnfu7NASZXlfkzCosaqj+ios=:CIGAOW
 ss://2022-blake3-aes-256-gcm:hEzBZw+S3SFV5kRjyKhvnfu7NASZXlfkzCosaqj+ios=:SSdtSE3r9XCSb/5D0tkvScw8YknCRf9Q+xL6TZY416o=@206.1.103.120:24374?type=tcp#TR  | @Raydikalx | 9C51EB
 ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995#TR  | @Raydikalx | 449E76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#TR  | @Raydikalx | A914F1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:545?#TR  | @Raydikalx | 9F7F12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:8090?#TR  | @Raydikalx | AA0296
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:545#TR  | @Raydikalx | 9F7F12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:8090#TR  | @Raydikalx | AA0296
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@185.226.93.28:543#TR  | @Raydikalx | 91CA47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TR  | @Raydikalx | 940B30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbXlqaTExZVp6U3psNUFZdzlIeWpBUWQ3ZGpmS3BwYg@h.novexora.ir:1080#TR  | @Raydikalx | B3106E
 trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#TR  | @Raydikalx | 977F98
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#TR  | @Raydikalx | CE2761
 trojan://af4b064a9c39472fb34ad8b113acdc6b@194.87.39.133:443?allowInsecure=1&sni=194.87.39.133#TR  | @Raydikalx | 628B7C
@@ -3655,6 +3654,6 @@ ss://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#[openproxylist.com] vless-TR
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#[openproxylist.com] vless-TR
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com#[openproxylist.com] trojan-TR
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?allowInsecure=0&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-TR-...

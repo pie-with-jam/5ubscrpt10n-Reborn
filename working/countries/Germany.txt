@@ -5670,10 +5670,10 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#DE  | @Raydikalx 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#DE  | @Raydikalx | D27672
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#DE  | @Raydikalx | 32AE1C
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#DE  | @Raydikalx | A76A05
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999#DE  | @Raydikalx | 574608
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999/?type=tcp&headerType=none#DE  | @Raydikalx | 574608
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.111:19999#DE  | @Raydikalx | E3AA60
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.117.84:19999#DE  | @Raydikalx | 91C9A3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.118.247:19999#DE  | @Raydikalx | F16536
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.118.247:19999#DE  | @Raydikalx | F16536
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.119.2:19999#DE  | @Raydikalx | C1CD74
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.119.3:19999#DE  | @Raydikalx | 133DA5
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.108.119.83:19999#DE  | @Raydikalx | 8AC01E
@@ -6050,6 +6050,7 @@ vless://89d096e6-6d55-4dff-bed7-0d8064665ee6@static.99.177.233.167.clients.your-
 vless://8a204637-801f-4f7d-8c44-318e0e5992c4@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#DE  | @Raydikalx | B10E50
 vless://8b8dcca7-39f6-47ed-90ac-597eb3b206ee@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#DE  | @Raydikalx | B50C41
 vless://8bcdddb3-3154-49e1-ab64-1998e1131c02@7745d457679e0e477745d457679e0e477745d457679e0e47.jvjvjvjvjvjvhhr.space:8080?mode=auto&path=/b4920d9c064cfe38c0021723&security=reality&encryption=none&pbk=ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA&fp=chrome&type=xhttp&sni=aparat.com&sid=5ba803414e918143#DE  | @Raydikalx | 98C094
+vless://8be3e9b2-54e6-490c-ad5f-5a372765ffae@de.soft10.ir:8080?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=staticview.microsoft.com&pbk=Au0lpWqAPpK0aNuc3Uwcsf7fB1B2w2LXzdC1CVKb1ik&sid=a8235bf7eb8fca#DE  | @Raydikalx | E58BB9
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=qq&type=xhttp&sni=www.google.com#DE  | @Raydikalx | 98457D
 vless://8db764be-f144-4df0-ae5d-21d5f2551290@md.gilangard.ir:11431?security=reality&encryption=none&pbk=-mmOMxUx52Rj14VuE5fhlsvh7qt5WT9WEZy5LQlnSDc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d8de8785395c206b#DE  | @Raydikalx | 19ECF3
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#DE  | @Raydikalx | A70BFD
@@ -6058,7 +6059,6 @@ vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?encryption
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?path=%2F8f2690e2d016&security=&encryption=none&type=ws#DE  | @Raydikalx | CB80BE
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#DE  | @Raydikalx | C28C82
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#DE  | @Raydikalx | 93B76B
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#DE  | @Raydikalx | 092FF3
 vless://93c51659-2a32-410c-86f2-25b1b5a7cead@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#DE  | @Raydikalx | 426C2D
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?security=none&encryption=none&type=ws#DE  | @Raydikalx | 0A41C3
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=chrome&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#DE  | @Raydikalx | 5C3824
@@ -6233,7 +6233,6 @@ vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&en
 vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed&security=tls&encryption=none&insecure=0&host=n.bitpulse.me&fp=chrome&type=ws&allowInsecure=0&sni=n.bitpulse.me#DE  | @Raydikalx | 44CFC9
 vless://f292ef7e-5877-48ab-96c8-3d60a57aeb4e@static.84.177.202.116.clients.your-server.de:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.243.186.109.65.clients.your-server.de&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#DE  | @Raydikalx | 194B74
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#DE  | @Raydikalx | D9FE93
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#DE  | @Raydikalx | A6CA0F
 vless://f5293312-411f-4b80-9f55-b2eccb7ae683@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#DE  | @Raydikalx | DDAFDF
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?flow=xtls-rprx-vision&fp=firefox&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&security=reality&sid=168c15efac9df5fd&sni=twitch.tv&type=tcp#DE  | @Raydikalx | 11D170
 vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?security=reality&encryption=none&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=94.249.188.202&sid=7887c27d#DE  | @Raydikalx | B452A8
@@ -6288,7 +6287,9 @@ vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 ss://2022-blake3-aes-256-gcm:YZa1hYrK%2FxilZEfMJbGFPAdN1Oh%2FYIVIoDpyDZwHW5E%3D%3AzN4Jk%2Bn%2BVa0MxBrTunjmyb%2BVZ%2FGjPs2xB4V0wLVM%2Bxw%3D@tuns.rupfem.ir:8080#DE  | @Raydikalx | DD96D4
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#DE  | @Raydikalx | D27672
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000#DE  | @Raydikalx | 32AE1C
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999#DE  | @Raydikalx | 574608
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.84:19999#DE  | @Raydikalx | 91C9A3
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.118.247:19999#DE  | @Raydikalx | F16536
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#DE  | @Raydikalx | 8AC01E
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.76.233:19999#DE  | @Raydikalx | 8C6947
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.83.85:19999#DE  | @Raydikalx | 09B68E
@@ -23936,9 +23937,8 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9
 vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?&security=tls&fp=firefox&sni=torvani.cyou&type=ws&headerType=none&host=torvani.cyou&path=%2Fapi%2Fboards%2Flive#[openproxylist.com] vless-DE
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw#[openproxylist.com] vless-DE
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@31.22.10.239:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=09af1b0c92e6fed4&pbk=5rF9gThFLwVXRoVF8CQXcZbNXACv3SR4ob0TVyfbCWI&encryption=none#[openproxylist.com] vless-DE
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=2.26.6.1&fp=chrome#[openproxylist.com] vless-DE
 vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?#[openproxylist.com] vless-DE
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@188.225.37.175:443?path=%2Fapi%2Fde3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cryptoventura.online&fp=firefox&type=ws&allowInsecure=0&sni=cryptoventura.online#[openproxylist.com] vless-DE
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@cryptoventura.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cryptoventura.online&type=ws&headerType=none&host=cryptoventura.online&path=%2Fapi%2Fde3%2Flive#[openproxylist.com] vless-DE
 vmess://eyJhZGQiOiIxOTMuMTA4LjExNy42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#[openproxylist.com] vless-DE
 vmess://eyJhZGQiOiIxOTMuMTA4LjExOS44NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
