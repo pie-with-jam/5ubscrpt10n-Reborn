@@ -15768,7 +15768,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@190.2.147.119:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388# NL | 141.227.152.129
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388# NL | 108.181.58.239
 vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?sni=de.oncloudvpn.com&alpn=h2&type=grpc&serviceName=grpc&fp=chrome&security=tls#[openproxylist.com] vless-NL
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&type=tcp&packetEncoding=xudp&sni=base.hosamobenl.co.uk&fp=chrome#[openproxylist.com] vless-NL
+vless://a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc@104.222.183.180:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.tradingview.com&fp=firefox&flow=xtls-rprx-vision&sid=705f0a232571&pbk=MYmnKEaJyfk1HrBaKg3AvYebp-sP3rZRNh9MnOcKgXY&encryption=none#[openproxylist.com] vless-NL
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&type=tcp&packetEncoding=xudp&sni=base.hosamobenl.co.uk&fp=firefox&encryption=none#[openproxylist.com] vless-NL
 vless://510a4a35-54ac-41fa-a972-8d010995c8f7@206.166.251.70:52901?&type=tcp&headerType=none&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-NL-1...
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?&security=tls&fp=chrome&sni=fr2.gacvpn.site&type=grpc&serviceName=&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-NL-1...%20%231
 vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?&type=tcp&headerType=none&host=api.mediacorphub.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%5Bwww.v2nodes.com%5D%20vless-NL-1...%20%234

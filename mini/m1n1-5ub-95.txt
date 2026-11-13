@@ -1,7 +1,3 @@
-trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
-trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0# By EbraSha
-trojan://ND91608427@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
-trojan://ND91608427@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&path=/# By EbraSha
 trojan://ND91608427@185.244.208.13:443# By EbraSha
 trojan://ND91608427@185.244.208.13:443?sni=ace-starling.rooster465.autos&path=/# By EbraSha
 trojan://ND91608427@185.244.208.210:443?security=tls&path=/# By EbraSha
@@ -9998,3 +9994,7 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@169.197.142.187:8119#[14477][US][0][SS
 ss://3f4661f8-518f-43c0-bc21-fb18270adecf@91.107.249.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=firefox&security=reality&pbk=Q2PKO5dwZsjwXrzTrc78a7PofR6whNf8iRh9nJJRJxE&sid=051d0a50#[2382][UnResolvedDomains][0][SS][None][freeconfigv2][2023-09-15][2026-08-16 00:34]
 ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&sni=enterprisekitten.com&allowInsecure=1&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#[5241][RU][0][SS][None][v2ray_vpn_ir][2026-07-25][2026-08-16 00:34]
 ss://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#[16666][FR][0][SS][None][v2rayngvp][2025-07-29][2026-08-16 00:34]
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.117:2376#[15058][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#[20616][SC][0][SS][None][marambashi][2026-08-01][2026-08-16 00:34]
+ss://4b3b2137-bead-4540-a90f-46017d0540a4@77.221.154.111:46647?type=tcp&security=none#[2883][NL][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://904704c1-b571-47e5-e57f-a3b97017f4b9@185.18.250.113:443?encryption=none&security=tls&sni=majidkazemi.vlessvmessxray.click&type=ws&host=majidkazemi.vlessvmessxray.click&path=%2F#[5464][CH][0][SS][None][xrayproxy][2023-05-21][2026-08-16 00:34]

@@ -1,7 +1,3 @@
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UjIvMdYn5.ZuMuT.InFo&type=ws&alpn=h2http/1.1&host=UjIvMdYn5.ZuMuT.InFo&path=/# By EbraSha
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UwTlUnDs.zIkLiT.InFo&type=ws&alpn=h2http/1.1&host=UwTlUnDs.zIkLiT.InFo&path=/# By EbraSha
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZgPrMnBc2.ZuMuT.InFo&type=ws&alpn=h2http/1.1&host=ZgPrMnBc2.ZuMuT.InFo&path=/# By EbraSha
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZlRuVwDm5.ZuKaR.InFo&type=ws&alpn=h2http/1.1&host=ZlRuVwDm5.ZuKaR.InFo&path=/# By EbraSha
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443/?type=ws&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&path=%2F&security=tls&sni=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome# By EbraSha
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=GtIbRcMp3.RoMaNyAe.iNfO&alpn=h2http%2F1.1&type=ws&host=GtIbRcMp3.RoMaNyAe.iNfO&path=%2F# By EbraSha
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=KxPlZrZq3.KaMeLiNa.oRg&type=ws&alpn=h2&host=KxPlZrZq3.KaMeLiNa.oRg&path=/# By EbraSha
@@ -9998,3 +9994,7 @@ vless://8e8de42d-3d99-4b8b-b0e4-aad210e79328@ert-4.v-sub.site:443?path=%2F&secur
 vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@104.17.170.132:8880?encryption=none&security=none&type=ws&host=icy-hall-8013.386-58c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net# By EbraSha
 vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@104.17.170.132:8880?encryption=none&type=ws&host=icy-hall-8013.386-58c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none# By EbraSha
 vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@104.17.170.132:8880?host=icy-hall-8013.386-58c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws# By EbraSha
+vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@104.17.170.132:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=icy-hall-8013.386-58c.workers.dev&packetEncoding=xudp# By EbraSha
+vless://8e8e2034-33eb-4ccc-938f-ba86d877c449@104.17.170.132:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=icy-hall-8013.386-58c.workers.dev&packetEncoding=xudp# By EbraSha
+vless://8e93b7d9-d134-4440-90b4-430248a97fe9@zeusly.house0of1nyxora.top:2087?security=reality&encryption=none&pbk=3XkvyZPLeTeTSQKy5k5i18k-qerFN8JJVIjNEQyMI3U&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=093a087278# By EbraSha
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@Ashburn1-h.FaraSorat.net:443?path=%2FpV67LRFs428xHke56mDQ&security=tls&encryption=none&host=Ashburn1.FaraSorat.net&type=ws&sni=gift-4101664.FaraSorat.Net# By EbraSha

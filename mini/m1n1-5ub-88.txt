@@ -1,7 +1,3 @@
-trojan://HW85960347@cool-lioness.rooster465.autos:443?sni=cool-lioness.rooster465.autos&peer=cool-lioness.rooster465.autos&security=tls# By EbraSha
-trojan://HW85960347@cunning-grub.rooster465.autos:443?allowInsecure=1&sni=cunning-grub.rooster465.autos# By EbraSha
-trojan://HW85960347@curious-llama.rooster465.autos:443?allowInsecure=1&sni=curious-llama.rooster465.autos# By EbraSha
-trojan://HW85960347@curious-llama.rooster465.autos:443?sni=curious-llama.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://HW85960347@curious-llama.rooster465.autos:443?sni=curious-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://HW85960347@daring-cobra.rooster465.autos:443?allowInsecure=0&sni=daring-cobra.rooster465.autos# By EbraSha
 trojan://HW85960347@daring-cobra.rooster465.autos:443?allowInsecure=1&sni=daring-cobra.rooster465.autos# By EbraSha
@@ -9998,3 +9994,7 @@ trojan://NQ26071394@18.183.220.94:443?sni=legible-ram.rooster465.autos&fp=chrome
 trojan://NQ26071394@18.183.220.94:443?sni=legible-ram.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
 trojan://NQ26071394@18.183.220.94:443?sni=legible-ram.rooster465.autos&type=tcp&fp=chrome# By EbraSha
 trojan://NQ26071394@18.183.245.246:443?security=tls&sni=allowing-ram.rooster465.autos&path=/# By EbraSha
+trojan://NQ26071394@18.183.245.246:443?sni=allowing-ram.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://NQ26071394@18.183.245.246:443?sni=allowing-ram.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
+trojan://NQ26071394@18.183.245.246:443?sni=allowing-ram.rooster465.autos&path=/# By EbraSha
+trojan://NQ26071394@18.184.169.90:443# By EbraSha

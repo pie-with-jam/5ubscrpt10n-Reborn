@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.148:443#4Mohsen-e4a366d95e
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.149:443#4Nika-8292ce4dcd
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.150:443#4Kian-ed424ce4ec
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.36:443#4Jadi-6443289f4c
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.37:443#4Kian-7a442a3605
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.169.128:443#4FreeIran-3514cf4aec
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.207:443#4Nika-bd3513e5a7
@@ -9998,3 +9994,7 @@ ss://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none
 ss://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#[2411][NL][0][SS][None][oneclickvpnkeys][2026-07-25][2026-07-29 02:03]
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@one-for-all.levikogjgfdd.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[10852][US][0][SS][None][v2ray1_ng][2026-07-24][2026-07-29 02:03]
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#[3981][US][0][SS][None][V2rayng_Fast][2026-07-15][2026-07-29 02:04]
+ss://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#[6945][AT][0][SS][None][free1_vpn][2026-07-15][2026-07-29 02:04]
+ss://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[10689][SC][0][SS][None][Outline_Vpn][2026-07-17][2026-07-29 02:03]
+ss://ebe9e6b5-8ade-4b61-8d48-7ad226b834b5@91.107.187.112:48250/?type=tcp&encryption=none&sni=www.foreca.fi&fp=firefox&security=reality&pbk=vXA2TavCUULyWpmABXBNWNGE3a_7zCPv0TfIW4tAhm0&sid=4b1c431d#[9765][UnResolvedDomains][0][SS][None][Capital_NET][2023-08-23][2026-07-29 02:04]
+ss://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#[10954][TR][0][SS][None][rxv2ray][2025-11-28][2026-07-29 02:04]
