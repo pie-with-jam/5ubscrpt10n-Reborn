@@ -35,7 +35,8 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.81:443?encryption=none&fp
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#IL_4491_@Surfboardv2ray
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&host=www.apple.com&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#IL-@VPNine1
 ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw@64.177.66.60:8388#%F0%9F%87%AE%F0%9F%87%B1IL_7%7C2.0MB%2Fs%7CM003-260806%20%5Bdbc1e8c0eadb%5D
-ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw==@64.177.66.60:8388#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C238KB%2Fs%7CM003-260806
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?security=tls&type=ws&path=%2F&host=fs.qicai99.com&packetEncoding=none&sni=fs.qicai99.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1IL_4%7C913KB%2Fs%7CP002-260618
+ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw==@64.177.66.60:8388#%F0%9F%87%AE%F0%9F%87%B1IL_5%7C1.9MB%2Fs%7CM003-260806
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@il.mjt001.com:443?allowInsecure=1&sni=il.mjt001.com#IL%e4%bb%a5%e8%89%b2%e5%88%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw==@64.177.66.60:8388#IL  | @Raydikalx | F16C3F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#IL  | @Raydikalx | 60EE8A
