@@ -899,4 +899,5 @@ ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&securi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8510
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8453
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8313
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-NG
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50889?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-NG-1...
