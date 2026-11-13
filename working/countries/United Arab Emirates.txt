@@ -400,8 +400,8 @@ vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=random&sec
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=firefox&host=uae.unixzone.us&path=%2F&security=none&type=ws#AE  | @Raydikalx | ABB365
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?fp=chrome&host=95.174.68.188&path=%2Fvless&security=false&type=ws#AE  | @Raydikalx | 90DB69
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?fp=unsafe&host=95.174.68.188&path=%2Fvless&security=none&sni=95.174.68.188&type=ws#AE  | @Raydikalx | F16E75
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless&host=95.174.68.188#AE  | @Raydikalx | 64BB8E
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?security=none&type=ws&path=%2Fvless&sni=95.174.68.188#AE  | @Raydikalx | 607218
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?host=95.174.68.188&path=%2Fvless&security=none&type=ws#AE  | @Raydikalx | 64BB8E
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&sni=95.174.68.188&type=ws#AE  | @Raydikalx | 607218
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&type=ws#AE  | @Raydikalx | 01F511
 vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiQFYycmF5X0FscGhh8J+bju+4jyA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless#Global  | @Raydikalx | 9378AE
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#%F0%9F%87%A6%F0%9F%87%AAAE_6%7C539KB%2Fs%7CT001-260618%20%5B0054a5727ef2%5D
@@ -1310,5 +1310,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:802#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:801#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-4128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-6283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVUVZZ0JJdjNVaW5FWWNCL0hhNUpmNzkyQUVqeU53bkd1MGhJS0srbzVRPQ==@e1.cover20.ir:51570#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.6MB%2Fs
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?allowInsecure=1&insecure=1&security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#[openproxylist.com] trojan-AE
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#%5Bwww.v2nodes.com%5D%20vless-AE-1...
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-AE-...%20%234
