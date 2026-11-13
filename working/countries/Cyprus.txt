@@ -155,6 +155,7 @@ vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@45.88.176.30:8443?mode=auto&path=/x
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#CY  | @Raydikalx | AE9D73
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
 trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#CY  | @Raydikalx | 0F485E
+vless://330dc118-9214-4d54-8b8e-b61412d73537@45.83.86.66:47291?encryption=none&security=none&type=tcp#CY  | @Raydikalx | B73387
 vless://477270ef-12b9-45ae-854b-10005e27d48d@45.83.85.129:443?path=/assets/js/app.557b1356.js&security=reality&encryption=none&pbk=yG9PCRThFyrRI10PjbNzQPvWzjnvxGbzwzHuvYMWRys&host=velllp.qikbro.com&fp=chrome&type=xhttp&sni=velllp.qikbro.com&sid=6300ca9f9d90b6f3#CY  | @Raydikalx | A94E59
 vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@45.88.176.30:8443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&fp=chrome&type=xhttp&sni=cdn-us.cahmes.space&sid=6bd33a75ebc0f26e#CY  | @Raydikalx | 2B7E16
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#CY  | @Raydikalx | 0FFE7B
