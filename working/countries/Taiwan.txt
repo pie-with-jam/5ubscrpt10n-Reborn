@@ -18,11 +18,6 @@ vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjowLCJob3N0IjoiOTY0MTY4NC5z
 vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgQzNFQjUwIiwiYWRkIjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsInBvcnQiOiI0NDMiLCJpZCI6IjI1MGMwMTVkLWJhYjAtNGVkMy1iNjM4LWI0ZWRhNDhmNTg0MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsInBhdGgiOiIvIiwiaG9zdCI6Ijk2NDE2ODQuc2RmNjVoNC50b3AifQ==
 vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJUVyDwn4e58J+HvCB8IEBSYXlkaWthbHggfCA5M0E5QjMiLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgNzUzMzhDIiwiYWRkIjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsInBvcnQiOiI0NDMiLCJpZCI6IjI1MGMwMTVkLWJhYjAtNGVkMy1iNjM4LWI0ZWRhNDhmNTg0MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsInBhdGgiOiIvIn0=
-vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgNkFBMTE3Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJ2IjpudWxsLCJwcyI6IlRXIPCfh7nwn4e8IHwgQFJheWRpa2FseCB8IDIxRkEzOSIsImFkZCI6ImF6LTEubGlua2FhLnh5eiIsInBvcnQiOjUzMTEwLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYXotMS5saW5rYWEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgMjFGQTM5In0=
-vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgQjg2RTY5Iiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzYxNyIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgQzE0NjkyIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJ2IjpudWxsLCJwcyI6IlRXIPCfh7nwn4e8IHwgQFJheWRpa2FseCB8IDUzNjkxQyIsImFkZCI6ImF6LTEubGlua2FhLnh5eiIsInBvcnQiOjU1Mzg2LCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYXotMS5saW5rYWEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgNTM2OTFDIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgRDE2NTU2IiwiYWRkIjoiZGVlMjMwOWRiNDk0NGMyNDhiNmQ0MzcyYzY2NDFlMjUub3lsZm14ei5jbiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDkwZTQwNzctYmM3ZS00MTRkLWE2NTAtNzBiZjFiYWFlNGQ2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZGVlMjMwOWRiNDk0NGMyNDhiNmQ0MzcyYzY2NDFlMjUub3lsZm14ei5jbiIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgNEU4MkFEIiwiYWRkIjoiZGVlMjMwOWRiNDk0NGMyNDhiNmQ0MzcyYzY2NDFlMjUub3lsZm14ei5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiZGVlMjMwOWRiNDk0NGMyNDhiNmQ0MzcyYzY2NDFlMjUub3lsZm14ei5jbiIsInBhdGgiOiIvIiwiaG9zdCI6ImRlZTIzMDlkYjQ5NDRjMjQ4YjZkNDM3MmM2NjQxZTI1Lm95bGZteHouY24ifQ==
 vmess://eyJhZGQiOiJkZWUyMzA5ZGI0OTQ0YzI0OGI2ZDQ2NzJjNjY0MWUyNS5veWxmbXh6LmNuIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJUVyDwn4e58J+HvCB8IEBSYXlkaWthbHggfCA4ODE4RDQiLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
@@ -219,7 +214,6 @@ trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@101.3.47.51:443?type=tcp&security=tls#TW  | @Raydikalx | 735D9F
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.190:443/?type=tcp&security=tls&sni=45.32.28.232#TW  | @Raydikalx | 559066
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.128.151:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | 8C163F
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.135.193:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | 34844B
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | 61DFFD
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | 5EC568
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.234:3462?sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1&type=tcp#TW  | @Raydikalx | 192C1B
@@ -233,7 +227,6 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a05.taipeicitygovernment.co.ua:346
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a06.taipeicitygovernment.dp.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | C744B0
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a07.taipeicitygovernment.if.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 4E46C8
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a08.taipeicitygovernment.ivano-frankivsk.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 7B8228
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a09.taipeicitygovernment.kiev.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 5F55FB
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#TW  | @Raydikalx | 5D48C5
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a11.taipeicitygovernment.net.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 916734
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a12.taipeicitygovernment.org.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 71E93B
@@ -251,12 +244,10 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.130:8443?sni=official.ta
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.31:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1#TW  | @Raydikalx | CC27DB
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#TW  | @Raydikalx | 6E8F5F
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#TW  | @Raydikalx | 39422D
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW  | @Raydikalx | DF0CC2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#TW  | @Raydikalx | 67F974
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#TW  | @Raydikalx | A2F17A
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#TW  | @Raydikalx | 890271
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#TW  | @Raydikalx | 836C55
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#TW  | @Raydikalx | C20D8C
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#TW  | @Raydikalx | 6A16D6
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#TW  | @Raydikalx | 17BB63
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#TW  | @Raydikalx | 9E21EB
@@ -264,10 +255,12 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.
 trojan://96983eb4-cr8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW  | @Raydikalx | 40D25E
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#TW  | @Raydikalx | 542CFD
 trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@tw2.microsoft-orgwly.vip:443?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip&fp=chrome&alpn=http%2F1.1#TW  | @Raydikalx | E1C4D2
+trojan://b7795ce8-3863-4292-adfc-9c0a7b847774@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#TW  | @Raydikalx | 9A2233
 trojan://i99Cef@211.20.156.191:28118?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | D94D0E
 trojan://i99Cef@211.20.156.191:28119?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 044017
 trojan://i99Cef@211.20.156.191:28120?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 526874
 trojan://i99Cef@211.20.156.191:28121?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 1949AB
+trojan://i99Cef@211.20.156.191:28122?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 418EF6
 trojan://i99Cef@211.20.156.191:28123?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 595785
 trojan://i99Cef@211.20.156.191:28124?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 7228C8
 trojan://i99Cef@211.20.156.191:28125?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 92832E
@@ -275,7 +268,6 @@ trojan://i99Cef@211.20.156.191:28126?sni=ctldl.windowsupdate.com&type=tcp#TW  | 
 trojan://i99Cef@211.20.156.191:28133?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | EFCF30
 trojan://i99Cef@211.20.156.191:28138?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 93181F
 trojan://i99Cef@211.20.156.191:28144?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | A7FB55
-trojan://i99Cef@211.20.156.191:28145?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 7059E2
 trojan://i99Cef@211.20.156.191:28147?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 553D29
 trojan://i99Cef@211.20.156.191:28150?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 8A94A9
 trojan://i99Cef@211.20.156.191:28152?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 09872E
