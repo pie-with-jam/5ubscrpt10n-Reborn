@@ -11,12 +11,6 @@ vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&s
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#[9794][BY][0][VLESS][None][hopev2ray][2026-07-05][2026-11-13 03:52]
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#[939][BY][0][TROJAN][None][Outline_Vpn][2026-09-01][2026-11-13 03:52]
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?sni=8a2e72t.nl11.h1clayd.click&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%232
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%233
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?sni=fc82dfx.nl8.h1clayd.click&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_24%20%231
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=204adda7e3da&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_25
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_25%20%231
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?sni=178.172.227.124#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%232
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%233
@@ -36,11 +30,15 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJh
 trojan://bacabac-cbaa-aacb-adbc-abcabccacbab@127.0.0.1:8080?security=tls&type=tcp# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTpiYWNhYmFjLWNiYWEtYWFjYi1hZGJjLWFiY2FiY2NhY2JhYg==@127.0.0.1:8080# DEVELOPED-BY SOROUSH-MIRZAEI  FOLLOW-CONTACT SYDSRSMRZ
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAxMS0xNiAxMDo1NiBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%232
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.124&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_5%7C927KB%2Fs%7CS004-260618%20%5Bc63e0e094873%5D
 vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?encryption=none&security=none&type=tcp&headerType=none&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#Free%20By%20Tharuwa%20%28%40z_z_z_zz_z%29
 vless://669b15b9-a618-47a6-ab0b-6210767ba6fd@185.66.68.201:8080?security=none&type=xhttp&path=%2F&packetEncoding=xudp&mode=auto&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_7%7C749KB%2Fs%7CB007-260618%20%5Bfca42d67dae4%5D
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_9%7C345KB%2Fs%7CF003-260618%20%5B58d4d1074137%5D
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%233
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_3%7C1.1MB%2Fs%7CA004-260618%20%5B0f026c1daf6a%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=204adda7e3da&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_25
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjAyLTA3IDA0OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_1%7C451KB%2Fs%7CA004-260618
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.124&packetEncoding=xudp&sni=178.172.227.124#%F0%9F%87%A7%F0%9F%87%BEBY_2%7C771KB%2Fs%7CA004-260618
@@ -48,8 +46,8 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_4%7C149KB%2Fs%7CF003-260618
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp&packetEncoding=xudp&sni=178.172.227.124&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_5%7C730KB%2Fs%7CB007-260618
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjAxLTIwIDA4OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?&security=reality&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&sid=7b2b1a14a6e0630d&fp=chrome&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#%F0%9F%87%A7%F0%9F%87%BE%20BY_17
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?&security=reality&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&fp=firefox&sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=&mode=gun#%F0%9F%87%A7%F0%9F%87%BE%20BY_18
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?sni=fc82dfx.nl8.h1clayd.click&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_24%20%231
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?sni=717252g.nl8.h1clayd.click&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_25%20%231
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY  | @Raydikalx | 010655
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443#BY  | @Raydikalx | BB53C0
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8debcf36f1cc69ff#BY  | @Raydikalx | 491E30
@@ -70,80 +68,83 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&hos
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=none&sni=178.172.227.228&type=ws#BY  | @Raydikalx | 2466B3
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#BY  | @Raydikalx | 77CE15
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY  | @Raydikalx | AD592D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@dns22.m3hrzd.ir:1348 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@dns24.m3hrzd.ir:1349? # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@dns24.m3hrzd.ir:1352 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWkdyOG5MSGRmK0ZFNVpBdzBZL1J6c21sNEF5aWtHTDQ4MVBnN2VCcHNJPQ==@130.49.189.158:43558 # [ Configs by DukeMehdi ] SS-RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443 # [ Configs by DukeMehdi ] SS-ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg@82.152.132.211:8044 # [ Configs by DukeMehdi ] SS-RO
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223 # [ Configs by DukeMehdi ] SS-DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdmFENFAyNGV5bkJ1WE4tNmIyY2l0cTdBdTZtajZvYg==@46.225.32.86:1080 # [ Configs by DukeMehdi ] SS-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY=@140.238.64.207:42345 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443 # [ Configs by DukeMehdi ] SS-US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmTjU1RjNvUFdFcVRWXzhMZG9fWGIzRFltRFpaTXY0VQ==@dns8.m3hrzd.ir:8044 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSmU3dW1TdEljazVNaWVn@20.166.59.119:443 # [ Configs by DukeMehdi ] SS-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443 # [ Configs by DukeMehdi ] SS-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@ # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@23.230.52.119:42878 # [ Configs by DukeMehdi ] SS-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@23.230.52.119:42878 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcl9pUGluZw@46.8.69.253:443 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppd1VMRExTa0RtZ05Oc1hOSWF5dzh3NXBEbGJZUmIzLQ@82.152.132.211:8044 # [ Configs by DukeMehdi ] SS-RO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppd1VMRExTa0RtZ05Oc1hOSWF5dzh3NXBEbGJZUmIzLQ@dns27.m3hrzd.ir:8044 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppd1VMRExTa0RtZ05Oc1hOSWF5dzh3NXBEbGJZUmIzLQ@dns3.m3hrzd.ir:8044 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747 # [ Configs by DukeMehdi ] SS-US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080 # [ Configs by DukeMehdi ] SS-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080? # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080? # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080?type=tcp&headerType=none # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080 # [ Configs by DukeMehdi ] SS-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443 # [ Configs by DukeMehdi ] SS-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080 # [ Configs by DukeMehdi ] SS-CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316 # [ Configs by DukeMehdi ] SS-JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443 # [ Configs by DukeMehdi ] SS-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTTJpQXd0RE9aTG9QUlk0TGxKZlFJ@23.97.167.141:9621 # [ Configs by DukeMehdi ] SS-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@54.36.174.140:443 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080 # [ Configs by DukeMehdi ] SS-IT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080? # [ Configs by DukeMehdi ] SS-IT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443 # [ Configs by DukeMehdi ] SS-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNHV5Z2p0cTU0cHoxb2l2@57.131.21.102:8080 # [ Configs by DukeMehdi ] SS-IT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZzBYVENoZ2JKSjNTdjJk@20.238.125.195:443 # [ Configs by DukeMehdi ] SS-IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB # [ Configs by DukeMehdi ] SS-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080? # [ Configs by DukeMehdi ] SS-NL
@@ -152,11 +153,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443 # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443? # [ Configs by DukeMehdi ] SS-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443?type=tcp # [ Configs by DukeMehdi ] SS-GB
@@ -167,19 +171,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080 # [ Configs by DukeMehdi ] SS-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080 # [ Configs by DukeMehdi ] SS-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080? # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080 # [ Configs by DukeMehdi ] SS-GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700 # [ Configs by DukeMehdi ] SS-IR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTk1yanlQTm9mUUw1aHNyZWtlNEI3bWhBTVBCMjRmTw==@206.1.103.91:10474?type=tcp # [ Configs by DukeMehdi ] SS-TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTk1yanlQTm9mUUw1aHNyZWtlNEI3bWhBTVBCMjRmTw@206.1.103.91:10474 # [ Configs by DukeMehdi ] SS-TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxM2RxVlpKaV9VZ2o2S0xtNVRPZDQ3QjY5RWtZVk0tQQ==@p1tun2.greewebservices.ir:2050 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388 # [ Configs by DukeMehdi ] SS-ES
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMEcyT1dkRnFxZmN6MzRMWXI5aW56@13.87.75.178:7294 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443 # [ Configs by DukeMehdi ] SS-IE
@@ -192,56 +197,48 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6aWt1L0dmcnQ5WWVFVVVsZVhyMlB0ZjN1dnMwaHN6Q1IwSkhQcUd
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.167:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.54:8080 # [ Configs by DukeMehdi ] SS-GB
 ss://Y2hhY2hhMjAtcG9seTEzMDU6ckhtVWhuanY3YitWOG8zWVdBTWFJREJTQmxnU05qdjN6SFlNdTZBTEZVOD0@31.77.148.89:56752?type=tcp # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTEyOC1nY206MzQxMWIwYWYtNTg5ZS00MGYzLWI4ZDUtZDJlMDRjZTE5ZmE5@c17b957c5a76ec76.lebufflonfermegroup.us:40010 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206NGU1MDEzMzhhNmMwM2Q3NjI2ZjJmYTBlMDllZDY2ZDY@66.23.203.19:19690 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTEyOC1nY206NTE3NDAzNzUzYjYzZmQ0ZmFjODg5ODZiZjk4YjExZTA=@194.59.250.52:18501 # [ Configs by DukeMehdi ] SS-SE
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231?type=tcp # [ Configs by DukeMehdi ] SS-KZ
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTEyOC1nY206Y2FjOTZjMjY5MmQ4NWJjMmRjZWVjMzc4Y2VhNmM4M2Y=@108.181.71.165:10840 # [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443 # [ Configs by DukeMehdi ] SS-CH
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443 # [ Configs by DukeMehdi ] SS-NL
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443 # [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443 # [ Configs by DukeMehdi ] SS-NL
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.70:9059 # [ Configs by DukeMehdi ] SS-PL
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020 # [ Configs by DukeMehdi ] SS-PL
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027 # [ Configs by DukeMehdi ] SS-ES
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014 # [ Configs by DukeMehdi ] SS-ES
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003 # [ Configs by DukeMehdi ] SS-ES
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.70:9045 # [ Configs by DukeMehdi ] SS-PL
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011 # [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037 # [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041 # [ Configs by DukeMehdi ] SS-ES
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001 # [ Configs by DukeMehdi ] SS-ES
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054 # [ Configs by DukeMehdi ] SS-BG
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005 # [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.70:9098 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.156.192.45:443 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.60.30.137:443 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.117.92.138:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.16.78.3:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.245.215:443 # [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.250.103:443 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443 # [ Configs by DukeMehdi ] SS-KR
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.196.238.241:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.117.92.138:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.189.171.163:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.222.109.114:443 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@99.79.32.21:443 # [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@217.30.10.70:9088 # [ Configs by DukeMehdi ] SS-PL
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040 # [ Configs by DukeMehdi ] SS-ES
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443 # [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057 # [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 # [ Configs by DukeMehdi ] SS-JP
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443 # [ Configs by DukeMehdi ] SS-XX
@@ -277,18 +274,14 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@9.5.6.7:0 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388 # [ Configs by DukeMehdi ] SS-SE
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206QWt5VDNSelZDR3RLX25HclNvMEQzQQ@51.75.118.165:20309 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ@154.36.158.197:8388 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@ # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647 # [ Configs by DukeMehdi ] SS-HK
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-HK
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080 # [ Configs by DukeMehdi ] SS-NL
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080? # [ Configs by DukeMehdi ] SS-NL
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080 # [ Configs by DukeMehdi ] SS-US
@@ -296,18 +289,22 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080 # [ Configs by 
 ss://YWVzLTI1Ni1nY206STA1eXU3UURzMXEzZUE2ag@103.115.17.239:8388 # [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTI1Ni1nY206T0dFeVlXSmtZMlk0T1RGallUUTFNVEZtWm1FME9XSTJNVEE1WkRneg@london02.npvnot.com:995 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206TURCalkyUmlNRFJtTWpaallUQXdOemc1TVdZeE1ESXdPV014TXpnMA==@37.152.178.106:9118 # [ Configs by DukeMehdi ] SS-IR
-ss://YWVzLTI1Ni1nY206TUdZME16RXlORGN3TnpFd1pESXlNREZrWkdObU9HSXdZekpsT1RVeQ==@37.152.183.249:11104 # [ Configs by DukeMehdi ] SS-IR
+ss://YWVzLTI1Ni1nY206TW1ReE5UVXpaV014WW1Sa05EVmxaak0zWVRFME1qUXlaalJoT1RZNA@37.152.180.223:9130 # [ Configs by DukeMehdi ] SS-IR
 ss://YWVzLTI1Ni1nY206TWpOaE4yUXdObUZsWVRSbFpHTXhOV1ZsT1RJME1HSTBNVFU0TURZMQ@helsinki03.npvnot.com:995 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443 # [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0@179.254.95.57:10785 # [ Configs by DukeMehdi ] SS-NL
 ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0@5.181.183.175:10785 # [ Configs by DukeMehdi ] SS-NL
 ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0@5.181.183.175:10785? # [ Configs by DukeMehdi ] SS-NL
-ss://YWVzLTI1Ni1nY206UEppcktRY3lxYkFpcWVicTRBSGV0R1VrWnVRdm1UNmZmd3V5UEZadTBuZz0@141.227.158.48:8443 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1nY206UEppcktRY3lxYkFpcWVicTRBSGV0R1VrWnVRdm1UNmZmd3V5UEZadTBuZz0=@51.38.131.73:8443 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1nY206UEppcktRY3lxYkFpcWVicTRBSGV0R1VrWnVRdm1UNmZmd3V5UEZadTBuZz0@212.86.105.233:8443 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTI1Ni1nY206UEppcktRY3lxYkFpcWVicTRBSGV0R1VrWnVRdm1UNmZmd3V5UEZadTBuZz0@51.38.131.73:8443 # [ Configs by DukeMehdi ] SS-PL
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002 # [ Configs by DukeMehdi ] SS-IN
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001 # [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WDVRMmwtNXc4OTg2LUhqeFlPQzh4VV8xbV9vMDNZcjQ@45.146.4.50:443 # [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1nY206WDVRMmwtNXc4OTg2LUhqeFlPQzh4VV8xbV9vMDNZcjQ@45.146.4.50:443 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008 # [ Configs by DukeMehdi ] SS-US
@@ -321,20 +318,23 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090 # [ Configs by DukeMe
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WWpVd05qTTRZekEzWmpobVpHWmtPVFUzTW1NNE5USTJNV0l3Tm1JNA@37.152.179.133:11123 # [ Configs by DukeMehdi ] SS-IR
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.73:19999 # [ Configs by DukeMehdi ] SS-SG
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999 # [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@162.251.62.31:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.67.171:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.88.63.39:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad # [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@169.197.142.68:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.9:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.18:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.18:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.9:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.150.152.38:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.121.43.18:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.121.43.18:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.22.17.219:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.83.85:19999 # [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.91.107.188:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999 # [ Configs by DukeMehdi ] SS-CH
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@ # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@137.184.89.151:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@138.199.55.243:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.133:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.133:19999 # [ Configs by DukeMehdi ] SS-XX
@@ -342,9 +342,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.134:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.135:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.135:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.138:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.50.215.234:19999 # [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.50.215.234:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999 # [ Configs by DukeMehdi ] SS-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999 # [ Configs by DukeMehdi ] SS-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999 # [ Configs by DukeMehdi ] SS-XX
@@ -352,30 +350,25 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999 # [ Configs by DukeMehdi ] SS-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999 # [ Configs by DukeMehdi ] SS-SG
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999 # [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999 # [ Configs by DukeMehdi ] SS-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999? # [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.36:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@158.51.121.221:19999 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.175:19999 # [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.175:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.22:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.27:19999 # [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.27:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.67.171:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.62.203:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.62.203:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.62.56:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.63.99:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@169.197.140.247:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@169.197.142.68:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@169.197.142.68:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.111.38.72:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.111.38.72:19999? # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.99.189.142:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999 # [ Configs by DukeMehdi ] SS-UA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-XX
@@ -383,72 +376,73 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999/?type=tcp&headerType=none # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.111:19999 # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.111:19999?type=tcp&headerType=none # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.3:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.2:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999? # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999 # [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999 # [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999? # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999 # [ Configs by DukeMehdi ] SS-IT
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999 # [ Configs by DukeMehdi ] SS-IT
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999 # [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@216.106.178.169:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@216.106.178.169:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.150.152.38:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.157.88.43:19999 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.157.88.43:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.162.152.22:19999 # [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.162.152.22:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999 # [ Configs by DukeMehdi ] SS-CH
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999 # [ Configs by DukeMehdi ] SS-CH
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.109.228.110:19999 # [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.225:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.231:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.231:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.128.66.32:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.128.66.32:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.143.66.146:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.129:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.139:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.139:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.214:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.219:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.219:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.64.138.135:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.100.39:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.188:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.188:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.19:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.57:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.57:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999 # [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999?type=tcp&headerType=none # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@66.163.118.103:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@66.163.125.120:19999 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@66.163.125.120:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@67.220.73.178:19999 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@67.220.73.178:19999 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.139.242:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999 # [ Configs by DukeMehdi ] SS-CH
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999 # [ Configs by DukeMehdi ] SS-FR
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999 # [ Configs by DukeMehdi ] SS-GB
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTQ5LjUwLjIxNS4yMzQ6MTk5OTk # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTUxLjI0MS4xOS4yOToxOTk5OQ # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTUxLjI0MS4xOS4zNjoxOTk5OQ # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTY3LjE3LjY0LjI3OjE5OTk5 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTY3LjE3LjY0LjIyOjE5OTk5 # [ Configs by DukeMehdi ] SS-XX
@@ -458,34 +452,32 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTkzLjEwOC4xMTkuMzoxOTk5OQ # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjMuMTY2Ljg4LjE4OToxOTk5OQ # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjMuMTY2Ljg4LjEyNzoxOTk5OQ # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1ANTcuMTI5LjgzLjg1OjE5OTk5 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206WlRKaFpEWXdaR0ZrWlRFME1qY3haV1V4WVRNMFlXSTFZV00zTkRVMA@37.152.183.249:9147 # [ Configs by DukeMehdi ] SS-IR
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443 # [ Configs by DukeMehdi ] SS-RU
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.53:8118 # [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443 # [ Configs by DukeMehdi ] SS-SC
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 # [ Configs by DukeMehdi ] SS-CA
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376 # [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881 # [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206aDhqNmUzeHVpaG4yZXBsOQ==@136.243.249.198:443 # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206aDhqNmUzeHVpaG4yZXBsOQ@136.243.249.198:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM # [ Configs by DukeMehdi ] SS-DE
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388 # [ Configs by DukeMehdi ] SS-FR
 ss://YWVzLTI1Ni1nY206anJlbzZleHByMDV1anJjag@136.243.249.198:443 # [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498 # [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498 # [ Configs by DukeMehdi ] SS-US
 ss://YWVzLTI1Ni1nY206bHk3dWNzM3IzZWx0Yml0cw==@phone-tiklite.redonlinephone.ir:8443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:443 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:443 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444 # [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444 # [ Configs by DukeMehdi ] SS-XX
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA==@141.227.134.63:17000 # [ Configs by DukeMehdi ] SS-FR
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000 # [ Configs by DukeMehdi ] SS-SE
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445 # [ Configs by DukeMehdi ] SS-CA
-ss://aes-256-gcm:Lpq5UPVHtQYiuB9jEUNc2WkeIYCUH9DE@195.58.49.34:18443 # [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445 # [ Configs by DukeMehdi ] SS-XX
 ss://aes-256-gcm:NTiHBg64fsY8u8DbGrtypD9gPGSL386p@185.22.153.117:18443 # [ Configs by DukeMehdi ] SS-RU
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999 # [ Configs by DukeMehdi ] SS-XX
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.27:19999 # [ Configs by DukeMehdi ] SS-XX
@@ -502,26 +494,25 @@ ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182 # [ Configs by DukeMehdi ] SS-CN
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6RTRRNEJaQUJWV0QveWNFZTA3a1hsRUFLSkNtdzlOYXJnS2prTFowa21hWT0@194.127.178.161:8080 # [ Configs by DukeMehdi ] SS-NL
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6ckcxdWg1TXkyczhKeXR0NG91U3Y2OGxqb1EraU5wSFQ5bXkvblJndFBBbz0@178.239.150.72:12947 # [ Configs by DukeMehdi ] SS-IR
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dGZ2c0xic1hWOVBkTm14UEE0emFXcjdFT2V6TGp2M2RYZWpRcTJZNXNYQT0@178.239.150.72:36542 # [ Configs by DukeMehdi ] SS-IR
-ss://eyJ2IjpudWxsLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDJCOTdDRiIsImFkZCI6IjM4LjExMC4xLjI0NiIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAyQjk3Q0YifQ== # [ Configs by DukeMehdi ] SS-XX
-ss://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiJAdnBuaW5lMSIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii9AVlBOaW5lMSIsInBvcnQiOiIxODAwMCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMDBERDE2Iiwic25pIjoiQHZwbmluZTEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= # [ Configs by DukeMehdi ] SS-XX
 ss://eyJhZGQiOiIxNjIuMjUxLjYyLjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDQ1N0EwRCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ== # [ Configs by DukeMehdi ] SS-XX
-ss://eyJhZGQiOiIxNjcuODguNjMuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgODU1QzgxIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 # [ Configs by DukeMehdi ] SS-XX
-ss://eyJhZGQiOiIxNzIuMTExLjM2LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAxNDM3MzciLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= # [ Configs by DukeMehdi ] SS-XX
-ss://eyJhZGQiOiIzOC45MS4xMDAuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgNTY1QUE0Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 # [ Configs by DukeMehdi ] SS-XX
+ss://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDU2REYwMiIsInNuaSI6IjM4LjkxLjEwNy40OSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== # [ Configs by DukeMehdi ] SS-XX
 trojan://-ainW_sA2h_JALjfNXrzIWGoRaFI3I9P@kimiadollarkimia-production.up.railway.app:443?path=/live/2fa2eba2-103a-4ea3-9430-8ca850a61731?ed=2560&security=tls&alpn=http/1.1&host=kimiadollarkimia-production.up.railway.app&fp=chrome&type=ws&sni=kimiadollarkimia-production.up.railway.app # [ Configs by DukeMehdi ] TJ-XX
 trojan://-ainW_sA2h_JALjfNXrzIWGoRaFI3I9P@kimiadollarkimia-production.up.railway.app:443?path=/live/2fa2eba2-103a-4ea3-9430-8ca850a61731?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=kimiadollarkimia-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=kimiadollarkimia-production.up.railway.app # [ Configs by DukeMehdi ] TJ-XX
 trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app # [ Configs by DukeMehdi ] TJ-XX
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com # [ Configs by DukeMehdi ] TJ-ZA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com # [ Configs by DukeMehdi ] TJ-SG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com # [ Configs by DukeMehdi ] TJ-SG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com # [ Configs by DukeMehdi ] TJ-KR
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com # [ Configs by DukeMehdi ] TJ-JP
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com # [ Configs by DukeMehdi ] TJ-JP
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&sni=blog.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443? # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&insecure=0&host=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.browseseniorrolesandenhanceyourcareertoday.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
@@ -530,11 +521,12 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&sni=c
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&insecure=0&headerType=none&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&allowInsecure=0&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
@@ -545,15 +537,16 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&heade
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&host=/%&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---@bored_vpn&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---mehrosaboran&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&sni=api.iloverussia2026.com&type=tcp&headerType=none # [ Configs by DukeMehdi ] TJ-DE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=courses.iloverussia2026.com # [ Configs by DukeMehdi ] TJ-DE
@@ -573,17 +566,19 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=resources.yourultimateprofessionalcareerhub.com # [ Configs by DukeMehdi ] TJ-CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com # [ Configs by DukeMehdi ] TJ-CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com # [ Configs by DukeMehdi ] TJ-CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com # [ Configs by DukeMehdi ] TJ-CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com # [ Configs by DukeMehdi ] TJ-CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&fp=chrome&sni=api.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=api.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.32:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.33:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com # [ Configs by DukeMehdi ] TJ-US
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com # [ Configs by DukeMehdi ] TJ-CA
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BEBY_6%7C143KB%2Fs%7CA004-260618%20%5B0f026c1daf6a%5D
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?security=none&type=ws&path=%2Fvless&host=95.128.71.79&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_1%7C230KB%2Fs%7CS004-260618%20%5B194c706c57c8%5D
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BEBY_9%7C295KB%2Fs%7CF003-260618%20%5B58d4d1074137%5D
