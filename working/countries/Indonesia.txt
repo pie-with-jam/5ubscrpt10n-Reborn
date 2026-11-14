@@ -339,8 +339,7 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?sni=id1.nathaya
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C377KB%2Fs%7CM003-260806%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C186KB%2Fs%7CB007-260618%2001
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3ID
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#Channel id: @ShadowProxy66 
-vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@82.148.255.53:443?path=/assets/js/app.15026f72.js&security=reality&encryption=none&pbk=0hI8gffvrad6AN41MZnEhEp5al31P_BZLnJe38P71R8&host=fraceee.qikbro.com&fp=chrome&type=xhttp&sni=fraceee.qikbro.com&sid=3874010ae4612548#Channel id: @ShadowProxy66 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6lJRF80fDU4MEtCL3N8QjAwNy0yNjA2MTgiLCJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoiMTYyOTgiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#ID  | @Raydikalx | 49126A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#ID  | @Raydikalx | FE15AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 27BFAA

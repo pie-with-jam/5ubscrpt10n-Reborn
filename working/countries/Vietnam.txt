@@ -52,8 +52,10 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX%2001
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.251:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_3%7C2.9MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CX%7CHistory%2001
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.80:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_2%7C1.6MB%2Fs%7CGPT%7CX%7CHistory%2001
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C230KB%2Fs%7CM003-260806
-vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?security=reality&type=tcp&packetEncoding=xudp&sni=api.receptivity.io&fp=chrome&sid=4710d669&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_3%7C471KB%2Fs%7CB007-260618
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C723KB%2Fs%7CP002-260618
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&packetEncoding=xudp#%F0%9F%87%BB%F0%9F%87%B3VN_2%7C250KB%2Fs%7CA004-260618
+vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?security=reality&type=tcp&packetEncoding=xudp&sni=api.receptivity.io&fp=chrome&sid=4710d669&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_4%7C497KB%2Fs%7CB007-260618
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?security=reality&type=tcp&packetEncoding=xudp&sni=bilibili-vn.biliimg.com&fp=chrome&flow=xtls-rprx-vision&sid=865c1b2c&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ#%F0%9F%87%BB%F0%9F%87%B3VN_5%7C385KB%2Fs%7CB007-260618
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)_2
@@ -67,13 +69,12 @@ trojan://78fd4474-ea2b-4a46-8cdc-b0d39e66ecdd@103.173.255.234:443?allowInsecure=
 trojan://de8b90d8-c401-46d3-a01f-87cd3e50a65d@103.180.132.78:10022?allowInsecure=1#VN%7C(%E8%83%96%E8%99%8ETG%E9%A2%91%E9%81%93@gitbig)%209
 trojan://78fd4474-ea2b-4a46-8cdc-b0d39e66ecdd@103.173.255.21:443?allowInsecure=1#VN%7C(%E8%83%96%E8%99%8ETG%E9%A2%91%E9%81%93@gitbig)%208
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.172:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CGM%7CX%7CSucceed%2001
-vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/53ddb3cfd64cb7b&type=tcp#VN-@VPNine1
 trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type=tcp#VN  | @Raydikalx | A83E23
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#VN  | @Raydikalx | 6B3976
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#VN  | @Raydikalx | F1C381
 trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN  | @Raydikalx | 663774
 vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/53ddb3cfd64cb7b&type=tcp#VN  | @Raydikalx | 7B41FB
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086#VN  | @Raydikalx | DE68F9
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#VN  | @Raydikalx | DE68F9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
@@ -557,4 +558,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_5%7C0.8MB%2Fs%7CGPT%E2%81%BA%7CGM%7CYT%7CX%7CSucceed%7C%5B%E5%8E%9F%E7%94%9F%7C%E6%9C%BA%E6%88%BF%5D
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.173:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_6%7C0.5MB%2Fs%7CGPT%7CYT%7CX%7CHistory
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#[openproxylist.com] vless-VN
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-VN-1...
