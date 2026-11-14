@@ -198,8 +198,8 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type
 vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?security=reality&type=raw&packetEncoding=xudp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=97101ba788915e5a&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo#%F0%9F%87%B9%F0%9F%87%BCTW_22%7C71KB%2Fs%7CA004-260618%2001
 vless://18eef0d3-35b3-4a5f-97a1-7b5264530dd8@35.201.230.136:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=5e13a6d43d0644c9&pbk=Uq9Q8VXK9VkVOJ1M5PfORTqMhjjGoIS40-V0tAG_1FM#%F0%9F%87%B9%F0%9F%87%BCTW_38%7C77KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@140.235.39.19:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_44%7C121KB%2Fs%7CF003-260618%2001
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@35.236.180.222:14514#TW  | @Raydikalx | A18B8E
-ss://2022-blake3-aes-128-gcm:b7I6g7l7fJhBaMInJ+zkzw==@amasoid.ddns.net:14514#TW  | @Raydikalx | 4248D9
+ss://2022-blake3-aes-128-gcm:b7I6g7l7fJhBaMInJ%2Bzkzw%3D%3D@35.236.180.222:14514#TW  | @Raydikalx | A18B8E
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#TW  | @Raydikalx | 4248D9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#TW  | @Raydikalx | 882AEA
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@60.250.152.234:8443?sni=66.42.40.132&fp=chrome&alpn=http%2F1.1&type=tcp#TW  | @Raydikalx | 9483A7
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=66.42.40.132#TW  | @Raydikalx | 08727D
@@ -290,7 +290,6 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&s
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#TW  | @Raydikalx | FBE58B
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#TW  | @Raydikalx | 476527
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJUVyDwn4e58J+HvCB8IEBSYXlkaWthbHggfCA4MjY1MjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#TW  | @Raydikalx | 4248D9
 trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=tg.freecodes&type=grpc#TW  | @Raydikalx | 98C5EE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@223.165.4.173:989#TW   SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc  223.165.4.173
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGF0YSBDb21tdW5pY2F0aW9uIEJ1c2luZXNzIEdyb3VwIFx1MjUwNyAzNi4yMzUuMTM1LjEwMiIsImFkZCI6ImFraDEuYWxpYmFiYWFwaTYuY29tIiwicG9ydCI6MTQ2MTAsImlkIjoiYTJmMzM2MDAtN2ZmMS00NmM0LWFiYzktN2RlYjg0M2U4OGEzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLzVlNjBiZTRmLyJ9

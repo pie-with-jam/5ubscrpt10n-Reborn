@@ -323,10 +323,10 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecur
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#[235][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#[228][CH][0][TROJAN][None][vpn_tehran][2026-11-12][2026-11-13 03:52]
 trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#[1714][CH][0][TROJAN][None][Outline_Vpn][2026-10-09][2026-11-13 03:52]
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH-186.190.215.251-0178
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH-79.127.184.104-0246
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH-23.166.88.127-0161
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0523
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH-79.127.184.104-0246
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH-186.190.215.251-0178
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.158-0524
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.29-0525
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-3513
@@ -463,9 +463,10 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.189.2.206:8443?security=tls&typ
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999# CH | 79.127.184.104
 vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
 vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&sni=api.yourultimateprofessionalcareerhub.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#Switzerland%20-%20hope%20of%20freedom%20-%20%40anotherme_night
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#CH  | @Raydikalx | 710F46
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#CH  | @Raydikalx | ACB330
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH  | @Raydikalx | ACB330
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#CH  | @Raydikalx | 68B652
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#CH  | @Raydikalx | A80DAC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYYlVPeUlzeVNtc1NVREVOTzcwRHZK@45.95.232.236:4248#CH  | @Raydikalx | E68A73
@@ -508,8 +509,6 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?security=realit
 vless://de404269-a97c-4f49-9efb-43509c2afa09@193.228.128.230:443?encryption=none&fp=firefox&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&security=reality&sid=8b8dd8a1c0c468d3&sni=ch.primarymaster.online&type=grpc#CH  | @Raydikalx | 8FDF35
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@45.90.59.24:443?type=grpc&security=reality&fp=chrome&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=cha.kosmosapp.net&mode=gun&serviceName=neurex#CH  | @Raydikalx | 7B843C
 vless://TG-FuckTheWall@201.8.81.117:443?encryption=none&extra={"mode":"packet-up","uplinkHTTPMethod":"GET","xPaddingBytes":"100-1000"}&fp=chrome&host=www.ethz.ch&mode=packet-up&path=/api/v1/stream&pbk=k7RqsI1Kip_ORgCMLeDHjyleJFoN0AJqxOXXCQnGjG4&security=reality&sid=6266751745c4f0df&sni=ethz.ch&spx=/f2e942ae3003092&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#CH  | @Raydikalx | B8A2CC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH  | @Raydikalx | ACB330
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#CH  | @Raydikalx | A80DAC
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&sni=api.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#CH  | @Raydikalx | 8433E8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | 252CA9

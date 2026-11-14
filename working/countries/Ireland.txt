@@ -213,8 +213,6 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C513KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.150.20.112:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_3%7C429KB%2Fs%7CF003-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@167.160.177.68:2096?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%AAIE_4%7C542KB%2Fs%7CF003-260618%2001
-vless://393f7488-378f-4c3c-98af-702db5f869e3@6t8z7at6qe025z2h8f6l28g5460hs0z.test-fox-102.ir:443?encryption=mlkem768x25519plus.native.0rtt.53uJ14zlvXiJjwBInjlMtdep6wcGwNjkwBMdkFxpwyY&security=tls&type=ws&headerType=none&path=/&host=6t8z7at6qe025z2h8f6l28g5460hs0z.test-fox-102.ir&sni=6t8z7at6qe025z2h8f6l28g5460hs0z.test-fox-102.ir&fp=chrome&alpn=h2,http/1.1#IE-@VPNine1
-vless://393f7488-378f-4c3c-98af-702db5f869e3@6t8z7at6qe025z2h8f6l28g5460hs0z.test-fox-102.ir:80?encryption=mlkem768x25519plus.native.0rtt.zQNfLwPtuqlcKoL3toxQtsX7haL98YnWjRuGkFMnW3U&security=none&type=httpupgrade&headerType=none&path=/phpMyAdmin?q=&host=6t8z7at6qe025z2h8f6l28g5460hs0z.test-fox-102.ir#IE-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@68.219.96.146:443# IE | 68.219.96.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyc3RjUUkzSXdmLUw5N01VekFYSmFub3dFSjc5ZzhFQg@83.141.72.214:1080#IE  | @Raydikalx | B8D9A4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#IE  | @Raydikalx | 70A7E0
