@@ -342,8 +342,8 @@ vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?secur
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=49930ag.es8.h1clayd.click&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&spx=%2F&serviceName=61c20be08f4f&fp=safari#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?type=grpc&security=reality&fp=chrome&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&sni=49930ag.es8.h1clayd.click&mode=gun&serviceName=61c20be08f4f&spx=/#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?type=grpc&security=reality&sni=49930ag.es8.h1clayd.click&fp=ios&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&spx=%2F&serviceName=61c20be08f4f#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com# ES | 66.163.118.203
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d# ES | 5.180.173.222
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto# ES | 185.18.250.67
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ES  | @Raydikalx | 952BBB
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#ES  | @Raydikalx | 7A0FF3
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#ES  | @Raydikalx | 98580D
@@ -359,7 +359,7 @@ ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#ES  | @Raydikal
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#ES  | @Raydikalx | 377DB1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#ES  | @Raydikalx | 4EE568
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@62.93.179.117:19999#ES  | @Raydikalx | 0000A4
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#ES  | @Raydikalx | 2EC96E
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@62.93.179.97:19999#ES  | @Raydikalx | 2EC96E
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@66.163.118.103:19999#ES  | @Raydikalx | E665A3
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.139.242:19999#ES  | @Raydikalx | 35832A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#ES  | @Raydikalx | 5524DB
@@ -395,6 +395,7 @@ vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?security=reality
 vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053#ES  | @Raydikalx | 1E6FAF
 vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&encryption=none&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=29e8dcd2b37aaa7f#ES  | @Raydikalx | 88827A
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.117:19999#ES  | @Raydikalx | 0000A4
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#ES  | @Raydikalx | 2EC96E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | FA4837
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | F48624
 trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&type=ws#ES  | @Raydikalx | 9485EB
@@ -499,6 +500,7 @@ vless://585a421d-d782-4420-912e-dd58ff5966d7@9.247.174.134:8443?security=reality
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.117:19999#%F0%9F%87%AA%F0%9F%87%B8ES_3%7C3.9MB%2Fs%7CM003-260806%20%5Bf018ff6c24dd%5D
 vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=29e8dcd2b37aaa7f&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk#%F0%9F%87%AA%F0%9F%87%B8ES_7%7C1.6MB%2Fs%7CA004-260618%20%5Bf4a406c4202c%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#%F0%9F%87%AA%F0%9F%87%B8ES_12%7C3.9MB%2Fs%7CM003-260806%20%5Bfeb17052628d%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com# ES | 66.163.118.203
 vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?encryption=none&fp=&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#[22060][ES][0][VLESS][None][oneclickvpnkeys][2026-08-13][2026-08-16 00:34]
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@is.tunnelpoint.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=is.tunnelpoint.space&fp=qq&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#[1463][ES][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&authority=&serviceName=TunService&mode=gun#[33271][ES][0][VLESS][None][proxy_kafee][2026-08-08][2026-08-16 00:34]
@@ -748,7 +750,6 @@ vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?security=realit
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=fd8cf7e1173f0edb&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&encryption=none#%F0%9F%87%AA%F0%9F%87%B8ES_17%7C247KB%2Fs%7CB007-260618%2001
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@65.20.98.92:3038?security=reality&type=tcp&sni=refersion.com&allowInsecure=1&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&fp=chrome#%F0%9F%92%A5%F0%9F%87%AA%F0%9F%87%B8%20ES%2065.20.98.92%20%E2%97%88%20tcp%3A3038%20%E2%97%88%20The%20Constant%20Company%20%2F%20Vultr%20Holdings%20%E2%97%88%20a3832
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@vip.panelmarzban.com:3038?security=reality&type=tcp&sni=refersion.com&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&fp=chrome#%F0%9F%94%92%F0%9F%87%AA%F0%9F%87%B8%20ES%2065.20.98.92%20%E2%97%88%20tcp%3A3038%20%E2%97%88%20The%20Constant%20Company%20%2F%20Vultr%20Holdings%20%E2%97%88%20efe04
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto# ES | 185.18.250.67
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#ES_402_@Surfboardv2ray
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#ES_403_@Surfboardv2ray
 vless://3a4dbd51-72ea-4c20-a764-f51de001c0ab@193.17.183.81:8433?security=reality&encryption=none&pbk=VnpuNVes24AiqJofMykF5ZPj_1ufZZyHnj_oAZ4_8kw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=81f3d1e4c057#ES_718_@Surfboardv2ray
@@ -1676,7 +1677,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#//Spai
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#/Spain
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#//Spain/Madrid
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=7aa271t.es1.h1clayd.click&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none&path=%2f#%f0%9f%87%aa%f0%9f%87%b8%20ES%201
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&security=reality&sni=b3cd32g.es1.h1clayd.click&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&type=grpc#[openproxylist.com] vless-ES
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=32209e627ee109c7&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&encryption=none#[openproxylist.com] vless-ES
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%5Bwww.v2nodes.com%5D%20trojan-ES-...
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%5Bwww.v2nodes.com%5D%20trojan-ES-...%20%231

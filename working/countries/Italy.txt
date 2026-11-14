@@ -399,7 +399,6 @@ vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?security=tls&type=ws&path=/RoBeRt&packetEncoding=xudp&sni=milan.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT_60%7C1.2MB%2Fs%7CM002-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080# IT | 57.131.4.13
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b# IT | 57.131.38.163
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443# IT | 57.131.21.102
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT  | @Raydikalx | D8F208
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT  | @Raydikalx | 5EBF7B
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#IT  | @Raydikalx | 8FB4B4
