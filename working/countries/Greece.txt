@@ -23,8 +23,8 @@ vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/fp=chrome&s
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?encryption=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#[8870][GR][0][VLESS][None][oneclickvpnkeys][2026-11-10][2026-11-13 03:52]
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.90.197.91:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#[12540][GR][0][VLESS][None][shh_proxy][2026-08-31][2026-11-13 03:52]
 trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#[1366][GR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
-trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-1098
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4712
+trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-1100
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4273
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?#%F0%9F%87%AC%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-GR-3...%20%231
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%AC%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-GR-3...%20%232
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?#%F0%9F%87%AC%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-GR-3...%20%232

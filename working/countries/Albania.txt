@@ -8,17 +8,17 @@ vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=re
 vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=8051d89749e0d400#[6267][AL][0][VLESS][None][FalconPolV2rayNG][2026-02-15][2026-11-13 03:52]
 vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none#[10537][AL][0][VLESS][None][lrnbymaa][2026-10-20][2026-11-13 03:52]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[1122][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0980
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8098
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0982
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-7658
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%20AL_27
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%20AL_27%20%231
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL_4071_@Surfboardv2ray
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4718_@Surfboardv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_2%7C164KB%2Fs%7CM003-260806%20%5B0e18723edc60%5D
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@85.155.228.24:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=qq&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C198KB%2Fs%7CA004-260618%2001
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=safari&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C375KB%2Fs%7CA004-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_2%7C164KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?&security=reality&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&fp=firefox&sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=&mode=gun#%F0%9F%87%A6%F0%9F%87%B1%20AL_27
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40501?alpn=http%2F1.1&host=al.nebulaguard.org&path=%2F0cadd58edb%2F&security=tls&sni=al.nebulaguard.org&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
@@ -156,3 +156,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141
 ss://YWVzLTEyOC1nY206Z2Z0Z2ZkZGFmZ2Rmcw@260323.1.0.l2.unclemanco.com:39184/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%A6%F0%9F%87%B1%20AL_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925# AL | 157.22.240.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdmZIUGJReUw5RDZSTXdWTEhmWHlF@130.49.189.158:10792#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=chrome&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&encryption=none#[openproxylist.com] vless-AL

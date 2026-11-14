@@ -10,6 +10,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#[418][CL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#[415][CL][0][TROJAN][None][v2ray1_ng][2026-10-30][2026-11-13 03:52]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0125
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0098
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-CL-...
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?#%F0%9F%87%A8%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-CL-...
 vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&sid=d7676b6a468a03b3&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw#%F0%9F%87%A8%F0%9F%87%B1CL_4%7C592KB%2Fs%7CR002-260618%2001
@@ -20,6 +21,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure
 vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.137.90:443?fp=chrome&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&security=reality&sid=2c2d919f5183d0b7&sni=www.cloudflare.com#CL  | @Raydikalx | 0575F3
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp#CL  | @Raydikalx | 3679D3
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#CL  | @Raydikalx | 4FBE5E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL  | @Raydikalx | 1C085E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C590KB%2Fs%7CA004-260618%20%5B3b070685b6a9%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_3%7C582KB%2Fs%7CM003-260806%20%5B8cef6c1609a3%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C588KB%2Fs%7CA004-260618%20%5B3b070685b6a9%5D
