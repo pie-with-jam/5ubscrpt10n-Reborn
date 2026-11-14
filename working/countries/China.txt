@@ -486,8 +486,7 @@ trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecur
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_69
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9IiwiYWRkIjoiMTEyLjEzMi4yMTUuMTA4IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.8
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.2
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.7
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.4
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.2.1.3:4#CN  | @Raydikalx | 793DC0
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.3.1.3:2#CN  | @Raydikalx | 7639A4
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.4.4.1:4#CN  | @Raydikalx | 87F74C
@@ -3485,3 +3484,4 @@ ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNWEwYThkOS1hYjJjLTQwN2YtODlhNC1iZjAyN2QyMTYxODQ=@183.240.222.15:870#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.222.15-8338
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpUazFORGt5WWkwM1pEazFMVFEyTW1RdFlXTXhaUzA0Tm1VelptSTRNekZqTUdV@free.2apzhfa.xyz:31741# CN | 120.232.218.106
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU1ERTVNbUUwTnkwd09URmxMVFF4TURFdE9UTTFPQzFrWm1JNE5HSmxPVGt3TURZ@free.2apzhfa.xyz:31175# CN | 120.232.218.106
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?allowInsecure=1&sni=hk.catxstar.com#CN_69%20%231
