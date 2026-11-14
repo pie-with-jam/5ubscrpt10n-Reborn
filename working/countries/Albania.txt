@@ -153,4 +153,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141
 ss://YWVzLTEyOC1nY206Z2Z0Z2ZkZGFmZ2Rmcw@260323.1.0.l2.unclemanco.com:39184/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%A6%F0%9F%87%B1%20AL_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925# AL | 157.22.240.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdmZIUGJReUw5RDZSTXdWTEhmWHlF@130.49.189.158:10792#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#[openproxylist.com] vless-AL
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=firefox&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs#[openproxylist.com] vless-AL
