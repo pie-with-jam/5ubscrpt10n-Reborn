@@ -16,6 +16,7 @@ vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?sni=95.128.71.79
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?sni=178.172.227.124#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%232
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?sni=95.128.71.79&type=ws&host=95.128.71.79&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%233
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?sni=bl1.nexfile.net&fp=chrome&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20BY_18%20%231
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 vmess://eyJhZGQiOiIxNzMuODIuMTQ4LjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3NjIzOGQwNy1jNDcyLTQ3MWEtY2U2My0wMjNjMDdiMTUwYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0OTczOCIsInBzIjoi8J+HuvCfh7hieUBhcmllc19pbml0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&sni=178.172.227.124&type=tcp&headerType=none&path=/#BY_621_@Surfboardv2ray
@@ -44,7 +45,7 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=raw&packetEncoding=xudp&sni=ads.x5.ru&fp=ios&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%A7%F0%9F%87%BEBY_9%7C930KB%2Fs%7CM003-260806
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjAxLTIwIDA4OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?&security=tls&fp=chrome&sni=bl1.nexfile.net&type=xhttp#%F0%9F%87%A7%F0%9F%87%BE%20BY_18
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY  | @Raydikalx | 010655
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=&encryption=none&host=178.172.227.124&type=ws#BY  | @Raydikalx | 010655
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443#BY  | @Raydikalx | BB53C0
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&sni=178.172.227.124&type=tcp&headerType=none&path=/#BY  | @Raydikalx | 5D1C13
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#BY  | @Raydikalx | 491E30
@@ -53,7 +54,6 @@ vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY  | @Raydikalx | 0D8F0C
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY  | @Raydikalx | C04F51
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#BY  | @Raydikalx | 5BD250
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#BY  | @Raydikalx | 77CE15
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#BY  | @Raydikalx | 7917B4
 vless://cdf4bc13-31e6-4bff-962c-05fe9151c593@78.140.253.25:445?encryption=none&flow=xtls-rprx-vision&pbk=Vi1Rr8Qf0-OeeXyHCt8Hsz1yRzVRkniPweoKl3Y6ohY&security=reality&sid=15aa18f121da1f81&sni=bel.vrsvpn.com&type=tcp&fp=chrome#BY  | @Raydikalx | 7CAD90
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?fp=firefox&host=178.172.227.124&path=%2Fvless&security=none&sni=178.172.227.124&type=ws#BY  | @Raydikalx | 66AEC5
@@ -62,7 +62,6 @@ vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#BY  | @Raydikalx | 001707
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=false&type=ws#BY  | @Raydikalx | 77DC46
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=none&sni=178.172.227.228&type=ws#BY  | @Raydikalx | 2466B3
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#BY  | @Raydikalx | 77CE15
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY  | @Raydikalx | AD592D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmTjU1RjNvUFdFcVRWXzhMZG9fWGIzRFltRFpaTXY0VQ==@dns8.m3hrzd.ir:8044 # [ Configs by DukeMehdi ] SS-XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443 # [ Configs by DukeMehdi ] SS-US

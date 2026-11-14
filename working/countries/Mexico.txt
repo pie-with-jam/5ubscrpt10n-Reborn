@@ -41,7 +41,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGMlx1RDgzQ1x1RERGRE1Y5aKo
 vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=6c059ecfddf9b179&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q&encryption=none#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C529KB%2Fs%7CM002-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_7%7C329KB%2Fs%7CF003-260618%2001
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX  | @Raydikalx | 321663
-trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#MX  | @Raydikalx | 285F2D
+trojan://5t6i121em5lkmsmk@149.104.87.125:15083/?type=tcp&security=tls&sni=mx001.zestapp778.com&allowInsecure=1#MX  | @Raydikalx | 285F2D
+trojan://5t6i121em5lkmsmk@149.104.87.33:15083?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#MX  | @Raydikalx | 78ADA5
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=0&sni=mx001.zestapp778.com&type=tcp#MX  | @Raydikalx | 550EF9
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.205.152.109:443?sni=154.205.152.109&allowInsecure=1&type=tcp#MX  | @Raydikalx | C97CDD
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#MX  | @Raydikalx | 03BF9D

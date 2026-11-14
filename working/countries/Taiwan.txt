@@ -207,7 +207,6 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type
 vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?security=reality&type=raw&packetEncoding=xudp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=97101ba788915e5a&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo#%F0%9F%87%B9%F0%9F%87%BCTW_22%7C71KB%2Fs%7CA004-260618%2001
 vless://18eef0d3-35b3-4a5f-97a1-7b5264530dd8@35.201.230.136:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=5e13a6d43d0644c9&pbk=Uq9Q8VXK9VkVOJ1M5PfORTqMhjjGoIS40-V0tAG_1FM#%F0%9F%87%B9%F0%9F%87%BCTW_38%7C77KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@140.235.39.19:443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B9%F0%9F%87%BCTW_44%7C121KB%2Fs%7CF003-260618%2001
-vmess://eyAidiIgOiAiMiIsICJwcyIgOiAi8J+HrfCfh7BIb25nIEtvbmcgLT4g8J+HufCfh7xUYWl3YW4g4pqhQERlYW1OZXRfUHJveHkiLCAiYWRkIiA6ICJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwgInBvcnQiIDogIjIxMDM1IiwgImlkIiA6ICI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAicmF3IiwgInR5cGUiIDogIm5vbmUiIH0=
 ss://2022-blake3-aes-128-gcm:b7I6g7l7fJhBaMInJ%2Bzkzw%3D%3D@35.236.180.222:14514#TW  | @Raydikalx | A18B8E
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#TW  | @Raydikalx | 4248D9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#TW  | @Raydikalx | 882AEA
@@ -290,7 +289,7 @@ trojan://i99Cef@211.20.156.191:28166?sni=ctldl.windowsupdate.com&type=tcp#TW  | 
 trojan://i99Cef@211.20.156.191:28167?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 310A32
 trojan://i99Cef@211.20.156.191:28169?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | EE9ACF
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#TW  | @Raydikalx | E30390
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?&security=tls&fp=chrome&sni=tse1.mm.bing.net&type=ws&headerType=none&host=tse1.mm.bing.net&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#TW  | @Raydikalx | A00F2F
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?security=tls&fp=chrome&sni=tse1.mm.bing.net&type=ws&headerType=none&host=tse1.mm.bing.net&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#TW  | @Raydikalx | A00F2F
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#TW  | @Raydikalx | 0FA241
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#TW  | @Raydikalx | FF06DD
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&sni=60.248.219.78#TW  | @Raydikalx | 8DA147
