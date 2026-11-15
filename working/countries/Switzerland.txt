@@ -420,45 +420,41 @@ vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH_8%7C826KB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%ADCH_5%7C266KB%2Fs%7CM003-260806%20%5B1b442a9a3a52%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C316KB%2Fs%7CM003-260806%20%5Bf5d6147fc3a8%5D
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%233
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?security=none&type=ws&path=/vless-test&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_10%7C1.9MB%2Fs%7CS004-260618%2001
 vless://721bacfe-ff09-4e63-a735-686015bc1351@ch-plr-xh-pilot.tcp-reset-club.net:8443?security=reality&type=xhttp&path=/assets/v2/pkg&packetEncoding=xudp&sni=s3.netavex.com&fp=chrome&sid=e0&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&mode=stream-one&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_11%7C2.4MB%2Fs%7CB007-260618%2001
 vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@ch-xh01.tcp-reset-club.net:443?security=reality&type=xhttp&path=/assets/v2/pkg&packetEncoding=xudp&sni=s3.netavex.com&fp=firefox&sid=f79448a30d&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&mode=packet-up&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C2.4MB%2Fs%7CS001-260618%2001
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?sni=perevodchiki.su&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%232
 vless://CH_A2L__PG_A2L@185.225.201.145:18789?encryption=none&security=none&type=tcp&headerType=none&path=%2FCH_A2L__PG_A2L#%40CH_A2L%2B%40PG_A2L
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%234
 vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@netlivpn5505.ffffdsaaa.workers.dev:443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C654KB%2Fs%7CB007-260618%2001
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C6.3MB%2Fs%7CM003-260806
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C6.6MB%2Fs%7CA004-260618
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=ad86e2d52ff40ebd&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C113KB%2Fs%7CA004-260618
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_5%7C407KB%2Fs%7CM002-260618
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_11%7C413KB%2Fs%7CM002-260618
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=none&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_15%7C6.9MB%2Fs%7CM003-260806
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_16%7C407KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_17%7C2.6MB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_18%7C3.0MB%2Fs%7CS004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_19%7C2.5MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_20%7C2.3MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?sni=api.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_21%7C676KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_22%7C2.3MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?sni=yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_23%7C2.9MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?sni=yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_24%7C2.6MB%2Fs%7CC002-260622
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY#%F0%9F%87%A8%F0%9F%87%ADCH_27%7C411KB%2Fs%7CM002-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_37%7C3.4MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?sni=api.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_38%7C1.1MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_39%7C475KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_40%7C3.3MB%2Fs%7CC002-260622
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_42%7C2.3MB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH_43%7C3.7MB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH_44%7C948KB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%ADCH_45%7C1.9MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=ekb.eg&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_46%7C3.2MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_47%7C1.4MB%2Fs%7CM003-260806
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH_52%7C1.3MB%2Fs%7CM003-260806
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_53%7C847KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=208.69.78.29&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_54%7C3.3MB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=208.69.78.29&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_55%7C1.7MB%2Fs%7CC002-260622
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.8MB%2Fs%7CM003-260806
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.3MB%2Fs%7CA004-260618
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C349KB%2Fs%7CM002-260618
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_14%7C355KB%2Fs%7CM002-260618
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=none&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#%F0%9F%87%A8%F0%9F%87%ADCH_18%7C6.4MB%2Fs%7CM003-260806
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_19%7C317KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_20%7C1.3MB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_21%7C1.5MB%2Fs%7CS004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_22%7C2.3MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_23%7C1.9MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?sni=api.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_24%7C2.5MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_25%7C1.0MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?sni=yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_26%7C1.5MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?sni=yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_27%7C2.1MB%2Fs%7CC002-260622
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY#%F0%9F%87%A8%F0%9F%87%ADCH_30%7C403KB%2Fs%7CM002-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_43%7C2.5MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?sni=api.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_44%7C3.4MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_45%7C911KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_46%7C2.1MB%2Fs%7CC002-260622
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_49%7C2.0MB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH_50%7C4.0MB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH_51%7C1.3MB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%ADCH_52%7C2.6MB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH_53%7C2.3MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=ekb.eg&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_54%7C1.1MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_55%7C3.5MB%2Fs%7CM003-260806
+vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_58%7C1.2MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=208.69.78.29&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_59%7C1.3MB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=208.69.78.29&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_60%7C1.9MB%2Fs%7CC002-260622
+vless://963f72cf-8465-46f5-996c-df45500b57a3@153.52.85.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=a813d5t.ch5.h1clayd.click&fp=firefox&sid=7ded0da1ef58b7e2&pbk=syYaWsZJOf114XAoEcIQodriOW8pyCjP5x_KEq38ozs&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_61%7C2.7MB%2Fs%7CM003-260806
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0728
 vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=%2Fvless#Mahsa%2B%3A%2B%F0%9F%87%A8%F0%9F%87%AD%2BSwitzerland
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%28%40kia_net%29
@@ -483,7 +479,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?allowInsecure=1&sni=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | A7A956
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?allowInsecure=1&sni=learn.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 894BDE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 50D925
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | C6F0FA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | C6F0FA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 53EDE0
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | 82B9CD
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 8499EA
@@ -1541,6 +1537,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#[5142][CH][0][SS][None]
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-5201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#/Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#/Switzerland
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#[openproxylist.com] trojan-CH
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#[openproxylist.com] vless-CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-CH-...
 trojan://b7795ce8-3863-4292-adfc-9c0a7b847774@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%231
