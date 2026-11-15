@@ -161,7 +161,6 @@ trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa1
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
 trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#CY  | @Raydikalx | 0F485E
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#CY  | @Raydikalx | 0FFE7B
-vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@45.88.176.30:8443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&fp=chrome&type=xhttp&sni=cdn-us.cahmes.space&sid=6bd33a75ebc0f26e#CY  | @Raydikalx | 2B7E16
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#CY  | @Raydikalx | 506E7A
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#CY  | @Raydikalx | 51D3FA
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#CY  | @Raydikalx | 45BA3A
@@ -1015,4 +1014,3 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5792
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#/Cyprus
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#/Cyprus
-vmess://ewogICAgImFkZCI6ICI0NS4xMi4xNDQuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4e+Q1ktNDUuMTIuMTQ0LjY4LTc2MDMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==

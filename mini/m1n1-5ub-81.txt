@@ -1,33 +1,3 @@
-trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&type=tcp&fp=chrome#4FreeIran-945e47682b
-trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#4Jadi-7ebccfbb61
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#4Nika-cd805a2512
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&fp=chrome#4Mohsen-ed821f5d64
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos#4Mohsen-266a034d52
-trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&path=/#4Jadi-659935c580
-trojan://ND91608427@54.180.228.238:443?security=tls&sni=pure-ram.rooster465.autos#4Mohsen-6e2f3a8718
-trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#4Sarina-4bc2e0c499
-trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#4Mohsen-eaeeeb4505
-trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=/#4FreeIran-4ab6ebbe19
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#4Kian-7769d9f435
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#4Nika-d245db6dd7
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos&path=/#4Kian-fba36ec2ad
-trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos#4Jadi-854df813bb
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#4Nika-78d0480947
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&path=/#4Sarina-f6bc668afc
-trojan://ND91608427@ace-starling.rooster465.autos:443#4Mohsen-a8096e3faf
-trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#4Mohsen-7ef4ba9131
-trojan://ND91608427@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&path=/#4Mohsen-afea28c35c
-trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#4FreeIran-9ba7ccb026
-trojan://ND91608427@adjusted-labrador.rooster465.autos:443?sni=adjusted-labrador.rooster465.autos&path=/#4Nika-24a2cf8bb3
-trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#4FreeIran-08e50cc07e
-trojan://ND91608427@better-molly.rooster465.autos:443?security=tls&sni=better-molly.rooster465.autos&path=/#4Kian-759cedbe10
-trojan://ND91608427@better-molly.rooster465.autos:443?sni=better-molly.rooster465.autos&path=/#4FreeIran-9dee9214c6
-trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos#4FreeIran-4a1dea32da
-trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#4Nika-0ffe9ba554
-trojan://ND91608427@casual-bee.rooster465.autos:443?sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&path=/#4Sarina-c83ca2d26b
-trojan://ND91608427@casual-bee.rooster465.autos:443?sni=casual-bee.rooster465.autos&path=/#4Sarina-1f67d71c47
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?security=tls&sni=chief-bluegill.rooster465.autos#4Sarina-2381641406
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&path=/#4Nika-7a9f99bf03
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&type=tcp&path=/#4Kian-f04e588a90
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos#4FreeIran-bf7b5f26e6
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Jadi-2117a0b1ce
@@ -5085,6 +5055,7 @@ trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#Join+Telegram
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#Join+Telegram:@Farah_VPN
 trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#Join+Telegram:@Farah_VPN
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#Join+Telegram:@Farah_VPN
+trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Join+Telegram:@Farah_VPN
 trojan://1------------------BanV2ray------------------1@37.156.45.60:37161?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#Join+Telegram:@Farah_VPN
 trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?security=reality&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=xhttp&host=hostname&path=/path&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#Join+Telegram:@Farah_VPN
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Join+Telegram:@Farah_VPN
@@ -9998,3 +9969,32 @@ trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type
 trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#[]t.me/ConfigsHub
 trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#[]t.me/ConfigsHub
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#[]t.me/ConfigsHub
+trojan://------------BanV2ray-----------@37.156.45.60:4384?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F4de517c4e954d88&type=grpc&sni=world.yahoo.com%3A443&sid=39c79ee34fdbb2#AutoAiVPN267934
+trojan://------------BanV2ray-----------@37.156.45.60:2426?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F4de517c4e954d88&type=grpc&sni=world.yahoo.com%3A443&sid=4a76cd52#AutoAiVPN267935
+trojan://1------------------BanV2ray------------------1@37.156.45.60:37161?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#AutoAiVPN226709
+trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl#0506-Link-16
+trojan://MiTiVPN@104.18.6.178:2087?security=tls&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnl#0506-Link-36
+trojan://MITIVPN@104.16.174.36:443?security=tls&sni=7ib-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&type=ws&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa#0506-Link-14
+trojan://MITIVPN@104.17.147.22:2053?security=tls&sni=ikk---7-MiTiVPN----o.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=mitivpn---MiTiVPN---MiTiVPN.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde#0506-Link-15
+trojan://MiTiVPN@45.130.125.0:443?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR&alpn=http%2F1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw#0506-Link-10
+trojan://MITIVPN@45.130.125.112:443?security=tls&sni=ikk---7-MiTiVPN----o.Maqror.ir&alpn=http%2F1.1&type=ws&host=11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde#0507-Link-28
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#0507-Link-34
+trojan://MITIVPN@104.17.148.22:8443?security=tls&sni=MiTiVPN---MiTiVPN-7.kingnetwork.ir&alpn=http%2F1.1&type=ws&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.kingnetwork.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa#0506-Link-09
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20066?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#0507-Link-55
+trojan://humanity@162.159.38.119:443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=%2Fassignment#0507-Link-33
+trojan://MiTiVPN@66.81.247.155:443?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&alpn=http%2F1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl#0506-Link-45
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.31.113.248:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=dxy1h.twiladaphne.ndjp.net&fp=chrome&sni=dxy1h.twiladaphne.ndjp.net&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&encryption=none# Join+Telegram:@SolVPN
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc# Join+Telegram:@SolVPN
+trojan://9e66ec7d24874c17@ezaccess-project-d193bb.ez-8deb91.workers.dev:443?path=/eyJqdW5rIjoicHFkODJncDAiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=ezaccess-project-d193bb.ez-8deb91.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=eZaCCEss-projECt-d193bB.Ez-8DEb91.workers.DEV# Join+Telegram:@SolVPN
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc# Join+Telegram:@SolVPN
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=1&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=1&sni=space.byu.id.yxls.eu.cc# Join+Telegram:@SolVPN
+trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org# Join+Telegram:@SolVPN
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# Join+Telegram:@SolVPN
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213# Join+Telegram:@SolVPN
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195# Join+Telegram:@SolVPN
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org# Join+Telegram:@SolVPN
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io# Join+Telegram:@SolVPN
+trojan://humanity@216.24.57.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org# Join+Telegram:@SolVPN
+trojan://860c3c2c89a1c7515792be1c5295d21e@18.162.41.225:6357?allowInsecure=1&sni=www.nintendogames.net# Join+Telegram:@SolVPN
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com# Join+Telegram:@SolVPN
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com# Join+Telegram:@SolVPN

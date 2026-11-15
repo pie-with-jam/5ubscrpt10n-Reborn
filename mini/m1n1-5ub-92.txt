@@ -1,32 +1,3 @@
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443/?type=tcp&security=tls&fp=chrome# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http/1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http/1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http%2F1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=http/1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&type=raw&fp=chrome# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0&security=tls# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0&sni=# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0&sni=64.176.65.85# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1&security=tls# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2f1.1&path=%2f# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1&path=/# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1&security=tls# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome&security=tls# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&amp%3Binsecure=0&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3BallowInsecure=0&amp%3Bsni=64.176.65.85# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&amp%3Binsecure=0&amp%3Btype=tcp&amp%3BallowInsecure=0# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&headerType=none&type=tcp&sni=64.176.65.85# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=64.176.65.85# By EbraSha
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&path=%2f# By EbraSha
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&path=/# By EbraSha
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=# By EbraSha
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&type=tcp# By EbraSha
@@ -9998,3 +9969,32 @@ trojan://Watashi_VPN@104.17.147.22:443?path=%2F&security=tls&host=t-watashi-r-ja
 trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#@Vip_Security join us - 358
 trojan://WG39087154@nearby-cod.rooster465.autos:443#@Vip_Security join us - 357
 trojan://WG39087154@lenient-dory.rooster465.autos:443?fp=chrome#@Vip_Security join us - 356
+trojan://WG39087154@great-krill.rooster465.autos:443?fp=chrome#@Vip_Security join us - 355
+trojan://WG39087154@grateful-unicorn.rooster465.autos:443#@Vip_Security join us - 354
+trojan://WG39087154@clear-cowbird.rooster465.autos:443?fp=chrome#@Vip_Security join us - 353
+trojan://VPNCUSTOMIZE@45.130.125.2:443?mode=stream-one&path=%2Fconfig&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@Vip_Security join us - 352
+trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=%2Fconfig&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@Vip_Security join us - 351
+trojan://VPNCUSTOMIZE@162.159.38.183:443?mode=stream-one&path=%2Fconfig&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#@Vip_Security join us - 350
+trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=1#@Vip_Security join us - 349
+trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=firefox&spx=%2F%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network&type=grpc&sni=yahoo.com#@Vip_Security join us - 348
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Vip_Security join us - 347
+trojan://SoftNetConnect@37.156.44.6:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@Vip_Security join us - 346
+trojan://SoftNetConnect@178.104.213.121:443?security=reality&pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&headerType=none&type=tcp&sni=www.yahoo.com&sid=e0c7dbaa7dc2#@Vip_Security join us - 345
+trojan://PU3f7528NtNXnQqb9X263rGSD@get.fragmentary.info:443?security=tls&sni=get.fragmentary.info&fp=random&type=ws&path=/socks5tobefree&host=get.fragmentary.info#@Vip_Security join us - 344
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 343
+trojan://PI36027154@62.112.222.26:443?sni=upright-hamster.rooster465.autos#@Vip_Security join us - 342
+trojan://PD07395842@strong-haddock.rooster465.autos:443?fp=chrome#@Vip_Security join us - 341
+trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@Vip_Security join us - 340
+trojan://PD07395842@optimum-bull.rooster465.autos:443?fp=chrome#@Vip_Security join us - 339
+trojan://PD07395842@fast-ghost.rooster465.autos:443#@Vip_Security join us - 338
+trojan://PD07395842@54.216.163.119:443?fp=chrome&sni=above-rabbit.rooster465.autos#@Vip_Security join us - 337
+trojan://PD07395842@3.64.62.54:443?fp=chrome&sni=optimum-bull.rooster465.autos#@Vip_Security join us - 336
+trojan://PD07395842@13.39.127.43:443?fp=chrome&sni=united-bedbug.rooster465.autos#@Vip_Security join us - 335
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@Vip_Security join us - 334
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#@Vip_Security join us - 333
+trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#@Vip_Security join us - 332
+trojan://ON38567014@witty-stallion.rooster465.autos:443?fp=chrome#@Vip_Security join us - 331
+trojan://ON38567014@witty-stallion.rooster465.autos:443#@Vip_Security join us - 330
+trojan://ON38567014@vast-turkey.rooster465.autos:443#@Vip_Security join us - 329
+trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#@Vip_Security join us - 328
+trojan://ON38567014@summary-finch.rooster465.autos:443?fp=chrome#@Vip_Security join us - 327
