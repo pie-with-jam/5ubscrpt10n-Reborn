@@ -36,7 +36,7 @@ vless://2b1d0c2a-9c80-4b72-892e-93d0500b9210@34.15.162.1:443?security=reality&ty
 trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#TH  | @Raydikalx | 324DD7
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH  | @Raydikalx | 1219E4
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#TH  | @Raydikalx | 97C82A
-vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJwb3J0IjoiMzc1MTUiLCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6IiIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVEgg8J+HufCfh60gfCBAUmF5ZGlrYWx4IHwgODZGRjc2IiwiYWRkIjoiMTE5LjQ2LjUxLjQ1IiwicG9ydCI6Mzc1MTUsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=1&sni=th001.zestapp778.com&type=tcp#TH  | @Raydikalx | 5B2CEE
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#TH  | @Raydikalx | FCA7D1
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&fp=chrome&host=www.cloudflare.com&path=%2F&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#TH  | @Raydikalx | 04F231
@@ -207,7 +207,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWF
 ss://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#[3557][TH][0][SS][None][hopev2ray][2026-06-14][2026-07-28 02:00]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.33.47:990#[4937][TH][0][SS][None][free4allVPN][2025-10-20][2026-07-28 02:00]
 ss://YWVzLTEyOC1nY206djk0NDNpRWE5Z1d2@104.16.100.23:443?plugin=v2ray-plugin%3Bhost%3Dv1.fjdd.shop%3Btls#Thailand|Github%E6%90%9C%E7%B4%A2TrojanLinks
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=%2F#[openproxylist.com] vless-TH
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#[openproxylist.com] vless-TH
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TH-1...
 vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#%5Bwww.v2nodes.com%5D%20vless-TH-1...%20%231

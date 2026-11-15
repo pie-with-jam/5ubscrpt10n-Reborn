@@ -230,7 +230,6 @@ vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality
 vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d725f0dd8cce210f&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E#%F0%9F%87%A6%F0%9F%87%BAAU_11%7C455KB%2Fs%7CA004-260618%2001
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.111.23:48158?#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-AU-1...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU  | @Raydikalx | DFABBD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RzJRRkprT2NFZTlUdFBPeDdLLTA3eEsyVjhaSHZ1aQ==@1.2.3.4:40817#AU  | @Raydikalx | 9117D4
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@161.248.254.27:443/?plugin=v2ray-plugin%3Btls%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560#AU  | @Raydikalx | 37F78E
