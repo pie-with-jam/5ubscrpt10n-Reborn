@@ -416,7 +416,6 @@ vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?securi
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-IT-1...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080# IT | 57.131.4.13
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b# IT | 57.131.38.163
-vmess://eyJhZGQiOiAiMTA5LjEyMi4yMDguMjA1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyMTc0NWJmZS1lZjRkLTRlNjEtYzE0Mi05N2I0ODQ4ZmRjMTQiLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDQ4Mzc3LCAicHMiOiAiWzE0ODc0MV0gLSDwn4eu8J+HuSBJdGFseSB8IEBmcmVlbmV0dGlyIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT  | @Raydikalx | D8F208
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT  | @Raydikalx | 5EBF7B
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#IT  | @Raydikalx | 8FB4B4
@@ -477,12 +476,11 @@ vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?fp=firefox&pbk=E
 vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?flow=xtls-rprx-vision&fp=firefox&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&security=reality&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com&type=tcp#IT  | @Raydikalx | B16C49
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd6065902eea7a02&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU#IT  | @Raydikalx | 8AF267
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@147.45.51.171:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U&security=reality&sid=e723d26df67888b9&sni=twitch.tv&type=tcp#IT  | @Raydikalx | 92E620
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C2.5MB%2Fs
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9IT_3%7C2.0MB%2Fs
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9IT_4%7C2.0MB%2Fs
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9IT_5%7C3.0MB%2Fs
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9IT_6%7C2.0MB%2Fs
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.2MB%2Fs
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9IT_2%7C2.3MB%2Fs
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9IT_3%7C1.3MB%2Fs
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9IT_4%7C3.0MB%2Fs
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@4.232.64.201:443?security=tls&type=ws&path=%2F&host=cf-1rm.pages.dev&packetEncoding=xudp&sni=cf-1rm.pages.dev&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9IT_5%7C2.5MB%2Fs
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?type=tcp&security=reality&sni=aws.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#IT   VLESS-TCP-RLT - Seflow s.r.l.  95.141.36.10
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?security=tls&type=ws&path=%2F&host=fs.qicai99.com&packetEncoding=xudp&sni=fs.qicai99.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9IT_40%7C1.3MB%2Fs%7CM003-260806%20%5B175637aaf25d%5D
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@91.201.65.122:9059#%F0%9F%87%AE%F0%9F%87%B9IT_24%7C1.4MB%2Fs%7CA004-260618%20%5B2af545b627eb%5D

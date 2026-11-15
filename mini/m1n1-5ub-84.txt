@@ -1,38 +1,3 @@
-trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[488][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-19][2026-07-28 02:00]
-trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#[942][US][0][TROJAN][None][Outline_Vpn][2026-07-08][2026-07-28 02:00]
-trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#[1131][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-15][2026-07-28 02:00]
-trojan://NQ26071394@35.181.65.111:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#[622][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-23][2026-07-28 02:00]
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#[934][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-26][2026-07-28 02:00]
-trojan://MITIVPN@151.101.56.6:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#[355][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-22][2026-07-28 02:00]
-trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=upward-hedgehog.rooster465.autos#[748][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-24][2026-07-28 02:00]
-trojan://moist@154.197.121.253:443?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#[1204][JP][0][TROJAN][None][mftizi][2024-07-03][2026-07-28 02:00]
-trojan://humanity@162.159.38.119:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&host=www.gossipglove.com#[1049][US][0][TROJAN][None][v2ray_vpn_ir][2026-07-20][2026-07-28 02:00]
-trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#[309][UnResolvedDomains][0][TROJAN][None][v2rayNG_Matsuri][2026-07-19][2026-07-28 02:00]
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#[211][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-06-23][2026-07-28 02:00]
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#[758][UnResolvedDomains][0][TROJAN][None][rxv2ray][2025-10-29][2026-07-28 02:00]
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#[1116][US][0][TROJAN][None][vpn_ioss][2026-07-19][2026-07-28 02:00]
-trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=upward-hedgehog.rooster465.autos#[752][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-27][2026-07-28 02:00]
-trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[1231][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:01]
-trojan://9bd9f0da-cb8b-4bd3-9f80-efa1be67daa0@naiu-hk.05vr9nyqg5.download:13007?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[231][UnResolvedDomains][0][TROJAN][None][mftizi][2024-07-19][2026-07-28 02:00]
-trojan://MITIVPN@151.101.110.219:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#[347][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-21][2026-07-28 02:00]
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#[790][UnResolvedDomains][0][TROJAN][None][yaney_01][2024-04-19][2026-07-28 02:00]
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=s1.linko1.ir&fp=edge&type=ws&allowInsecure=1&sni=s1.linko1.ir#[1196][US][0][TROJAN][None][hopev2ray][2026-06-02][2026-07-28 02:00]
-trojan://MITIVPN@104.16.174.36:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa&security=tls&alpn=http%2F1.1&insecure=1&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=7ib-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR#[319][UnResolvedDomains][0][TROJAN][None][ConfigsHUB][2026-07-27][2026-07-28 02:00]
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.41:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#[858][US][0][TROJAN][None][Outline_Vpn][2026-07-04][2026-07-28 02:00]
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[992][US][0][TROJAN][None][FreakConfig][2026-07-25][2026-07-28 02:01]
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[980][US][0][TROJAN][None][v2ray1_ng][2026-07-25][2026-07-28 02:00]
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[982][US][0][TROJAN][None][proxy_mtm][2026-07-11][2026-07-28 02:00]
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp&headerType=none#[112][UnResolvedDomains][0][TROJAN][None][mftizi][2025-01-11][2026-07-28 02:00]
-trojan://PD07395842@strong-haddock.rooster465.autos:443?fp=chrome#[672][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-23][2026-07-28 02:00]
-trojan://nodes-b211f28a@node-de-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-de-1.v2sv.top#[1211][UnResolvedDomains][0][TROJAN][None][kiava][2026-01-23][2026-07-28 02:00]
-trojan://tg-dns68@162.159.153.160:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[1251][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
-trojan://JT80563429@musical-shrew.rooster465.autos:443#[304][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-26][2026-07-28 02:00]
-trojan://MITIVPN@151.101.56.6:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#[374][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-25][2026-07-28 02:00]
-trojan://WG39087154@balanced-goat.rooster465.autos:443?fp=chrome#[727][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-26][2026-07-28 02:00]
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#[918][US][0][TROJAN][None][FreakConfig][2026-07-26][2026-07-28 02:00]
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[835][UnResolvedDomains][0][TROJAN][None][v2rayNG_Matsuri][2026-07-19][2026-07-28 02:00]
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http%2F1.1&insecure=0&fp=edge&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#[1197][US][0][TROJAN][None][hopev2ray][2026-06-04][2026-07-28 02:00]
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#[207][US][0][TROJAN][None][Outline_Vpn][2026-06-28][2026-07-28 02:00]
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[1119][US][0][TROJAN][None][FreakConfig][2026-07-22][2026-07-28 02:01]
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[836][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-07-19][2026-07-28 02:00]
 trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#[584][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-24][2026-07-28 02:00]
@@ -9998,3 +9963,38 @@ trojan://IQ68037294@91.243.81.69:443?security=tls&sni=proud-escargot.rooster465.
 trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20146
 trojan://IQ68037294@endless-kiwi.rooster465.autos:443?sni=endless-kiwi.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20147
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20148
+trojan://IQ68037294@helpful-possum.rooster465.autos:443?sni=helpful-possum.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20149
+trojan://IQ68037294@45.135.228.100:443?sni=meet-doe.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20150
+trojan://IQ68037294@45.135.228.169:443?sni=fun-salmon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20151
+trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20152
+trojan://WG39087154@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20153
+trojan://IQ68037294@45.135.228.68:443?sni=helpful-possum.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20154
+trojan://IQ68037294@81.28.13.225:443?sni=open-eel.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20155
+trojan://IQ68037294@91.243.81.111:443?sni=whole-grub.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20156
+trojan://IQ68037294@91.243.81.114:443?security=tls&sni=happy-mutt.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b8%f0%9f%87%ac%20SG%20157
+trojan://IQ68037294@internal-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20158
+trojan://IQ68037294@proud-escargot.rooster465.autos:443?security=tls&sni=proud-escargot.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20159
+trojan://IQ68037294@proud-escargot.rooster465.autos:443?sni=proud-escargot.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20160
+trojan://IQ68037294@smooth-cougar.rooster465.autos:443?sni=smooth-cougar.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20161
+trojan://WG39087154@casual-stallion.rooster465.autos:443?sni=casual-stallion.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20162
+trojan://WG39087154@proud-escargot.rooster465.autos:443?sni=proud-escargot.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20163
+trojan://IQ68037294@still-mastodon.rooster465.autos:443?sni=still-mastodon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20164
+trojan://FC60532879@casual-stallion.rooster465.autos:443?sni=casual-stallion.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20165
+trojan://FC60532879@touching-ostrich.rooster465.autos:443?sni=touching-ostrich.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20166
+trojan://FC60532879@mutual-raccoon.rooster465.autos:443?sni=mutual-raccoon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20167
+trojan://IQ68037294@happy-mutt.rooster465.autos:443?sni=happy-mutt.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20168
+trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?security=tls&sni=pleased-sawfly.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20169
+trojan://IQ68037294@81.28.13.9:443?security=tls&sni=prepared-turkey.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20170
+trojan://IQ68037294@91.243.81.26:443?sni=full-mackerel.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20171
+trojan://IQ68037294@91.243.81.41:443?security=tls&sni=internal-sunbird.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20172
+trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20173
+trojan://IQ68037294@glowing-deer.rooster465.autos:443?sni=glowing-deer.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20174
+trojan://IQ68037294@humane-hawk.rooster465.autos:443?sni=humane-hawk.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20175
+trojan://WG39087154@fair-kingfish.rooster465.autos:443?sni=fair-kingfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20176
+trojan://WG39087154@helpful-possum.rooster465.autos:443?sni=helpful-possum.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20177
+trojan://WG39087154@hopeful-leopard.rooster465.autos:443?sni=hopeful-leopard.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20178
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20179
+trojan://IQ68037294@81.28.13.159:443?sni=giving-bird.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20180
+trojan://IQ68037294@81.28.13.159:443?sni=giving-bird.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20181
+trojan://IQ68037294@91.243.81.114:443?sni=happy-mutt.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20182
+trojan://FC60532879@actual-chicken.rooster465.autos:443?sni=actual-chicken.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20183
