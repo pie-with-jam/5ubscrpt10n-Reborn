@@ -145,7 +145,6 @@ trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&inse
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@a357e2g.es5.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=a357e2g.es5.h1clayd.click&fp=firefox&pbk=RBmtyb7WJzYMTHpRrlLwVk_dbSStfGds8dZtpTf6gAE&sid=23dda49556665b0d#NG  | @Raydikalx | C2E154
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@c353abt.es5.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=c353abt.es5.h1clayd.click&pbk=eYKLFr3Jz14re6BUiCNDujKxmUP4-SzCnSQvxVGfaCY&sid=3dcd74a8248d6bff&fp=firefox#NG  | @Raydikalx | 1CE737
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?&security=reality&flow=xtls-rprx-vision&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&fp=chrome&sni=7aa271t.es1.h1clayd.click&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click&path=%2F#NG  | @Raydikalx | 42EECA
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es1.h1clayd.click&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none#NG  | @Raydikalx | 518CD0
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?&security=reality&flow=xtls-rprx-vision&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&fp=chrome&sni=7aa271t.es1.h1clayd.click&type=tcp&headerType=none&path=%2F#NG  | @Raydikalx | 330E0B
 vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@196.196.149.20:443?encryption=none&type=grpc&security=reality&sni=a566d1g.de18.h1clayd.click&pbk=C_DlyXDDS4fWcAlxb-6O7LBKtq28fg2slCrH5tPaTQ4&sid=16cea10606a4e401&fp=chrome&spx=/&serviceName=98b9c56e8ebb#NG  | @Raydikalx | 1E8933
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@167.88.51.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SYKJ-zsxnjo1DG-ChEhfq2Smfo-f7CvKKssj9rzuCRw&security=reality&sid=2d850fa7&sni=ng1.gofizz.in&type=tcp#NG  | @Raydikalx | 41A57B
@@ -876,5 +875,6 @@ ss://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&securi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8510
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8453
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8313
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com#[openproxylist.com] trojan-NG
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?allowInsecure=1&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-NG-...
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?allowInsecure=0&sni=hk.catxstar.com#%5Bwww.v2nodes.com%5D%20trojan-NG-...%20%232
