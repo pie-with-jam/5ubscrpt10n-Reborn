@@ -1,1 +1,2 @@
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443?type=tcp&security=tls&sni=ip.sb#vless-ip.sb
 vless://1988a5e0-a4b0-4d80-a6f2-d2357db53f48@ip.sb:8880?encryption=none&security=none&fp=random&type=ws&host=918.hebav63406.workers.dev&path=%2F%3Fed%3D2048#SB
