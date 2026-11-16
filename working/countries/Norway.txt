@@ -48,7 +48,7 @@ vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@144.31.217.148:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C777KB%2Fs%7CA004-260618%20%5B3643c3ed7d6c%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.32.29:989#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2004
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%B3%F0%9F%87%B4%20NO_63
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%B3%F0%9F%87%B4%20NO_61
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@91.219.215.67:40282#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2003
 trojan://humanity@202.50.55.76:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2005
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=chrome&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2009
@@ -81,7 +81,9 @@ vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@46.29.238.32:40443?security=reality
 vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4#%F0%9F%87%B3%F0%9F%87%B4NO_5%7C741KB%2Fs%7CA004-260618%2001
 vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&encryption=none#%F0%9F%87%B3%F0%9F%87%B4NO_4%7C1.1MB%2Fs%7CP001-260618%2001
 vmess://eyJhZGQiOiAiNDYuMjkuMjE4Ljg0IiwgImFpZCI6IDY0LCAiaG9zdCI6ICIiLCAiaWQiOiAiZjdhNDU2ZGEtOTg4Ni00ZGQ3LWIxOTMtNGM1OWE3MjYyMTljIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIvCfh7Pwn4e0IE5vcndheSAyMyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://80d4cb87-ac70-e074-bc82-6313d2d1b539@www.pdnczone.com:2087?sni=ayhanmansur-zedmeli.kdns.fr&type=ws&path=%2FeyJqdW5rIjoiZXJaQklLRUh1R0UiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjowfQ%3D%3D&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4NO_2%7C1.1MB%2Fs%7CM003-260806
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C268KB%2Fs%7CA004-260618
+trojan://80d4cb87-ac70-e074-bc82-6313d2d1b539@www.pdnczone.com:2087?sni=ayhanmansur-zedmeli.kdns.fr&type=ws&path=%2FeyJqdW5rIjoiZXJaQklLRUh1R0UiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjowfQ%3D%3D&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4NO_3%7C775KB%2Fs%7CM003-260806
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@193.243.189.64:443?security=reality&type=tcp&packetEncoding=xudp&sni=no1.gofizz.in&fp=ios&flow=xtls-rprx-vision&sid=b12c3119d219dc&pbk=631qtx5_iiR8HBYdp3duf2SMqdN0URE1AWVb85I_FFg&encryption=none#%F0%9F%87%B3%F0%9F%87%B4NO_4%7C107KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-0816
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO_1%7C1.3MB%2Fs%7CA004-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#NO  | @Raydikalx | D97531
