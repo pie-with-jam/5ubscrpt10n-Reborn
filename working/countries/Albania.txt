@@ -10,21 +10,24 @@ vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[1122][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-1004
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-8125
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?sni=5d0319t.nl7.h1clayd.click&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL_3926_@Surfboardv2ray
-vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4524_@Surfboardv2ray
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL_4011_@Surfboardv2ray
+vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL_4588_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C513KB%2Fs%7CS004-260618%20%5B6ac9efa57aaa%5D
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@85.155.228.24:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=qq&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C198KB%2Fs%7CA004-260618%2001
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?security=reality&type=tcp&packetEncoding=xudp&sni=alda1.thewalkingded.life&fp=safari&flow=xtls-rprx-vision&sid=e114ca996877ce3a&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C375KB%2Fs%7CA004-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU3hMWEZ0b21ZOXlwTzRvOHJyTldFcE5TWkVGenNNbmZoQkVUVWQzb093PQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_5%7C193KB%2Fs%7CM003-260806
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-AL-1...
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_2%7C93KB%2Fs%7CS004-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_3%7C230KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU3hMWEZ0b21ZOXlwTzRvOHJyTldFcE5TWkVGenNNbmZoQkVUVWQzb093PQ==@130.49.189.158:43558#AL  | @Raydikalx | 580185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWkdyOG5MSGRmK0ZFNVpBdzBZL1J6c21sNEF5aWtHTDQ4MVBnN2VCcHNJPQ==@130.49.189.158:43558#AL  | @Raydikalx | C7E3DD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ@130.49.189.158:43558#AL  | @Raydikalx | 6A1329
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#AL  | @Raydikalx | EF9071
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aU9lS2VqaGh3K2ZtV2V0K3h2dUpzVkpIN1U5RHZTV3ExaGxxdGFLditJPQ@130.49.189.158:43558#AL  | @Raydikalx | 30F987
+vless://081cd1d2-4a06-440b-b68a-1472a6aa69f1@al.spirako.com:11443?mode=gun&security=reality&encryption=none&pbk=6O73fxypVjH5qAMVuiYdTGTpj7msRqGBNO0dqqYiaxU&fp=chrome&type=grpc&serviceName=apple&sni=apple.com&sid=b113695e78b48185#AL  | @Raydikalx | C1F0EE
+vless://081cd1d2-4a06-440b-b68a-1472a6aa69f1@fast.spirako.com:11443?mode=gun&security=reality&encryption=none&pbk=6O73fxypVjH5qAMVuiYdTGTpj7msRqGBNO0dqqYiaxU&fp=chrome&type=grpc&serviceName=apple&sni=apple.com&sid=b113695e78b48185#AL  | @Raydikalx | 08216B
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL  | @Raydikalx | 441D6A
 vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=reality&alpn=http/1.1&encryption=none&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.alba.xanka.best&sid=c692a719#AL  | @Raydikalx | 50466D
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL  | @Raydikalx | E5C3EC
@@ -150,4 +153,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141
 ss://YWVzLTEyOC1nY206Z2Z0Z2ZkZGFmZ2Rmcw@260323.1.0.l2.unclemanco.com:39184/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%A6%F0%9F%87%B1%20AL_18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925# AL | 157.22.240.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdmZIUGJReUw5RDZSTXdWTEhmWHlF@130.49.189.158:10792#%f0%9f%87%a6%f0%9f%87%b1%20AL%201
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#[openproxylist.com] vless-AL
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=chrome&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&encryption=none#[openproxylist.com] vless-AL
