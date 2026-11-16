@@ -455,7 +455,6 @@ trojan://392f8755-75e7-481e-927e-0f3aae34234e@62.210.136.177:1935?security=tls&s
 trojan://3993dc85-ac62-4afb-b0f0-c941d62a1cbf@iljs.stablize.top:443?security=tls&sni=iljs.stablize.top&type=tcp#Channel%20id:%20@AlienVPN402
 trojan://3993dc85-ac62-4afb-b0f0-c941d62a1cbf@uaejs.stablize.top:443?security=tls&sni=uaejs.stablize.top&type=tcp#Channel%20id:%20@AlienVPN402
 trojan://3b14c162-43a0-4f16-bedf-50e818a9a8e3@kr.mjt001.com:443?security=tls&sni=kr.mjt001.com&allowInsecure=1&type=tcp#Channel%20id:%20@AlienVPN402
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3ID
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp#Channel%20id:%20@AlienVPN402
 trojan://4f7f8560-5873-11ed-b732-225401db9d57@103.180.125.251:443?sni=Blog.Irancell.IR#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Unknown%20%7C%20103.180.125.251%3A443
 trojan://56733cf9f08d43d9@159.100.30.64:9100?security=tls&sni=fr1.arashmahash.xyz&allowInsecure=1&type=tcp#Channel%20id:%20@AlienVPN402
@@ -947,6 +946,7 @@ trojan://dummypassword@0.0.0.0:1080?security=none&type=tcp#[ID][COUNTRY][REAL DE
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-ID
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1#[openproxylist.com] trojan-ID
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20120?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-ID
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3ID
 ss://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[2032][ID][0][SS][None][daredevill_404][2026-01-28][2026-08-16 00:34]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTnhyTVZoYWFnbjQzbEtrMGxjT3d6bzItejhTaFhpQS1B@130.94.92.62:17216#[7581][ID][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://cbb3f877-d1fb-344c-87a9-d153bffd5484@48.193.46.7:30833?encryption=auto&security=none&type=tcp#[17368][ID][0][SS][None][OpenSSTPVpn][2026-06-03][2026-08-16 00:34]

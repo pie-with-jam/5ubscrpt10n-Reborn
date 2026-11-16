@@ -13,13 +13,12 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0170
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?#%F0%9F%87%A8%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-CL-...
 vless://47637b04-945c-481e-b221-03c32d10c52d@147.224.233.249:63690?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#CL_1256_@Surfboardv2ray
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDc5OTA2ZC04OWFiLTQzMGItYWNiYy0zMzI3NTY4YTViZTNAMTI5LjE1MS45OS45NDoyMzM0NQ==#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%20129.151.99.94%3A23345
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@64.176.17.53:8313#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%2064.176.17.53%3A8313
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Quilicura%20%7C%20190.120.230.9%3A989
 ss://YWVzLTI1Ni1nY206MU5ETjk1TDdRNlVOWUpSNA==@37.143.128.125:20012#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%2037.143.128.125%3A20012
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%2038.54.20.59%3A8881
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C614KB%2Fs%7CA004-260618%20%5B3b070685b6a9%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C544KB%2Fs%7CM003-260806%20%5B3b070685b6a9%5D
 trojan://MiTiVPN@151.101.222.222:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%20151.101.222.222%3A80
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.176.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%2038.180.176.115%3A2083
 trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-cl.251313.xyz:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%20starlink-cl.251313.xyz%3A443
@@ -41,11 +40,13 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sec
 vless://f05dee05-99af-4918-8189-9c533bbf119a@64.176.8.103:443?encryption=none&fp=chrome&headerType=http&host=&path=/&pbk=am5XC3tzL6MpQoVhzH2VL_x9ToscGaYLORkcnKDKlEI&security=reality&sid=f72e&sni=www.yahoo.com&spx=/nCunMMSxS0IHEHh&type=tcp#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20-%20Santiago%20%7C%2064.176.8.103%3A443
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm71DbC4uLiIsICJhZGQiOiAiMTkwLjkzLjI0Ni4yIiwgInBvcnQiOiAiODAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsICJob3N0IjogImZyLnYycmF5MS54eXoiLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggZ2l0aHViLmNvbS9mcmVlZnEgLSDnvo7lm71DbC4uLiIsICJhZGQiOiAiY2ZjZG4uc2FuZmVuY2RuLm5ldCIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZGE5ZDVjNzQtYTU3Mi00Y2Y0LWEzNzUtMTliODg2ZjVmZmM0IiwgImhvc3QiOiAidXMyLnNhbmZlbmNkbi5uZXQiLCAicGF0aCI6ICIvIn0=
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C544KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_2%7C599KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_3%7C610KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_4%7C606KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C582KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_2%7C571KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_3%7C582KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_4%7C599KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B1CL_5%7C616KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.230.9:989#%F0%9F%87%A8%F0%9F%87%B1CL-190.120.230.9-0777
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0178
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL  | @Raydikalx | 1C085E
 vless://47637b04-945c-481e-b221-03c32d10c52d@147.224.233.249:63690?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#CL  | @Raydikalx | C43325
 vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.137.90:443?fp=chrome&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&security=reality&sid=2c2d919f5183d0b7&sni=www.cloudflare.com#CL  | @Raydikalx | 0575F3
@@ -133,4 +134,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@64.176.17.53:8313#[9838][C
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#[11843][CL][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990#CL Da352
 ss://aes-256-cfb:f8f7aCzcPKbsF8p3@37.143.128.195:989#%F0%9F%9A%AB%F0%9F%87%A8%F0%9F%87%B1%20CL%2037.143.128.195%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Oneprovider.com%20%E2%97%88%202f88b
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-CL-...
