@@ -1,3 +1,4 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@143.110.163.137:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#@DeltaKroneckerGithub
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.106.115:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A7%F0%9F%87%AABE%28AzadNet.t.me%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?path=%2FProxyMtAlpha&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
 trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.197.95:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%285%29
@@ -9997,4 +9998,3 @@ vless://045ae46c-40c0-4191-b5d0-b2811d55c827@144.31.97.28:443?type=tcp&sni=mail.
 vless://045ae46c-40c0-4191-b5d0-b2811d55c827@95.85.232.16:443?type=tcp&sni=mail.yandex.ru&fp=chrome&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&sid=9d21bea37f7da010&flow=xtls-rprx-vision&allowInsecure=1#vless-57139
 vless://045ae46c-40c0-4191-b5d0-b2811d55c827@de-01.anotherboring.top:443?type=tcp&sni=mail.yandex.ru&fp=chrome&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&sid=9d21bea37f7da010&flow=xtls-rprx-vision&allowInsecure=1#vless-57140
 vless://045ae46c-40c0-4191-b5d0-b2811d55c827@nl-01.anotherboring.top:443?type=tcp&sni=mail.yandex.ru&fp=chrome&pbk=V8SoXysVeJT4ObuVV8iowYtFnpmjr5GxK4T1Wk2HoD8&sid=a7c42d661d53f146&flow=xtls-rprx-vision&allowInsecure=1#vless-57141
-vless://045db66f-067d-56c5-82f6-3ace5603a53c@199.232.125.53:443?security=tls&encryption=none&host=ELI-V2-RAY.COM&fp=qq&type=ws&sni=ELI-V2-RAY.COM#@DeltaKroneckerGithub

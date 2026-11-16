@@ -3077,6 +3077,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080# GB 
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807# GB | 5.254.8.148
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3# GB | 102.177.189.29
 vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@94.177.253.26:443?flow=xtls-rprx-vision&security=reality&sni=uk7.sbcweb.net&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de# GB | 94.177.253.26
+vless://3a3faa0a-d4fd-4f8e-9f63-64c5d5f40d87@hz2.extraservices.ir:25042?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=numpy.org&fp=chrome&pbk=bayVw2dTI3hexRCVFZBbmQUi5sokfDmxDsCnFYCQpls&sid=351a69a91804b57c#kianvpn%20%7C%2023.31%20GB%20%7C%20%E2%88%9E%20Day
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#GB  | @Raydikalx | 7AD800
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NHZwNzZhK2QzdXUwWWZSUUtrRm96b0hqYm5TWVhIazFJTHc3ckVQcFZ4MD0@134.65.62.99:61312#GB  | @Raydikalx | 6A6388
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N0tkNWhMR0JkcXEycWRvZVdGMTJZby9nKzdaRFMzdDR3VS9FZXcyUHlyZz0@129.151.92.235:61312#GB  | @Raydikalx | C19BAE
