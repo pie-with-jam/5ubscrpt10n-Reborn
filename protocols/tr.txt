@@ -11420,6 +11420,7 @@ trojan://xxoo@194.156.99.39:443?sni=194.156.99.39#%E2%9A%A1%20b2n.ir/v2ray-confi
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20130
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200326
 trojan://yhldixIhx6uTB7Vq@mou789ihj-production.up.railway.app:443?path=%2Fapi%2FR9_eSg&security=tls&alpn=http%2F1.1&insecure=0&host=mou789ihj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mou789ihj-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%201962
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20051?allowInsecure=1&security=tls&sni=hk.catxstar.com#%E9%A6%99%E6%B8%AF+%E8%91%B5%E5%85%B4%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://7e23957d-535a-4dc6-9482-e6f44518da87@sg1-reality.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=13-231-155-134.nhost.00cdn.com#TG%E9%A2%91%E9%81%93%2B%40oeo12%2B%2B%3DSG_1
 trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20767?allowInsecure=0&sni=ssl.ssl12.xyz#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2002%20TG%40SSRSUB
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:36821?allowInsecure=0&sni=z262.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2023%20TG%40SSRSUB
@@ -12862,24 +12863,24 @@ trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-40%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-41%20%7C%20free-nodes
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%E5%8F%B0%E6%B9%BE%E7%9C%81
-trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?sni=66.23.203.21&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_39%7C113KB%2Fs%7CA001-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=www.unlockyourfuturefindyourperfectcareer.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_58%7C904KB%2Fs%7CM003-260806
-trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?sni=69.164.240.85&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_43%7C264KB%2Fs%7CM003-260806
-trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?sni=69.164.240.85&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_59%7C531KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_63%7C487KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_48%7C140KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=66.163.112.121&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_64%7C521KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_49%7C396KB%2Fs%7CC002-260622
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?sni=courses.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#%E2%9D%93Other_51%7C463KB%2Fs%7CM003-260806
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?sni=connect-se.mimowhat.online&type=tcp&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AASE_3%7C315KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?sni=ekb.eg&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_84%7C218KB%2Fs%7CB007-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?sni=www.searchnationwidecareerchangehelperandguidancetoday.com&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_80%7C290KB%2Fs%7CM003-260806
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?sni=learn.nextjobopportunityandclaimyouridealrole.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_96%7C71KB%2Fs%7CB007-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?sni=66.163.122.81&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_81%7C110KB%2Fs%7CA004-260618
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?sni=66.163.122.7&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_82%7C295KB%2Fs%7CC002-260622
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C586KB%2Fs%7CM003-260806
-trojan://2e7sEZERnvGOlt35hf6rNg@96.44.133.37:2087?sni=www.bing.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_104%7C111KB%2Fs%7CC002-260622
-trojan://Z5lvhmLqSc@173.234.15.84:48994?sni=m.microsoft.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_14%7C85KB%2Fs%7CB007-260618
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&fp=chrome#%E2%9D%93Other_2%7C199KB%2Fs%7CS004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_6%7C70KB%2Fs%7CA004-260618
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_8%7C313KB%2Fs%7CA001-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_12%7C71KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?sni=api.nextjobopportunityandclaimyouridealrole.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_30%7C518KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?sni=findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp&fp=chrome#%E2%9D%93Other_56%7C92KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?sni=courses.unlockyourfuturefindyourperfectcareer.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_55%7C278KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com&allowInsecure=1&type=tcp#%E2%9D%93Other_57%7C265KB%2Fs%7CC001-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?sni=api.unlockyourfuturefindyourperfectcareer.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_56%7C288KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=chrome#%E2%9D%93Other_58%7C367KB%2Fs%7CB007-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_58%7C254KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=64.176.7.205&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_62%7C333KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=66.163.112.121&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_62%7C252KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_63%7C67KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=www.unlockyourfuturefindyourperfectcareer.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_81%7C105KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#%E2%9D%93Other_87%7C450KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?sni=66.163.118.62&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_95%7C452KB%2Fs%7CC002-260622
+trojan://Z5lvhmLqSc@matrix.phonicsindia.mobi:48994?sni=m.microsoft.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_13%7C306KB%2Fs%7CC001-260618
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%D8%B3%DA%A9%D8%B1%D8%A7%DB%8C%D8%A8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%A2%D8%B2%D8%A7%D8%AF%D9%86%D8%AA%20%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%20%DA%A9%D8%B1%D8%AF%D9%87
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%B1%20%D9%BE%D8%B3%D8%AA%20%D9%BE%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20AzadNet%40
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#Subscription%20link%20Ghanged
@@ -13711,6 +13712,24 @@ trojan://m%69tivpn@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece2
 trojan://miTivpn@151.101.56.90:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AC%F0%9F%87%A7217831%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://origin@188.40.251.19:443?security=tls#[153217]
 trojan://zi-xIc935WTzUG-g@cmdfghrety-production.up.railway.app:443?path=/api/g7iw3m&security=tls&alpn=http/1.1&insecure=0&host=cmdfghrety-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cmdfghrety-production.up.railway.app#
+trojan://Z5lvhmLqSc@173.234.15.84:48994?sni=m.microsoft.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_14%7C85KB%2Fs%7CB007-260618
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?sni=connect-se.mimowhat.online&type=tcp&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AASE_3%7C315KB%2Fs%7CM003-260806
+trojan://2e7sEZERnvGOlt35hf6rNg@96.44.133.37:2087?sni=www.bing.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_104%7C111KB%2Fs%7CC002-260622
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_48%7C140KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?sni=courses.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#%E2%9D%93Other_51%7C463KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?sni=66.163.122.81&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_81%7C110KB%2Fs%7CA004-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?sni=www.searchnationwidecareerchangehelperandguidancetoday.com&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_80%7C290KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=www.unlockyourfuturefindyourperfectcareer.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_58%7C904KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_63%7C487KB%2Fs%7CM003-260806
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?sni=66.23.203.21&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_39%7C113KB%2Fs%7CA001-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=216.238.104.154&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_49%7C396KB%2Fs%7CC002-260622
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?sni=learn.nextjobopportunityandclaimyouridealrole.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_96%7C71KB%2Fs%7CB007-260618
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?sni=66.163.112.121&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_64%7C521KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?sni=66.163.122.7&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_82%7C295KB%2Fs%7CC002-260622
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?sni=69.164.240.85&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93Other_43%7C264KB%2Fs%7CM003-260806
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?sni=69.164.240.85&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_59%7C531KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C586KB%2Fs%7CM003-260806
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?sni=ekb.eg&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_84%7C218KB%2Fs%7CB007-260618
 trojan://0b4bee77-b37c-42ea-b01e-572aa3422195@54.199.8.75:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 trojan://0b4bee77-b37c-42ea-b01e-572aa3422195@43.203.241.196:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 trojan://%21str18844@49.212.193.129:443?type=tcp#JP  | @Raydikalx | 7D91F6
@@ -178366,19 +178385,22 @@ trojan://humanity@104.16.174.72:443?path=%2Fassignment&security=tls&sni=www.igni
 trojan://humanity@188.114.97.7:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9187
 trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9188
 trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9189
-trojan://poimnap@alireza.karamoz1.ir:443?security=tls&sni=alireza.karamoz1.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4898%20%7C%2072%20MB/s%20%F0%9F%94%A5
-trojan://zi-xIc935WTzUG-g@cmdfghrety-production.up.railway.app:443?path=%2Fapi%2Fg7iw3m&security=tls&alpn=http%2F1.1&insecure=0&host=cmdfghrety-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cmdfghrety-production.up.railway.app#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4896%20%7C%2086%20MB/s%20%F0%9F%94%A5
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl8093.shopingggg.ir:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%A8%F0%9F%87%B1-20%20%7C%201.9%20MB/s%20%F0%9F%94%A5
-trojan://aMCxtXTmAmEK1ynx@mdsfrthdfrkl-production.up.railway.app:443?path=%2Fapi%2FrFjt1S&security=tls&alpn=http%2F1.1&insecure=0&host=mdsfrthdfrkl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mdsfrthdfrkl-production.up.railway.app#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4887%20%7C%2071.4%20MB/s%20%F0%9F%94%A5
-trojan://how46st890eft7v3@[2607:9d00:2000:29c::9051:bd97]:2097?security=reality&sni=www.google.com&type=tcp&fp=chrome&pbk=Aw1hIYzZhMG-slfYzdyjmiz6WJdUdwF5OHpu1hZysQE&sid=39ac7816f4206e#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%BA%F0%9F%87%B8-5440%20%7C%203%20MB/s%20%F0%9F%94%A5
-trojan://gdFUznuOxJNorEKs@bncdsferna-production.up.railway.app:443?path=%2Fapi%2F6BzLhx&security=tls&alpn=http%2F1.1&insecure=0&host=bncdsferna-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=bncdsferna-production.up.railway.app#%F0%9F%95%9211/18%2001%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4884%20%7C%20106%20MB/s%20%F0%9F%94%A5
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&fp=chrome&type=tcp&headerType=none#%F0%9F%95%9211/18%2001%3A00%20%7C%20
-trojan://gpbgrXRVqmGnc83U@dklietestyui-production.up.railway.app:443?security=tls&sni=dklietestyui-production.up.railway.app&alpn=http%2F1.1&fp=chrome&type=ws&host=dklietestyui-production.up.railway.app&path=%2Fapi%2FZ5B2YW#%F0%9F%95%9211/18%2001%3A00%20%7C%20
-trojan://MiTiVPN@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%95%9211/18%2001%3A00%20%7C%20canfingV2rayNG-49
+trojan://3UL92gIM3S@104.16.1.101:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7402%20%7C%2052.1%20MB/s%20%F0%9F%94%A5
+trojan://3UL92gIM3S@104.16.1.100:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7400%20%7C%2063.1%20MB/s%20%F0%9F%94%A5
+trojan://3UL92gIM3S@104.16.1.1:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7399%20%7C%2068.1%20MB/s%20%F0%9F%94%A5
+trojan://3UL92gIM3S@104.16.0.100:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7398%20%7C%2085.4%20MB/s%20%F0%9F%94%A5
+trojan://3UL92gIM3S@104.16.0.2:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7397%20%7C%2050.5%20MB/s%20%F0%9F%94%A5
+trojan://3UL92gIM3S@104.16.0.1:443?type=ws&path=%2Fupload&host=amircdn.gholam69.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=amircdn.gholam69.ir#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-7396%20%7C%2078.6%20MB/s%20%F0%9F%94%A5
+trojan://poimnap@alireza.karamoz1.ir:443?security=tls&sni=alireza.karamoz1.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4898%20%7C%2072%20MB/s%20%F0%9F%94%A5
+trojan://zi-xIc935WTzUG-g@cmdfghrety-production.up.railway.app:443?path=%2Fapi%2Fg7iw3m&security=tls&alpn=http%2F1.1&insecure=0&host=cmdfghrety-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cmdfghrety-production.up.railway.app#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4896%20%7C%2086%20MB/s%20%F0%9F%94%A5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl8093.shopingggg.ir:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%A8%F0%9F%87%B1-20%20%7C%201.9%20MB/s%20%F0%9F%94%A5
+trojan://aMCxtXTmAmEK1ynx@mdsfrthdfrkl-production.up.railway.app:443?path=%2Fapi%2FrFjt1S&security=tls&alpn=http%2F1.1&insecure=0&host=mdsfrthdfrkl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mdsfrthdfrkl-production.up.railway.app#%F0%9F%95%9211/18%2001%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-4887%20%7C%2071.4%20MB/s%20%F0%9F%94%A5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&fp=chrome&type=tcp&headerType=none#%F0%9F%95%9211/18%2001%3A30%20%7C%20
+trojan://gpbgrXRVqmGnc83U@dklietestyui-production.up.railway.app:443?security=tls&sni=dklietestyui-production.up.railway.app&alpn=http%2F1.1&fp=chrome&type=ws&host=dklietestyui-production.up.railway.app&path=%2Fapi%2FZ5B2YW#%F0%9F%95%9211/18%2001%3A30%20%7C%20
+trojan://MiTiVPN@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%95%9211/18%2001%3A30%20%7C%20canfingV2rayNG-49
 trojan://12012@47.242.93.89:12012?allowInsecure=1&sni=ali-hk.b-gfw.cfd#[openproxylist.com] trojan-HK
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com#[openproxylist.com] trojan-NG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#[openproxylist.com] trojan-KR
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#[openproxylist.com] trojan-AE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#[openproxylist.com] trojan-SG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#[openproxylist.com] trojan-CA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?sni=courses.iloverussia2026.com#[openproxylist.com] trojan-DE
