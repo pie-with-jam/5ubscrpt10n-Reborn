@@ -909,9 +909,9 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#%F0%9F%87%A8%F0
 vmess://eyJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTgzLjIzNi41MS4yMyIsImFpZCI6NjQsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBvcnQiOjUyMTEyLCJ0bHMiOiIifQ==
 vmess://eyJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+Ht/Cfh7pfUlVf5L+E572X5pavXzIiLCJhZGQiOiJjbTEuYXdzbGNuLmluZm8iLCJhaWQiOjAsImlkIjoiMjQzZWFiNTItOWFjMS00MDVjLTg4N2MtZWIxMTJjMDk4NWI4IiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwicG9ydCI6MjUyMzAsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6ImNtMS5hd3NsY24uaW5mbyIsInNuaSI6ImNtMS5hd3NsY24uaW5mbyJ9
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1#Relay_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_183
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.129.12
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.8
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.4
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.20
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.7
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.2
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.4.4.1:4#CN  | @Raydikalx | 87F74C
 ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@beibei.200913.xyz:11074#CN  | @Raydikalx | 8EED99
 ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@d-ali.200913.xyz:11060#CN  | @Raydikalx | C06F85

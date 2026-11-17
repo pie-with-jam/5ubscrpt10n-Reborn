@@ -2442,6 +2442,7 @@ vless://38bad45a-9611-4803-95a1-00c3c875606c@189.74.116.26:443?type=tcp&flow=xtl
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@104.171.133.213:443?sni=mirror-75.topp-con.xyz&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#RU-@VPNine1
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@177.1.183.105:443?flow=xtls-rprx-vision&security=reality&sni=ru-pl1.fluxnode777.ru&fp=chrome&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw#RU-@VPNine1
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none# RU | 45.67.32.147
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?mode=gun&security=reality&encryption=none&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&fp=firefox&type=grpc&sni=emberworks.cloud&sid=ea322b8b5b015812# RU | 185.86.145.78
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com# RU | 95.129.234.113
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#RU  | @Raydikalx | B5BE9D
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808#RU  | @Raydikalx | 14DA01
