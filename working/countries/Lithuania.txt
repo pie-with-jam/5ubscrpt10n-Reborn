@@ -491,11 +491,9 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg@195.238.126.20:9068#LT  | @Raydikalx | 72F068
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@195.238.126.20:9001#LT  | @Raydikalx | C1197D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#LT  | @Raydikalx | CB9299
 trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LT  | @Raydikalx | 658201
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@88.216.189.20:8443?mode=gun&security=reality&encryption=none&authority=/?Telegram#LT  | @Raydikalx | 00479F
 vless://0ed9418b-e687-4c2d-8869-7e368c44887e@88.216.189.20:8443?encryption=none&fp=&pbk=9OYY5pqE32-AqAkHK9Pv2TNoaAFwFFRMJKT4_ccSil4&security=reality&serviceName=grpc&sid=08&sni=thelocal.se&type=grpc#LT  | @Raydikalx | F7DB5C
 vless://0ed9418b-e687-4c2d-8869-7e368c44887e@sweden.dance-tonic.rutube.info:8443?security=reality&sni=thelocal.se&type=grpc&fp=chrome&serviceName=grpc&pbk=9OYY5pqE32-AqAkHK9Pv2TNoaAFwFFRMJKT4_ccSil4&sid=08#LT  | @Raydikalx | BDE8D7
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app26.betust.net&fp=chrome&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&type=tcp&headerType=none#LT  | @Raydikalx | E9063C
