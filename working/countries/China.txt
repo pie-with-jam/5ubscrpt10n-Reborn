@@ -426,6 +426,7 @@ vmess://eyJhZGQiOiIxMTEuNDUuMjIuMTM5IiwidiI6MiwicHMiOiLwn4eo8J+Hs19DTl/kuK3lm70t
 vmess://eyJhZGQiOiIxMTEuNDUuMjIuMTM5IiwidiI6MiwicHMiOiLwn4eo8J+Hs19DTl/kuK3lm70tPvCfh7Hwn4e6X0xVX+WNouajruWgoSIsInBvcnQiOjkwNDIsImlkIjoiMzM0Njg3MmUtMzEwNC0zYzViLThmNmYtNGI4MDkzMDlmYThkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJ1czIuZ3VvbGljaGVuZy5jeW91IiwidGxzIjoiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ05fMjBfQFN1cmZib2FyZHYycmF5IiwgImFkZCI6ICIxODMuMjQwLjIzNS4xNjQiLCAicG9ydCI6ICI1NTkwOCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ05fMjFfQFN1cmZib2FyZHYycmF5IiwgImFkZCI6ICIxODMuMjQwLjIzNS4xNzAiLCAicG9ydCI6ICIzNDYwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@d-ali.200913.xyz:11071#CN-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNWEwYThkOS1hYjJjLTQwN2YtODlhNC1iZjAyN2QyMTYxODQ=@183.240.222.15:870#%F0%9F%87%A8%F0%9F%87%B3%20China%20072
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002#%F0%9F%87%A8%F0%9F%87%B3%20China%20065
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24003#%F0%9F%87%A8%F0%9F%87%B3%20China%20027
@@ -913,8 +914,7 @@ vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=non
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.7
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.2
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.4.4.1:4#CN  | @Raydikalx | 87F74C
-ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@beibei.200913.xyz:11074#CN  | @Raydikalx | 8EED99
-ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@d-ali.200913.xyz:11060#CN  | @Raydikalx | C06F85
+ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@d-ali.200913.xyz:11071#CN  | @Raydikalx | CB0F8A
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182#CN  | @Raydikalx | 717279
 trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 3A2284
 trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp#CN  | @Raydikalx | 2B53CC
@@ -951,7 +951,6 @@ trojan://3493ff930d879b214732f71d449538d6@ja304.magiclampcloud.cn:59443?allowIns
 trojan://3520ebcc604f430b1abb25129b92ad03@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 94CCB6
 trojan://396b684da7e944a8f439669e24e8afed@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 27D097
 trojan://3a18d2d9d4caa3b86b241bbd37c90a40@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#CN  | @Raydikalx | 81979C
-trojan://3b985d60-e252-4935-8e03-06afeb1144c9@112.49.65.212:18000?sni=www.biliimg.com&allowInsecure=1#CN  | @Raydikalx | 798072
 trojan://3cd6031c7173d0584ebbaae1a17d4b60@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 0E977E
 trojan://3e3a24469a836233ed552b320c50b4d7@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#CN  | @Raydikalx | 6E6436
 trojan://433eeaa26c6cfb611ac76aa154368ed1@ja262.magiclampcloud.cn:59443?sni=ja262.magiclampcloud.cn&type=tcp#CN  | @Raydikalx | 06C388

@@ -90,6 +90,7 @@ vmess://eyJhZGQiOiAiMTAzLjgyLjI1LjEwNiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAi
 vmess://eyJhZGQiOiAiMTAzLjk4LjE1MS4xNDQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjdmZDc3Y2VlLTI4MmYtNGY1OS04ZTc4LTI3MTQ2NzI1YmE4OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIvCfh7vwn4ezIFZpZXRuYW0gMzMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vmess://eyJhZGQiOiAiMTYxLjI0OC4zMC4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxMDA2YTkyOC0yMDIxLTRhM2ItYmViNS1kNTg1M2M2MjgxYzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwMDg2IiwgInBzIjogIvCfh7vwn4ezIFZpZXRuYW0gMzYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiNDIuOTYuMy4xOTMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImVlNzZjZWNmLTEyMTktNDJiZS1hZTNmLTZiODA3N2U0Y2FjYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIvCfh7vwn4ezIFZpZXRuYW0gMzAiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C148KB%2Fs%7CP002-260618
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?allowInsecure=1#%f0%9f%87%bb%f0%9f%87%b3VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443?allowInsecure=1#VN%e8%b6%8a%e5%8d%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)_2
@@ -107,7 +108,9 @@ trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#VN  | @Raydikalx | 6B3976
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#VN  | @Raydikalx | F1C381
 trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN  | @Raydikalx | 663774
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@Kir3.crackerbinam.org:56026?sni=www.cloudflare.com&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&type=tcp&spx=/&fp=chrome&sid=99676967e6867063&security=reality&encryption=none&headerType=none#VN  | @Raydikalx | A2E7FF
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
+vless://f592a058-bfb6-447e-b849-fd169b65b301@kir4.crackerbinam.org:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&host=technolife.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN  | @Raydikalx | 33B818
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#VN  | @Raydikalx | DE68F9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
