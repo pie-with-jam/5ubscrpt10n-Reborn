@@ -194,13 +194,6 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&s
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&sni=60.248.219.78#TW_3632_@Surfboardv2ray
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#TW_3633_@Surfboardv2ray
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#TW_4283_@Surfboardv2ray
-vmess://eyJ2IjoiMiIsInBzIjoiVFciLCJhZGQiOiIxMDMuMTYwLjE4MC4yNiIsInBvcnQiOiIyMjIyMiIsImlkIjoiYTUyMDZhNTUtZDViZC00MWI5LTkyYTUtYmQyN2E5MDM1NWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVFcifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVFcyIiwiYWRkIjoiNjU0MTY4NDE2MzU1NDQxLmQ2ZjU0aGQxai5jYyIsInBvcnQiOiI0NDMiLCJpZCI6ImVjZGMzMDNkLWJjYmYtNDEyOS1iYzAyLWRkNjc3MDNmNzA4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjY1NDE2ODQxNjM1NTQ0MS5kNmY1NGhkMWouY2MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjY1NDE2ODQxNjM1NTQ0MS5kNmY1NGhkMWouY2MiLCJ0ZXN0X25hbWUiOiJUVzIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVFczIiwiYWRkIjoiMjQ4NjQxNjg1NDUxNjQub3lsZm14ei5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjI0ODY0MTY4NTQ1MTY0Lm95bGZteHouY24iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjI0ODY0MTY4NTQ1MTY0Lm95bGZteHouY24iLCJ0ZXN0X25hbWUiOiJUVzMifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVFc0IiwiYWRkIjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJwb3J0IjoiNTIzMDAiLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZpZGVvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVFc0In0=
-vmess://eyJ2IjoiMiIsInBzIjoiVFc1IiwiYWRkIjoiZnVqcmR0LmQ2ZjU0aGQxai5jYyIsInBvcnQiOiI0NDMiLCJpZCI6ImQ4NzdkYzZmLTczMjMtNGI0Ny1hN2RkLTE0MjI4Y2JhZTg1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImZ1anJkdC5kNmY1NGhkMWouY2MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImZ1anJkdC5kNmY1NGhkMWouY2MiLCJ0ZXN0X25hbWUiOiJUVzUifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVFc2IiwiYWRkIjoibWRrLm1kbWVramxsLmJlc3QiLCJwb3J0IjoiODAiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtZGsubWRtZWtqbGwuYmVzdCIsInBhdGgiOiIvZ2FtZS9yZXNvdXJjZXMiLCJ0bHMiOiIiLCJzbmkiOiJtZGsubWRtZWtqbGwuYmVzdCIsInRlc3RfbmFtZSI6IlRXNiJ9
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tw1.gofizzin.com&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&sid=2c14765d0b&fp=chrome&spx=/b4fcc6d25bda84e#TW-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW_36%7C160KB%2Fs%7CA003-260618%2001
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20023
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20024
@@ -359,7 +352,13 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7wgVGFpd2FuIDE5NSIsICJhZGQiOiAiaGkubm9y
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7wgVGFpd2FuIDE5NiIsICJhZGQiOiAiaGkubm9ydGhjbHVzdGVyLmluZm8iLCAicG9ydCI6ICI1MjMwMCIsICJpZCI6ICI2ZTU3MTQ4NC00MTY2LTQ2OTktOGY1OC1iMzRhMTgyMzY5MWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJwYXRoIjogIi92aWRlbyIsICJ0bHMiOiAiIiwgImhvc3QiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7wgVGFpd2FuIDE5NyIsICJhZGQiOiAiOTY0MTY4NC5zZGY2NWg0LnRvcCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogIjk2NDE2ODQuc2RmNjVoNC50b3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiOTY0MTY4NC5zZGY2NWg0LnRvcCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7xfVFdf5Lit5Zu95Y+w5rm+IiwiYWRkIjoiNjU0MTY4NDE2MzU1NDQxLm95bGZteHouY24iLCJwb3J0IjoiNDQzIiwiaWQiOiJkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVFc0IiwiYWRkIjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJwb3J0IjoiNTIzMDAiLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZpZGVvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVFc0In0=
+vmess://eyJ2IjoiMiIsInBzIjoiVFc1IiwiYWRkIjoiZnVqcmR0LmQ2ZjU0aGQxai5jYyIsInBvcnQiOiI0NDMiLCJpZCI6ImQ4NzdkYzZmLTczMjMtNGI0Ny1hN2RkLTE0MjI4Y2JhZTg1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImZ1anJkdC5kNmY1NGhkMWouY2MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImZ1anJkdC5kNmY1NGhkMWouY2MiLCJ0ZXN0X25hbWUiOiJUVzUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVFc2IiwiYWRkIjoibWRrLm1kbWVramxsLmJlc3QiLCJwb3J0IjoiODAiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtZGsubWRtZWtqbGwuYmVzdCIsInBhdGgiOiIvZ2FtZS9yZXNvdXJjZXMiLCJ0bHMiOiIiLCJzbmkiOiJtZGsubWRtZWtqbGwuYmVzdCIsInRlc3RfbmFtZSI6IlRXNiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFcgdm1lc3MtMTgyNzE1ODA5MyIsImFkZCI6ImRvZy10dy5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAzNywiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVFciLCJhZGQiOiIxMDMuMTYwLjE4MC4yNiIsInBvcnQiOiIyMjIyMiIsImlkIjoiYTUyMDZhNTUtZDViZC00MWI5LTkyYTUtYmQyN2E5MDM1NWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVFcifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVFcyIiwiYWRkIjoiNjU0MTY4NDE2MzU1NDQxLmQ2ZjU0aGQxai5jYyIsInBvcnQiOiI0NDMiLCJpZCI6ImVjZGMzMDNkLWJjYmYtNDEyOS1iYzAyLWRkNjc3MDNmNzA4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjY1NDE2ODQxNjM1NTQ0MS5kNmY1NGhkMWouY2MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjY1NDE2ODQxNjM1NTQ0MS5kNmY1NGhkMWouY2MiLCJ0ZXN0X25hbWUiOiJUVzIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVFczIiwiYWRkIjoiMjQ4NjQxNjg1NDUxNjQub3lsZm14ei5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjI0ODY0MTY4NTQ1MTY0Lm95bGZteHouY24iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjI0ODY0MTY4NTQ1MTY0Lm95bGZteHouY24iLCJ0ZXN0X25hbWUiOiJUVzMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjVFctMTA0LjI5LjY0LjMwLTE3NDMiLCJhZGQiOiIxMDQuMjkuNjQuMzAiLCJwb3J0Ijo0NDMsImlkIjoiYTJjNWJhNjgtZTg2YS00OTU5LWI3ZjMtOGY4ODAxZDYzNzBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkZTEua3VhaW5pYW8uYnV6eiIsInBhdGgiOiIva3VhaW5pYW8vZGUxIiwidGxzIjoiIiwic25pIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjVFctMjExLjcyLjM1LjExMC01Mjk4IiwiYWRkIjoiMjExLjcyLjM1LjExMCIsInBvcnQiOjQ0MywiaWQiOiI1NDFjYTAyNi01OGQzLTQ4ZjEtZDZlZi0zYTA1NTQzZGRjYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InJ1LnR6Y2NpZnEuZ2EiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjX1RXX1x1NGUyZFx1NTZmZFx1NTNmMFx1NmU3ZSIsImFkZCI6IjY1NDE2ODQxNjM1NTQ0MS5veWxmbXh6LmNuIiwicG9ydCI6NDQzLCJpZCI6ImQ5MGU0MDc3LWJjN2UtNDE0ZC1hNjUwLTcwYmYxYmFhZTRkNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
@@ -398,8 +397,7 @@ vmess://eyJhZGQiOiAiOTY0MTY4NC5zZGY2NWg0LnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAi
 vmess://eyJhZGQiOiAibWRrLm1kbWVramxsLmJlc3QiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWRrLm1kbWVramxsLmJlc3QiLCAiaWQiOiAiNkU1NzE0ODQtNDE2Ni00Njk5LThGNTgtQjM0QTE4MjM2OTFGIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9nYW1lL3Jlc291cmNlcyIsICJwb3J0IjogIjgwIiwgInBzIjogIvCfh7nwn4e8IFRhaXdhbiAyMDAiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1kay5tZG1la2psbC5iZXN0IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAidHc0LjU5NDg4OC54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAidHc0LjU5NDg4OC54eXoiLCAiaWQiOiAiZGQ3NjM5Y2YtNjZkZC0zMDM4LWFiMGUtY2VmZTdlOWVmOWZiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92MnJheSIsICJwb3J0IjogMTE0NjMsICJwcyI6ICLwn4e58J+HvCBUYWl3YW4gMTcwIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vmess://eyJhZGQiOiAidHctMS5xd3Fqc3EudG9wIiwgImFpZCI6IDAsICJob3N0IjogInR3LTEucXdxanNxLnRvcCIsICJpZCI6ICJiMDU0M2EzYi1kNjkwLTNlZDktOWE4MS1mMjRmODUyZTc0ZjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAi8J+HufCfh7wgVGFpd2FuIDE2NSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&sid=fd2fa5e06670120b&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&encryption=none#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C390KB%2Fs%7CF003-260618
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=tw1.gofizzin.com&fp=firefox&flow=xtls-rprx-vision&sid=2c14765d0b&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&encryption=none#%F0%9F%87%B9%F0%9F%87%BCTW_3%7C262KB%2Fs%7CM003-260806
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BCTW_8%7C177KB%2Fs%7CR002-260618
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+55
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.22.240.107:30686?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+41
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.75.74.232:4443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+15
@@ -411,6 +409,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBlYXNvZnQtOSwxMywxNXzwn4e58J+HvF9UV1/l
 trojan://d66013c645b93c5c@211.72.35.158:3389?allowInsecure=1#TW_AzadNet
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?allowInsecure=1#TW_AzadNet%281%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#TW  | @Raydikalx | 882AEA
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 1F4D8A
+trojan://23bd63cd-67a9-4f5e-8522-8433598a3167@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#TW  | @Raydikalx | 37FEAA
+trojan://2bd32a2b-713a-4060-8ec1-b2fecf6f159e@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 07E850
+trojan://518e8d1a-9a9d-4aed-99ba-4503f171d54a@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 2CDC67
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@60.250.152.234:8443?sni=66.42.40.132&fp=chrome&alpn=http%2F1.1&type=tcp#TW  | @Raydikalx | 9483A7
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=66.42.40.132#TW  | @Raydikalx | 08727D
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@101.3.47.51:443?type=tcp&security=tls#TW  | @Raydikalx | 735D9F
@@ -422,7 +424,6 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&secu
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.234:3462?sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1&type=tcp#TW  | @Raydikalx | 192C1B
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.80.130:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | A6889B
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.80.31:3462?security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#TW  | @Raydikalx | BB3495
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a01.taipeicitygovernment.biz.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 5C9DAF
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a02.taipeicitygovernment.chernovtsy.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 2282BC
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#TW  | @Raydikalx | 4DEAEF
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a04.taipeicitygovernment.com.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 42A187
@@ -431,13 +432,16 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a06.taipeicitygovernment.dp.ua:346
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a07.taipeicitygovernment.if.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 4E46C8
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a08.taipeicitygovernment.ivano-frankivsk.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 7B8228
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a09.taipeicitygovernment.kiev.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 5F55FB
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#TW  | @Raydikalx | 5D48C5
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a11.taipeicitygovernment.net.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 916734
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a12.taipeicitygovernment.org.ua:3462?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 71E93B
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | DCDBA5
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo02a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 86BB5F
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443/?type=tcp&security=tls#TW  | @Raydikalx | 4B16E8
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo04a.kbservice.club:443?sni=45.32.28.232&type=tcp#TW  | @Raydikalx | 302166
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#TW  | @Raydikalx | 3D54F3
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a12.taipeicitygovernment.org.ua:3462?security=tls#TW  | @Raydikalx | 8BB644
+trojan://9006342b-be5d-4328-94a3-e54e4622d4d6@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#TW  | @Raydikalx | AA49C2
+trojan://961bb2dd-88e4-475e-bcb0-231e4a8db06c@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 143D9B
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.128.151:8443?sni=official.taipeicitygovernment.net.ua&allowInsecure=1&type=tcp#TW  | @Raydikalx | 04244E
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.135.193:8443?sni=official.taipeicitygovernment.net.ua&allowInsecure=1&type=tcp#TW  | @Raydikalx | 182F0E
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.229:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1#TW  | @Raydikalx | AD48DC
@@ -454,11 +458,17 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.u
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#TW  | @Raydikalx | C20D8C
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#TW  | @Raydikalx | 6A16D6
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#TW  | @Raydikalx | 17BB63
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#TW  | @Raydikalx | 9E21EB
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#TW  | @Raydikalx | 63F193
 trojan://96983eb4-cr8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#TW  | @Raydikalx | 40D25E
+trojan://99c7049b-1015-44d2-8fbf-c69acbabdf0d@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 6C6DB5
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#TW  | @Raydikalx | 542CFD
+trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#TW  | @Raydikalx | 184D73
+trojan://a8ebb1cc05be4fcd@uwt125.zxom.eu.org:20027?encryption=chacha20#TW  | @Raydikalx | 09F7D0
 trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@tw2.microsoft-orgwly.vip:443?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip&fp=chrome&alpn=http%2F1.1#TW  | @Raydikalx | E1C4D2
+trojan://b7795ce8-3863-4292-adfc-9c0a7b847774@t2w2t2w2.bpca2026.top:443?allowInsecure=1&sni=t2w2t2w2.bpca2026.top#TW  | @Raydikalx | 9A2233
+trojan://d310f62c-6d12-4354-a2a4-460c0994ece7@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#TW  | @Raydikalx | 85D945
+trojan://e658399b-fa8a-45e6-b87b-827349bf9aef@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#TW  | @Raydikalx | 02FDCD
+trojan://f25d1510-3763-4fcf-9804-86d6c1566629@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#TW  | @Raydikalx | C81747
 trojan://i99Cef@211.20.156.191:28118?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | D94D0E
 trojan://i99Cef@211.20.156.191:28119?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 044017
 trojan://i99Cef@211.20.156.191:28120?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 526874
@@ -470,26 +480,16 @@ trojan://i99Cef@211.20.156.191:28125?sni=ctldl.windowsupdate.com&type=tcp#TW  | 
 trojan://i99Cef@211.20.156.191:28126?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 82C7D9
 trojan://i99Cef@211.20.156.191:28133?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | EFCF30
 trojan://i99Cef@211.20.156.191:28138?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 93181F
-trojan://i99Cef@211.20.156.191:28144?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | A7FB55
-trojan://i99Cef@211.20.156.191:28145?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 7059E2
 trojan://i99Cef@211.20.156.191:28147?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 553D29
 trojan://i99Cef@211.20.156.191:28150?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 8A94A9
-trojan://i99Cef@211.20.156.191:28153?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 48051E
+trojan://i99Cef@211.20.156.191:28152?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 09872E
 trojan://i99Cef@211.20.156.191:28154?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 9CA1A9
 trojan://i99Cef@211.20.156.191:28155?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 5CCEEF
 trojan://i99Cef@211.20.156.191:28156?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 1C78DC
 trojan://i99Cef@211.20.156.191:28157?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 4D87CD
 trojan://i99Cef@211.20.156.191:28158?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 833C94
 trojan://i99Cef@211.20.156.191:28159?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | 6BFF7E
-trojan://i99Cef@211.20.156.191:28160?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | A4D36B
 trojan://i99Cef@211.20.156.191:28161?sni=download.windowsupdate.com&type=tcp#TW  | @Raydikalx | CF13E4
-trojan://i99Cef@211.20.156.191:28162?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | F98B66
-trojan://i99Cef@211.20.156.191:28163?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | FC36C7
-trojan://i99Cef@211.20.156.191:28164?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 56B6E6
-trojan://i99Cef@211.20.156.191:28165?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | EBF0A9
-trojan://i99Cef@211.20.156.191:28166?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 885700
-trojan://i99Cef@211.20.156.191:28167?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | 310A32
-trojan://i99Cef@211.20.156.191:28169?sni=ctldl.windowsupdate.com&type=tcp#TW  | @Raydikalx | EE9ACF
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#TW  | @Raydikalx | E30390
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tw1.gofizzin.com&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&sid=2c14765d0b&fp=chrome&spx=/b4fcc6d25bda84e#TW  | @Raydikalx | 367609
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?security=reality&encryption=none&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&host=tw1.gofizzin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tw1.gofizzin.com&sid=2c14765d0b#TW  | @Raydikalx | E82887
@@ -508,11 +508,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVT
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-2308
 trojan://182228812d1e0f23@60.249.3.229:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.229-2565
 trojan://3febb05ea76a940f@60.249.3.125:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2329
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BCTW_34%7C430KB%2Fs%7CR002-260618%20%5Bbb0c88a696c0%5D
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#%F0%9F%87%B9%F0%9F%87%BCTW_4%7C248KB%2Fs%7CM003-260806%20%5B5f30fa2fb25a%5D
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&type=tcp&packetEncoding=none&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#%F0%9F%87%B9%F0%9F%87%BCTW_28%7C215KB%2Fs%7CR002-260618%20%5B978fc9f66d88%5D
 ss://2022-blake3-aes-128-gcm:b7I6g7l7fJhBaMInJ%2Bzkzw%3D%3D@amasoid.ddns.net:14514#%F0%9F%87%B9%F0%9F%87%BCTW_27%7C603KB%2Fs%7CB007-260618%20%5B9989ba89a166%5D
 ss://2022-blake3-aes-128-gcm:b7I6g7l7fJhBaMInJ%2Bzkzw%3D%3D@35.236.180.222:14514#%F0%9F%87%B9%F0%9F%87%BCTW_29%7C399KB%2Fs%7CM003-260806%20%5Bf7b36c60b6bd%5D
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#%F0%9F%87%B9%F0%9F%87%BCTW_34%7C430KB%2Fs%7CR002-260618%20%5Bbb0c88a696c0%5D
 vless://69693208-38c1-4e15-8f93-36ac80d69840@61.221.84.106:10000?security=none&allowInsecure=1&flow=&type=tcp&fp=&pbk=&sid=&sni=&serviceName=&path=&host=#[17378][TW][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[10966][TW][0][VLESS][None][v2ray1_ng][2026-08-07][2026-08-16 00:34]
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@103.137.22.71:8443?&security=tls&fp=chrome&sni=s5gydl.936.us.ci&type=ws&headerType=none&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4#[42919][TW][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -1474,4 +1474,3 @@ vmess://ewogICAgImFkZCI6ICIxNjUuMTU0LjI0Ni43MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxMDQuMjkuNjQuMzYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJkZTEua3VhaW5pYW8uYnV6eiIsCiAgICAiaWQiOiAiYTJjNWJhNjgtZTg2YS00OTU5LWI3ZjMtOGY4ODAxZDYzNzBlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2t1YWluaWFvL2RlMSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e58J+HvFRXLTEwNC4yOS42NC4zNi0xNzQ0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIyMjAuMTMwLjgwLjE3OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInd4LmFkYnNlLnh5eiIsCiAgICAiaWQiOiAiNzAyMDY0OTAtODI5Mi00MjQyLWIyNjMtZTdkMTE1ODkzNjJlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Rvd24iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HufCfh7xUVy0yMjAuMTMwLjgwLjE3OS0wMDE3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIyMTEuNzIuMzUuMTEwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicnUudHpjY2lmcS5nYSIsCiAgICAiaWQiOiAiNTQxY2EwMjYtNThkMy00OGYxLWQ2ZWYtM2EwNTU0M2RkY2I3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e58J+HvFRXLTIxMS43Mi4zNS4xMTAtNTI5OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#%F0%9F%87%A8%F0%9F%87%B3%20%5Bwww.v2nodes.com%5D%20vless-TW-1...
