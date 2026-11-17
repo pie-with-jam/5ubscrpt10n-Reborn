@@ -186,6 +186,7 @@ trojan://af4dc66a-ec88-4057-9e46-777b584577f7@kz.mjt001.com:443?allowInsecure=1#
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231?type=tcp#KZ  | @Raydikalx | 19AFE4
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=0#KZ  | @Raydikalx | 670BC0
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?&security=tls&fp=chrome&sni=3h-kazakhstan1.09vpn.com&type=ws&headerType=none&host=3h-kazakhstan1.09vpn.com&path=%2Fvless%2F#KZ  | @Raydikalx | 4A1162
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=%2Fvless%2F&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#KZ  | @Raydikalx | 5C687E
 vless://50414e45-4c5f-5a45-5553-8b680ff0aff9@31.43.179.111:2087?path=/stream/PANEL_ZEUS/8b680ff0aff9&security=tls&host=l5zgnlesutjs.foxvpn551144.workers.dev&type=ws&sni=l5zgnlesutjs.foxvpn551144.workers.dev#KZ  | @Raydikalx | 963712
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#KZ  | @Raydikalx | B03315
 vless://7e8eea89-16dd-4a6d-ad9b-192e23c59ffb@85.202.192.131:36746?security=reality&encryption=none&pbk=a7pyyCqFCfWKtsr-Umm5g_Ii5XzhFznIrOtg_U3V2RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=splitter.wb.ru&sid=f1eb436223e1a36a#KZ  | @Raydikalx | C78B14
