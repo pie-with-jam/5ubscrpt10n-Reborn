@@ -23,8 +23,8 @@ vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&headertype=none#[7738][GR][0][VLESS][None][DeamNet_Proxy][2026-11-14][2026-11-16 03:31]
 vless://7b175aaa-550a-4048-9437-c59919643cbf@31.22.116.216:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=iylgylvgnvcmhfhmv.mic-mokhaderat-shatel-irancel-digikala.shop#[6728][GR][0][VLESS][None][v2ray_outlineir][2023-11-30][2026-11-16 03:31]
 trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#[1426][GR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
-trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-0990
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4140
+trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-0992
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4147
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-GR-1...
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#GR_2539_@Surfboardv2ray
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#GR_2540_@Surfboardv2ray

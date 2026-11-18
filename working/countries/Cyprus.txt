@@ -123,10 +123,10 @@ vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?secu
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#[1450][CY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#[899][CY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&security=none&sni=pqh25v1.vetdomok.shop&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A8%F0%9F%87%BE%20CY-45.82.251.114%3A8880
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-3403
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.237-3444
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5136
-vmess://ewogICAgImFkZCI6ICI0NS4xMi4xNDQuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4e+Q1ktNDUuMTIuMTQ0LjY4LTc0NDEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-3410
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.237-3451
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-5143
+vmess://ewogICAgImFkZCI6ICI0NS4xMi4xNDQuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4e+Q1ktNDUuMTIuMTQ0LjY4LTc0NTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#CY_578_@Surfboardv2ray
@@ -260,6 +260,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#CY  | @Raydikalx | 56484F
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=/media/e1c76c&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#CY  | @Raydikalx | 772702
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#CY  | @Raydikalx | 0FFE7B
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#CY  | @Raydikalx | 772702
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#CY  | @Raydikalx | 506E7A
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#CY  | @Raydikalx | 51D3FA
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#CY  | @Raydikalx | 45BA3A
