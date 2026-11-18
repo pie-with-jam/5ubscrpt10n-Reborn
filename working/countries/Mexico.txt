@@ -63,7 +63,6 @@ vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?&security
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@UL-Mexico1.09vpn.com:8443?type=ws&security=tls&sni=UL-Mexico1.09vpn.com&path=%2Fvless%2F#MX  | @Raydikalx | 53051F
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@131.196.252.66:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#MX  | @Raydikalx | E04EFF
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@131.196.252.97:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#MX  | @Raydikalx | 19F2B9
-vless://f1506bf6-7d4c-427f-b053-05e0f1b43a04@40.233.23.236:63245?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#MX  | @Raydikalx | CE704D
 vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDhEODI5RiIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#MX  | @Raydikalx | 055C21
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#MX  | @Raydikalx | 4A012F
@@ -72,6 +71,7 @@ ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#%F0%9F%87%B2%F0%9F
 trojan://5t6i121em5lkmsmk@149.104.87.125:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_5%7C606KB%2Fs%7CB007-260618%20%5B33044e4e81c1%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C723KB%2Fs%7CA004-260618%20%5B74dd1dc1fa69%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_4%7C724KB%2Fs%7CA004-260618%20%5B98d4823e828a%5D
+vless://f1506bf6-7d4c-427f-b053-05e0f1b43a04@40.233.23.236:63245?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=1f2519bb96e5589c&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU#%F0%9F%87%B2%F0%9F%87%BDMX_2%7C153KB%2Fs%7CM003-260806%20%5Bc2826ba7126a%5D
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#%F0%9F%87%B2%F0%9F%87%BDMX_3%7C971KB%2Fs%7CA001-260618%20%5B0ea9babb9c3e%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_4%7C729KB%2Fs%7CA004-260618%20%5B74dd1dc1fa69%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BDMX_5%7C707KB%2Fs%7CA004-260618%20%5B98d4823e828a%5D
