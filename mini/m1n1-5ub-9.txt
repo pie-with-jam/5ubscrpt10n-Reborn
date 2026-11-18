@@ -1,3 +1,7 @@
+vless://67b2803e-3945-47ec-b1e6-bd4ef35cdd7c@de.cvpn.su:8443?mode=packet-up&path=/assets/api&security=reality&encryption=none&pbk=EKCbS2l8wfoCvrHFGEIyrp68jnywal-yyacg16bnrAg&type=xhttp&sni=www.github.com&sid=0f6bd4aa2e550464#@appsooner   
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.235:443?encryption=none&type=xhttp&security=tls&host=ovd13.global.ssl.fastly.net&mode=auto&extra={"noGRPCHeader":true,"xPaddingBytes":"100-1000","xmux":{"maxConnections":"16","cMaxReuseTimes":"0","hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&sni=accounts.fastly.com&fp=chrome#@vpnsal
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.88:443?encryption=none&security=tls&sni=accounts.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=ovd5.global.ssl.fastly.net&path=/&mode=auto#  @vistav2ray   
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?path=/&security=tls&encryption=none&host=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&type=ws&sni=d2ex4nxd2e01ub.cloudfront.net#@v2ray_phoenix
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?path=/&security=tls&encryption=none&insecure=0&host=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2ex4nxd2e01ub.cloudfront.net#@ICV2RAY
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?path=/&security=tls&encryption=none&insecure=0&host=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2ex4nxd2e01ub.cloudfront.net#@MIGMIGVPNSHOP
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.190:443?encryption=none&type=ws&security=tls&path=/&host=d2ex4nxd2e01ub.cloudfront.net&sni=d2ex4nxd2e01ub.cloudfront.net&fp=chrome#@vpnsal
@@ -9994,7 +9998,3 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?security=tls&s
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?sni=gh.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-C5EB5B87
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:41943?security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20172
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:41943?sni=az.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-48C48F6E
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:46424?security=tls&sni=de.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20159
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:46424?sni=de.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-A1DC06AA
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:47909?security=tls&sni=is.01.naiun.bilibili.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20209
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:47909?sni=is.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-80E47E28
