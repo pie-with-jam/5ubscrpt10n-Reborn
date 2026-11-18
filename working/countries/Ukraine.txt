@@ -48,14 +48,10 @@ trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7652
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@212.87.190.249:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0dAUffCns_r-xP3QP1V8qy2P29vBN5ROOoX96TxpvXA&sid=b545243c33282b73&sni=d4a338t.pl8.h1clayd.click#UA_743_@Surfboardv2ray
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#UA_851_@Surfboardv2ray
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.77.147.142:443?security=reality&encryption=none&pbk=brB3LMFQ5zmhXqRFyQltQQtXcWARKLrARn2JXolnriU&host=/?Telegram---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de7.angelsleep9.com&sid=b384e2e46d36d898#UA_3823_@Surfboardv2ray
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.77.147.142:443?security=reality&encryption=none&pbk=brB3LMFQ5zmhXqRFyQltQQtXcWARKLrARn2JXolnriU&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de7.angelsleep9.com&sid=b384e2e46d36d898#UA_3824_@Surfboardv2ray
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.77.147.142:443?security=reality&encryption=none&pbk=brB3LMFQ5zmhXqRFyQltQQtXcWARKLrARn2JXolnriU&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de7.angelsleep9.com&sid=b384e2e46d36d898#UA_3825_@Surfboardv2ray
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.77.147.142:443?security=reality&encryption=none&pbk=brB3LMFQ5zmhXqRFyQltQQtXcWARKLrARn2JXolnriU&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de7.angelsleep9.com&sid=b384e2e46d36d898#UA_3826_@Surfboardv2ray
-vless://df97ce68-477f-4484-94c7-79eccab7319d@31.77.147.142:443?security=reality&encryption=none&pbk=brB3LMFQ5zmhXqRFyQltQQtXcWARKLrARn2JXolnriU&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de7.angelsleep9.com&sid=b384e2e46d36d898#UA_3827_@Surfboardv2ray
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0080
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@212.87.190.249:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0dAUffCns_r-xP3QP1V8qy2P29vBN5ROOoX96TxpvXA&sid=b545243c33282b73&sni=d4a338t.pl8.h1clayd.click#UA_753_@Surfboardv2ray
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#UA_865_@Surfboardv2ray
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@leviko-it3146.shopingggg.ir:19999#UA-@VPNine1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-it7712.shopingggg.ir:19999#UA-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2002
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%A6UA_86
@@ -96,6 +92,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4emX1VBX+S5jOWFi+WFsC0+8J+HqfCf
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1189
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns24.m3hrzd.ir:8044#UA  | @Raydikalx | A0C3E0
 trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#UA  | @Raydikalx | E3194C
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#UA  | @Raydikalx | 9F1E12
