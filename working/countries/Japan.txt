@@ -1453,7 +1453,6 @@ ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP_35%7C360KB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP_37%7C636KB%2Fs%7CA004-260618%2001
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@35.72.179.15:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758# JP | 168.138.205.100
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#JP  | @Raydikalx | 1A14DC
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#JP  | @Raydikalx | 66A632
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP  | @Raydikalx | 554D18
@@ -1589,10 +1588,6 @@ vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?security=realit
 vless://ba3aa71a-cecb-45af-860a-7d785a953a24@127.0.0.1:40443?encryption=none&security=tls&sni=infinityservers.space&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#JP  | @Raydikalx | 46CA8F
 vless://bacbaca-caba-aacb-adbc-cbabccabacab@127.0.0.1:8080?security=tls&type=tcp#JP  | @Raydikalx | AB222F
 vless://cde73ad2-1a4f-4521-8c31-bd498cdacd73@soskeynets-k11-6kq4f2.jp.y-tun.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=auth.deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#JP  | @Raydikalx | 3BB186
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?host=%5B%27platform109.halalkhor.info%27%5D&path=%2Fplatform109&security=none&type=ws#JP  | @Raydikalx | A66418
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?host=platform109.halalkhor.info&path=%2Fplatform109&security=none&sni=platform109.golnamakcert.top&type=ws#JP  | @Raydikalx | F7F434
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&sni=platform109.halalkhor.info#JP  | @Raydikalx | 8262AB
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?path=%2Fplatform109&security=none&encryption=none&host=platform109.halalkhor.info&type=ws#JP  | @Raydikalx | C41256
 vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#JP  | @Raydikalx | 97AE6F
 vless://f67b1159-a61f-4ae4-9844-0701b716a290@155.248.175.201:23169?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=djj.zjlo.top#JP  | @Raydikalx | B8450B
 vless://f67b1159-a61f-4ae4-9844-0701b716a290@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=xudp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP  | @Raydikalx | 43DB6B
@@ -1614,15 +1609,14 @@ trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&sni=43.167.186.78&type=tcp#JP  | @Raydikalx | 217E0D
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&type=tcp#JP  | @Raydikalx | C4AF0E
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173&type=tcp#JP  | @Raydikalx | ECD4ED
+trojan://F3NzMNuYnG7akU2mSlBY@193.123.160.109:8443?sni=www.microsoft.com&allowInsecure=1&type=tcp#JP  | @Raydikalx | 7353B1
 vless://18ce1302-4e37-4eac-bd4f-e3e0a983e589@45.76.98.127:443?fp=chrome&path=%2Fws&pbk=LZR1ZQzdHDSdooxAImvxEjFIs-gebEP3zf0J6V3qVSI&security=reality&sid=49fa0dad&sni=itunes.apple.com&type=ws#JP  | @Raydikalx | 016210
 vless://18ce1302-4e37-4eac-bd4f-e3e0a983e589@45.76.98.127:443?fp=chrome&host=itunes.apple.com&path=%2Fws&pbk=LZR1ZQzdHDSdooxAImvxEjFIs-gebEP3zf0J6V3qVSI&security=reality&sid=49fa0dad&sni=itunes.apple.com&type=ws#JP  | @Raydikalx | E158C3
-vless://3eb053cb-d6f8-4b31-8180-222e1cc6f8ff@djj.zjlo.top:23169?security=tls&type=tcp&allowInsecure=1&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP  | @Raydikalx | A1D5B6
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 3C8099
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 8EB17B
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 645DE6
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.apple.com&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&type=tcp&headerType=none&host=www.apple.com&path=/#JP  | @Raydikalx | 4FD1F4
-vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#JP  | @Raydikalx | 9F5101
-vless://7318caa1-93d1-4a9d-c481-504599902700@djj.zjlo.top:23169?security=tls&type=tcp&allowInsecure=1&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP  | @Raydikalx | D2F30C
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#JP  | @Raydikalx | AA31A8
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&type=tcp&allowInsecure=1&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#JP  | @Raydikalx | 9F5101
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?fp=qq&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#JP  | @Raydikalx | 7A38C5
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | 02A024
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | A7EEB3
@@ -1635,10 +1629,10 @@ vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?alpn=http%2F1.
 vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=chrome&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP  | @Raydikalx | 4C5B39
 vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?alpn=http%252f1.1&flow=xtls-rprx-vision&fp=random&host=www.sony.com&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP  | @Raydikalx | C99F45
 vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=edge&host=www.sony.com&path=%2F&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP  | @Raydikalx | F749E0
-vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&allowInsecure=1&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP  | @Raydikalx | 271196
+vless://9da605d3-f5f7-4135-f806-450f036f9351@155.248.175.201:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#JP  | @Raydikalx | 5336A4
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#JP  | @Raydikalx | 271196
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&type=tcp#JP  | @Raydikalx | 227402
 vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?fp=chrome&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#JP  | @Raydikalx | CB0C73
-vless://f67b1159-a61f-4ae4-9844-0701b716a290@155.248.175.201:23169?security=tls&type=tcp&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#JP  | @Raydikalx | B8450B
 vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp5-r.link-t7.com:10035?security=reality&type=grpc&mode=gun&serviceName=update&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.0MB%2Fs
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C5.9MB%2Fs
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguNjA6ODg4Mg==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%ACss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTM0NzA1Ny03YWY1LTQ1NjItYjkxMi1mMWMyMTdjNGMxNjBAaG50LmNuZG5zLnNob3A6Mjc3NjY=#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6vmess://eyJhZGQiOiJwb3dlcnNlcnZpY2UuY29tIiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70tPvCfh6vwn4e3X0ZSX+azleWbvSIsInBvcnQiOjQ0MywiaWQiOiIwNzY0YTU5OC04MmM0LTRiNDEtYmExMC01NTFhNjI1YmVlZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3NzaG9jZWFuIiwiaG9zdCI6InVrMi52MnJheXNlcnYuY29tIn0=vmess://eyJhZGQiOiIxOTguNDEuMjAzLjQiLCJ2IjoyLCJwcyI6ImRlZmF1bHRfbmFtZSIsInBvcnQiOjQ0MywiaWQiOiJmY2ZhZWM5MS02MDk2LTQ0ZDgtOTU2Yy03ODY4ZDllODc0YjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJsZzEuY2ZjZG4xLnh5eiJ9------------------------------------------TG 1V2rayN win https://t.me/macwinappchat/242V2rayNG   https://t.me/macwinappchat/233V2rayU Mac https://t.me/macwinappchat/254IosOneClick  
@@ -1745,6 +1739,7 @@ vless://0400697c-b581-4575-9d2f-0bbd4659312d@jp004.421421.xyz:20230?security=rea
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp&packetEncoding=none#%F0%9F%87%AF%F0%9F%87%B5JP_17%7C268KB%2Fs%7CP002-260618%20%5B9b6149007a2a%5D
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5JP_25%7C157KB%2Fs%7CM003-260806%20%5B9d8a69e7adc7%5D
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@103.172.116.201:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f96b3b17a0f5b1fe&pbk=mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_21%7C478KB%2Fs%7CF003-260618%20%5Bfa40a39fcf26%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758# JP | 168.138.205.100
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0456
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0457
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0253

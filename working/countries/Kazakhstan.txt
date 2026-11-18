@@ -188,7 +188,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh79LWl8zfDY4S0Ivc3xNMDAyLTI2MDYxOCIsImFkZCI6
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B0%F0%9F%87%BF_KZ_%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6_36
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@kz.mjt001.com:443?allowInsecure=1#KZ%e5%93%88%e8%90%a8%e5%85%8b%e6%96%af%e5%9d%a6(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.60:443/?type=tcp&encryption=none&flow=&sni=api-rt-cfg.galioncc.com&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#KZ-@VPNine1
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#%F0%9F%87%B0%F0%9F%87%BFKZ_1%7C379KB%2Fs%7CK001-260618
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231?type=tcp#KZ  | @Raydikalx | 19AFE4
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=0#KZ  | @Raydikalx | 670BC0
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=/vless/&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#KZ  | @Raydikalx | 5C687E

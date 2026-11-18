@@ -602,8 +602,6 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?encryption=non
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@123.143.9.5:14041?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.57.90.42:50000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@182.208.209.54:50000?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7dLUl8zfDM3N0tCL3N8UjAwMi0yNjA2MTgiLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOiI4MDAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C586KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#KR  | @Raydikalx | 534F13
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#KR  | @Raydikalx | 81E9CD
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#KR  | @Raydikalx | 2B7FBC
@@ -659,8 +657,9 @@ vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEVENTM0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgQ0NEM0U3IiwiYWRkIjoic2VvdWwwMi56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.133:1774#KR  | @Raydikalx | FBAF15
+ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#KR  | @Raydikalx | D5B1C0
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#KR  | @Raydikalx | 81E9CD
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&path=/#KR  | @Raydikalx | D1BD16
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?path=%2F&security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR  | @Raydikalx | D1BD16
 trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&sni=kr002.zestapp778.com&type=tcp#KR  | @Raydikalx | 10B57A
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?host=152.69.226.63&path=%2F&security=none&type=ws#KR  | @Raydikalx | C98ACA
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?fp=chrome&path=%2F&security=false&type=ws#KR  | @Raydikalx | BF1564
