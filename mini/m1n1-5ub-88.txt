@@ -1,30 +1,3 @@
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#4Mohsen-5947
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5948
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#4Mohsen-5949
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#4Mohsen-5950
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=/assignment#4Mohsen-5951
-trojan://humanity@185.18.250.252:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#4Mohsen-5952
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#4Mohsen-5953
-trojan://humanity@188.114.96.3:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#4Mohsen-5954
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5955
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5956
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-5957
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-5958
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#4Mohsen-5959
-trojan://humanity@188.114.96.3:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&fp=chrome#4Mohsen-5960
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#4Mohsen-5961
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#4Mohsen-5962
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#4Mohsen-5963
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#4Mohsen-5964
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-5965
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-5966
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&type=ws&sni=www.ignitelimit.com#4Mohsen-5967
-trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#4Mohsen-5968
-trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#4Mohsen-5969
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5970
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5971
-trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#4Mohsen-5972
-trojan://humanity@188.114.99.0:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#4Mohsen-5973
 trojan://humanity@198.202.211.1:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#4Mohsen-5974
 trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5975
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5976
@@ -9998,3 +9971,30 @@ trojan://58dabbd0-1380-4d64-8375-ace16d95bc19@hk4.microsoftjs.top:443?allowInsec
 trojan://58dabbd0-1380-4d64-8375-ace16d95bc19@hk5.microsoftjs.top:443# By EbraSha
 trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443/?type=tcp&security=tls# By EbraSha
 trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443?allowInsecure=1# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443?security=tls# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@jp.liangyuandian.top:443?security=tls# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@sg.liangyuandian.top:443?security=tls# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443/?type=tcp&security=tls# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?allowInsecure=1# By EbraSha
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls# By EbraSha
+trojan://591285e0-2737-11ee-ade4-1239d0255272@51.81.82.15:443?security=tls&headerType=none&type=tcp# By EbraSha
+trojan://59525830-64de-11ed-a410-1239d0255272@us-trojan.bonds.id:443?security=tls&sni=us-trojan.bonds.id&type=tcp&headerType=none# By EbraSha
+trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=speedtest.net# By EbraSha
+trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net# By EbraSha
+trojan://59942c50-31d0-11ee-bbc3-1239d0255272@51.81.82.15:443?security=tls&headerType=none&type=tcp&sni=zula.ir# By EbraSha
+trojan://5995daf2-63a3-4fef-a703-1ea4a55f9db3@gzdx.jcnode.top:40000?allowInsecure=1&sni=hk01.ckcloud.info# By EbraSha
+trojan://5995daf2-63a3-4fef-a703-1ea4a55f9db3@gzdx.jcnode.top:43002?allowInsecure=1&sni=sg01.ckcloud.info# By EbraSha
+trojan://5995daf2-63a3-4fef-a703-1ea4a55f9db3@gzyd.jcnode.top:40000?allowInsecure=1&sni=hk01.ckcloud.info# By EbraSha
+trojan://5995daf2-63a3-4fef-a703-1ea4a55f9db3@hbcu.lele233.top:18900?allowInsecure=1&sni=uk01.ckcloud.info# By EbraSha
+trojan://5995daf2-63a3-4fef-a703-1ea4a55f9db3@jscm.lele233.top:10021?allowInsecure=1&sni=uk01.ckcloud.info# By EbraSha
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v01.gutingting.com:20226?allowInsecure=1&sni=v2uk01.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v01.gutingting.com:30050?allowInsecure=1&sni=v2sg02.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v02.gutingting.com:30005?allowInsecure=1&sni=v2hgc01.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v02.gutingting.com:30017?allowInsecure=1&sni=v2hgc01.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v02.gutingting.com:30057?allowInsecure=1&sni=v1kr02.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@v02.gutingting.com:30059?allowInsecure=1&sni=v2sggpt01.fuqiangren.com# By EbraSha
+trojan://59b2a20f-e34d-46c4-8e17-87cf617a9639@zzjp01.gutingting.com:20220?allowInsecure=1&sni=zzjp01.gutingting.com# By EbraSha
+trojan://59e806eb-8f89-4c37-a961-86ee23211300@uk01.awcloud.top:443?allowInsecure=0# By EbraSha
+trojan://59wuZRKxKX@91.107.135.78:8443# By EbraSha
+trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev&allowInsecure=1# By EbraSha
