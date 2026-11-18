@@ -308,10 +308,6 @@ trojan://humanity@185.18.250.252:443?insecure=0&type=ws&sni=www.calmlunch.com&fp
 trojan://---------BanV2ray------------@179.237.74.104:584?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea#[9][CH][0][TROJAN][None][prrofile_purple][2026-07-23][2026-11-16 03:31]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#[223][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
 trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#[1192][CH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH-23.166.88.127-0127
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH-186.190.215.251-0132
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0143
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH-79.127.184.104-0181
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH-23.166.88.127-0114
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH-186.190.215.251-0134
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0202
@@ -382,6 +378,10 @@ vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encr
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#CH_2819_@Surfboardv2ray
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#CH_2820_@Surfboardv2ray
 vless://d9274255-edf4-4944-bc62-6ef35cd2de40@194.87.109.106:443?encryption=none&security=tls&sni=currant.asynchronous.site&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#CH_3711_@Surfboardv2ray
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0143
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH-23.166.88.127-0127
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%ADCH-186.190.215.251-0132
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%87%A8%F0%9F%87%ADCH-79.127.184.104-0181
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0761
 vmess://ewogICAgImFkZCI6ICIxODYuMTkwLjIxNS4zMiIsCiAgICAiYWlkIjogMSwKICAgICJob3N0IjogIjE4Ni4xOTAuMjE1LjMyIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4etQ0gtMTg2LjE5MC4yMTUuMzItODA3MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxODYuMTkwLjIxNS43NSIsCiAgICAiYWlkIjogMSwKICAgICJob3N0IjogIjE4Ni4xOTAuMjE1Ljc1IiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4etQ0gtMTg2LjE5MC4yMTUuNzUtODE3MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -1625,3 +1625,5 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#/Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#/Switzerland
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#[openproxylist.com] trojan-CH
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%232
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?allowInsecure=0#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
