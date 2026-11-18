@@ -384,7 +384,6 @@ ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE@aio.unlimited.biz.i
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#ID  | @Raydikalx | 1BFF9A
 trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID  | @Raydikalx | 323809
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6lJRF80fDQxOUtCL3N8UzAwMS0yNjA2MTggWzM2Yjk2ZWNmM2MzZl0iLCJhZGQiOiIxMy4yNDkuMjMxLjg1IiwicG9ydCI6NDQzLCJpZCI6ImE4NGMxMzJhLTMxNTEtNDBmZS05NDdiLTRkZDlhN2QyMTIyYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6ImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCJwYXRoIjoiL3ZtZXNzIiwiaG9zdCI6ImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQifQ==
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7020
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

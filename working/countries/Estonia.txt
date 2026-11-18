@@ -824,8 +824,6 @@ vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.86:443?security=reality
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?security=none&type=tcp&packetEncoding=none#%F0%9F%87%AA%F0%9F%87%AAEE_7%7C1.2MB%2Fs%7CP002-260618%20%5Bc477c57d5fb6%5D
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_1%7C2.5MB%2Fs%7CM003-260806%20%5Bd2a203d09000%5D
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?security=reality&type=tcp&packetEncoding=xudp&sni=57aac2t.pl7.h1clayd.click&fp=firefox&sid=6c5c7900406a1ae7&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&encryption=none#%F0%9F%87%AA%F0%9F%87%AAEE_8%7C148KB%2Fs%7CM003-260806%20%5Bf2315ac444b9%5D
-trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-2976
-trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.222-2579
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#[4939][EE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#[6696][EE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@138.124.100.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee4.fast-connect-service.site&type=tcp#[14394][EE][0][VLESS][None][oneclickvpnkeys][2026-08-12][2026-08-16 00:34]
