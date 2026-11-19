@@ -335,3 +335,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%
 ss://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#[7242][DK][0][SS][None][prrofile_purple][2026-07-14][2026-07-28 02:00]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-5231
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.116-8292
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@193.180.208.167:443?&security=tls&fp=chrome&sni=v2n5.11676767.xyz&type=ws&headerType=none&host=v2n5.11676767.xyz&path=%2Fdoujin%2Fchannels%2Fcb#%F0%9F%87%A9%F0%9F%87%B0%20%5Bwww.v2nodes.com%5D%20vless-DK-1...

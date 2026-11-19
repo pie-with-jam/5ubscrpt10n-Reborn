@@ -4002,3 +4002,4 @@ ss://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%204
+vless://12910384-1ef8-40a3-818a-57277063ea66@13.143.197.74:8443?&security=tls&fp=chrome&alpn=h2&sni=kk-tr-74.testkknegr.online&type=grpc&serviceName=&mode=gun#%5Bwww.v2nodes.com%5D%20vless-TR-1...
