@@ -109,7 +109,6 @@ vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?type=tcp&security=r
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=random&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e#RO%20vless-1853341496
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0735
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?flow=xtls-rprx-vision&security=tls&sni=cdn4.velmoradigital.store&fp=chrome&alpn=h2,http/1.1#RO-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUjVONXBOUTQzUWVFakdyd3d5cHNCTWRVR3N2U282LQ==@82.152.132.211:8044#RO  | @Raydikalx | 8B8A3F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOWpkVFpsWElhWWhFc2ZVQXBhUHoxZ2xpdkFKWjMwRQ@82.152.132.211:8044#RO  | @Raydikalx | F38220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg@82.152.132.211:8044#RO  | @Raydikalx | 6FE069

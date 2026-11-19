@@ -1,3 +1,8 @@
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#Telegram  @planB_net   07
+vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome# CxrolVPN
+vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome# CxrolVPN
+vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome# CxrolVPN
+vless://6fe050ea-c381-4680-8308-f1fb415e7787@109.70.74.181:8443?security=reality&encryption=none&pbk=lPitiRac183VJuFBM13SljV9TkhcSjbZ5Vy06Noh11M&headerType=none&fp=chrome&spx=/02960dbf329105f&type=tcp&sni=corporate.amazon.com&sid=636d4c02#@vmesskhodam
 vless://6feb5039-ecb3-462e-aa1e-c9663bc3f398@render.com:2083?mode=packet-up&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&host=nlehuehh-dijdur-djwuu72-dj39.pufzax.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nlehuehh-dijdur-djwuu72-dj39.pufzax.ir#kurdconfig
 vless://6feb5039-ecb3-462e-aa1e-c9663bc3f398@render.com:2083?mode=packet-up&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&host=nlehuehh-dijdur-djwuu72-dj39.pufzax.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nlehuehh-dijdur-djwuu72-dj39.pufzax.ir#@FreakConfig
 vless://7023c57e-b2c8-4803-bb74-fb60babd0d7a@soskeynets.theatak.online:42543?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=token.safebrowsing.apple&pbk=hzr6SVICzY0M6vyDRrOUPdCHb1jiVI0tnvG3_CDw3js&sid=aefc7f3722#139805 | Telegram = t.me/SOSkeyNET
@@ -9993,8 +9998,3 @@ trojan://510b4540-0a7d-11f0-b23c-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://518299d0-066f-11f0-a2c8-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20248
 trojan://518299d0-066f-11f0-a2c8-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20446
 trojan://518e8d1a-9a9d-4aed-99ba-4503f171d54a@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20069
-trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20404
-trojan://521314@104.194.81.182:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%201997
-trojan://521314@176.124.223.27:443?allowInsecure=1&sni=hhtj.hhllfly.kdns.fr&ws=1&wspath=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20069
-trojan://52171d41-9367-429f-baa6-43660a6c84e4@103.81.85.238:443?security=tls#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2009
-trojan://53721367-b66d-4641-828a-f10313794e0d@165.154.227.234:443?allowInsecure=0&sni=data.amazon-azure.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20089
