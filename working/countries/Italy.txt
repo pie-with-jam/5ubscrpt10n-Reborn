@@ -541,6 +541,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999# IT | 202.50.253.18
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999?type=tcp# IT | 185.164.175.81
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b# IT | 57.131.38.163
+vless://146d567c-6335-4e63-a8aa-7ec068642440@130.78.31.25:443?encryption=none&fp=&host=pl2.obxodvpn.us&mode=packet-up&path=/xhttp&pbk=fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw&security=reality&sid=5c42ed8c&sni=pl2.obxodvpn.us&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9IT_32_@Surfboardv2ray
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#IT  | @Raydikalx | D8F208
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.27.21:8388#IT  | @Raydikalx | C5ECEE
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT  | @Raydikalx | 5EBF7B
