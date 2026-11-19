@@ -2648,7 +2648,6 @@ vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?sni=morning
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@foliose.merlano.monster:443?encryption=none&type=ws&security=tls&sni=foliose.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de2/stream#RU  | @Raydikalx | CC3F14
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@harbor.gerqix.online:443?encryption=none&type=ws&security=tls&sni=harbor.gerqix.online&fp=firefox&alpn=http/1.1&path=/api/de1/stream#RU  | @Raydikalx | E561CE
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&fp=firefox&alpn=http/1.1&path=/api/de2/stream#RU  | @Raydikalx | 700EEF
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@quay.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=quay.gerqix.online&type=ws&headerType=none&host=quay.gerqix.online&path=%2Fapi%2Fde2%2Fstream#RU  | @Raydikalx | 696CE9
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@quay.gerqix.online:443?encryption=none&type=ws&security=tls&sni=quay.gerqix.online&fp=firefox&alpn=http/1.1&path=/api/de2/stream#RU  | @Raydikalx | A83C62
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@vellum.merlano.monster:443?encryption=none&type=ws&security=tls&sni=sequoia.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de1/stream#RU  | @Raydikalx | 1FDA99
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willow.filnex.baby:443?encryption=none&type=ws&security=tls&sni=willowcroft.moltex.click&fp=firefox&alpn=http/1.1&path=/api/de1/stream#RU  | @Raydikalx | 4D98F4

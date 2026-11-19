@@ -443,7 +443,6 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?encryption=non
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com# ES | 66.163.118.203
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d# ES | 5.180.173.222
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto# ES | 185.18.250.67
-vmess://eyJhZGQiOiAiNjYuMTYzLjExOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAibXlncHRhZ2VudC5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5hbWUiOiAi8J+HqPCfh6YgQ0EgNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiWzE1NjI0N10gLSDwn4eq8J+HuCBTcGFpbiB8IEBmcmVlbmV0dGlyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6IG51bGwsICJ0bHMiOiAidGxzIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ES  | @Raydikalx | 952BBB
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#ES  | @Raydikalx | 7A0FF3
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#ES  | @Raydikalx | 98580D
