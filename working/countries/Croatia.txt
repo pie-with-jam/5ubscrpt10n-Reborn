@@ -4,12 +4,12 @@ trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[2023][HR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.64-7425
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.61-7426
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B7%20HR_40%20%231
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?&security=reality&flow=xtls-rprx-vision&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&fp=firefox&sni=191.217.201.227&type=tcp&headerType=none&host=191.217.201.227&path=%2F#%F0%9F%87%AD%F0%9F%87%B7%20HR_40
 vless://71b6bbe3-08a7-4769-9f7a-ba294e462ebc@185.156.110.35:777?encryption=none&security=reality&sni=it.nvidia.com&fp=chrome&pbk=KxQXSYLnV2yk8j9kDcMXYddtE_3jvI_t9nqUKgZ0DC8&sid=0279388c&spx=/dc8d07d9029b377&type=grpc#HR_1983_@Surfboardv2ray
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcmn&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5# VL-GRPC-RLT  HR-5.181.2.112:7610
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%2001
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?&security=reality&flow=xtls-rprx-vision&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&fp=firefox&sni=191.217.201.227&type=tcp&headerType=none&host=191.217.201.227&path=%2F#%F0%9F%87%AD%F0%9F%87%B7%20HR_40
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B7%20HR_40%20%231
 vless://497631c4-a1a4-0098-a86a-f42873473bb6@188.190.24.17:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#[12263][HR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#[11766][HR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#[11768][HR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

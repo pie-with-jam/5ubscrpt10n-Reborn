@@ -317,9 +317,6 @@ vmess://ewogICAgImFkZCI6ICIxNzkuNDMuMTQwLjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2948
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4519
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%231
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%233
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%231
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%232
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
@@ -407,6 +404,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20053
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@138.124.111.115:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Bhost%3Dwoshinidie-et3.pages.dev%3Btls#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20054
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@138.124.111.115:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20055
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?allowInsecure=1&sni=api.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20092
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20078
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20081
@@ -437,6 +435,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimat
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20098
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20090
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20077
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%233
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20059
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20084
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_50%7C859KB/s%7CM003-260806%20%5B08b736320f2a%5D
@@ -534,6 +533,7 @@ vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20178
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=ad86e2d52ff40ebd&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20121
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=ad86e2d52ff40ebd&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20116
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%231
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=raw&security=reality&sni=www.apple.com&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd#CH%20vless-1853489195
 vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20179
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@107.189.2.206:8443?security=tls&type=ws&path=/&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_12%7C1.1MB%2Fs%7CF003-260618%2001
@@ -570,8 +570,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir# CH | 179.43.187.67
 vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
 vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
-vless://d199d953-be71-4e19-807b-7df54286733f@1c.hlclub.tech:27020?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=1c.hlclub.tech&fp=chrome&sid=555ac69b22424282&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&encryption=none#CH
-vless://d199d953-be71-4e19-807b-7df54286733f@45.95.232.233:27020?type=grpc&security=reality&fp=firefox&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&sid=555ac69b22424282&sni=1c.hlclub.tech&mode=gun&serviceName=grpc-tunnel#CH
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#CH  | @Raydikalx | 710F46
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH  | @Raydikalx | ACB330
@@ -684,8 +682,8 @@ vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&ty
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH_50%7C859KB%2Fs%7CM003-260806%20%5Bdf6e6720c557%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C3.5MB%2Fs%7CM003-260806%20%5Be3d6056e172d%5D
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY#%F0%9F%87%A8%F0%9F%87%ADCH_8%7C409KB%2Fs%7CM002-260618%20%5Bf47a3c2da604%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%232
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%233
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A8%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh61DSF81fDIuN01CL3N8R1BU4oG6fFlULVVTfE5GfDEzJSIsImFkZCI6IjE3OS40My4xNDAuMjQiLCJwb3J0IjoiNDI4MzEiLCJpZCI6ImE5MjVhOThjLWFkN2EtNDBjNi05ZmRmLTEzMGExZGU2OTQxNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJwYXRoIjoiLzN4IiwiaG9zdCI6ImRvd24tY2RuLmRpbmd0YWxrLmNvbSJ9
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#[10756][CH][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?security=none&type=tcp&headerType=none&encryption=none#[40938][CH][0][VLESS][None][shopingv2ray][2023-11-17][2026-08-16 00:34]
