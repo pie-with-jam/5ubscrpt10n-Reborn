@@ -29,9 +29,9 @@ trojan://idc117okt@103.226.139.201:443?security=tls#[2060][ID][0][TROJAN][None][
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[2213][ID][0][TROJAN][None][kiava][2026-01-23][2026-11-19 04:49]
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#[676][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://idc117okt@103.176.78.153:443?security=tls#[2059][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5242
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5400
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7467
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5408
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7475
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5250
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 vless://b771804e-a62c-429f-a56c-9f0a452d8f6e@185.122.167.103:59130?security=reality&encryption=mlkem768x25519plus.native.0rtt.8oUBloz7dC7Dj2HwtrH_gsqKLAfv3sw1me3xB5yBQjA&pbk=6Lh48ni3w8oe9QW3xVzNMIE5LU-p5VPHPMCUtVMOmgo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvplm.stg.nvidia.com&sid=14#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%AC%F0%9F%87%A7
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
@@ -651,3 +651,4 @@ ss://cbb3f877-d1fb-344c-87a9-d153bffd5484@48.193.46.7:30833?encryption=auto&secu
 ss://eyJpZCI6IjIzODUwOTlmLTMwMWItNDMzZi04MzBkLWEyZmQwYWM1NWY1NyIsImFscG4iOiIiLCJob3N0Ijoibm9kZS1pZC0xLnYyc3YudG9wIiwic25pIjoid3d3LmZhY2Vib29rLmNvbSIsInBzIjoiVm1lc3MlMjAtJTIwSUQlMjAxJTIwLSUyMHRlbGVncmFtJTIwJTNBJTIwJTQwa2lhdmEiLCJwb3J0IjoiODQ0MyIsImFkZCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsInBhdGgiOiJcL3dzIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIn0=</pre><br/><br/><br/><pre>trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[8786][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YUBub2RlLWlkLTEudjJzdi50b3A6OTkw#[4987][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdW1teXBhc3N3b3JkQDAuMC4wLjA6MTA4MA==#[ID][COUNTRY][REAL DELAY][TYPE][TEST TYPE][CHANNEL][POST DATE][SCRAPE DATE]
+vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTYyOTgiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRlOVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSUQiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

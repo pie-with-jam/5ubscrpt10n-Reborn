@@ -45,12 +45,13 @@ vless://6d9b168e-b952-452f-9307-53d2fdb926ef@194.150.220.101:443?security=realit
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.click&type=ws&allowInsecure=0&security=tls&path=%2Fws&encryption=none&insecure=0&fp=firefox#[11868][UA][0][VLESS][None][nofiltering2][2026-10-29][2026-11-19 04:49]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=indigostar.click#[11867][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#[1922][UA][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0102
-trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5724
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7822
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8086
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0064
+trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5732
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7830
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8094
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#UA_874_@Surfboardv2ray
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0102
 vless://17c068a5-97cb-40a2-bf60-215b749c0508@digitalwaypoint.website:443?security=reality&encryption=none&pbk=x_X15Vl6mHKSDHI0ku9FOyUA9a6djCnGNhfsW6BEXXA&host=/?Telegram---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=digitalwaypoint.website&sid=f8916298f6f031dd#UA-@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2002
