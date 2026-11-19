@@ -31,10 +31,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 ss://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2009_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2010_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2011_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2012_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2004_@Surfboardv2ray
 trojan://3778399750324494336@content-shrimp.pigeon031.one:443#Luxembourg
 trojan://3747000103274291200@95.85.93.45:443?peer=simple-coyote.adder289.quest#Luxembourg
 trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxembourg
@@ -42,6 +39,8 @@ trojan://3747000103274291200@87.120.204.100:443?peer=crucial-moccasin.adder289.q
 trojan://3747000103274291200@85.90.194.160:443?peer=awaited-chicken.adder289.quest#Luxembourg
 trojan://3747000103274291200@crucial-moccasin.adder289.quest:443#Luxembourg
 trojan://3747000103274291200@95.85.93.172:443?peer=content-shrimp.pigeon031.one#Luxembourg
+vless://003ec416-45f0-462a-8030-016fe0a71703@188.42.89.118:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"packet-up","path":"/","xmux":{"maxConnections":4,"maxConcurrency":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&insecure=0&host=mama1455.baklajann.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=mama1455.baklajann.ru#LU-@VPNine1
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU-@VPNine1
 ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2001
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.153.151.164:40093#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2003
@@ -70,6 +69,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.231.244:2053?encryption=none
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B1%F0%9F%87%BA_LU_%E5%8D%A2%E6%A3%AE%E5%A0%A1_31
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU  | @Raydikalx | 98FC96
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&alpn=http/1.1&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#LU  | @Raydikalx | 1D3D38
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU  | @Raydikalx | 1B6956
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU  | @Raydikalx | 98FC96
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.88.252:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#[41154][LU][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.7:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#[41160][LU][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

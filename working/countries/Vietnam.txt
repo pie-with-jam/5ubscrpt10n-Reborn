@@ -116,8 +116,8 @@ trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#VN  | @Raydikalx | 6B3976
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#VN  | @Raydikalx | F1C381
 trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN  | @Raydikalx | 663774
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@Kir3.crackerbinam.org:56026?sni=www.cloudflare.com&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&type=tcp&spx=/&fp=chrome&sid=99676967e6867063&security=reality&encryption=none&headerType=none#VN  | @Raydikalx | A2E7FF
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw#VN  | @Raydikalx | DE68F9
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#VN  | @Raydikalx | A2E7FF
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.160
@@ -599,4 +599,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_5%7C0.8MB%2Fs%7CGPT%E2%81%BA%7CGM%7CYT%7CX%7CSucceed%7C%5B%E5%8E%9F%E7%94%9F%7C%E6%9C%BA%E6%88%BF%5D
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.173:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_6%7C0.5MB%2Fs%7CGPT%7CYT%7CX%7CHistory
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#[openproxylist.com] vless-VN
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-VN-1...
