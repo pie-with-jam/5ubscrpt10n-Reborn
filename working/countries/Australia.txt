@@ -125,7 +125,6 @@ trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#[162
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#[705][AU][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#[1466][AU][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://c5110090-c3a2-429e-b9b8-072b6535be1b@ct.cfyun.top:443?security=tls&sni=cfus4.trojanwss.xyz&type=ws&host=cfus4.trojanwss.xyz&path=%2FCFJICHANG#[1512][AU][0][TROJAN][None][mftizi][2024-07-17][2026-11-19 04:49]
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0102
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0075
 vmess://ewogICAgImFkZCI6ICIxMzkuOTkuMjM2LjE2MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMzAuY2ZjZG4zLnh5eiIsCiAgICAiaWQiOiAiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JheSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4em8J+HukFVLTEzOS45OS4yMzYuMTYzLTAwMzgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@185.167.116.253:9014#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.253-0255
@@ -343,6 +342,8 @@ trojan://c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@jgwxn2.gaox.ml:443#Relay_%F0%9F%87
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiQHdibmV0X/Cfh6bwn4e6X0FVXzIiLAogICJhZGQiOiAiMTI5LjE1NC40OC4yMjEiLAogICJwb3J0IjogMzczNzIsCiAgImlkIjogIjZmNDQ1NGE5LWU3MzItNDZjNi1jNTBmLTczZjEzZGEzMWY3YiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICIiLAogICJzbmkiOiAiIiwKICAic2N5IjogImF1dG8iCn0=
 trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0102
+vless://f028d829-249a-4692-b45f-1b4cde8ef0c7@support.zoom.us:80?type=ws&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com# AU | 2407:30c0:181::6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU  | @Raydikalx | DFABBD
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@161.248.254.27:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560%3Bhost%3Dwoshinidie-et3.pages.dev%3Btls#AU  | @Raydikalx | 37F78E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 063CD6
