@@ -40,6 +40,8 @@ vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#BE_1848_@Surfboardv2ray
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#BE_1849_@Surfboardv2ray
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=agile-raptor.cdn.cachefleet.com#BE_3413_@Surfboardv2ray
+vless://9t04P7rIDIBF6q@de.rvpn.online:443?security=reality&encryption=none&pbk=wYnBI1xzD8pqAN7xyI8OKotC_Eo2Vz-z08fI5suWQFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onlycats.photos&sid=54f1c973#@VEGAAS_VPN Germany, Be
+vless://fI1Q0aGcfyNupG@de2.rvpn.online:443?security=reality&encryption=none&pbk=LQrq-IWQbPnLj_vIaP-Vii_mNKIl1jL-i5BjDAaOT24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bilibili.tv&sid=f006e18a#@VEGAAS_VPN  Germany, Be
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:801#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:805#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2002
@@ -272,7 +274,6 @@ vmess://eyJhZGQiOiAienVsYS5pciIsICJhaWQiOiAwLCAiaG9zdCI6ICJzcGVlZHRlc3QubmV0LmRp
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlbe.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Belgium
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlbe.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Belgium
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#Global  | @Raydikalx | 12BE37
-vless://12910384-1ef8-40a3-818a-57277063ea66@144.31.219.238:8443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=vlgrpc&sni=kk-331e6a.testkknegr.online#BE  | @Raydikalx | 02A5B0
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@144.31.219.97:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#BE  | @Raydikalx | CC0945
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@be.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#BE  | @Raydikalx | F674F0
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#BE  | @Raydikalx | 491125
