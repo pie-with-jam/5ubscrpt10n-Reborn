@@ -343,22 +343,26 @@ trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0075
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU  | @Raydikalx | DFABBD
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@161.248.254.27:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560%3Bhost%3Dwoshinidie-et3.pages.dev%3Btls#AU  | @Raydikalx | 37F78E
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@161.248.254.27:443/?plugin=v2ray-plugin%3Btls%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560#AU  | @Raydikalx | 37F78E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 063CD6
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#AU  | @Raydikalx | 373E2E
 trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#AU  | @Raydikalx | 241968
 trojan://3828095943467868160@103.106.231.55:443?sni=closing-longhorn.dolphin109.quest&type=tcp#AU  | @Raydikalx | 910E67
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1&fp=chrome&type=tcp#AU  | @Raydikalx | 4F85A8
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@32.72img.xyz:443?allowInsecure=0#AU  | @Raydikalx | DDBDE5
 trojan://8r%3C%5B9%27l6hAO%238ZQi@161.248.254.27:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#AU  | @Raydikalx | A3B528
+trojan://9KogHwaY7hVD@103.224.212.212:443?sni=103.224.212.212&allowInsecure=1&type=tcp#AU  | @Raydikalx | E1366E
 trojan://Aimer@168.138.13.201:443?sni=epmo.ambercc.filegear-sg.me&type=tcp#AU  | @Raydikalx | 61AAD4
+trojan://b605dc8f-249f-4f08-9793-571acf746dab@32.72img.xyz:443/?type=tcp&security=tls&allowInsecure=1#AU  | @Raydikalx | DC2D84
 trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?sni=cdn.qchwnd.moe#AU  | @Raydikalx | AE928E
 trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#AU  | @Raydikalx | 270EFC
+trojan://owreRY1bmquS1WcYN2@193.187.119.74:443?security=tls&sni=au-3.tr202605.com&type=tcp&allowInsecure=1#AU  | @Raydikalx | 438267
+trojan://owreRY1bmquS1WcYN2@193.187.119.75:443?security=tls&sni=au-3.tr202605.com&type=tcp&allowInsecure=1#AU  | @Raydikalx | FCC189
 trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#AU  | @Raydikalx | C070B0
+trojan://q6UYkw9nUn6MYZz8Sp@au-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#AU  | @Raydikalx | 7284E2
 trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#AU  | @Raydikalx | 9E1839
 trojan://q6UYkw9nUn6MYZz8Sp@au-3.tr202604.com:443?type=tcp#AU  | @Raydikalx | 0A083B
 vless://38a6b5c4-3534-4a31-9d77-81d3a06ede79@mci.vpncustomize.website:2096?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=multi.TrV2ray.cfd#AU  | @Raydikalx | C1BB51
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@176.97.68.100:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#AU  | @Raydikalx | 31F41D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#AU  | @Raydikalx | 4C475F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&type=tcp#AU  | @Raydikalx | 4787DF
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=45.63.30.142&type=tcp#AU  | @Raydikalx | FAFA65
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU  | @Raydikalx | 063CD6
@@ -370,11 +374,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMzg5Mjg5IiwiYWRk
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.130.150-1527
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C207KB%2Fs%20%5B52dd47f9563e%5D
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:48158?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&encryption=none#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C399KB%2Fs%7CM003-260806%20%5B8a224f6706d5%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_6%7C266KB%2Fs%7CB007-260618%20%5B579bd67b33ed%5D
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C515KB%2Fs%7CA004-260618%20%5B657f61e15c24%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.53:48158?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%F0%9F%87%A6%F0%9F%87%BAAU_9%7C300KB%2Fs%7CM003-260806%20%5B797ade4ee487%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_4%7C489KB%2Fs%7CA004-260618%20%5B8a3b6ea341e6%5D
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#%F0%9F%87%A6%F0%9F%87%BAAU_7%7C553KB%2Fs%7CA004-260618%20%5Bf8b5cfe44a18%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BAAU_2%7C251KB%2Fs%7CA004-260618%20%5B8a3b6ea341e6%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20trojan-AU-...
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20trojan-AU-...
 vless://8f4211ee-290c-4d66-a269-ccf08e3eef3a@fin.melov2ray.shop:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3&sni=FIn.Melov2ray.Shop#[23844][AU][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -1204,4 +1204,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#//Australia/Sydney
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&type=tcp&headerType=none&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#[openproxylist.com] trojan-AU
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BA%20%5Bwww.v2nodes.com%5D%20trojan-AU-...

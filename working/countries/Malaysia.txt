@@ -17,7 +17,6 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=molt
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#[787][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0497
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0960
-vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?sni=382218.xyz&type=ws&host=382218.xyz&path=/wsfp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-MY-1...
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20trojan-MY-...
 vmess://eyJhZGQiOiI3OC40Ny4xNzIuMjA5IiwiYWlkIjoiMCIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMGFhZWJhMWQtOGJiZi00NWYxLWI5NmYtMzY3MzA5MWMwNTM4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzI3MjAiLCJwcyI6Im15IGNvbmZpbi5yZWx4eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm92YXRlYW03LjguNy44LmlyLmNvbS5zaXRlLuS6i+WIl+WIl+eUt+S6i+eahOS6i+WIl+S4iui1m+eUty5pci5ub3ZhYmFsbC5saW5rLiIsImlkIjoiMmIyYzc0N2MtOTkwZi00MWZhLThhMTgtNDk0NTE5OTEyZWM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+Hq/Cfh7dAbXlfcHJveGlpX9mH2YXYsdin2Ycg2KfZiNmEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -45,6 +44,7 @@ vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@111.90.143.184:61111?mode=gun&secur
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&security=reality&sid=4af284210d&sni=my1.gofizz.in&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2017
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my1.gofizz.in&fp=chrome&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&sid=4af284210d&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2014
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2015
+vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?sni=382218.xyz&type=ws&host=382218.xyz&path=/wsfp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-MY-1...
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2018
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?host=platform128.halalkhor.info&path=%2Fplatform128&security=none&sni=platform128.halalkhor.info&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2019
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?path=%2Fplatform128&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2020
@@ -63,6 +63,7 @@ vmess://eyJhZGQiOiAiNDcuMjUwLjEzNS4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6ICI0MzA2MyIsICJwcyI6ICLwn4ey8J+HviBNYWxheXNpYSAzMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmXHUyMDBkXHVkODNjXHVkZjA4XHU1ZTk0XHU2MDI1XHU4MjgyXHU3MGI5LSBcdTdmNTFcdTdhZDk6bXkuMzM1NTcwLnh5eiIsImFkZCI6ImNmLmllcGwxLm1lIiwicG9ydCI6IjQ0MyIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMDEuYXBwbGVpZC5iZiIsInBhdGgiOiJcL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIwMS5hcHBsZWlkLmJmIn0=
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_3%7C808KB%2Fs%7CC002-260622%2001
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@130.94.69.15:7001#MY  | @Raydikalx | 75DBAB
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@47.250.212.59:2053#MY  | @Raydikalx | BC9E19
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@96.126.190.196:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Bhost%3Dwoshinidie-et3.pages.dev%3Btls#MY  | @Raydikalx | E5F1AC
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#MY  | @Raydikalx | 7E8D78
@@ -230,4 +231,3 @@ ss://chacha20-ietf-poly1305:ff342a15432c25b3@115.164.114.21:11201#%F0%9F%87%B2%F
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20MY%20103.243.215.17%20%E2%97%88%20tcp%3A990%20%E2%97%88%20Gigabit%20Hosting%20Sdn%20Bhd%20%E2%97%88%206b06c
 ss://abfa5fd9-6ed0-4310-9372-49590b054a2b@101.99.84.124:80?type=ws&host=moba.mobilelegends.com&path=%2Fvless-ntls#[5954][MY][0][SS][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#[openproxylist.com] trojan-MY
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=0#%F0%9F%87%B2%F0%9F%87%BE%20%5Bwww.v2nodes.com%5D%20trojan-MY-...
