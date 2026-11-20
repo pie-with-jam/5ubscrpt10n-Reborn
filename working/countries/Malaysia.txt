@@ -15,8 +15,8 @@ vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&f
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#[1055][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#[788][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#[787][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0497
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0960
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0507
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0978
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20trojan-MY-...
 vmess://eyJhZGQiOiI3OC40Ny4xNzIuMjA5IiwiYWlkIjoiMCIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMGFhZWJhMWQtOGJiZi00NWYxLWI5NmYtMzY3MzA5MWMwNTM4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzI3MjAiLCJwcyI6Im15IGNvbmZpbi5yZWx4eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm92YXRlYW03LjguNy44LmlyLmNvbS5zaXRlLuS6i+WIl+WIl+eUt+S6i+eahOS6i+WIl+S4iui1m+eUty5pci5ub3ZhYmFsbC5saW5rLiIsImlkIjoiMmIyYzc0N2MtOTkwZi00MWZhLThhMTgtNDk0NTE5OTEyZWM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+Hq/Cfh7dAbXlfcHJveGlpX9mH2YXYsdin2Ycg2KfZiNmEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -234,3 +234,4 @@ ss://chacha20-ietf-poly1305:ff342a15432c25b3@115.164.114.21:11201#%F0%9F%87%B2%F
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20MY%20103.243.215.17%20%E2%97%88%20tcp%3A990%20%E2%97%88%20Gigabit%20Hosting%20Sdn%20Bhd%20%E2%97%88%206b06c
 ss://abfa5fd9-6ed0-4310-9372-49590b054a2b@101.99.84.124:80?type=ws&host=moba.mobilelegends.com&path=%2Fvless-ntls#[5954][MY][0][SS][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#[openproxylist.com] trojan-MY
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=0#%F0%9F%87%B2%F0%9F%87%BE%20%5Bwww.v2nodes.com%5D%20trojan-MY-...

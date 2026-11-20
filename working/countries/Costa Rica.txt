@@ -43,7 +43,7 @@ vless://210bf2be-9880-48f5-b8ec-0be15c31b5ba@190.93.246.241:443/?type=grpc&encry
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[1989][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[1988][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[1490][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8455
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#%F0%9F%87%A8%F0%9F%87%B7CR-138.59.16.146-8501
 vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@190.93.247.129:443?security=tls&fp=chrome&sni=cfnode-11ivy8.pages.dev&type=ws&path=/ws&host=cfnode-11ivy8.pages.dev#CR_953_@Surfboardv2ray
 vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@190.93.247.129:443?security=tls&fp=chrome&sni=cfnode-11ivy8.pages.dev&type=ws&path=/ws&host=cfnode-11ivy8.pages.dev#CR_954_@Surfboardv2ray
 vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@190.93.247.129:443?security=tls&fp=chrome&sni=cfnode-11ivy8.pages.dev&type=ws&path=/ws&host=cfnode-11ivy8.pages.dev#CR_955_@Surfboardv2ray
