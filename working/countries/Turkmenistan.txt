@@ -16,7 +16,6 @@ vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.225:443?encryption=none&
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#TM(@AZARBAYJAB1)
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.227:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#TM(@AZARBAYJAB1)
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#TM(@AZARBAYJAB1)
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#TM (@AZARBAYJAB1)
 vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33270?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#tm%20channel%3A@DigiV2ray%F0%9F%87%A9%F0%9F%87%AA    Location 100         @DigiV2ray 
 vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33270?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#tm%20channel%3A@DigiV2ray%F0%9F%87%A9%F0%9F%87%AA       Location   100  
 vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33275?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#tm%20channel@DigiV2ray%7C100GB    Location 100             @DigiV2ray 
