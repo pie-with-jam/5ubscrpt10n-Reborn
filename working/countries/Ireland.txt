@@ -247,6 +247,7 @@ trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgeri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQnp5czFjYWhmR1ZsT3dS@4.231.226.120:443#IE-@VPNine1
 ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#IE  | @Raydikalx | 0A6D2D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#IE  | @Raydikalx | 35C96B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGSlJBcG1mdUMzRjE0Y0ZG@20.238.32.201:443#IE  | @Raydikalx | 30CA1C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#IE  | @Raydikalx | AC65B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@68.219.96.146:443#IE  | @Raydikalx | 469CD5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSmU3dW1TdEljazVNaWVn@20.166.59.119:443#IE  | @Raydikalx | 75F74E
@@ -265,13 +266,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc043R0pka2FuUEI0bHNNVGlxSVJx@13.79.22.98:33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE  | @Raydikalx | B51E1B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE  | @Raydikalx | 7C923B
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#IE  | @Raydikalx | 53C508
-vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?&security=reality&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=chrome&sni=images.porsche.com&type=tcp&headerType=none&host=images.porsche.com&path=/#IE  | @Raydikalx | 720341
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@83.141.92.82:25035?security=reality&sni=96f799r.ch5.h1clayd.click&fp=chrome&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&sid=eb63581de991f8c8&type=xhttp&path=/astral-edge-h1&mode=stream-one#IE  | @Raydikalx | 6BB8F1
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@108.131.170.67:80/?type=tcp&encryption=none&flow=#IE  | @Raydikalx | 6FD145
 vless://8c0676ea-ac9f-4de5-9c6f-b0de31e38704@83.141.70.167:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ch.primarymaster.online&fp=chrome&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&sid=8b8dd8a1c0c468d3&type=tcp&headerType=none#IE  | @Raydikalx | 6D8556
 vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#IE  | @Raydikalx | 09E23C
 vless://fad6c240-14d0-47ce-9264-21c5f18689c1@54.75.112.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZODw0ijKEfbSpHjvQqTyYzsbLpnlnA3j9Io5PfmZ-Ts&sni=www.amazon.com#IE  | @Raydikalx | 7B7A97
-vmess://eyJ2IjoiMiIsInBzIjoiSUUg8J+HrvCfh6ogfCBAUmF5ZGlrYWx4IHwgMDM3NjBEIiwiYWRkIjoiNTQuMjI5LjE1MS45NyIsInBvcnQiOjU5MjM2LCJpZCI6IjIzODdiZmJjLTEwYTYtNGJkNy1kYzU1LTdjYmE5NTRjZTZlOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGSlJBcG1mdUMzRjE0Y0ZG@20.238.32.201:443#IE  | @Raydikalx | 30CA1C
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6pJRV82fDQuM01CL3N8QjAwNy0yNjA2MTggWzZjMDg3MzUxN2IwN10iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6NTkyMzYsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 vless://ac5313ae-803b-4104-a047-94c97ecb621e@ie.orpheous.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru#[29621][IE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire01.skorostnet.space:13868?type=tcp&security=reality&sni=amd.com&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#[1460][IE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -905,5 +904,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443?outli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#//Ireland/Dublin
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp# IE | 20.223.136.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443# IE | 4.210.66.171
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1JRSIsImFkZCI6IjU0LjIyOS4xNTEuOTciLCJwb3J0Ijo1OTIzNiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiXC8iLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC42MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC42MC0wNTg2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

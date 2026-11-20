@@ -595,7 +595,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=c
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.234-0162
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0165
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@glance.asuscomm.com:10099# KR | 115.161.136.145
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#KR  | @Raydikalx | 534F13
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#KR  | @Raydikalx | 81E9CD
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#KR  | @Raydikalx | 2B7FBC
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#KR  | @Raydikalx | 308A49
@@ -619,7 +618,7 @@ ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@183.108.82.157:10002/?plugin
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@49.142.200.31:11434?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Bhost%3Dwoshinidie-et3.pages.dev%3Btls#KR  | @Raydikalx | E2DEF9
 ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J-Hsw@49.142.200.31:28017#KR  | @Raydikalx | 5DCDE3
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR  | @Raydikalx | 75B776
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR  | @Raydikalx | DE0128
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR  | @Raydikalx | DE0128
 trojan://114514@141.164.42.2:443?allowInsecure=1&sni=tjaaa.hhllfly.kdns.fr&ws=1&wspath=%2F#KR  | @Raydikalx | BC7E53
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@141.164.42.2:443?allowInsecure=0&sni=jy.hhllfly.kdns.fr#KR  | @Raydikalx | E2EEEF
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@146.56.180.103:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=tcp&headerType=none#KR  | @Raydikalx | C7AC11
@@ -644,6 +643,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cxNjA1NDkgfCDimqHvuI9UZWxlZ3JhbSA9IHQu
 vmess://eyJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiODAwIiwicHMiOiJLUiDwn4ew8J+HtyB8IEBSYXlkaWthbHggfCA3RTg3OTgiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUiDwn4ew8J+HtyB8IEBSYXlkaWthbHggfCBFOUY5N0EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMTY4MTE4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiJkcDh5ay54aWFveWFuLmlvIiwiYWlkIjowLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjE2NjE2LCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEE3NDA1MSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgQ0NEM0U3IiwiYWRkIjoic2VvdWwwMi56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ@49.254.204.133:1774#KR  | @Raydikalx | FBAF15
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#KR  | @Raydikalx | D5B1C0
