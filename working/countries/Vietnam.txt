@@ -49,8 +49,9 @@ trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#
 vmess://ewogICAgImFkZCI6ICIxMDMuODIuMjUuMTA2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZnV6enluZz9lZD0yMDQ4IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hu/Cfh7NWTi0xMDMuODIuMjUuMTA2LTg2ODUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-8716
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#%F0%9F%87%BB%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-VN-1...
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN_4129_@Surfboardv2ray
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN_4130_@Surfboardv2ray
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com&encryption=none&type=tcp#VN_2947_@Surfboardv2ray
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com&encryption=none&type=tcp#VN_2948_@Surfboardv2ray
+vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN_4327_@Surfboardv2ray
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443#Vietnam
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.173:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_6%7C0.5MB%2Fs%7CGPT%7CYT%7CX%7CHistory%2001
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX%2001
@@ -85,7 +86,7 @@ vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&security=false
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&packetEncoding=xudp#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C126KB%2Fs%7CA004-260618%20%5B8c90022ab104%5D
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3VN_2%7C577KB%2Fs%7CP002-260618%20%5B459cb3a3f111%5D
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN_3%7C269KB%2Fs%7CM003-260806%20%5Bac8f0dcfd386%5D
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=raw&security=none#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C267KB/s%7CA004-260618%20%5Bafa996833e70%5D
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=raw&security=none#VN%20vless-1827154159
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp&security=none#VN%20vless-1827975328
 vless://c92e12ca-ea66-4785-8675-652b35134117@160.187.1.101:443?type=ws&path=%2Ft.me%2Fdaily_free_vpn&host=thus-k.netnode.cc.cd&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2028
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.25.75.40:443?type=ws&path=%2Fhtml%3Fed%3D2560&host=cdn8848.776676.xyz&security=tls&sni=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2029
@@ -134,11 +135,10 @@ trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&securit
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=firefox&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com&encryption=none&type=tcp#VN  | @Raydikalx | 11024B
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#VN  | @Raydikalx | A2E7FF
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@leviko-vn7739.shopingggg.ir:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN  | @Raydikalx | 0ADAE7
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086#VN  | @Raydikalx | DE68F9
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN  | @Raydikalx | CC41E0
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN  | @Raydikalx | A2E7FF
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@leviko-vn7739.shopingggg.ir:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN  | @Raydikalx | 0ADAE7
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw#VN  | @Raydikalx | DE68F9
-vless://f592a058-bfb6-447e-b849-fd169b65b301@kir4.crackerbinam.org:25272?encryption=none&security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&sid=f3a10622fe#VN  | @Raydikalx | B10F5B
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.160
@@ -614,4 +614,3 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_4%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT%7CX
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_5%7C0.8MB%2Fs%7CGPT%E2%81%BA%7CGM%7CYT%7CX%7CSucceed%7C%5B%E5%8E%9F%E7%94%9F%7C%E6%9C%BA%E6%88%BF%5D
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.173:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_6%7C0.5MB%2Fs%7CGPT%7CYT%7CX%7CHistory
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-VN-1...

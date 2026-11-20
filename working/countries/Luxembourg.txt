@@ -42,10 +42,10 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 ss://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2116_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&fp=chrome&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#LU_2117_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2118_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2119_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU_2201_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&fp=chrome&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#LU_2202_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2203_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2204_@Surfboardv2ray
 trojan://3778399750324494336@content-shrimp.pigeon031.one:443#Luxembourg
 trojan://3747000103274291200@95.85.93.45:443?peer=simple-coyote.adder289.quest#Luxembourg
 trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxembourg
@@ -62,6 +62,7 @@ trojan://4mq9w5ckqw3ewbdg@staticxfastline.taymaztest.ir:16200?path=/biyasd&secur
 trojan://4mq9w5ckqw3ewbdg@staticxfastline.taymaztest.ir:16200?sni=staticxfastline.taymaztest.ir&type=ws&path=%2Fbiyasd&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B1%F0%9F%87%BALU_3%7C2.1MB%2Fs%7CB007-260618%20%5B96f3eb2aec24%5D
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?path=/tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2016
 vless://5445801a-185f-4335-9e3b-d34b0145a038@gcore.com:443?type=ws&host=app1.gptban.com&path=%2Fdl&security=tls&sni=gcore.com&pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2014
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-LU
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?&security=tls&sni=subgift.gcorecdn.com&type=ws&headerType=none&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2015
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?alpn=http%2F1.1&encryption=none&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2012
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&type=ws&path=%2Ft.me-SubGift#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2008
