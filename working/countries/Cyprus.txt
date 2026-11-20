@@ -210,7 +210,7 @@ vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&e
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#CY_3858_@Surfboardv2ray
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#CY_3859_@Surfboardv2ray
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=/?TelegramPLANB_NETPLANB_NETPLANB_NETPLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#CY_3860_@Surfboardv2ray
-vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?security=reality&encryption=none&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&fp=chrome&type=grpc&sni=it.nvidia.com&sid=b08ccd#CY-@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRGU4dVktTUlzYTJDX1BmcHdVYXFVSHNNa2Y1dHFQRQ==@45.83.85.31:1080#CY-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%2003
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%2004
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%2005
@@ -279,6 +279,8 @@ vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encr
 vmess://eyJhZGQiOiAiNDUuMTIuMTQ0LjY4IiwgImFpZCI6IDY0LCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE2ODk4NDk0ODcxOTAiLCAicG9ydCI6IDQ0MywgInBzIjogIvCfh6jwn4e+IEN5cHJ1cyA3MSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vmess://eyJhZGQiOiAiNDUuMTUuMTcwLjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICLwn4eo8J+HviBDeXBydXMgNzIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0756
+vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?security=reality&encryption=none&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&fp=chrome&type=grpc&sni=it.nvidia.com&sid=b08ccd#CY-@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRGU4dVktTUlzYTJDX1BmcHdVYXFVSHNNa2Y1dHFQRQ==@45.83.85.31:1080#CY  | @Raydikalx | 955818
 trojan://3723507166611775488@195.133.93.221:443?sni=fitting-ox.boa152.lol&allowInsecure=1#CY  | @Raydikalx | A3DC0D
 trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol&allowInsecure=0#CY  | @Raydikalx | 2A1D36
 trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#CY  | @Raydikalx | 0F485E

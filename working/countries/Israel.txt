@@ -26,7 +26,6 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.81:443?encryption=none&fp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2003
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2004
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.73:19999#%F0%9F%87%AE%F0%9F%87%B1%20IL_14
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#IL%20trojan-1929965330
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2010
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2006
@@ -45,9 +44,10 @@ vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?type=raw&securit
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&sid=7c#IL%20vless-1896119555
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&sid=7c#IL%20vless-1891672392
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&fp=random&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&sid=7c#IL%20vless-1922171528
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxIElMXzE4IiwiYWRkIjoid3cxMS5sZXZpa29namdmZGQuaXIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxIElMXzU4IiwiYWRkIjoid3cxMS5sZXZpa29namdmZGQuaXIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxSUxfNTkiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxSUxfNjAiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@il.mjt001.com:443?allowInsecure=1&sni=il.mjt001.com#IL%e4%bb%a5%e8%89%b2%e5%88%97(youtube%e9%98%bf%e4%bc%9f%e7%a7%91%e6%8a%80)
-vless://29777784-b5ad-4e2a-be7b-335f033ab97c@188.72.103.4:443?encryption=none&security=tls&type=xhttp&sni=cdn.oldertown.ru&fp=chrome&alpn=h2,http/1.1#IL  | @Raydikalx | B3C289
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#IL  | @Raydikalx | B6A72D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#IL  | @Raydikalx | 7C445A
 vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@192.71.27.237:443?security=tls&type=ws&path=%2F&host=eded-52n.pages.dev&sni=eded-52n.pages.dev&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C819KB%2Fs
