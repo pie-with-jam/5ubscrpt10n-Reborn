@@ -604,7 +604,7 @@ vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encr
 vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
 vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# CH | 37.156.44.205
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#CH  | @Raydikalx | 710F46
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH  | @Raydikalx | ACB330
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.189:19999#CH  | @Raydikalx | 68B652
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#CH  | @Raydikalx | A80DAC
@@ -645,6 +645,7 @@ vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=aut
 vless://dac0e736-5c69-4b7c-8b1d-27cbbc3bd948@1c.hlclub.tech:8446?type=grpc&security=reality&fp=chrome&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&sid=555ac69b22424282&sni=1c.hlclub.tech&serviceName=grpc-tunnel&spx=/6ba4a0d08820a67a#CH  | @Raydikalx | C936A4
 vless://dac0e736-5c69-4b7c-8b1d-27cbbc3bd948@45.95.232.233:8446?encryption=none&fp=firefox&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&security=reality&serviceName=grpc-tunnel&sid=555ac69b22424282&sni=1c.hlclub.tech&type=grpc#CH  | @Raydikalx | BE09EC
 vmess://a925a98c-ad7a-40c6-9fdf-130a1de69416@179.43.140.24:42831?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=/3x&security=none&type=tcp#CH  | @Raydikalx | FC93FD
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#CH  | @Raydikalx | 0AC273
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#CH  | @Raydikalx | 68B652
 ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@79.127.184.104:19999#CH  | @Raydikalx | A80DAC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch4470.shopingggg.ir:19999#CH  | @Raydikalx | 0055CE
