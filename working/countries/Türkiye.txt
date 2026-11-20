@@ -829,7 +829,6 @@ vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?path=/vpnjanti
 vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tr2.vpnjantit.com#TR_4447_@Surfboardv2ray
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#TR_4466_@Surfboardv2ray
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#TR_4467_@Surfboardv2ray
-vless://1b0b1650-5125-43a1-a6bb-9886623f4bf9@trsv1.ranfelo.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#soskeynet%20%20VL-TCP-N/A%20%20TR%20315ms
 vless://013877b2-c1b9-4288-bcd3-ded6ee20c00d@176.223.66.182:4673?security=reality&sni=refersion.com&type=http&host=uploadcdn.hafezsportclub.ir&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&fp=chrome&pbk=o2sacmqNjp9zNFdMIUZB1V7oQuDmwU2sf8VGW8c1vzw&sid=0a3df65e8c94b271# VL-HTTP-RLT  TR-176.223.66.182:4673
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:8443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&alpn=h2# VL-TCP-TLS  TR-95.173.180.34:8443
 trojan://auto@162.159.44.176:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560# TR-WS-TLS  NA-162.159.44.176:443
@@ -1936,13 +1935,13 @@ trojan://NISHIKUITAN222@141.101.113.237:443?allowInsecure=0# TR-TCP-NA  NA-141.1
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91# TR-WS-TLS  NA-198.41.220.12:443
 trojan://NISHIKUITAN222@108.162.195.205:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F# TR-WS-TLS  NA-108.162.195.205:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ==@tr.subscriptionservice.ir:2089#TR-@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@tr.subscriptionservice.ir:2089#TR-@VPNine1
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#
-vless://76de14e7-5efb-4b05-aba7-477f59c78e7c@brooded-plod.sports-streams.org:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smyk.com#TR-@VPNine1
-vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.103:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#TR-@VPNine1
-vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.167:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#TR-@VPNine1
+vless://3965a281-8d97-47b9-af7c-ac01f274b05c@brooded-plod.sports-streams.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=game.worldoftanks.eu&type=tcp#TR-@VPNine1
+vless://a6cfc07b-964a-4737-a089-69abefcdb509@tu.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none#TR-@VPNine1
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#TR@ELiV2Ray
 vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%3E%3E%40configV2rayNG%3A%3ATR
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9e419c0759b54d6f&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C885KB%2Fs%7CA004-260618%2001
@@ -1973,8 +1972,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IHwgQFJheWRpa2Fs
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IHwgQFJheWRpa2FseCB8IDlENkU1RCIsImFkZCI6ImNmMS5ibG9nYm95LmlyIiwicG9ydCI6NDkzMDMsImlkIjoiN2ExNzcwYTEtZDhlNy00Nzk0LTk2NDYtODM1NDUwZDlmMzhhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IHwgQFJheWRpa2FseCB8IEQ0ODkxNyIsImFkZCI6IjIwNi4xLjEwMi42NCIsInBvcnQiOjE3NzcsImlkIjoiODZmNGFkNmYtNTY4Ny00NWUzLWE4ZGYtNzczMmFiMjg1ODFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgdm1lc3MtMTk0NTM4ODE0NCIsImFkZCI6ImZyZWUuZXJ0ZWJhdGdvb3N0YXIuaXIiLCJwb3J0Ijo0NDMsImlkIjoiMTE4YjBhYmMtYzhmNi00NzZhLTk3NzctYmM3M2Y2ZTI1NDhiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ==@tr.subscriptionservice.ir:2089#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C169KB%2Fs%7CB007-260618
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNkZQeDliajdnZWwwUEdadEdJWUlMRzFYaVhWblEzNw==@tr.subscriptionservice.ir:2089#%F0%9F%87%B9%F0%9F%87%B7TR_2%7C166KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0806
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0812
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0781
@@ -1983,6 +1980,9 @@ ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@45.89.52.66:9014#%F0%9F%87%B9%F0%9
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0810
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0805
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@104.143.204.23:8443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7_TR_%E5%9C%9F%E8%80%B3%E5%85%B6-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
+vless://76de14e7-5efb-4b05-aba7-477f59c78e7c@brooded-plod.sports-streams.org:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smyk.com#TR-@VPNine1
+vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.103:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#TR-@VPNine1
+vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.167:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#TR-@VPNine1
 vless://16097118-9bef-42be-960c-dcd94f8a5826@trn14.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=070a23aed243# TR | 213.156.152.19
 vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany24kvlcvkzcxvlqwe312adscrfsdcrc234cef.soft421.ir:1152?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43# TR | 143.246.136.145
 vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&security=none&fm={"tcp":[{"settings":{"clients":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]],"servers":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]]},"type":"header-custom"}]}&type=tcp&headerType=http&host=play.google.com# TR | 64.49.13.89
