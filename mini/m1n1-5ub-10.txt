@@ -1,8 +1,3 @@
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?sni=orbylume.my.to&type=ws&allowInsecure=1&path=/tvpn-trojan/bg&host=orbylume.my.to#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD_IPV4
-trojan://47258c2d-6b4c-444c-9085-5131bf0aff64@103.224.182.208:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%201932
-trojan://47268f30-ceb9-11ef-9f66-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20470
-trojan://47268f30-ceb9-11ef-9f66-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20284
-trojan://47ac2c00-0a7d-11f0-81fc-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20415
 trojan://47ac2c00-0a7d-11f0-81fc-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20231
 trojan://483bb26f72bf7e77f40ab78e4b319e49@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20153
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%200376
@@ -9998,3 +9993,8 @@ vless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@avval.ir:80?path=%2Fgraphql&securit
 vless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@cdnjs.com:80?path=%2Fgraphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#%E2%98%81%EF%B8%8F%20Cloudflare%202062
 vless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@pressbrains.com:80?path=%2Fgraphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#%E2%98%81%EF%B8%8F%20Cloudflare%202063
 vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?mode=auto&path=%2F&security=reality&encryption=none&pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&fp=chrome&spx=%2F&type=xhttp&sni=zula.ir&sid=d9ed58fe#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%201001
+vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@premium-us-ca-01-gthost.efgwf.online:8080?type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=/ws-6Tta3kYF#%E6%9C%AA%E7%9F%A5%20VLESS-793%20%7C%20free-nodes
+vless://4e149f53-ba5b-451b-8699-b920569a25de@104.16.255.182:2083?type=ws&security=tls&sni=nova-sunny-garden-522f.hojatnamat67.workers.dev&fp=chrome&host=nova-sunny-garden-522f.hojatnamat67.workers.dev&path=%2F#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-2ECCA7DB
+vless://4e149f53-ba5b-451b-8699-b920569a25de@104.17.127.41:2087?type=ws&security=tls&sni=nova-sunny-garden-522f.hojatnamat67.workers.dev&fp=chrome&host=nova-sunny-garden-522f.hojatnamat67.workers.dev&path=%2F#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-8915BEC7
+vless://4e243073-f25c-4aab-b3ff-63b6e8ef7f4b@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9IT_23%7C573KB%2Fs%7CC002-260622%2001
+vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?path=/api/user&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rotterdam.korgivps.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%200757
