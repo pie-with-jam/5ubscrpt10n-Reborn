@@ -621,7 +621,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?allowInsecure=1&sni=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | A7A956
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?allowInsecure=1#CH  | @Raydikalx | CEFF4F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 50D925
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | C6F0FA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | C6F0FA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 53EDE0
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | 82B9CD
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.yourultimateprofessionalcareerhub.com#CH  | @Raydikalx | 8499EA
@@ -632,8 +632,6 @@ trojan://SoftNetConnect@83.228.224.161:443#CH  | @Raydikalx | 6F7849
 vless://2cbba076-cadf-4f45-9335-ab1dc46c8d04@179.43.178.29:8443?encryption=none&fp=&host=swing-21cdn.cachenova-cdn.cc&mode=packet-up&path=/edge/7cb87eae5259/&pbk=8QMMl_kMbeWlk7jKTsxMKYY_gjUsTOa07ubb_LUIzGM&security=reality&sid=7fc3b6ea907a1a21&sni=swing-21cdn.cachenova-cdn.cc&type=xhttp#CH  | @Raydikalx | 2881BE
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#CH  | @Raydikalx | 15C43B
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#CH  | @Raydikalx | A43E99
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@ch5.h1cloud.net:25035?mode=stream-one&path=/astral-edge-h1&security=reality&encryption=none&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&type=xhttp&sni=96f799r.ch5.h1clayd.click&sid=eb63581de991f8c8#CH  | @Raydikalx | 174D4F
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@ch5.h1cloud.net:25035?type=xhttp&security=reality&path=/astral-edge-h1&sni=96f799r.ch5.h1clayd.click&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&sid=eb63581de991f8c8#CH  | @Raydikalx | 4CBF2D
 vless://7c4574cc-6396-44d1-8427-60b91467264e@201.8.81.196:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tse1.hat.onl&pbk=8Wm7HmrEFFmPb1YBujIdnoV2ebynl1wBMJp_v2oiwiM&sid=ce680883ad484149&fp=chrome#CH  | @Raydikalx | 81CD2B
 vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:443?mode=auto&path=/vless-xhttp&security=reality&encryption=none&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&fp=chrome&type=xhttp&sni=sw.cloudvienta.com&sid=7ea8737c31629437#CH  | @Raydikalx | 9043BE
 vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#CH  | @Raydikalx | 52CA9C
@@ -643,6 +641,7 @@ vless://9be9e1e4-d1fc-4423-b22d-cd07a4381acb@83.228.193.229:443?sni=cj1-e06.page
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?encryption=none&security=tls&sni=portal.mavexa.ir&fp=chrome&type=tcp&headerType=none#CH  | @Raydikalx | A19323
 vless://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.148.132:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c8IEc_c_QBmI5YAwILoVH0xw2xC4AJgJDKEYKcmKogo&security=reality&sid=7f2e9c4b1a8d6e55&sni=nl-salad-12.fantoff.online&type=tcp#CH  | @Raydikalx | 2883A3
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#CH  | @Raydikalx | D5FE15
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#CH  | @Raydikalx | 68B652
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuY0lrdWJtb0RHc2w@208.69.78.133:443#CH  | @Raydikalx | AEEE60
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | 252CA9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | DA2ACE
@@ -1618,6 +1617,7 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#/Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#/Switzerland
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?#[openproxylist.com] trojan-CH
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#[openproxylist.com] trojan-CH
 vless://9be9e1e4-d1fc-4423-b22d-cd07a4381acb@83.228.193.229:443?sni=cj1-e06.pages.dev&type=ws&host=cj1-e06.pages.dev&path=/?ed=2560fp=random&security=tls#[openproxylist.com] vless-CH
 vmess://ewogICAgImFkZCI6ICIxNzkuNDMuMTQwLjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDQyODMxLAogICAgInBzIjogIvCfh6jwn4etQ0gtMTc5LjQzLjE0MC4yNC0wNjAxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://9be9e1e4-d1fc-4423-b22d-cd07a4381acb@83.228.193.229:443?&security=tls&sni=cj1-e06.pages.dev&type=ws&headerType=none&host=cj1-e06.pages.dev&path=%2F%3Fed%3D2560fp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-CH-1...%20%231

@@ -37,7 +37,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNUJEM0FGIiwiYWRk
 vmess://eyJhZGQiOiI0ZGhnam8ydDlhbmNpcXBrLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiI0ZGhnam8ydDlhbmNpcXBrLnYuM2Rucy52aXAiLCJpZCI6ImI2NjRjYzM2LTQ4OTYtNDU0Yi1iYjljLTEzNzdjNzYxNzZkZSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEZCQzQxNCIsInNuaSI6IjRkaGdqbzJ0OWFuY2lxcGsudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMDVGRjZFIiwiYWRkIjoiNTQuMTY4LjI0Mi4yNSIsInBvcnQiOiI4NTU1IiwiaWQiOiI3YWEzYTAyNC1lMzMzLTRiNjMtOTlhMi0zZGI5ZDNiMjA1NGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQzYxQzQ3IiwiYWRkIjoiNTQuMTY4LjI0Mi4yNSIsInBvcnQiOiI4NTU1IiwiaWQiOiI3YWEzYTAyNC1lMzMzLTRiNjMtOTlhMi0zZGI5ZDNiMjA1NGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6ImEuMTg5LmNuIn0=
-vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDhFNUI1OCIsImFkZCI6IjY0LjE3Ni4zNC4xMDIiLCJwb3J0Ijo0NjEzMCwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA4RTVCNTgifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgOEU1QjU4IiwiYWRkIjoiNjQuMTc2LjM0LjEwMiIsInBvcnQiOiI0NjEzMCIsImlkIjoiNDc3MzUwYjItNzUzNi00ZjM4LWVlMjEtMDIwZWZkZGUyZDFkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgM0Q4RDBDIiwiYWRkIjoiNjQuMTc2LjUxLjIxNCIsInBvcnQiOiIyMzQ2MiIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2ExNTIwNiIsImhvc3QiOiI2NC4xNzYuNTEuMjE0In0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNEZEMTE4IiwiYWRkIjoiNjQuMTc2LjUxLjIxNCIsInBvcnQiOiIyMzQ2MiIsImlkIjoiOTVjNWFiYzEtMDE4ZC00NjI4LTg5YTctMjVhYjljNjJhYjc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2ExNTIwNiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNTNENDQ0IiwiYWRkIjoiN2dxdDQtZzAxLmpwMDQtMzc3MS12bTAuZW50cnkuZnIwMzA3YS5hcnQiLCJwb3J0IjoiNDQ0IiwiaWQiOiI3YTZjYjU5Yi1mYmNkLTNmNTAtYjVmMi1hMjUzNDMyNmM0YzgiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
@@ -314,6 +314,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#[
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[704][JP][0][TROJAN][None][free4allVPN][2025-12-25][2026-11-19 04:49]
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#[1499][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#[1548][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
+vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDhFNUI1OCIsImFkZCI6IjY0LjE3Ni4zNC4xMDIiLCJwb3J0Ijo0NjEzMCwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA4RTVCNTgifQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0160
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0161
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0157
@@ -1416,7 +1417,6 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@35.72.179.15:443?encryption=none&se
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443# JP | 149.22.87.204
 ss://YWVzLTI1Ni1nY206WUt3RHozbUZwVDl2R2NMOG5CczVkSHJBMnN4TQ@64.176.57.251:8388# JP | 64.176.57.251
 vless://516f305b-abb4-4e20-f70f-322ee3d7177d@43.133.167.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=r.bing.com&type=tcp# JP | 43.133.167.153
-vmess://eyJhZGQiOiAiMTQxLjE0Ny4xODEuMjE5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIwYjg3M2NmZi0xMWFiLTQ3MTYtYzQxYS0wNGY4ODYxMzUwOTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JvZXdlc3UiLCAicG9ydCI6IDQ0MywgInBzIjogIlsxNTg0OTRdIC0g8J+Hr/Cfh7UgSmFwYW4gfCBAZnJlZW5ldHRpciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#JP  | @Raydikalx | 1A14DC
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#JP  | @Raydikalx | 66A632
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP  | @Raydikalx | 554D18
@@ -1577,7 +1577,7 @@ vless://18ce1302-4e37-4eac-bd4f-e3e0a983e589@45.76.98.127:443?fp=chrome&host=itu
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 3C8099
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 8EB17B
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 645DE6
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#JP  | @Raydikalx | AA31A8
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=raw&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&encryption=none#JP  | @Raydikalx | AA31A8
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?fp=qq&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#JP  | @Raydikalx | 7A38C5
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | 02A024
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP  | @Raydikalx | A7EEB3
@@ -1594,7 +1594,6 @@ vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&t
 vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?fp=chrome&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#JP  | @Raydikalx | CB0C73
 vless://31904E3E-F57B-41D1-BDB2-CB6D3A496232@jp5-r.link-t7.com:10035?security=reality&type=grpc&mode=gun&serviceName=update&sni=s0.awsstatic.com&fp=chrome&sid=686c0ef0&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.0MB%2Fs
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C5.9MB%2Fs
-vless://5821f560-4156-4faf-80ec-9d798b128090@172.64.229.239:2083?security=tls&type=ws&path=%2F&host=cdn.lahjy.xyz&packetEncoding=xudp&sni=cdn.lahjy.xyz&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.2MB%2Fs
 trojan://BxceQaOe@13.113.192.229:2595?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.113.192.229
 trojan://BxceQaOe@13.192.163.115:381?sni=t.me%252Fripaojiedian&peer=t.me%252Fripaojiedian&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  13.192.163.115
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#JP   TROJAN-TCP-TLS - Klayer LLC  93.93.246.88
