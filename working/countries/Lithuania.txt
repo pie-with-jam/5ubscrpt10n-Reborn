@@ -440,10 +440,11 @@ vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&
 vmess://eyJhZGQiOiAiNzcuODMuMjU0LjE4IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIxNmZiZDMzYS0xMTdkLTQ4NmItYjBkZi0xMWEyNzU5ZjNiMTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTEwOTMsICJwcyI6ICLwn4ex8J+HuSBMaXRodWFuaWEgMTQzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vmess://eyJhZGQiOiAiODUuMjA2LjE2NS4zNiIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogImJhNDlhYjA1LTc4ZjgtNGIwYi05NDAwLTE4MjZjYzJkM2Y3NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4ex8J+HuSBMaXRodWFuaWEgMTQxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vmess://eyJhZGQiOiAiODUuMjA2LjE2OC43MSIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3LjkzMjcxNjI2Lnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwgInBvcnQiOiAzMDAwMCwgInBzIjogIvCfh7Hwn4e5IExpdGh1YW5pYSAxNDIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.2MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%F0%9F%87%B1%F0%9F%87%B9LT_3%7C1.8MB%2Fs%7CA004-260618
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C2.1MB%2Fs%7CC002-260622
-ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#%F0%9F%87%B1%F0%9F%87%B9LT_7%7C1.8MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.3MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9LT_2%7C1.6MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%F0%9F%87%B1%F0%9F%87%B9LT_4%7C2.1MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%F0%9F%87%B1%F0%9F%87%B9LT_5%7C1.7MB%2Fs%7CA004-260618
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%F0%9F%87%B1%F0%9F%87%B9LT_8%7C2.3MB%2Fs%7CC002-260622
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+5
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+28
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+54
@@ -452,13 +453,11 @@ ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9LT_3%7C1.9MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#%F0%9F%87%B1%F0%9F%87%B9LT_5%7C1.8MB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%F0%9F%87%B1%F0%9F%87%B9LT_6%7C1.9MB%2Fs%7CA004-260618%2001
-vless://2cbba076-cadf-4f45-9335-ab1dc46c8d04@88.216.127.240:8443?encryption=none&security=reality&type=xhttp&sni=cache-n12.strixedge.cc&fp=chrome&pbk=olhEFLQwrlDOP4TEtsWWMAUzPo7mhe-LlFvqb4ThP1Y&sid=2eb0cf5bf22f88cb#LT-@VPNine1
 ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg@195.238.126.20:9068#LT  | @Raydikalx | 72F068
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@195.238.126.20:9001#LT  | @Raydikalx | C1197D
 ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw@195.238.126.20:9012#LT  | @Raydikalx | 1026BC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#LT  | @Raydikalx | CB9299
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app26.betust.net&fp=chrome&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&type=tcp&headerType=none#LT  | @Raydikalx | E9063C
-vless://2cbba076-cadf-4f45-9335-ab1dc46c8d04@88.216.127.240:8443?encryption=none&security=reality&type=xhttp&sni=cache-n12.strixedge.cc&fp=chrome&pbk=olhEFLQwrlDOP4TEtsWWMAUzPo7mhe-LlFvqb4ThP1Y&sid=2eb0cf5bf22f88cb#LT  | @Raydikalx | 645801
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&type=grpc&mode=gun&serviceName=grpc&security=tls&fp=chrome&sni=edge-lt.lindenpixel.com#LT  | @Raydikalx | D0CE2C
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=tls&fp=chrome&sni=edge-lt.lindenpixel.com#LT  | @Raydikalx | 191DB9
 vless://4643976f-85fa-40cf-9e58-ea28b50f253b@litva1.ali-bard.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=litva1.ali-bard.online&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&flow=xtls-rprx-vision#LT  | @Raydikalx | 7DD71F
@@ -467,7 +466,6 @@ vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.248.124:443?security=reality&
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#LT  | @Raydikalx | 4B1A63
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#LT  | @Raydikalx | A5B1B1
 vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@88.216.74.37:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yw0ein72.dendi.top&fp=chrome&security=reality&pbk=UpOOm5-gcSp3fLuCzWl2HJnnqtUHpnbyOWU2yUCcsRI&sid=0492eabdb9#LT  | @Raydikalx | 1D8333
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@88.216.74.37:443?&security=reality&flow=xtls-rprx-vision&pbk=UpOOm5-gcSp3fLuCzWl2HJnnqtUHpnbyOWU2yUCcsRI&sid=0492eabdb9&fp=chrome&sni=yw0ein72.dendi.top&type=tcp&headerType=none&host=yw0ein72.dendi.top&path=/#LT  | @Raydikalx | 74EED3
 vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#LT  | @Raydikalx | 5950EA
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#LT  | @Raydikalx | 55E849
 vless://5504eaa8-1395-402f-8e0e-75ecd762e627@88.216.69.253:443?cs=semi-python&path=%2Ffiughoieuhti834t90&security=tls&alpn=http%2F1.1&encryption=none&fm=tlshello-0-len&insecure=0&host=server6.9966338.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=server6.9966338.xyz#LT  | @Raydikalx | 4CC7CF
@@ -1661,5 +1659,4 @@ ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23T
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?security=tls&sni=vangoghhh.info&allowInsecure=1&type=ws&path=/rdfgtws&host=vangoghhh.info&encryption=none#[718][LT][0][SS][None][v2ray_vpn_ir][2026-07-21][2026-07-25 02:07]
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[698][LT][0][SS][None][marambashi][2026-07-20][2026-07-25 02:07]
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[705][LT][0][SS][None][marambashi][2026-07-18][2026-07-25 02:07]
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-LT
 vmess://ewogICAgImFkZCI6ICI3Ny44My4yNTQuMTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjE2ZmJkMzNhLTExN2QtNDg2Yi1iMGRmLTExYTI3NTlmM2IxNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1MTA5MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTc3LjgzLjI1NC4xOC0yNzQwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
