@@ -29,9 +29,9 @@ trojan://idc117okt@103.226.139.201:443?security=tls#[2060][ID][0][TROJAN][None][
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[2213][ID][0][TROJAN][None][kiava][2026-01-23][2026-11-19 04:49]
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#[676][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 trojan://idc117okt@103.176.78.153:443?security=tls#[2059][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5267
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5425
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7521
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4851
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5009
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7125
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=edge&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=ios&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
@@ -349,6 +349,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443#ID  | @Raydikalx | 66BCE2
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#ID  | @Raydikalx | 1BFF9A
 trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID  | @Raydikalx | 323809
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7521
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
