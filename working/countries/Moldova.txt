@@ -118,6 +118,7 @@ vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&
 vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.156.64.64:443?type=tcp&headerType=none&security=reality&encryption=none&sni=md.dendiboss.org&fp=chrome&pbk=PQm4_ELMk_t2_-78lisq7Pt3aal3IVaC519prE_-Fh8&sid=9c2378562188c3cb&flow=xtls-rprx-vision#MD_3083_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome&security=tls#15|MD_speednode_0032
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.22.239:2003?allowInsecure=0&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chromefp=chrome&security=tls#15|MD_speednode_0033
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw=@45.145.0.31:51348#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2004
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2005

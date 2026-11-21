@@ -48,7 +48,7 @@ vmess://eyJhZGQiOiAiMzguNjAuMjI0LjE3MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX  | @Raydikalx | 321663
 trojan://af4b064a9c39472fb34ad8b113acdc6b@154.205.152.109:443?sni=154.205.152.109&allowInsecure=1&type=tcp#MX  | @Raydikalx | C97CDD
-vless://93fc31e6-e1b4-4961-b028-7de968a434d1@40.233.21.121:63751?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&sid=1f2519bb96e5589c&sni=www.cloudflare.com#MX  | @Raydikalx | 933D1B
+vless://93fc31e6-e1b4-4961-b028-7de968a434d1@40.233.21.121:63751?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=1f2519bb96e5589c&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU#MX  | @Raydikalx | 933D1B
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#MX  | @Raydikalx | 03BF9D
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#MX  | @Raydikalx | 8AA5EE
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ul-mexico1.09vpn.com&path=%2Fvless%2F#MX  | @Raydikalx | 3DBFFB
