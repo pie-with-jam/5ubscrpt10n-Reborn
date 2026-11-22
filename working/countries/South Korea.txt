@@ -637,11 +637,10 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=c
 trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&sni=kr002.zestapp778.com&type=tcp#KR  | @Raydikalx | 10B57A
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?host=152.69.226.63&path=%2F&security=none&type=ws#KR  | @Raydikalx | C98ACA
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?fp=chrome&path=%2F&security=false&type=ws#KR  | @Raydikalx | BF1564
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&sni=152.69.226.63#KR  | @Raydikalx | 52445E
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F#KR  | @Raydikalx | 6913F7
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?path=%2F&security=none&type=ws#KR  | @Raydikalx | 6913F7
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&sni=152.69.226.63&type=ws#KR  | @Raydikalx | E3B6CD
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws#KR  | @Raydikalx | E820CB
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@leviko-kr7255.shopingggg.ir:25555?security=none&type=ws&path=%2F&host=leviko-kr7255.shopingggg.ir&encryption=none#KR  | @Raydikalx | 92745C
+vless://4ded3111-b418-475a-93de-0360932508b2@43.108.109.112:443?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=b79a86e2b1a586a0&pbk=vrFq4-k-eiTSyRF3T3e7Fqmlv4XSKmByKYsw55zeX3w&encryption=none#KR  | @Raydikalx | 2253B9
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&path=%2F&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR  | @Raydikalx | F84964
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=chrome&host=%3Fjoin_telegram%40marambashi_marambashi_marambashi_marambashi&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR  | @Raydikalx | 6E78E9
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR  | @Raydikalx | F949F0
@@ -3295,5 +3294,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%f0%9f%87%b0%f0%9f
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#%f0%9f%87%b0%f0%9f%87%b7%20KR%2014
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#[openproxylist.com] trojan-KR
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#[openproxylist.com] vless-KR
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20%5Bwww.v2nodes.com%5D%20vless-KR-1...
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#%F0%9F%87%B0%F0%9F%87%B7%20%5Bwww.v2nodes.com%5D%20trojan-KR-...

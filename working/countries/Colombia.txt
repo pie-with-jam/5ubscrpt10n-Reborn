@@ -62,6 +62,7 @@ vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%2001
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4CO-190.120.231.45-0775
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@194.87.131.9:443?encryption=none&security=tls&type=xhttp&sni=sunstone.elvano.website&fp=firefox#[|||14050901|co
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#CO  | @Raydikalx | 4818AB
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.130:62145?headerType=none&encryption=none&security=none&type=tcp#[23949][CO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.212:62145#[23977][CO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
