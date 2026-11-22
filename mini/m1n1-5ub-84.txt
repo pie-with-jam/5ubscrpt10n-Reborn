@@ -1,3 +1,15 @@
+trojan://blue2024@103.21.244.109:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#[7349][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://FH72359861@3.34.132.141:443?security=tls&path=/#[4660][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#[5887][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://AE62539071@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#[3450][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#[2210][TW][0][TROJAN][None][mftizi][2024-10-15][2026-08-16 00:34]
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#[8224][JP][0][TROJAN][None][free4allVPN][2025-10-23][2026-08-16 00:34]
+trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#[9627][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://Aimer@63.141.128.66:2087?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#[4242][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=tls&sni=$$supaz05.xiaohouzi.club#[1190][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://ND91608427@social-mutt.rooster465.autos:443?security=tls&sni=social-mutt.rooster465.autos#[6202][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://Aimer@104.19.57.203:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#[3650][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls&sni=tight-possum.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#[6681][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://d6dd83c0-3f0f-11f0-9e9e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#[8061][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@square-tortoise.rooster465.autos:443?allowInsecure=0#[5146][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443?security=tls&sni=hdfy8c1.foriran.me&allowInsecure=1&type=tcp#[7042][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -4375,6 +4387,7 @@ trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20015?security
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20018?security=tls&sni=$iplc.xiaohouzi.club#4Jadi-56c5424d54
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20032?security=tls&sni=$$hk-azure02.xiaohouzi.club#4Nika-b84e6bdfd5
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20037?security=tls&sni=$$$$iplc.xiaohouzi.club#4FreeIran-3fab4e2a14
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#4Sarina-b358240ee7
 trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#4Jadi-b21c852d3e
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#4Kian-146cf83623
 trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1&type=tcp#4Nika-d4f2f8df7b
@@ -4493,12 +4506,12 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#4FreeIran-3dd00b8ccd
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#4Mohsen-60fa438d43
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#4Kian-ca2dd89cd7
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#4FreeIran-23d065ee42
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp#4Sarina-91d7841ae6
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls#4Sarina-325c9a24f1
 trojan://41dbabe59a@sp1.connecton.surf:443?type=tcp&allowInsecure=1#4FreeIran-cdb1e24680
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp#4Sarina-4e8ecb7ad4
 trojan://46d69a7e-9002-44a3-99c1-01c412f29726@185.176.24.105:443?security=tls&sni=k9de1.djjc.sbs&allowInsecure=1&type=tcp#4Kian-191f377623
 trojan://46d69a7e-9002-44a3-99c1-01c412f29726@sg1.djjsvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&allowInsecure=1&type=tcp#4Mohsen-37f4a42585
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#4Mohsen-91783b8f29
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10801?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#4Kian-2cc9f4e8d3
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10802?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#4Jadi-d93586cd72
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10803?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#4Mohsen-bd278603cb
@@ -5050,7 +5063,6 @@ trojan://AE62539071@54.64.255.224:443?sni=maximum-elk.rooster465.autos&type=tcp&
 trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#4Sarina-aa999ec4bd
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#4FreeIran-77d2bbe440
 trojan://AE62539071@54.74.159.195:443?sni=kind-stork.rooster465.autos&type=tcp&fp=chrome#4Jadi-fef8d307ca
-trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#4Mohsen-57f2828f63
 trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#4Nika-bd6073b7ef
 trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#4Jadi-e6799cdbd2
 trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&fp=chrome&path=/#4Nika-a307a19f2e
@@ -7120,7 +7132,6 @@ trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#4Mohsen-64d3a99551
 trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#4Sarina-97f365b0d3
 trojan://d6ed263c-3f14-44db-bfee-cfcc26b234d1@107.172.217.30:443?security=tls&sni=san.ydnode.us&allowInsecure=1&type=tcp#4Nika-0a3d08b7eb
 trojan://d716e745-62f8-498e-af97-3a1e096d8c84@xieyi.jddg.me:443?security=tls&allowInsecure=1&type=tcp#4Sarina-0ecc5c3acf
-trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443?security=tls&allowInsecure=1&type=tcp#4Sarina-cab66128a8
 trojan://dT6h9HBwQO@139.59.108.29:31313?security=tls&sni=m.linkedin.us&type=tcp#4Jadi-897e3fbb90
 trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&sni=telewebion.com#4Jadi-842488f58c
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#4Kian-85227e8c30
@@ -9987,14 +9998,3 @@ trojan://FH72359861@new-eagle.rooster465.autos:443?sni=new-eagle.rooster465.auto
 trojan://FH72359861@noted-bass.rooster465.autos:443?sni=noted-bass.rooster465.autos&type=tcp&fp=chrome#4FreeIran-5658cf605d
 trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#4Kian-5cead51458
 trojan://FH72359861@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Mohsen-065eea9772
-trojan://FH72359861@premium-weevil.rooster465.autos:443?sni=premium-weevil.rooster465.autos&type=tcp&fp=chrome#4Kian-75ecd9b24d
-trojan://FH72359861@relative-labrador.rooster465.autos:443?sni=relative-labrador.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Kian-9957824883
-trojan://FH72359861@renewed-porpoise.rooster465.autos:443?allowInsecure=0#4Nika-751fd8ff3e
-trojan://FH72359861@settled-camel.rooster465.autos:443?sni=settled-camel.rooster465.autos&type=tcp&fp=chrome#4Sarina-cf304f0446
-trojan://FH72359861@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&type=tcp&fp=chrome#4FreeIran-a41dc3504c
-trojan://FH72359861@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Jadi-b7b9874f02
-trojan://FH72359861@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Nika-ef5259e9d0
-trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Jadi-54811c95ba
-trojan://FH72359861@tight-fawn.rooster465.autos:443?sni=tight-fawn.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Kian-57e120a4e1
-trojan://FH72359861@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Nika-38249af78d
-trojan://FH72359861@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&type=tcp&fp=chrome#4FreeIran-fd38c33c49

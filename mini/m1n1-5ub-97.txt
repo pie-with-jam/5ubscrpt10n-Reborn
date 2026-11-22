@@ -1,3 +1,15 @@
+trojan://2af31107-e577-4995-8247-e8a57855e90b@194.114.138.1:10011?allowInsecure=1&sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?sni=sbank.ir
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?allowInsecure=1&sni=sbank.ir
+trojan://26a663656e575c0b@211.72.35.157:3389?allowInsecure=1
+trojan://tune7jerky7HAYRICK@72.14.185.43:443?allowInsecure=1&sni=ap-northeast-1.openssl3.com
+trojan://44d901b6-954f-3d03-80c2-375dd2f202be@jnd.jiashumao.net:443?sni=jnd.jiashumao.net
+trojan://44d901b6-954f-3d03-80c2-375dd2f202be@wkl.jiashumao.net:50519?sni=wkl.jiashumao.net
+trojan://6738c25a-d929-3319-8119-b7427b6f3d96@scloud60.jafiyun.world:22060?sni=scloud60.jafiyun.world
+trojan://4b021078-a562-49ce-b5e2-d77d5bcf09fc@gzyd.jcnode.top:20003?allowInsecure=1&sni=hk02.ckcloud.info
+trojan://a9172c3b-c324-4fd3-86a0-f40c104ebd9e@gzyd.jcnode.top:20003?allowInsecure=1&sni=hk02.ckcloud.info
+trojan://tune7jerky7HAYRICK@45.33.30.197:443?allowInsecure=1&sni=ap-northeast-1.openssl3.com
+trojan://270685c6-f4fb-4b15-bca6-dd6c622e8f44@cm.802039.xyz:38443?allowInsecure=1&sni=ru2.802039.xyz
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?allowInsecure=1
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@uk01.awcloud.top:443?allowInsecure=0
 trojan://44d901b6-954f-3d03-80c2-375dd2f202be@trqa.fjzjvgq.cn:30606?sni=trqa.jiashumao.net
@@ -9986,15 +9998,3 @@ trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?security=tls&sn
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev# b2n.ir/v2ray-configs | 770
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls# b2n.ir/v2ray-configs | 464
 trojan://521314@103.133.1.27:443?sni=hhtj.hhllfly.kdns.fr# b2n.ir/v2ray-configs | 513
-trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls# b2n.ir/v2ray-configs | 225
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com# b2n.ir/v2ray-configs | 863
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com# b2n.ir/v2ray-configs | 504
-trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos# b2n.ir/v2ray-configs | 918
-trojan://KV63147582@legible-possum.rooster465.autos:443?security=tls&sni=legible-possum.rooster465.autos# b2n.ir/v2ray-configs | 120
-trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk# b2n.ir/v2ray-configs | 811
-trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk# b2n.ir/v2ray-configs | 292
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls# b2n.ir/v2ray-configs | 66
-trojan://b490740312aedb5f9f6b84c7aebd08c0@54.46.77.161:38937?sni=www.nintendogames.net# b2n.ir/v2ray-configs | 570
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls# b2n.ir/v2ray-configs | 464
-trojan://JT80563429@touching-pigeon.rooster465.autos:443?security=tls# b2n.ir/v2ray-configs | 389
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir# b2n.ir/v2ray-configs | 281
