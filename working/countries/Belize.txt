@@ -50,7 +50,6 @@ vless://4dd8d557-dbe3-4c6f-a3ee-168da9a03d1b@45.135.235.255:443?encryption=none&
 vless://4dd8d557-dbe3-4c6f-a3ee-168da9a03d1b@45.135.235.255:443?encryption=none&fp=chrome&host=worker3.paneger955.workers.dev&path=/&security=tls&sni=worker3.paneger955.workers.dev&type=ws#BZ  | @Raydikalx | 56302D
 vless://0b7337bf-dcff-432b-9ec6-b4fb6d22fc92@45.135.235.255:443?type=ws&security=tls&fp=firefox&host=worker3.fivon81984.workers.dev#BZ  | @Raydikalx | 6A7F7B
 vless://48cfe81c-3f0b-457f-b740-fbbfc6f679aa@45.135.235.255:443?type=ws&security=tls&fp=firefox&host=worker3.jegakey970.workers.dev#BZ  | @Raydikalx | E348AE
-vless://d795a9ec-5ed0-4309-ba6c-edc09b818669@45.135.235.90:443?security=tls&type=xhttp&path=%2F&host=51.baklajann.ru&sni=51.baklajann.ru&fp=chrome&mode=auto#BZ  | @Raydikalx | 90DF88
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#BZ_382_@Surfboardv2ray
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#BZ_377_@Surfboardv2ray
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@45.131.5.20:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#[3551][BZ][0][VLESS][None][marambashi][2026-07-19][2026-07-29 02:04]

@@ -376,7 +376,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE@aio.unlimited.biz.id:443#ID  | @Raydikalx | 66BCE2
 trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#ID  | @Raydikalx | 323809
 vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&sid=6135361d11cc2b31&packetEncoding=xudp#ID  | @Raydikalx | D00C3B
-vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443?security=reality&type=tcp&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&sid=6135361d11cc2b31&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&encryption=none#ID  | @Raydikalx | D00C3B
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

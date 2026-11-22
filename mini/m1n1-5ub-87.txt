@@ -1,92 +1,3 @@
-trojan://humanity@141.193.213.21:443?alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#4Mohsen-5210
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#4Mohsen-5211
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5212
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.calmloud.com#4Mohsen-5213
-trojan://humanity@162.159.153.199:443?sni=www.gossipglove.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#4Mohsen-5214
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#4Mohsen-5215
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#4Mohsen-5216
-trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5217
-trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5218
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#4Mohsen-5219
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5220
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#4Mohsen-5221
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#4Mohsen-5222
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5223
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#4Mohsen-5224
-trojan://humanity@162.159.38.119:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#4Mohsen-5225
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#4Mohsen-5226
-trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#4Mohsen-5227
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#4Mohsen-5228
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#4Mohsen-5229
-trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#4Mohsen-5230
-trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.creationlong.org&ws=1&wspath=%2Fassignment#4Mohsen-5231
-trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Mohsen-5232
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#4Mohsen-5233
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5234
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=1&sni=www.ignitelimit.com#4Mohsen-5235
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#4Mohsen-5236
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5237
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5238
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#4Mohsen-5239
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#4Mohsen-5240
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.creationlong.org&path=%2Fassignment#4Mohsen-5241
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&Host=www.creationlong.org#4Mohsen-5242
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Mohsen-5243
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Mohsen-5244
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#4Mohsen-5245
-trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com#4Mohsen-5246
-trojan://humanity@172.64.146.143:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5247
-trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#4Mohsen-5248
-trojan://humanity@172.64.146.198:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#4Mohsen-5249
-trojan://humanity@172.64.146.27:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#4Mohsen-5250
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#4Mohsen-5251
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#4Mohsen-5252
-trojan://humanity@172.64.147.166:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5253
-trojan://humanity@172.64.147.210:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5254
-trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#4Mohsen-5255
-trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#4Mohsen-5256
-trojan://humanity@172.64.147.227:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#4Mohsen-5257
-trojan://humanity@172.64.147.227:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#4Mohsen-5258
-trojan://humanity@172.64.147.236:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#4Mohsen-5259
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#4Mohsen-5260
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#4Mohsen-5261
-trojan://humanity@172.64.147.24:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&Host=www.gossipglove.com#4Mohsen-5262
-trojan://humanity@172.64.147.2:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#4Mohsen-5263
-trojan://humanity@172.64.147.52:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5264
-trojan://humanity@172.64.149.54:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5265
-trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#4Mohsen-5266
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5267
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5268
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#4Mohsen-5269
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#4Mohsen-5270
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#4Mohsen-5271
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws&path=/%2Fassignment&fp=chrome#4Mohsen-5272
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#4Mohsen-5273
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#4Mohsen-5274
-trojan://humanity@172.64.155.209:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5275
-trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#4Mohsen-5276
-trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#4Mohsen-5277
-trojan://humanity@172.66.44.211:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5278
-trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#4Mohsen-5279
-trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#4Mohsen-5280
-trojan://humanity@172.66.47.69:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5281
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-5282
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-5283
-trojan://humanity@172.67.180.92:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#4Mohsen-5284
-trojan://humanity@172.67.180.92:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#4Mohsen-5285
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5286
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5287
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5288
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Mohsen-5289
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#4Mohsen-5290
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#4Mohsen-5291
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#4Mohsen-5292
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-5293
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#4Mohsen-5294
-trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5295
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#4Mohsen-5296
-trojan://humanity@188.114.96.3:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#4Mohsen-5297
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-5298
 trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#4Mohsen-5299
 trojan://humanity@188.114.96.3:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5300
 trojan://humanity@188.114.96.3:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#4Mohsen-5301
@@ -9998,3 +9909,92 @@ trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.
 trojan://%4D%69%54%69%56%50%4E@89.116.250.135:443?path=%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#[38][LT][0][TROJAN][None][proxy_mtm][2026-07-14][2026-07-25 02:07]
 trojan://565aa5e6-15ff-3f58-b134-4ac80c744d48@dotu-krv2.03p4fad6vd.com:11049?sni=cloudflare.node-ssl.cdn-alibaba.com#[138][UnResolvedDomains][0][TROJAN][None][yaney_01][2024-02-27][2026-07-25 02:07]
 trojan://-------------%42%61%6E%56%32%72%61%79--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:47139?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6239#[55][UnResolvedDomains][0][TROJAN][None][proxy_mtm][2026-07-21][2026-07-25 02:07]
+trojan://MiTiVPN@104.21.55.230:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w&security=tls&alpn=http%2F1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#[429][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-19][2026-07-25 02:07]
+trojan://humanity@141.193.213.21:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#[881][US][0][TROJAN][None][DeamNet_Proxy][2026-07-18][2026-07-25 02:07]
+trojan://humanity@165.215.250.14:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%2Fassignment#[967][UnResolvedDomains][0][TROJAN][None][DeamNet_Proxy][2026-07-18][2026-07-25 02:07]
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#[938][US][0][TROJAN][None][V2rayng_Fast][2026-07-21][2026-07-25 02:07]
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[1020][US][0][TROJAN][None][hopev2ray][2026-06-14][2026-07-25 02:07]
+trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?sni=185.247.117.209.sslip.io#[187][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-22][2026-07-25 02:07]
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#[210][US][0][TROJAN][None][OpenSSTPVpn][2026-04-26][2026-07-25 02:07]
+trojan://XG59623478@89.39.70.159:443?fp=chrome&sni=upward-hedgehog.rooster465.autos#[713][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-23][2026-07-25 02:07]
+trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#[973][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-14][2026-07-25 02:07]
+trojan://aRh4GRxYO6@38.180.70.206:2096?type=tcp&security=none#[726][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#[531][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-07-04][2026-07-25 02:07]
+trojan://telegram-id-privatevpns@13.39.39.212:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[1146][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-24][2026-07-25 02:07]
+trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10837?sni=cloudflare.node-ssl.cdn-alibaba.com#[746][UnResolvedDomains][0][TROJAN][None][yaney_01][2024-01-24][2026-07-25 02:07]
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#[772][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-11][2026-07-25 02:07]
+trojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#[246][UnResolvedDomains][0][TROJAN][None][lrnbymaa][2026-06-30][2026-07-25 02:07]
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#[803][US][0][TROJAN][None][Outline_Vpn][2026-07-01][2026-07-25 02:07]
+trojan://MITIVPN@104.26.15.137:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#[317][US][0][TROJAN][None][Capoit][2026-07-04][2026-07-25 02:07]
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#[528][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-07-07][2026-07-25 02:07]
+trojan://-----------BanV2ray----------@37.156.45.60:438?type=grpc&security=reality&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=%2F0a7fbfe99dc4e8f#[79][UnResolvedDomains][0][TROJAN][None][V2rayCollector][2026-07-24][2026-07-25 02:07]
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=%2Fus-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=1&allowInsecure=1#[173][US][0][TROJAN][None][lrnbymaa][2026-06-30][2026-07-25 02:07]
+trojan://MiTiVPN@104.21.55.230:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w&security=tls&alpn=http%2F1.1&insecure=1&host=bw--ivs-b--vvs.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.App-Cloud.ir#[428][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-18][2026-07-25 02:07]
+trojan://------------BanV2ray------------@179.237.75.217:1232?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=firefox&spx=%2FD3hjGXEe9vzucLn&type=tcp&sni=promotion.yahoo.com&sid=21c11ba53c#[67][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-13][2026-07-25 02:07]
+trojan://TJCfE7Mx2YcA8kX8zg@nl1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#[686][UnResolvedDomains][0][TROJAN][None][ovpn2][2023-06-19][2026-07-25 02:07]
+trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[1122][ID][0][TROJAN][None][kiava][2026-01-23][2026-07-25 02:07]
+trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&sni=krnode01.oportal.cc&type=tcp&headerType=none#[152][UnResolvedDomains][0][TROJAN][None][mftizi][2024-08-02][2026-07-25 02:07]
+trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-sg.05vr9nyqg5.download:13030?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[147][UnResolvedDomains][0][TROJAN][None][mftizi][2024-10-28][2026-07-25 02:07]
+trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?sni=185.247.117.209.sslip.io#[186][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-21][2026-07-25 02:07]
+trojan://M%69TiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#[303][UnResolvedDomains][0][TROJAN][None][mehrosaboran][2026-06-28][2026-07-25 02:07]
+trojan://MiTiVPN@104.24.17.0:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#[433][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-18][2026-07-25 02:07]
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#[885][US][0][TROJAN][None][vpnx44][2026-07-10][2026-07-25 02:07]
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#[550][UnResolvedDomains][0][TROJAN][None][mehrosaboran][2026-06-29][2026-07-25 02:07]
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[1028][US][0][TROJAN][None][FreakConfig][2026-07-19][2026-07-25 02:07]
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[1005][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-20][2026-07-25 02:07]
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[447][UnResolvedDomains][0][TROJAN][None][Capoit][2026-07-17][2026-07-25 02:07]
+trojan://Mitivpn@151.101.56.6:443?path=%2Ffast-speed&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[570][US][0][TROJAN][None][prrofile_purple][2026-06-26][2026-07-25 02:07]
+trojan://humanity@202.37.33.80:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&host=www.creationlong.org#[1045][NZ][0][TROJAN][None][v2ray_vpn_ir][2026-07-19][2026-07-25 02:07]
+trojan://humanity@45.130.125.69:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#[1070][UnResolvedDomains][0][TROJAN][None][UnlimitedDev][2026-05-27][2026-07-25 02:07]
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#[981][UnResolvedDomains][0][TROJAN][None][vpn_tehran][2026-07-01][2026-07-25 02:07]
+trojan://NQ26071394@3.255.155.50:443?fp=chrome&sni=tops-marlin.rooster465.autos#[589][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-21][2026-07-25 02:07]
+trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?security=tls&sni=ssl.fastly.com&alpn=h2,http/1.1&allowInsecure=1&fp=firefox&type=tcp#[177][UnResolvedDomains][0][TROJAN][None][v2ray_vpn_ir][2026-07-18][2026-07-25 02:07]
+trojan://JA96378052@3.112.1.122:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=WangCai.rooster465.autos#[284][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-19][2026-07-25 02:07]
+trojan://MiTiVPN@172.67.74.47:443?path=%2FMiTiVPN%3Dfll&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#[510][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-07-04][2026-07-25 02:07]
+trojan://521314@104.248.161.136:443?path=%2F&security=tls&insecure=1&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=1&sni=tjplay.lxdxo.kdns.fr#[135][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-07-14][2026-07-25 02:07]
+trojan://MITIVPN@151.101.110.219:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=esalat-king-mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#[337][UnResolvedDomains][0][TROJAN][None][lrnbymaa][2026-06-30][2026-07-25 02:07]
+trojan://humanity@172.64.147.24:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#[975][UnResolvedDomains][0][TROJAN][None][DeamNet_Proxy][2026-07-18][2026-07-25 02:07]
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?allowInsecure=1#[236][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-20][2026-07-25 02:07]
+trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=45.79.8.17#[1128][UnResolvedDomains][0][TROJAN][None][nofiltering2][2026-06-10][2026-07-25 02:07]
+trojan://EUjNSWl1N%2BKMYe%2F3EFrS1hlhD8YeKQyefcvaFJ2t9jo%3D@91.107.135.249:11059?security=none&type=tcp#[241][DE][0][TROJAN][None][v2rayNG_Matsuri][2026-07-22][2026-07-25 02:07]
+trojan://MiTiVPN@PioHosting.ir:443?security=tls&sni=PioHosting.ir&fp=firefox&allowInsecure=0&alpn=http/1.1&type=ws&path=/MiTiVPN%3DfL#[558][UnResolvedDomains][0][TROJAN][None][V2range][2026-07-01][2026-07-25 02:07]
+trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#[398][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-07-02][2026-07-25 02:07]
+trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#[670][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-19][2026-07-25 02:07]
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#[227][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-23][2026-07-25 02:07]
+trojan://ON38567014@18.196.207.79:443?fp=chrome&sni=summary-finch.rooster465.autos#[641][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-23][2026-07-25 02:07]
+trojan://PD07395842@above-rabbit.rooster465.autos:443?fp=chrome#[658][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-19][2026-07-25 02:07]
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#[886][US][0][TROJAN][None][vpnx44][2026-07-09][2026-07-25 02:07]
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#[622][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-18][2026-07-25 02:07]
+trojan://09a7c68d-3a50-4fa8-b673-9f45214ec951@mci.ir0.ir:443/?type=ws&host=hamrah.ir0.ir&path=%2FKCuP73wj9ek6TobBgETclYD&security=tls&sni=hamrah.ir0.ir&alpn=http%2F1.1&fp=chrome#[93][UnResolvedDomains][0][TROJAN][None][freeconfigv2][2023-08-29][2026-07-25 02:07]
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com#[179][UnResolvedDomains][0][TROJAN][None][ConfigsHUB][2026-07-25][2026-07-25 02:07]
+trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#[534][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-27][2026-07-25 02:07]
+trojan://MiTiVPN@172.67.75.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---w&security=tls&alpn=http%2F1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#[511][US][0][TROJAN][None][prrofile_purple][2026-07-10][2026-07-25 02:07]
+trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.multiplydose.com&fp=ios&type=ws&allowInsecure=0&sni=www.multiplydose.com#[1064][SC][0][TROJAN][None][V2rayng_Fast][2026-07-16][2026-07-25 02:07]
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[1079][UnResolvedDomains][0][TROJAN][None][vpnx44][2026-07-16][2026-07-25 02:07]
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#[760][UnResolvedDomains][0][TROJAN][None][vless_vmess][2024-11-19][2026-07-25 02:07]
+trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[453][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-22][2026-07-25 02:07]
+trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=%2Fda&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#[1099][UnResolvedDomains][0][TROJAN][None][proxy_mtm][2026-07-12][2026-07-25 02:07]
+trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1#[283][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-22][2026-07-25 02:07]
+trojan://humanity@162.159.38.119:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&host=www.creationlong.org#[944][US][0][TROJAN][None][v2ray_vpn_ir][2026-07-20][2026-07-25 02:07]
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[910][US][0][TROJAN][None][mehrosaboran][2026-07-11][2026-07-25 02:07]
+trojan://Mitivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[572][US][0][TROJAN][None][mehrosaboran][2026-06-28][2026-07-25 02:07]
+trojan://humanity@162.159.38.119:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&host=www.gossipglove.com#[952][US][0][TROJAN][None][v2ray_vpn_ir][2026-07-20][2026-07-25 02:07]
+trojan://------------BanV2ray------------@179.237.75.217:1232?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=firefox&spx=%2FD3hjGXEe9vzucLn&type=tcp&sni=promotion.yahoo.com&sid=21c11ba53c#[66][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-19][2026-07-25 02:07]
+trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#[132][UnResolvedDomains][0][TROJAN][None][mftizi][2024-11-20][2026-07-25 02:07]
+trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#[793][UnResolvedDomains][0][TROJAN][None][rxv2ray][2025-12-26][2026-07-25 02:07]
+trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#[1009][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-21][2026-07-25 02:07]
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/br-orcl#[811][UnResolvedDomains][0][TROJAN][None][V2range][2026-06-21][2026-07-25 02:07]
+trojan://8d4a8689-e8fd-4405-9834-3f812c528db0@naiu-other.05vr9nyqg5.download:13036?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[207][UnResolvedDomains][0][TROJAN][None][mftizi][2024-10-17][2026-07-25 02:07]
+trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#[540][UnResolvedDomains][0][TROJAN][None][nofiltering2][2026-06-19][2026-07-25 02:07]
+trojan://TJCfE7Mx2YcA8kX8zg@us1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#[690][UnResolvedDomains][0][TROJAN][None][ovpn2][2023-06-19][2026-07-25 02:07]
+trojan://M%49TIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#[298][UnResolvedDomains][0][TROJAN][None][mehrosaboran][2026-06-28][2026-07-25 02:07]
+trojan://-----------BanV2ray----------@37.156.45.60:438?type=grpc&security=reality&mode=gun&sni=world.yahoo.com%3A443&fp=firefox&insecure=1&allowInsecure=1&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=%2F0a7fbfe99dc4e8f#[78][UnResolvedDomains][0][TROJAN][None][lrnbymaa][2026-07-23][2026-07-25 02:07]
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#[153][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-05-19][2026-07-25 02:07]
+trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[845][UnResolvedDomains][0][TROJAN][None][Outline_Vpn][2026-06-20][2026-07-25 02:07]
+trojan://MiTiVPN@162.159.38.200:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DfLL&security=tls&alpn=http%2F1.1&insecure=1&host=f--ls-Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.App-Cloud.ir#[494][UnResolvedDomains][0][TROJAN][None][FreakConfig][2026-07-21][2026-07-25 02:07]
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[919][US][0][TROJAN][None][V2rayng_Fast][2026-07-22][2026-07-25 02:07]
+trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#[271][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-07-22][2026-07-25 02:07]
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ch-2.bexum.fun#[295][UnResolvedDomains][0][TROJAN][None][shh_proxy][2026-06-15][2026-07-25 02:07]
+trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#[379][UnResolvedDomains][0][TROJAN][None][prrofile_purple][2026-06-27][2026-07-25 02:07]
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#[989][UnResolvedDomains][0][TROJAN][None][V2rayng_Fast][2026-07-20][2026-07-25 02:07]
+trojan://%4D%49%54%49%56%50%4E@www.speedtest.net:443?path=%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%3Dde&security=tls&alpn=http%2F1.1&insecure=1&host=de-Ge.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=De-Ge-N.MaQror.ir#[12][US][0][TROJAN][None][proxy_mtm][2026-07-08][2026-07-25 02:07]
