@@ -42,8 +42,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 ss://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#Luxembourg%20FranTech
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&fp=chrome&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#LU_2200_@Surfboardv2ray
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2201_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&fp=chrome&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#LU_2208_@Surfboardv2ray
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?path=/t.me-SubGift&security=tls&encryption=none&insecure=0&host=subgift.gcorecdn.com&fp=chrome&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU_2209_@Surfboardv2ray
 trojan://3778399750324494336@content-shrimp.pigeon031.one:443#Luxembourg
 trojan://3747000103274291200@95.85.93.45:443?peer=simple-coyote.adder289.quest#Luxembourg
 trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxembourg
