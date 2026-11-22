@@ -85,7 +85,6 @@ vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&encryption=none#UA_2674_@Surfboardv2ray
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.67.224:443?encryption=none&fp=&mode=auto&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#UA_3498_@Surfboardv2ray
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.67.224:443?encryption=none&fp=&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#UA_3499_@Surfboardv2ray
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2001
@@ -128,10 +127,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4emX1VBX+S5jOWFi+WFsC0+8J+HqfCf
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1189
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#UA  | @Raydikalx | 7D317F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns24.m3hrzd.ir:8044#UA  | @Raydikalx | A0C3E0
 trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#UA  | @Raydikalx | E3194C
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#UA  | @Raydikalx | 9F1E12
-vless://145142bd-fafc-45a3-b2d0-174195694a71@de.g-boot.ir:443?security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=9a597f16c2171bab#UA  | @Raydikalx | FFD69B
 vless://1fba2b1d-21c7-4110-80b6-5ddfd5407cf8@de.g-boot.ir:443?security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=9a597f16c2171bab#UA  | @Raydikalx | E61478
 vless://6d6c46cd-9041-4c38-ac2e-b24aebaed007@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&type=tcp&headerType=none#UA  | @Raydikalx | 08F056
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#UA  | @Raydikalx | 3550C8
