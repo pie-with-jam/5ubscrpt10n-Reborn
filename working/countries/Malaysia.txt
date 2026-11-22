@@ -17,8 +17,8 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#[853][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#[854][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#[1180][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0540
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0999
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0508
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0992
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20trojan-MY-...
 vmess://eyJhZGQiOiI3OC40Ny4xNzIuMjA5IiwiYWlkIjoiMCIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMGFhZWJhMWQtOGJiZi00NWYxLWI5NmYtMzY3MzA5MWMwNTM4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzI3MjAiLCJwcyI6Im15IGNvbmZpbi5yZWx4eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm92YXRlYW03LjguNy44LmlyLmNvbS5zaXRlLuS6i+WIl+WIl+eUt+S6i+eahOS6i+WIl+S4iui1m+eUty5pci5ub3ZhYmFsbC5saW5rLiIsImlkIjoiMmIyYzc0N2MtOTkwZi00MWZhLThhMTgtNDk0NTE5OTEyZWM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+Hq/Cfh7dAbXlfcHJveGlpX9mH2YXYsdin2Ycg2KfZiNmEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -77,6 +77,7 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 vmess://eyJ2IjoiMiIsInBzIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#MY  | @Raydikalx | BACC24
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh75NWV8xfDUzMktCL3N8QzAwMi0yNjA2MjIgW2MwNTMyNDU4MTA0Ml0iLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOjEwMDAwLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0540
 vless://%40Net2ray@47.250.195.135:20393/?type=tcp&encryption=none#[5][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.195.69.44:8443?security=tls&type=ws&path=%2FGOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#[34737][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#[27074][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
