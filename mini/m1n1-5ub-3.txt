@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#[6515][NL][0][SS][None][v2ray1_ng][2026-11-17][2026-11-22 03:49]
 ss://50414e45-4c5f-5a45-5553-6f51879c0594@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=levikoconfig.levikogjgfdd.ir&fp=ios&type=ws&allowInsecure=0&sni=levikoconfig.levikogjgfdd.ir#[2688][US][0][SS][None][nofiltering2][2026-07-24][2026-11-22 03:49]
 ss://17ecb7b9-056d-46dc-be9b-69cbc5a3c27a@79.137.198.44:5334?security=reality&encryption=mlkem768x25519plus.xorpub.0rtt.68D5vVahM_kYMXzdZR1lps8Px2rUvuNCtCyVIdIuyFk&pbk=ZYJrkdaVRuz2A3IJPCxU3e0Plenm3aDaYyrl-wH2Cig&host=tgju.org&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d193349e9ef0615b#[758][NL][0][SS][None][FreakConfig][2026-11-17][2026-11-22 03:49]
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.64.138.145:9101#[9475][US][0][SS][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
@@ -9997,4 +9998,3 @@ ss://f95007ea-d8f2-4062-b964-0b59032681e6@my.x10.kiava.live:2083?encryption=none
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.143.66.55:8091#[8288][US][0][SS][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 ss://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#[3904][US][0][SS][None][v2rayNG_Matsuri][2026-11-20][2026-11-22 03:49]
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#[7636][LV][0][SS][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
-ss://fa081e9f-7574-4e18-8928-31aa5ac923c7@80.47.11.123:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=pl8.lazeroe.com&type=tcp#[13354][PL][0][SS][None][oneclickvpnkeys][2026-11-13][2026-11-22 03:49]

@@ -1,3 +1,4 @@
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t04.tzteam.online&path=/?ed=2048&security=tls&sni=t04.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.40.97:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#@Tarkshodeh 
 vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?security=reality&sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&sid=ee33#@VPsave
@@ -9714,7 +9715,6 @@ trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.222:443?sni=xvxn1hkzf.m
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?allowInsecure=1&sni=nb1hk.hikigo.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%233
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20193
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20139
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&security=tls&sni=bgsg1.hikigo.com#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@a2dgus.supertoolify.com:443?allowInsecure=1&sni=a2dgus.supertoolify.com#%E7%BE%8E%E5%9B%BD_112304231
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=0&sni=bgsg1.hikigo.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20240
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&type=tcp&security=tls&sni=bgsg1.hikigo.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20296
