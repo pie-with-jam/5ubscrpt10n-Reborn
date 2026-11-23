@@ -18,12 +18,10 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&secur
 vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#[7016][TH][0][VLESS][None][hopev2ray][2026-06-14][2026-11-22 03:49]
 trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#[871][TH][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 vmess://ewogICAgImFkZCI6ICIxMTkuNTkuOTguMzkiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3Ljk4NjY2NTk4Lnh5eiIsCiAgICAiaWQiOiAiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwKICAgICJwb3J0IjogMzAwMDEsCiAgICAicHMiOiAi8J+HufCfh61USC0xMTkuNTkuOTguMzktMTM3OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=4446248c38c846e6&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&encryption=none#TH_959_@Surfboardv2ray
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=4446248c38c846e6&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&encryption=none#TH_960_@Surfboardv2ray
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_1060_@Surfboardv2ray
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_1061_@Surfboardv2ray
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_1062_@Surfboardv2ray
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#TH_1063_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_987_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_988_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH_989_@Surfboardv2ray
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#TH_990_@Surfboardv2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2003
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2001
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@103.107.52.106:52351#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2002
@@ -55,7 +53,7 @@ vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-
 vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&security=tls&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1&fp=safari#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B%2ACIDR%5D
 vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@82.148.14.100:52006?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=mvp.dont-block-please.dad#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B%2ACIDR%5D
 trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&fp=chrome#TH  | @Raydikalx | 324DD7
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=4446248c38c846e6&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&encryption=none#TH  | @Raydikalx | 76AAC5
+vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&packetEncoding=xudp#TH  | @Raydikalx | 76AAC5
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH  | @Raydikalx | 1219E4
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#TH  | @Raydikalx | 97C82A
 vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJwb3J0IjoiMzc1MTUiLCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6IiIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
