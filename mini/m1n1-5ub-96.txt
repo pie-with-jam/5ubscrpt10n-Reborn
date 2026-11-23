@@ -1,3 +1,40 @@
+trojan://telegram-id-directvpn@63.176.207.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.217.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.229.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.23.195:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.232.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.237.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.238.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.244.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.251.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.26.28:22222?security=tls&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.26.28:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
+trojan://telegram-id-directvpn@63.176.30.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.37.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.39.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.4.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.72.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.176.78.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.121.36:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.14.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.162.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.173.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.179.106:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.18.31:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1# By EbraSha
+trojan://telegram-id-directvpn@63.177.188.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.195.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.199.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.201.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.202.143:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.22.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.220.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.223.7:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.223.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.223.7:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.32.122:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.177.32.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-directvpn@63.178.100.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@63.178.101.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@63.178.117.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@63.178.126.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
@@ -9961,40 +9998,3 @@ trojan://16e4fcdb-4a1f-442e-b760-46912ce2ca71@awsjp16-data.amazon-azure.com:443
 trojan://a339e4cd-f746-4e40-976e-90227ce17217@us226.ljydw.top:443
 trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awsjp1-data.amazon-azure.com:443
 trojan://732fca19-7248-4211-a7a1-1059c6329567@tw2.microsoftjs.top:443
-trojan://f426b848-6c75-47bc-b116-c9b40f6f8bc3@aujs.stablize.top:443
-trojan://52ae9b9c-503b-4b92-a6a5-b1cab4b619a3@awshk9-tg-data.amazonwebservicess.com:443
-trojan://623d6c1ffc2a4f4f8eb7575c45429df5@hk01.shenzhouplus.cf:10003
-trojan://52ae9b9c-503b-4b92-a6a5-b1cab4b619a3@awshk5-tg-data.amazonwebservicess.com:443
-trojan://910bea3a-97cf-4448-b448-21ed1b256577@awshk7-tg-data.amazonwebservicess.com:443
-trojan://d4949b0f-a8b8-4f6f-a23d-460c055e63b0@zzjp01.gutingting.com:20221
-trojan://f426b848-6c75-47bc-b116-c9b40f6f8bc3@jpjs.stablize.top:443
-trojan://d1dd4c2d-a668-400b-92c4-ed23c75c7c57@awssg9-tg-data.amazonwebservicess.com:443
-trojan://efd492dc-08d9-4acf-8164-fbe2647f3419@3d1c4a01.mcfront.xyz:31701
-trojan://62b37717-4ae9-4445-ab46-c137754b68cc@us226.ljydw.top:443
-trojan://7103c753-b8a5-4642-b370-8a5cc44ecc99@43.198.94.89:443
-trojan://2e6df86c-09bb-4459-8683-5c849675785b@zzus01.gutingting.com:20220
-trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awsjp2-data.amazon-azure.com:443
-trojan://d0589cee-da10-4f30-aa29-5e44e0520f8e@1j8p03.abzoones.xyz:36111
-trojan://63ccc1c0-80e8-4eea-861d-44cefc57b7e8@7i4n01.abzoones.xyz:36831
-trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@jpa-zf.jiashumao.net:29881?allowInsecure=1&sni=jpa.jiashumao.net
-trojan://83424e8d-5734-41ad-a0fa-0235bfb62b9c@1j8p01.abzoones.xyz:36801
-trojan://21d4fc5c-7e72-4d6e-a7d6-7e655b22ed9e@8h2k03.abzoones.xyz:36611
-trojan://52ae9b9c-503b-4b92-a6a5-b1cab4b619a3@awssg14-data.amazon-azure.com:443
-trojan://52ae9b9c-503b-4b92-a6a5-b1cab4b619a3@awsjp15-data.amazon-azure.com:443
-trojan://e851ca45-b19c-485a-8343-4901cb3d4a35@awshk6-tg-data.amazonwebservicess.com:443
-trojan://f636575e-c7cb-4d83-becc-909faf89dcb8@us226.ljydw.top:443
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18733?allowInsecure=1&sni=ajpn03.xiaohouzi.club
-trojan://0f218d19-cdfa-475d-bf65-8f0d7e5331a5@dl-hk3.steamdownload.top:443
-trojan://5ed7cbef-49b8-4110-b5ed-e6c3d3463144@us226.ljydw.top:443
-trojan://899587ad-007e-450d-a45b-68ad90c85bbc@zzjp01.gutingting.com:20221
-trojan://e2f42776-1822-4e5f-8a3d-292071558c48@jp04.170203.xyz:34345
-trojan://bc896c79-6a71-4827-bddf-31e84f5c187c@microsoft-jp01.syjd.xyz:30006
-trojan://873db93f-1c68-4295-9e90-cdb1d5faa189@us226.ljydw.top:443
-trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awssg12-tg-data.amazonwebservicess.com:443
-trojan://10474488-8fe6-4697-9031-7e9cf652dc1b@zzjp01.gutingting.com:20221
-trojan://b34b04ba-96da-48be-a313-f740fa69dd49@v01.gutingting.com:20226?type=tcp&sni=v2uk01.fuqiangren.com&allowInsecure=1
-trojan://b8ec1401-e5c1-4299-b315-9694cca0c2f8@64.190.90.29:443?allowInsecure=1&sni=wx.qq.com
-trojan://6fab5b8e-2b5a-4ecd-82cb-fa3d1afb9ca7@jp1.535eb521-9fe0-4478-b090-2a5cee4bb04a.191981000.nbvpn.org:443?allowInsecure=1&sni=13-231-155-134.nhost.00cdn.com
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@usla.iamnotagoodman.com:443
-trojan://f426b848-6c75-47bc-b116-c9b40f6f8bc3@cajs.stablize.top:443
-trojan://aab77372-534b-4878-a7d0-b9339ddc1868@gzdx1.170203.xyz:27528

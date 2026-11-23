@@ -258,7 +258,7 @@ vless://dd24f07d-5ed1-4e51-8073-5733e904fa88@45.130.125.76:2096?mode=gun&securit
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=/api/connect&headers={  "Host": "wstg.datasynctrue.online"}#SC_4206_@Surfboardv2ray
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=/api/connect&headers={  "Host": "wstg.datasynctrue.online"}#SC_4207_@Surfboardv2ray
 trojan://amclubs2024@154.83.2.200:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#Seychelles
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?encryption=none&host=fc82dfx.nl8.h1clayd.click&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=http&fp=chrome#SC-@VPNine1
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.9.120.53:443?security=reality&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&fp=chrome&sni=961ec0g.nl13.h1clayd.click&type=grpc&serviceName=&mode=gun#SC-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20001
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@107.150.94.27:50024#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20003
@@ -405,6 +405,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?encryption=none
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.14:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B8%F0%9F%87%A8_SC_%E5%A1%9E%E8%88%8C%E5%B0%94_5
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B8%F0%9F%87%A8_SC_%E5%A1%9E%E8%88%8C%E5%B0%94_24
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B8%F0%9F%87%A8_SC_%E5%A1%9E%E8%88%8C%E5%B0%94_27
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?encryption=none&host=fc82dfx.nl8.h1clayd.click&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=http&fp=chrome#SC-@VPNine1
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com# SC | 45.130.125.96
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr# SC | 45.130.125.76
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#SC  | @Raydikalx | 0CBA42
