@@ -138,7 +138,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN  | @Raydikalx | 11024B
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN  | @Raydikalx | A2E7FF
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN  | @Raydikalx | CC41E0
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp#VN  | @Raydikalx | DE68F9
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw#VN  | @Raydikalx | DE68F9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.160
