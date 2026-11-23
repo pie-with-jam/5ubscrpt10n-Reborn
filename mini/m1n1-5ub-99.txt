@@ -1,31 +1,3 @@
-trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos# b2n.ir/v2ray-configs | 838
-trojan://Gl123qwe@us.playstone.info:23443?security=tls# b2n.ir/v2ray-configs | 839
-trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls# b2n.ir/v2ray-configs | 404
-trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com# b2n.ir/v2ray-configs | 224
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls# b2n.ir/v2ray-configs | 985
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls# b2n.ir/v2ray-configs | 802
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10826?security=tls# b2n.ir/v2ray-configs | 433
-trojan://c2b0a060-44b0-11ed-ad2e-1239d0255272@51.81.82.15:443?security=tls# b2n.ir/v2ray-configs | 338
-trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos# b2n.ir/v2ray-configs | 227
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls# b2n.ir/v2ray-configs | 205
-trojan://8A613C3A-E24E-18C2-4B5E-CB104D83C88C@oss-cn-guangzhou.westdatacloud.xyz:20015?security=tls# b2n.ir/v2ray-configs | 13
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%95%9208/17%2023%3A00%20%7C%20
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%95%9208/17%2023%3A00%20%7C%20
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#[openproxylist.com] trojan-TR
-trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://FH72359861@square-pheasant.rooster465.autos:443?security=tls#[openproxylist.com] trojan-AU
-trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#[openproxylist.com] trojan-KR
-trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls&sni=loyal-molly.rooster465.autos#[openproxylist.com] trojan-KR
-trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#[openproxylist.com] trojan-JP
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=ru.federal-usa.com&headerType=none&fp=randomized&type=tcp&sni=ru.federal-usa.com# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:7375?sni=www.nintendogames.net# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:28051?allowInsecure=1&sni=www.nintendogames.net# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:28051?sni=www.nintendogames.net# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:3415?sni=www.nintendogames.net# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@18.163.126.92:28051?sni=www.nintendogames.net# By EbraSha
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:51396?sni=www.nintendogames.net# By EbraSha
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1# By EbraSha
 trojan://@V2ray_Alpha# By EbraSha
 trojan://BxceQaOe@16.163.139.175:49811?sni=t.me%2Fripaojiedian# By EbraSha
@@ -9998,3 +9970,31 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:
 ss://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@gr2.levikogjgfdd.ir:443?encryption=none&type=grpc&mode=gun&serviceName=api.v1.StreamService&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#[16176][FR][0][SS][None][ConfigsHUB][2026-08-16][2026-08-16 00:34]
 ss://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#[16336][RU][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#[16374][TR][0][SS][None][v2ray1_ng][2026-08-07][2026-08-16 00:34]
+ss://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#[3219][GB][0][SS][None][prrofile_purple][2026-06-15][2026-08-16 00:34]
+ss://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swcdn.apple.com#[4401][US][0][SS][None][marambashi][2026-08-05][2026-08-16 00:34]
+ss://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#[2954][US][0][SS][None][v2ray1_ng][2026-08-06][2026-08-16 00:34]
+ss://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[17056][ZA][0][SS][None][v2ray1_ng][2026-08-10][2026-08-16 00:34]
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#[12993][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#[4747][US][0][SS][None][marambashi][2026-08-14][2026-08-16 00:34]
+ss://551955b3-46e9-5129-95c9-e7474c15ed6b@217.60.68.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de6.fast-connect-service.site&type=tcp#[3260][DE][0][SS][None][oneclickvpnkeys][2026-08-12][2026-08-16 00:34]
+ss://663cf772-829c-4bc6-893d-b7d021d42f5b@188.164.248.77:2083?path=%2F&security=tls&encryption=none&insecure=0&host=vp7.cc.cd&fp=firefox&type=ws&allowInsecure=0&sni=vp7.cc.cd#[3773][NL][0][SS][None][Outline_Vpn][2026-07-21][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#[8656][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[914][US][0][SS][None][vpn_tehran][2026-07-25][2026-08-16 00:34]
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[2903][UnResolvedDomains][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=chrome&type=tcp&headerType=none&sni=play.google.com#[4147][FR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=30e530274c0c72cc#[19876][UnResolvedDomains][0][SS][None][vpn_tehran][2026-07-14][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:801#[8148][CA][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#[7235][NL][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://038a0cfe-d210-4b67-baa6-e3ba15046693@germany3.samanidempire.org:443?encryption=none&type=ws&security=tls&path=%2FSDFDSerTeddgwete&host=germany3.samanidempire.org&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#[201][UnResolvedDomains][0][SS][None][irancpi_vpn][2026-05-31][2026-08-16 00:34]
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#[13106][KR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTBAMTM4LjE5Ny4xNzQuMjQ1OjU2NDQz#[7320][CA][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://bb5857b4-9630-4101-8090-cc23db9531b7@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&headerType=http&security=none#[16804][UnResolvedDomains][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#[18365][RU][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU@ae-1.stunnel.cc:8444#[7134][AE][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://9cd65844-3f28-4081-8d70-b5c61815f45d@t-panel.wasmer.app:443?path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&encryption=none&insecure=0&host=t-panel.wasmer.app&type=ws&allowInsecure=0&sni=t-panel.wasmer.app#[5888][US][0][SS][None][VmessProtocol][2026-06-24][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#[8731][GB][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@185.219.134.52:50007#[10745][TR][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.16.18:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[288][DE][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22223?security=none&encryption=none&headerType=none&type=tcp#[18803][DE][0][SS][None][free1_vpn][2026-08-08][2026-08-16 00:34]
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@154.90.63.177:989#[17154][SC][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@148.66.56.99:810#[7703][HK][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
