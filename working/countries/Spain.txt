@@ -446,17 +446,16 @@ vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?encryption=non
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d# ES | 5.180.173.222
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto# ES | 185.18.250.67
 vless://7fd0e817-7b9c-4d12-9a24-18853c2ad35c@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=aparat.com&sid=6115f6a9eb8467c6# ES | 208.76.223.30
+vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=29a833ab20778306#%F0%9F%87%AA%F0%9F%87%B8ES_22_@Surfboardv2ray|||14050902|surfboardv2ray|V2rayCh
 ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg@193.148.19.214:12798#ES  | @Raydikalx | F9A668
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@5.188.181.201:9020#ES  | @Raydikalx | B32998
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ES  | @Raydikalx | 952BBB
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#ES  | @Raydikalx | 7A0FF3
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#ES  | @Raydikalx | 9A6CAE
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#ES  | @Raydikalx | 48E45B
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#ES  | @Raydikalx | 74F46D
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#ES  | @Raydikalx | 64A5E6
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#ES  | @Raydikalx | 04251A
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#ES  | @Raydikalx | 1AA807
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#ES  | @Raydikalx | 34F7AF
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#ES  | @Raydikalx | E308E4
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#ES  | @Raydikalx | DB78D7
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#ES  | @Raydikalx | 25BF06
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#ES  | @Raydikalx | 377DB1
@@ -469,9 +468,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#ES  | @R
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?allowInsecure=0&sni=discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | 5A2F7C
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?allowInsecure=1&sni=www.discovergreatjobsandadvanceyourcareer.com&type=tcp#ES  | @Raydikalx | 4F4C3C
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | 4AC48F
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?#ES  | @Raydikalx | F6A42C
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443#ES  | @Raydikalx | F6A42C
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | F12CA1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?#ES  | @Raydikalx | 3B5924
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | 15FDDA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | 1C906D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#ES  | @Raydikalx | 2A8C03
@@ -1781,8 +1779,6 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%f0%9f%87%aa%f0
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%f0%9f%87%aa%f0%9f%87%b8%20ES%205
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%f0%9f%87%aa%f0%9f%87%b8%20ES%206
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%f0%9f%87%aa%f0%9f%87%b8%20ES%207
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?#[openproxylist.com] trojan-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?#[openproxylist.com] trojan-ES
 vmess://ewogICAgImFkZCI6ICI3OS4xMzIuMTMzLjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIzMWIwMjJmMi01NDQxLTRlOWEtZmZlNy00M2ZlZTdhYjA2ODgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNTQ0NTgsCiAgICAicHMiOiAi8J+HqvCfh7hFUy03OS4xMzIuMTMzLjM4LTI2NDUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%5Bwww.v2nodes.com%5D%20trojan-ES-...%20%231
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%5Bwww.v2nodes.com%5D%20trojan-ES-...%20%234

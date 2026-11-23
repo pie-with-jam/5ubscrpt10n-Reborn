@@ -1146,7 +1146,6 @@ vless://cde5d3ef-7d14-32c8-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx
 vless://cde5d3ef-7d14-32c8-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=st.sdohnite.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com# SE | 206.168.213.117
 vless://95580a09-cce7-4b62-af74-a514083ba9e4@31.77.144.255:8444?mode=stream-one&path=/xh&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&host=www.amd.com&type=xhttp&sni=www.amd.com&sid=635a76c25a4b1820# SE | 31.77.144.255
-vmess://eyJhZGQiOiAibGV2aWtvLXNlNDY2MC5zaG9waW5nZ2dnLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTI3MCIsICJwcyI6ICJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWFTRS1cdWQ4M2RcdWRlODBAVlBOaW5lMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAieG1maGxweS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFljam1nNmNVV0V5aE16d0lLeWU1UDlBVnl6QVN2R0p0ZHgyTUExTHpDZz06OVFsNEkvM1pkN1RkVHQwSnplV1ZsZWxtTzc0L1duUWZRRFFkeVY1dC9FOD0@51.21.142.135:443#SE  | @Raydikalx | 963318
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206elVLNm5YYlBOelFKQ1l1enc0eE9IRitTTlVmOUp5ZFNKNkZkd0ovRG0wdz06eEVMdFhwNjBYSHdTNnVVS2tjZExITjZJZmJibElZdHAvME1LWEdKSFVtYz0@51.21.253.12:58317#SE  | @Raydikalx | BB9E5B
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#SE  | @Raydikalx | F94C4A
@@ -1179,6 +1178,7 @@ vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.7:8443?mode=gun&security=r
 vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.93.4:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#SE  | @Raydikalx | EBF889
 vless://5233b59b-fb2a-4a95-9036-9f33ada47afa@sw.webfree.icu:443?encryption=none&flow=xtls-rprx-vision&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&security=reality&sid=825d392c67e4&sni=sw.webfree.icu&type=tcp#SE  | @Raydikalx | 0DD638
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?&sni=193.188.21.253&type=ws&headerType=none&host=193.188.21.253&path=%2Fvless#SE  | @Raydikalx | 0843AE
+vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#SE  | @Raydikalx | DE2F59
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#SE  | @Raydikalx | 2F7F60
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#SE  | @Raydikalx | C9B2BB
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?&security=tls&fp=firefox&sni=volumestyle.komediyatorg.net&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#SE  | @Raydikalx | FD5EF0
@@ -3654,7 +3654,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443#%F0%9F%87%B8%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8110
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-8689
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#[openproxylist.com] vless-SE
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#[openproxylist.com] vless-SE
+vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#[openproxylist.com] vless-SE
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?&security=tls&fp=firefox&sni=volumestyle.komediyatorg.net&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#[openproxylist.com] vless-SE
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@87.242.94.43:443?&security=tls&fp=chrome&sni=87.242.94.43&type=ws&headerType=none&host=87.242.94.43&path=%2Fapi%2Fv2%2Fsession%2FCAgikYAkk4z7#%5Bwww.v2nodes.com%5D%20vless-SE-1...
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&type=grpc&serviceName=&mode=gun#%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%231

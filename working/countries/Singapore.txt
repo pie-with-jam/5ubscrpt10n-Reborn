@@ -1823,7 +1823,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1F
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#SG  | @Raydikalx | BF71B9
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZVY5cWpRNkMrVytWcnhJT2ZHdXRsQS9nOGErWitIVXJJUjgwRzBtdE1DUT0@129.221.217.100:56927#SG  | @Raydikalx | F4C394
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R01oWFJweS9wZlBNVnJaZUNBeE94STVNcHVIM2xsT3RaS29lTkxVVDBuOD0@158.178.230.120:56927#SG  | @Raydikalx | 3E07E1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.142.183.235:443#SG  | @Raydikalx | D46DDD
 ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA@8.222.161.161:9875#SG  | @Raydikalx | FBACD8
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#SG  | @Raydikalx | EC2CA0
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.79.178.63:3306#SG  | @Raydikalx | 0E8CE4
@@ -1867,7 +1866,8 @@ trojan://36ebef7d1b1d6205fd0c55f28800e674@184.168.127.50:443?allowInsecure=0#SG 
 trojan://3828095943467868160@103.106.229.111:443?sni=poetic-coral.dolphin109.quest&type=tcp#SG  | @Raydikalx | 48ACBE
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#SG  | @Raydikalx | 20D305
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#SG  | @Raydikalx | B4EC4B
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&security=tls&sni=bgsg1.hikigo.com#SG  | @Raydikalx | D08154
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&sni=bgsg1.hikigo.com#SG  | @Raydikalx | 374A88
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?security=tls&sni=bgsg1.hikigo.com#SG  | @Raydikalx | 426151
 trojan://58dcd460-65df-47b1-b062-517df30bef29@46.137.203.18:443?sni=sg.liangyuandian.top&peer=sg.liangyuandian.top&security=tls#SG  | @Raydikalx | C1AA71
 trojan://5qSmRbERsGMASvzP@mortedaxsq-production.up.railway.app:443?path=/api/Ff45FJ&security=tls&alpn=http/1.1&insecure=0&host=mortedaxsq-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mortedaxsq-production.up.railway.app#SG  | @Raydikalx | D0F2A4
 trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?#SG  | @Raydikalx | 05BF26
@@ -2020,7 +2020,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#SG  | @Raydikalx
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#SG  | @Raydikalx | 8A8F56
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp#SG  | @Raydikalx | E75317
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?path=%2F&security=tls&sni=exploredigitaljobplatformandfindonlinework.com#SG  | @Raydikalx | 1D777C
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&sni=bgsg1.hikigo.com#SG  | @Raydikalx | 374A88
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com#SG  | @Raydikalx | D08154
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#SG  | @Raydikalx | 5E2D0C
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&type=tcp&security=tls&sni=bgsg1.hikigo.com&fp=chrome#SG  | @Raydikalx | 426151
@@ -6361,9 +6360,8 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#%f0%9f%87%b8%f0%9f%87%ac%20SG%203
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0=@43.106.81.90:443#%f0%9f%87%b8%f0%9f%87%ac%20SG%207
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&security=tls&sni=bgsg1.hikigo.com#[openproxylist.com] trojan-SG
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&sni=bgsg1.hikigo.com#[openproxylist.com] trojan-SG
 vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?sni=www.bing.com&fp=chrome&security=tls#[openproxylist.com] vless-SG
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#[openproxylist.com] trojan-SG
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?&security=tls&fp=chrome&sni=vlsovip.1d.mom&type=ws&headerType=none&host=vlsovip.1d.mom&path=%2Ffp%3Dunsafe#[openproxylist.com] vless-SG
 vmess://ewogICAgImFkZCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImlkIjogImNlMzg2OGE0LWUyY2EtNGE2Zi04NzMxLWU3ZTg4ZDA5ODg4NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTEzOS45OS42MS41My0yMTAzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI4LjIxOS4yMTQuMjIxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy04LjIxOS4yMTQuMjIxLTc0OTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJwMy5jaGlndWEudGsiCn0=
