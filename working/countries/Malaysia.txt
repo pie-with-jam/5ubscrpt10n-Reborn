@@ -17,7 +17,6 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#[853][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#[854][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#[1180][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
-vmess://eyJ2IjoiMiIsInBzIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6IiIsInRscyI6IiJ9
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0519
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-1064
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20trojan-MY-...
@@ -62,11 +61,11 @@ vmess://eyJhZGQiOiAiMTY2Ljg4LjM1LjEyOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vmess://eyJhZGQiOiAiMTkyLjIyOC4xNDUuMTE4IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAi8J+HsvCfh74gTWFsYXlzaWEgMzIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiNDcuMjUwLjEzNS4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMDAwMCIsICJwcyI6ICLwn4ey8J+HviBNYWxheXNpYSAzNSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6ICI0MzA2MyIsICJwcyI6ICLwn4ey8J+HviBNYWxheXNpYSAzMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C807KB%2Fs%7CA004-260618
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_3%7C795KB%2Fs%7CC002-260622
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_4%7C776KB%2Fs%7CM003-260806
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_5%7C868KB%2Fs%7CM003-260806
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_6%7C689KB%2Fs%7CM003-260806
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C866KB%2Fs%7CA004-260618
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_3%7C812KB%2Fs%7CC002-260622
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_4%7C386KB%2Fs%7CM003-260806
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_5%7C865KB%2Fs%7CM003-260806
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BEMY_6%7C812KB%2Fs%7CM003-260806
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmXHUyMDBkXHVkODNjXHVkZjA4XHU1ZTk0XHU2MDI1XHU4MjgyXHU3MGI5LSBcdTdmNTFcdTdhZDk6bXkuMzM1NTcwLnh5eiIsImFkZCI6ImNmLmllcGwxLm1lIiwicG9ydCI6IjQ0MyIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMDEuYXBwbGVpZC5iZiIsInBhdGgiOiJcL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIwMS5hcHBsZWlkLmJmIn0=
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#MY  | @Raydikalx | 7E8D78
 vless://adb16f46-ebc3-4f72-ba20-f8872dec43a9@47.250.139.22:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=erG7hYnWx8wELFn1-USl81_0mJlSJFlr8VBhtSsJwhY&sid=734c1ee6&type=tcp&headerType=none#MY  | @Raydikalx | EE6809
@@ -232,4 +231,3 @@ ss://chacha20-ietf-poly1305:ff342a15432c25b3@115.164.114.21:11201#%F0%9F%87%B2%F
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20MY%20103.243.215.17%20%E2%97%88%20tcp%3A990%20%E2%97%88%20Gigabit%20Hosting%20Sdn%20Bhd%20%E2%97%88%206b06c
 ss://abfa5fd9-6ed0-4310-9372-49590b054a2b@101.99.84.124:80?type=ws&host=moba.mobilelegends.com&path=%2Fvless-ntls#[5954][MY][0][SS][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#[openproxylist.com] trojan-MY
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=0#%F0%9F%87%B2%F0%9F%87%BE%20%5Bwww.v2nodes.com%5D%20trojan-MY-...
