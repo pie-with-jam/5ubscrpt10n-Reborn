@@ -1,3 +1,4 @@
+trojan://MiTiVPN@104.18.7.178:2083?security=tls&sni=swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir&alpn=http/1.1&type=ws&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw# By EbraSha
 trojan://MiTiVPN@151.101.1.194:443?path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=Sw&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com# By EbraSha
 trojan://MiTiVPN@162.159.140.91:2096?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl&security=tls&alpn=http/1.1&insecure=1&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir&fp=chrome&type=ws&allowInsecure=1&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir# By EbraSha
 trojan://MiTiVPN@162.159.140.91:2096?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://AE62539071@eager-camel.rooster465.autos:443?security=tls&sni=eager-came
 trojan://humanity@104.18.152.207:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# b2n.ir/v2ray-configs | 765
 trojan://humanity@104.18.152.50:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# b2n.ir/v2ray-configs | 998
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls# b2n.ir/v2ray-configs | 253
-trojan://humanity@216.24.57.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# b2n.ir/v2ray-configs | 157

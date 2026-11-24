@@ -1,3 +1,4 @@
+trojan://humanity@216.24.57.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment# b2n.ir/v2ray-configs | 157
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls# b2n.ir/v2ray-configs | 642
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls# b2n.ir/v2ray-configs | 659
 trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir# b2n.ir/v2ray-configs | 345
@@ -9997,4 +9998,3 @@ ss://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?security=reality&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaM1lTMEt4Qjh1NWpncDczNmU4MzR5M0RhWHdTT1l6eGxGREZxcE5DYWFsREE5Q0VJUmNlWk9DQW5SMnlUU0AxNTQuMTcuNS4xODQ6MTgzMzE=#[9213][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 ss://cbcf2255-6d66-4039-b7d6-c10d6ffc99%657@199.232.222.178:443?path=%2F%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%2C%54ELEGR%41M_N%55F%69L%54ER%3Fed&security=tls&encryption=none&insecure=0&host=p%61n1.glob%61l.ssl.f%61stly.n%65t&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[17373][US][0][SS][None][mehrosaboran][2026-07-20][2026-08-16 00:34]
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#[4450][US][0][SS][None][SafeNet_Server][2026-07-06][2026-08-16 00:34]
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.43:8090#[12871][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

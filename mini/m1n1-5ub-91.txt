@@ -1,3 +1,4 @@
+trojan://BxceQaOe@95.40.84.43:40748?security=tls&sni=t.me%2Fripaojiedian# By EbraSha
 trojan://BxceQaOe@95.40.84.43:40748?sni=t.me/ripaojiedian# By EbraSha
 trojan://BxceQaOe@95.40.92.87:11993/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1# By EbraSha
 trojan://BxceQaOe@95.40.92.87:11993?allowInsecure=1&sni=t.me%2Fripaojiedian# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=sws&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
-trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha

@@ -1,3 +1,6 @@
+vless://bef4c9ac-908d-4ff2-97b3-4ca70f232881@45.134.97.33:50070?security=none&encryption=none&headerType=none&type=tcp# By EbraSha
+vless://bef544ed-622b-4c4d-abda-d3a4d402b4df@zula.ir:443?path=%2Fvless&security=tls&encryption=none&host=pl2-vless.sshmax.xyz&type=ws&sni=pl2-vless.sshmax.xyz# By EbraSha
+vless://bef676cf-6326-447e-b634-0fd124a03673@193.233.199.117:50587?encryption=none&flow=xtls-rprx-vision&fp=&pbk=03zXqzt3BAO4TKmlkfxP9n39vH-Cdm5NH42Nioud1HE&security=reality&sid=9f072944bd809548&sni=kinopoisk.ru&type=tcp# By EbraSha
 vless://bef98d0f-5015-4a2a-ab3b-8db160ef837f@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none# By EbraSha
 vless://befafcda-0ac1-47e9-bd31-3c29f00a9d1a@45.198.91.249:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=bitrix24.ru&type=tcp# By EbraSha
 vless://befafcda-0ac1-47e9-bd31-3c29f00a9d1a@45.198.91.71:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=bitrix24.ru&type=tcp# By EbraSha
@@ -9995,6 +9998,3 @@ vless://de6e78cb-1f3b-2328-90d2-a411ddedade6@89.208.231.191:8443?flow=xtls-rprx-
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.32:80/?type=ws&encryption=none&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes# By EbraSha
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.69:80/?type=ws&encryption=none&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes# By EbraSha
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@104.26.13.54:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&fp=randomized# By EbraSha
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev# By EbraSha
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?path=%2F%3Fed&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev# By EbraSha
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@pardazeshvpn-tg3.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev# By EbraSha

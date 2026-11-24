@@ -1,3 +1,4 @@
+trojan://blue2024@162.159.44.217:443/?type=tcp&security=tls&sni=ta.promote.icu#[7566][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://blue2024@190.93.244.198:443/?type=tcp&security=tls&sni=td.promote.icu#[7620][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@classic-pug.rooster465.autos:443?security=tls#[4980][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/f-l@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=sourceforge.net#[5470][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -9997,4 +9998,3 @@ trojan://FH72359861@13.125.228.160:443?sni=engaged-skink.rooster465.autos&fp=chr
 trojan://FH72359861@13.158.129.134:443?sni=grateful-leech.rooster465.autos&type=tcp&path=/#4Sarina-e194c9fa09
 trojan://FH72359861@13.159.22.208:443?security=tls&sni=driven-bulldog.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#4Mohsen-ed312c7daf
 trojan://FH72359861@13.193.221.67:443?sni=main-impala.rooster465.autos&allowInsecure=1&type=tcp#4FreeIran-f4ebce8084
-trojan://FH72359861@13.193.221.67:443?sni=main-impala.rooster465.autos&type=tcp&fp=chrome#4Kian-f489f95221

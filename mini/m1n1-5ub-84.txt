@@ -1,3 +1,4 @@
+trojan://FH72359861@13.193.221.67:443?sni=main-impala.rooster465.autos&type=tcp&fp=chrome#4Kian-f489f95221
 trojan://FH72359861@13.212.173.162:443?sni=integral-quetzal.rooster465.autos&fp=chrome&type=tcp&path=/#4Kian-eb2900a06a
 trojan://FH72359861@13.212.173.162:443?sni=integral-quetzal.rooster465.autos&type=tcp&fp=chrome#4Mohsen-07d5dc998d
 trojan://FH72359861@13.212.173.162:443?sni=integral-quetzal.rooster465.autos&type=tcp&path=/#4Nika-532dcf3be8
@@ -9997,4 +9998,3 @@ trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:49277?security=tls&sni=w
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:49277?sni=www.nintendogames.net#4Mohsen-4280
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:6357?allowInsecure=0&sni=www.nintendogames.net#4Mohsen-4281
 trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:6357?security=tls&sni=www.nintendogames.net#4Mohsen-4282
-trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:6357?sni=www.nintendogames.net#4Mohsen-4283

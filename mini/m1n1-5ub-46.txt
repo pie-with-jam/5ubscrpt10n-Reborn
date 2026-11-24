@@ -1,3 +1,6 @@
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&packetEncoding=xudp&sni=shegeftihaaa.net&fp=chrome&encryption=none# By EbraSha
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?type=tcp&encryption=none&security=none# By EbraSha
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.110:443?encryption=none&type=ws&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&fp=chrome&sni=shegeftihaaa.net# By EbraSha
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.110:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net# By EbraSha
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.110:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net# By EbraSha
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.110:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net# By EbraSha
@@ -9995,6 +9998,3 @@ vless://89e2646a-41c1-44bf-9892-3b80e40da72b@forallpanel.srtongston.ir:8880?encr
 vless://89e2646a-41c1-44bf-9892-3b80e40da72b@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=/?ed=2082&host=ask3.postshup.ir# By EbraSha
 vless://89e2646a-41c1-44bf-9892-3b80e40da72b@hub.docker.com:2086?encryption=none&security=none&type=xhttp&headerType=none&path=/?ed=2082&host=GB1.cafearen.ir&mode=auto# By EbraSha
 vless://89e2646a-41c1-44bf-9892-3b80e40da72b@hub.docker.com:2086?encryption=none&security=none&type=xhttp&headerType=none&path=/?ed=2082&host=Netherlands.Afhj.cafearen.ir&mode=auto# By EbraSha
-vless://89e2646a-41c1-44bf-9892-3b80e40da72b@ns3.zabidat.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=/?ed=2082&host=germany.Tj.cafeaRen.iR&mode=auto# By EbraSha
-vless://89e2646a-41c1-44bf-9892-3b80e40da72b@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=/?ed=2082&host=udp.postshup.ir# By EbraSha
-vless://89e2646a-41c1-44bf-9892-3b80e40da72b@www.hcaptcha.com:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=/?ed=2082&host=GB1.cafearen.ir# By EbraSha

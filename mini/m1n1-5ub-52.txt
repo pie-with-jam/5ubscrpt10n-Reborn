@@ -1,3 +1,6 @@
+vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&sid=80ba&allowinsecure=0&type=tcp&headerType=none# By EbraSha
+vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?flow=xtls-rprx-vision&fp=chrome&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&security=reality&sid=80ba&sni=deepl.com# By EbraSha
+vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?headerType=non&flow=xtls-rprx-vision&sid=80ba&fp=chrome&type=tcp&sni=deepl.com&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&encryption=none&security=reality# By EbraSha
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?headerType=non&flow=xtls-rprx-vision&sid=80ba&fp=qq&type=tcp&sni=deepl.com&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&encryption=none&security=reality# By EbraSha
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&flow=xtls-rprx-vision&security=reality&fp=chrome&sid=80ba&encryption=none&sni=deepl.com&headerType=none&type=tcp# By EbraSha
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&flow=xtls-rprx-vision&security=reality&fp=qq&sid=80ba&encryption=none&sni=deepl.com&headerType=none&type=tcp# By EbraSha
@@ -9995,6 +9998,3 @@ vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMI
 vless://fd29defb-7f80-59ba-88d9-2234b20a806e@199.232.8.39:443/?type=ws&encryption=none&host=ELiV2RAY-JOIN.COM&security=tls&sni=ELiv2RAy-jOiN.cOm&fp=edge# By EbraSha
 vless://fd29defb-7f80-59ba-88d9-2234b20a806e@199.232.8.39:443?security=tls&allowInsecure=1&fp=edge&host=ELiV2RAY-JOIN.COM&type=ws&sni=ELiv2RAy-jOiN.cOm# By EbraSha
 vless://fd29defb-7f80-59ba-88d9-2234b20a806e@speedtest.net:80?host=ELiV2RAY-JOIN.COM.&type=ws# By EbraSha
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@45.95.232.229:52000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&security=reality&sid=edd8887128ea&sni=music.yandex.ru&type=tcp# By EbraSha
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@5.45.119.63:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&security=reality&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com&type=tcp# By EbraSha
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@swiss-2.illusion-vpn.ru:52000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&security=reality&sid=edd8887128ea&sni=music.yandex.ru&type=tcp# By EbraSha

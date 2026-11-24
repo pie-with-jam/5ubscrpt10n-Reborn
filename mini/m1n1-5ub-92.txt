@@ -1,3 +1,4 @@
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed=mitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed=mitivpn&sni=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome# By EbraSha
 trojan://MiTiVPN@151.101.1.242:443# By EbraSha
@@ -9997,4 +9998,3 @@ trojan://WG39087154@81.28.13.159:443?sni=giving-bird.rooster465.autos&fp=chrome&
 trojan://WG39087154@81.28.13.185:443?sni=closing-falcon.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
 trojan://WG39087154@81.28.13.48:443?sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
 trojan://WG39087154@81.28.13.68:443?sni=pet-albacore.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
-trojan://WG39087154@81.28.13.9:443?sni=prepared-turkey.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
