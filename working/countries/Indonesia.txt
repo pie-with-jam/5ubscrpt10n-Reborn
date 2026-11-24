@@ -29,10 +29,10 @@ trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#[74
 trojan://idc117okt@103.226.139.201:443?security=tls#[2097][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://idc117okt@103.176.78.153:443?security=tls#[2096][ID][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-22][2026-11-22 03:49]
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[2236][ID][0][TROJAN][None][kiava][2026-01-23][2026-11-22 03:49]
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9ID-149.33.27.162-0215
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5299
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5457
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7529
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9ID-149.33.27.162-0300
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5328
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-5486
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7556
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
 vmess://eyJhZGQiOiJkZW5jMzYueHRvb2x0ZWNoLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCflJBjaGFubmVsIGlkOkBzdXJmYm9hcmRjIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6ImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
@@ -165,7 +165,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2003
-ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2006
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_6%7C563KB%2Fs%7CM002-260618%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_4%7C381KB%2Fs%7CM003-260806%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_3%7C584KB%2Fs%7CM003-260806%2001
@@ -173,24 +172,28 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.25.82.149:443?sni=id1.nathaya.
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_2%7C253KB%2Fs%7CM003-260806%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?sni=id1.nathaya.web.id&type=ws&path=/trojan&fp=unsafe#%F0%9F%87%AE%F0%9F%87%A9ID_5%7C377KB%2Fs%7CM003-260806%2001
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C186KB%2Fs%7CB007-260618%2001
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2011
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=0&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2013
-trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2014
-trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2015
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2010
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2012
-vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?fp=chrome&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2016
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDE3IiwgImFkZCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiOWIzMTQ5MGQtMTkwZS00ZWYxLWFmMGEtN2NjYWIzZTdjM2I1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDE4IiwgImFkZCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjliMzE0OTBkLTE5MGUtNGVmMS1hZjBhLTdjY2FiM2U3YzNiNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-vmess://eyJhZGQiOiAiMTMwLjk0LjkzLjYzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3NzdkMGVhZC05NzBhLTQxNDQtYjhhYS1lM2FhZjNhNjIxZjYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNzc3ZDBlYWQiLCAicG9ydCI6ICIxNDgxMiIsICJwcyI6ICLwn4eu8J+HqSBJbmRvbmVzaWEgMTkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMjAyLjQ3Ljg5LjEzMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2EwMzYxM2ItYmJhYy00YTIyLWJlZTYtMmM5YTc1MWEyNzYxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ka2ZqaDIyMiIsICJwb3J0IjogIjUzNTQ4IiwgInBzIjogIvCfh67wn4epIEluZG9uZXNpYSAyMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiQ09icGVGa3lqeE5VUUNudy52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiQ09icGVGa3lqeE5VUUNudy52LjNkbnMudmlwIiwgImlkIjogImI2NjRjYzM2LTQ4OTYtNDU0Yi1iYjljLTEzNzdjNzYxNzZkZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDIxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2009
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2011
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2007
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com&path=%2f#%f0%9f%87%ae%f0%9f%87%a9%20ID%201
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2008
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2010
+vless://1d08ca28-9c86-43c6-9eff-7d3c13df06a8@id.huahua.wiki:443?security=reality&encryption=none&pbk=O_f5yv1Cb3_4Rk2MKYpjnpCEyPNY4_GPUTJYi9usUzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=b6343f999147d133#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2012
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?fp=chrome&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2013
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDE2IiwgImFkZCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiOWIzMTQ5MGQtMTkwZS00ZWYxLWFmMGEtN2NjYWIzZTdjM2I1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDE3IiwgImFkZCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjliMzE0OTBkLTE5MGUtNGVmMS1hZjBhLTdjY2FiM2U3YzNiNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IHwgQFJheWRpa2FseCB8IDU5Qzk5RiIsImFkZCI6IjNkVG1Nc2ZwQWxhcUhJN2Iudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6IjliMzE0OTBkLTE5MGUtNGVmMS1hZjBhLTdjY2FiM2U3YzNiNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiM2RUbU1zZnBBbGFxSEk3Yi52LjNkbnMudmlwIiwiaW5zZWN1cmUiOiIxIn0=
+vmess://eyJhZGQiOiAiMTMwLjk0LjkzLjYzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3NzdkMGVhZC05NzBhLTQxNDQtYjhhYS1lM2FhZjNhNjIxZjYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNzc3ZDBlYWQiLCAicG9ydCI6ICIxNDgxMiIsICJwcyI6ICLwn4eu8J+HqSBJbmRvbmVzaWEgMTgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMjAyLjQ3Ljg5LjEzMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2EwMzYxM2ItYmJhYy00YTIyLWJlZTYtMmM5YTc1MWEyNzYxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ka2ZqaDIyMiIsICJwb3J0IjogIjUzNTQ4IiwgInBzIjogIvCfh67wn4epIEluZG9uZXNpYSAxOSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiQ09icGVGa3lqeE5VUUNudy52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiQ09icGVGa3lqeE5VUUNudy52LjNkbnMudmlwIiwgImlkIjogImI2NjRjYzM2LTQ4OTYtNDU0Yi1iYjljLTEzNzdjNzYxNzZkZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAi8J+HrvCfh6kgSW5kb25lc2lhIDIwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#ID  | @Raydikalx | 49126A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#ID  | @Raydikalx | FE15AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 27BFAA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#ID  | @Raydikalx | 1B5E27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#ID  | @Raydikalx | 6029CD
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#ID  | @Raydikalx | B454CB
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9ID-149.33.27.162-0215
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7529
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
