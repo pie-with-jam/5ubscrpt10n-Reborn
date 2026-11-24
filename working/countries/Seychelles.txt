@@ -241,7 +241,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%F0%9F%87%B8%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#%F0%9F%87%B8%F0%9F%87%A8SC-23.92.127.133-8030
 vmess://ewogICAgImFkZCI6ICIxNTYuMjQ1LjguMTQ0IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNjNiNGI4MjktN2YwMS00ZTI2LWIwMzctZjA0YjFmMDk4NzY1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY5MDk3MzQ3ODk4NiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e48J+HqFNDLTE1Ni4yNDUuOC4xNDQtODM4MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://amclubs2024@154.83.2.200:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#Seychelles
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.9.120.53:443?security=reality&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&fp=chrome&sni=961ec0g.nl13.h1clayd.click&type=grpc&serviceName=&mode=gun#SC-@VPNine1
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@45.95.96.236:443?security=reality&sni=gesmankos.sadiepinki.com&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3#SC-@VPNine1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20001
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@107.150.94.27:50024#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20003
@@ -394,6 +394,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?encryption=none&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%B8%F0%9F%87%A8_SC_%E5%A1%9E%E8%88%8C%E5%B0%94_27
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com# SC | 45.130.125.96
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr# SC | 45.130.125.76
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir# SC | 45.130.125.162
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#SC  | @Raydikalx | 0CBA42
 vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#SC  | @Raydikalx | 69CC64
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#SC  | @Raydikalx | 7367D4

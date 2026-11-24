@@ -15,3 +15,4 @@ trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?secu
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2016
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?allowInsecure=1&sni=#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2007
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2006
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.177:443?&security=reality&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&fp=chrome&sni=4935e4t.de25.h1clayd.click&type=tcp&headerType=none&host=4935e4t.de25.h1clayd.click&path=/#NE  | @Raydikalx | F7B9A4
