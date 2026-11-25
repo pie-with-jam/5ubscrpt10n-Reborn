@@ -195,8 +195,6 @@ trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecu
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com&path=/#ID  | @Raydikalx | 84ED0E
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%5Bpeasoft%2FNoMoreWalls%5D%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%5Bermaozi%2Fget_subscribe%5D%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9ID-149.33.27.162-0215
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7529
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none#[2433][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#[4419][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[4421][ID][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -524,4 +522,5 @@ ss://cbb3f877-d1fb-344c-87a9-d153bffd5484@48.193.46.7:30833?encryption=auto&secu
 ss://eyJpZCI6IjIzODUwOTlmLTMwMWItNDMzZi04MzBkLWEyZmQwYWM1NWY1NyIsImFscG4iOiIiLCJob3N0Ijoibm9kZS1pZC0xLnYyc3YudG9wIiwic25pIjoid3d3LmZhY2Vib29rLmNvbSIsInBzIjoiVm1lc3MlMjAtJTIwSUQlMjAxJTIwLSUyMHRlbGVncmFtJTIwJTNBJTIwJTQwa2lhdmEiLCJwb3J0IjoiODQ0MyIsImFkZCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsInBhdGgiOiJcL3dzIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIn0=</pre><br/><br/><br/><pre>trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[8786][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YUBub2RlLWlkLTEudjJzdi50b3A6OTkw#[4987][ID][0][SS][None][kiava][2026-01-23][2026-07-25 02:07]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdW1teXBhc3N3b3JkQDAuMC4wLjA6MTA4MA==#[ID][COUNTRY][REAL DELAY][TYPE][TEST TYPE][CHANNEL][POST DATE][SCRAPE DATE]
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#[openproxylist.com] trojan-ID
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%5Bwww.v2nodes.com%5D%20trojan-ID-...
