@@ -1,3 +1,4 @@
+vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?security=reality&encryption=none&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tagderdeutscheneinheit.de&sid=6f0091ebe3029ebb#03 | Telegram = t.me/ex_proxies
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-test-mci
 vless://a9a95d7c-ee7e-4ee0-9cbd-89cb566d08e9@[2a01:4f8:1c18:4078::1]:443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=NYZeZKuCbWGJGifmzP4jBqAueCm4iQCifv9gOEBEgnI&host=www.icloud.com&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=b7ff5b90d8#@Alfred_Config
@@ -9997,4 +9998,3 @@ trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=h
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&sni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200322
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-E344339C
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200325
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click&allowInsecure=1#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-4A938BEC

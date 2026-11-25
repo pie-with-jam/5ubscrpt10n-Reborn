@@ -82,7 +82,6 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@194.150.220.179:443?security=realit
 vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?encryption=none&security=none&type=tcp#[10540][UA][0][VLESS][None][oneclickvpnkeys][2026-11-19][2026-11-25 05:53]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.click&type=ws&allowInsecure=0&security=tls&path=%2Fws&encryption=none&insecure=0&fp=firefox#[11741][UA][0][VLESS][None][nofiltering2][2026-10-29][2026-11-25 05:53]
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#[1813][UA][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0169
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0099
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7366
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7630
@@ -99,6 +98,7 @@ vless://98cee2d7-72d9-4dea-bd03-d7da1b022041@193.106.221.57:2095?security=none&e
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#UA_2619_@Surfboardv2ray
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#UA_2620_@Surfboardv2ray
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#UA_3542_@Surfboardv2ray
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2001
@@ -148,7 +148,6 @@ vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&
 vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@render.com:443?security=tls&type=xhttp&host=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&packetEncoding=xudp&sni=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&fp=chrome&mode=stream-one#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.7MB%2Fs%7CS004-260618%20%5B97a49f1d6998%5D
 vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@render.com:443?security=tls&type=xhttp&host=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&packetEncoding=xudp&sni=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&fp=chrome&mode=stream-one#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.8MB%2Fs%7CS004-260618%20%5B97a49f1d6998%5D
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.0MB%2Fs%7CM003-260806%20%5Ba676f079b220%5D
-trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5793
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun#[37520][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=@one_shop_official&fp=chrome&type=#[37509][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#[37495][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
