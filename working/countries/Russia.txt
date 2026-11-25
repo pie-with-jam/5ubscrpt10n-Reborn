@@ -3004,7 +3004,9 @@ vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.72.112.1:443?encryption=none&ex
 vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@129.101.106.233:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=durov.sky-vault.top&sid=3cbc3d737fb9c4af#RU-@VPNine1
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@136.234.16.199:443?security=reality&encryption=none&pbk=-C8hJPrwHjokiUeF0glRMng3R5vZUhIN_aVQ1ItQYl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.robloxfans.fun&sid=4c3872a0264f69ae#RU-@VPNine1
 vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@185.86.147.175:443?security=reality&encryption=none&pbk=8AMTGPbrxsJjdXnKnF9Q_FTBE0tQHG-nfE1CeqN7GRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=typewriter.mail.ru&sid=17aa0cd6#RU-@VPNine1
+ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU@194.87.69.12:18443# RU | 194.87.69.12
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none# RU | 45.67.32.147
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?type=ws&security=tls&allowInsecure=1&path=%2Fmedia%2Fws%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia-12773
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#RU  | @Raydikalx | B5BE9D
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808#RU  | @Raydikalx | 14DA01
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#RU  | @Raydikalx | 3B5218
@@ -3255,6 +3257,7 @@ vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.228.167.18:443?security=reality&
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.241.140.130:443?security=reality&encryption=none&pbk=fVYMiP7jX5yo5loyRrDdajLFBM6FNkZIfBIsezKjdm8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=rucanmicro2.gangplatform.com&sid=723ace0d14784964#RU  | @Raydikalx | 006488
 vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&type=raw#RU  | @Raydikalx | A42451
 vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@103.213.249.5:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&host=us-05.avroraservice.online&fp=firefox&type=xhttp&sni=cdn-us.cahmes.space&sid=6bd33a75ebc0f26e#RU  | @Raydikalx | 033593
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@es-04.avroraservice.online:8443?type=xhttp&security=reality&fp=chrome&pbk=dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638&sid=01f0a0809d05552b&sni=cdn-es.cahmes.space&path=/xhttp&mode=stream-one&encryption=none#RU  | @Raydikalx | DBAF22
 vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc#RU  | @Raydikalx | D23BA4
 vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@api.mediaklenov.cc:443?alpn=h2&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc#RU  | @Raydikalx | EB4090
 vless://ae8df31c-3420-44a4-aa18-c34e2b5717d9@msk.substituteme.space:8843?encryption=none&fp=&mode=auto&path=%2Fe47f0add4324743e&pbk=BxyJp0UU90qi-HeYuanJB9IR8HbNABusQvPNaUfYQCU&security=reality&sid=2b608412739b5087&sni=www.cloudflare.com&type=xhttp#RU  | @Raydikalx | 181903
@@ -3267,7 +3270,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?security=tls&type=ws&path=%2Fws&sni=photos.plumstatic.com&fp=firefox&encryption=none#RU  | @Raydikalx | 574F7E
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?security=tls&type=ws&path=%2Fws&sni=share.plumstatic.com&fp=firefox&encryption=none#RU  | @Raydikalx | E0CB8F
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8444?security=tls&type=ws&path=%2Fws&sni=media.plumstatic.com&fp=firefox&encryption=none#RU  | @Raydikalx | A38ED1
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8454?security=tls&type=ws&path=%2Fws&sni=store.plumstatic.com&fp=firefox&encryption=none#RU  | @Raydikalx | 6DB8EA
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#RU  | @Raydikalx | 264AEB
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#RU  | @Raydikalx | 633CF6
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@136.234.16.199:443?security=reality&encryption=none&pbk=-C8hJPrwHjokiUeF0glRMng3R5vZUhIN_aVQ1ItQYl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.robloxfans.fun&sid=4c3872a0264f69ae#RU  | @Raydikalx | 7AED4A
