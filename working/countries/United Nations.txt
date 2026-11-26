@@ -1,4 +1,5 @@
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@202.144.192.76:13779?type=tcp&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#UN-VLESS-01
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@202.144.192.76:13779?type=tcp&security=reality&sni=tesla.com&fp=random&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#UN-VLESS-02
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ# UN | YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg# UN | YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443# UN | series-a2.samanehha.co
