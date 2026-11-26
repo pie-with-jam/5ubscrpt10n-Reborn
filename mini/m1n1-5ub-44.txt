@@ -1,3 +1,40 @@
+vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none# By EbraSha
+vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none# By EbraSha
+vless://65d9b3ce-470d-485f-8c8e-15ae0ec1b4da@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade# By EbraSha
+vless://65d9b3ce-470d-485f-8c8e-15ae0ec1b4da@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade# By EbraSha
+vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp# By EbraSha
+vless://65da960e-97bd-499c-a79f-69c8c3a6984d@jahed.mobiletoskan.com:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp# By EbraSha
+vless://65dbc1ed-6728-4214-a7a8-85cff051db1f@195.208.65.195:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s58794.cdn.ngenix.net# By EbraSha
+vless://65dd0e08-355a-44e8-b263-fb7d581a197d@5.223.59.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp# By EbraSha
+vless://65dd58b4-613e-41b2-aaba-142adef7d5e9@104.27.202.236:443?path=Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-Telegramjoin%3A%40Awlix_ir-&security=tls&encryption=none&host=khliyguokgfiytryfh.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=ws&sni=khliyguokgfiytryfh.mic-mokhaderat-shatel-irancel-digikala.shop# By EbraSha
+vless://65ddfeae-22b1-41be-827b-88f4de6599b6@parspack.com:443?path=%2Fcdn&security=tls&encryption=none&alpn=http/1.1&host=pl-02p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd# By EbraSha
+vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=none&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.112.39:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.112.83:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.113.168:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.113.47:443?mode=gun&security=none&encryption=none&type=grpc# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.113.47:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.219:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.62:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.82:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.115.100:443?mode=gun&security=none&encryption=none&type=grpc# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.115.100:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.115.68:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.194.76:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.194.97:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.196.140:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.196.157:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.197.142:443?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.197.142:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.198.177:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.198.96:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.200.171:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.201.151:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.203.143:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.204.139:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.204.51:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.145:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.207:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.208.153:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.209.186:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.209.205:443?type=grpc&encryption=none&serviceName=&authority=&security=none# By EbraSha
@@ -9961,40 +9998,3 @@ vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.185.161.20:443?security=tls&typ
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.185.161.20:443?security=tls&type=ws&path=/Telegram @WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none# By EbraSha
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?security=tls&type=ws&path=/Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?security=tls&type=ws&path=/Telegram @WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@147.78.140.20:443?sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram @WangCai2fp=chrome&security=tls# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.194.12.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.194.12.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.194.12.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.194.12.20:443?security=tls&type=ws&path=/Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.194.12.20:443?security=tls&type=ws&path=/Telegram @WangCai2&host=cf11.evan00.dpdns.org&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443/?type=ws&encryption=none&flow=&host=cf11.evan00.dpdns.org&path=Telegram&security=tls&sni=cf11.evan00.dpdns.org&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram @VPNine1&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram+@WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?security=tls&type=ws&path=/Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?security=tls&type=ws&path=/Telegram @WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.92.9.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.92.9.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.92.9.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram+@VPNine1&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.92.9.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram+@WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.92.9.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.112.235.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.112.235.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.112.235.20:443?security=tls&type=ws&path=/Telegram+@WangCai2&host=cf11.evan00.dpdns.org&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=firefox# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.246.55.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.246.55.20:443?security=tls&type=ws&path=/Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@159.246.55.20:443?security=tls&type=ws&path=/Telegram @WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.120.94.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.120.94.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.120.94.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2# By EbraSha
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.159.18.228:2087?&security=tls&fp=random&sni=cf12.evan00.dpdns.org&type=ws&headerType=none&host=cf12.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net# By EbraSha
