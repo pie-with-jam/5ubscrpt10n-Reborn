@@ -1,3 +1,6 @@
+vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de166.mech-pro.online&sid=16e0f049#     TelegramID Express_freevpn 
+vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@de166.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de166.mech-pro.online&sid=16e0f049#@filembad
+vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048# CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048# CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048# CxrolVPN
 vless://97b4d3ec-2ce2-4888-b8c7-369ff303dea0@s1.berluno.ir:1155?security=reality&encryption=none&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&headerType=none&fp=chrome&spx=/example&type=tcp&sni=tgju.org&sid=4e4aaad65cc07da8#@vpnsal
@@ -9995,6 +9998,3 @@ trojan://humanity@162.159.84.189:443?sni=www.trusteeforward.com&type=ws#%E2%98%8
 trojan://humanity@162.159.91.211:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#trojan-1827149417
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%E2%98%81%EF%B8%8F%20Cloudflare%200090
 trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com#trojan-1827938592
-trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&allowInsecure=1#trojan-1827149417
-trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws#trojan-1827938592
-trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-B96273A0
