@@ -41,8 +41,6 @@ vmess://eyJhZGQiOiAiMzguNjAuMjI0LjE3MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6IkBWMnJheV9BbHBoYfCfpqYgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=ss#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2012
 ss://YWVzLTEyOC1nY206d3ZoMGpiSUpQWXF0ZjhMRi9RTXM2UW1JcVNwU0YyRWQ=@38.60.224.141:17184#%F0%9F%87%B2%F0%9F%87%BDMX_13%7C875KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0779
-ss://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43116?type=tcp&security=reality&sni=v1-dy.ixigua.com&flow=xtls-rprx-vision&pbk=rLU2xJNZPFvtHy49MygD-nta6OpJEbjarjAZ5vHwpVE&sid=29ad689280e2f0ec&fp=edge#MX%20-%20zhuhai.uk
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43116?type=tcp&security=reality&sni=v1-dy.ixigua.com&flow=xtls-rprx-vision&pbk=rLU2xJNZPFvtHy49MygD-nta6OpJEbjarjAZ5vHwpVE&sid=29ad689280e2f0ec&fp=edge#MX%20-%20zhuhai.uk
 ss://YWVzLTEyOC1nY206ZTczOGVlNDE3YTgzM2IwMDA5MjBiYjg2OWNiZGU0MDA@147.78.1.35:16671#MX  | @Raydikalx | F1B6D1
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#MX  | @Raydikalx | 03BF9D
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@131.196.252.66:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#MX  | @Raydikalx | E04EFF
