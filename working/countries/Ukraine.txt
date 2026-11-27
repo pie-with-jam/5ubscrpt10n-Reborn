@@ -82,7 +82,6 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@194.150.220.179:443?security=realit
 vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?encryption=none&security=none&type=tcp#[10540][UA][0][VLESS][None][oneclickvpnkeys][2026-11-19][2026-11-25 05:53]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.click&type=ws&allowInsecure=0&security=tls&path=%2Fws&encryption=none&insecure=0&fp=firefox#[11741][UA][0][VLESS][None][nofiltering2][2026-10-29][2026-11-25 05:53]
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#[1813][UA][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0096
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0063
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7319
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7583
@@ -99,6 +98,7 @@ vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?security=reality&
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.62:2053?encryption=none&security=tls&sni=polarladder.com&fp=chrome&type=xhttp&host=polarladder.com&path=/api/v1/upload&mode=auto#UA_1131_@Surfboardv2ray
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.62:2053?mode=auto&path=/api/v1/upload&security=tls&encryption=none&insecure=0&host=polarladder.com&fp=chrome&type=xhttp&allowInsecure=0&sni=polarladder.com#UA_1132_@Surfboardv2ray
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#UA_3681_@Surfboardv2ray
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2001
@@ -132,6 +132,8 @@ trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns24.m3hrzd.ir:8044#UA  | @Raydikalx | A0C3E0
+trojan://1814e548-140f-480d-bf35-9c947cd1a245@girm.thugiping.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=girm.thugiping.com#UA  | @Raydikalx | B25FED
+trojan://98e4171c-15a5-4c6b-89c8-f19a4442651a@girm.thugiping.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=girm.thugiping.com#UA  | @Raydikalx | 9C57D2
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#UA  | @Raydikalx | 3550C8
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=multi&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#UA  | @Raydikalx | FC878A
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#UA  | @Raydikalx | 1251DE

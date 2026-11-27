@@ -15,7 +15,6 @@ vless://33d67a80-909e-4cec-aa8f-601f6019a8f0@23.27.199.148:24378?security=realit
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#[711][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#[710][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#[1050][MY][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
-vmess://eyJ2IjoiMiIsInBzIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0450
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-38.60.168.129-0902
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%F0%9F%87%B2%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20trojan-MY-...
@@ -66,7 +65,6 @@ vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=n
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#MY  | @Raydikalx | BACC24
 vless://4159303d-25f1-45ff-98f9-7875dd291fbc@my1.oh-node.com:443?security=reality&type=tcp&sni=www.setel.com&fp=chrome&flow=xtls-rprx-vision&sid=d493b199be265162&pbk=PJjtKzpZHwxP7GD1fq_UkdWgHaW4IenVRcZuZEgMmmQ#MY  | @Raydikalx | 9439C8
 vless://4159303d-25f1-45ff-98f9-7875dd291fbc@my2.oh-node.com:443?security=reality&type=tcp&sni=www.setel.com&fp=chrome&flow=xtls-rprx-vision&sid=d493b199be265162&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM#MY  | @Raydikalx | 50327C
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0487
 vless://%40Net2ray@47.250.195.135:20393/?type=tcp&encryption=none#[5][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.195.69.44:8443?security=tls&type=ws&path=%2FGOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#[34737][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#[27074][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -223,4 +221,5 @@ ss://chacha20-ietf-poly1305:ff342a15432c25b3@115.164.114.21:11201#%F0%9F%87%B2%F
 ss://chacha20-ietf-poly1305:f8f7aCzcPKbsF8p3@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20MY%20103.243.215.17%20%E2%97%88%20tcp%3A990%20%E2%97%88%20Gigabit%20Hosting%20Sdn%20Bhd%20%E2%97%88%206b06c
 ss://abfa5fd9-6ed0-4310-9372-49590b054a2b@101.99.84.124:80?type=ws&host=moba.mobilelegends.com&path=%2Fvless-ntls#[5954][MY][0][SS][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#[openproxylist.com] trojan-MY
+vmess://eyJ2IjoiMiIsInBzIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=0#%F0%9F%87%B2%F0%9F%87%BE%20%5Bwww.v2nodes.com%5D%20trojan-MY-...
