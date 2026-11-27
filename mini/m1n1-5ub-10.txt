@@ -1,3 +1,6 @@
+trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%201533
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200&type=tcp#trojan-1827188340
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&type=tcp#trojan-1827149167
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200&allowInsecure=1#trojan-1827149167
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173&type=tcp#trojan-1827149654
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&type=tcp#trojan-1853341794
@@ -9995,6 +9998,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.71.30:8880?security=none&ty
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#%E2%98%81%EF%B8%8F%20Cloudflare%202950
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?host=vms.lifetime54.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#%E2%98%81%EF%B8%8F%20Cloudflare%202002
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?security=none&type=ws&path=/&host=vms.lifetime54.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_1550%7C687KB%2Fs%7CC002-260622%2001
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_1744%7C333KB%2Fs%2001
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR_742%7C415KB%2Fs%7CC002-260622%2001
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?security=none&type=ws&path=/&host=vms.lifetime04.workers.dev&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7FR_799%7C364KB%2Fs%7CC002-260622%2001
