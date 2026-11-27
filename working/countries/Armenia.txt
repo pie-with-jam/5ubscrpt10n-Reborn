@@ -258,4 +258,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8754
 ss://cde6db10-61db-418f-9ea1-52f7c13404a9@87.121.47.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am-1.alpha-ai-studio.com&fp=firefox&pbk=msysQ0O50UghY7hzYz14sJF3cvfolf999HsO2Iu99xc&sid=1aa760b0&type=tcp&headerType=none#[6581][AM][0][SS][None][lrnbymaa][2026-07-09][2026-07-25 02:07]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8614
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.91.74.232:443#Germany/Frankfurt am Main [GH:SoliSpirit/v2ray-configs]
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@130.78.30.147:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=105ky37.virtual-network.lol#Germany/Frankfurt am Main [TG]
