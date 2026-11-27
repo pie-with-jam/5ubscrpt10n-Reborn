@@ -302,7 +302,6 @@ ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA==@213.183.63.60:9028#%F0%9F%87%A7%F0
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_16
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_22
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%ACBG_4%7C2.6MB%2Fs%7CA004-260618%2001
-ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw@213.183.63.60:9066#BG-@VPNine1
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064# BG | 213.183.63.60
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#BG  | @Raydikalx | B3868C
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#BG  | @Raydikalx | 601424
@@ -327,6 +326,7 @@ vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real33.greewebservices.ir:1330?se
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#BG  | @Raydikalx | 824B52
 vless://fe4d2b3e-965f-4389-a6e4-05887ef5fd2b@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=e915#BG  | @Raydikalx | 888D5F
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#BG  | @Raydikalx | 887AEA
+vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@p2real33.greewebservices.ir:1330?security=reality&type=tcp&sni=play.googleapis.com&fp=chrome&sid=9b60d3&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#BG  | @Raydikalx | 847E73
 vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#BG  | @Raydikalx | FF3BE7
 vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.242:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#BG   VLESS-TCP-RLT - WorkTitans B.V.  146.19.80.242
 vless://75bf4758-0dfa-4b7e-8a73-813088edb780@2.27.105.172:443?security=reality&encryption=none&pbk=koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=bb186e4397a2792d&fp=safari#[18896][BG][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
