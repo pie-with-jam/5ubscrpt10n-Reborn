@@ -22,8 +22,8 @@ vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reali
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#MX_2745_@Surfboardv2ray
 trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#Mexico
 trojan://3747000103274291200@216.238.77.127:443?peer=grateful-glowworm.treefrog761.one#Mexico
-ss://YWVzLTEyOC1nY206ZTczOGVlNDE3YTgzM2IwMDA5MjBiYjg2OWNiZGU0MDBAMTQ3Ljc4LjEuMzU6MTY2NzE=#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2001
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2002
+ss://YWVzLTEyOC1nY206ZTczOGVlNDE3YTgzM2IwMDA5MjBiYjg2OWNiZGU0MDA@147.78.1.35:16671#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2002
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2001
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2003
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2004
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2005

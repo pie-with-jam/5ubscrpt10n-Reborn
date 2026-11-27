@@ -4,8 +4,7 @@ vless://92a4056a-38d6-49d0-8bd2-600e55af1e9f@111.88.128.167:8517?mode=gun&pcs=62
 trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443#Pakistan
 trojan://3747000103274291200@38.60.217.170:443?peer=dynamic-tomcat.treefrog761.one#Pakistan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw==@103.125.147.48:51348#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2001
-trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?type=tcp&headerType=none&security=tls&encryption=none&sni=www.registry-monitor.click&fp=chrome&insecure=0#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2002
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2003
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#PK   SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited  119.159.245.24
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[12385][PK][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[23715][PK][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
