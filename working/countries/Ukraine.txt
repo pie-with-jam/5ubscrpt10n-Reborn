@@ -131,10 +131,6 @@ trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0096
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+191.71ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+197.34ms
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND03@185.164.175.81:19999#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+185.164.175.81-19999+%7C+164.24ms
-ss://aes256gcOg==@185.164.175.81:19999#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+185.164.175.81-19999+%7C+163.08ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns24.m3hrzd.ir:8044#UA  | @Raydikalx | A0C3E0
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#UA  | @Raydikalx | 3550C8
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=multi&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#UA  | @Raydikalx | FC878A

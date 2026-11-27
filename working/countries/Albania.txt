@@ -14,7 +14,6 @@ vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?encryption=none
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#[1127][AL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=#%F0%9F%87%A6%F0%9F%87%B1AL-78.159.131.12-0884
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-7496
-ss://YWVzLTEyOC1nY206ZDk4ZDdlYzUtMjRkNy00ZWQ4LTgzMjktNzI4YjJjN2FkMWM1@038b7750485a79a0.lebufflonfermegroup.us:35190#%F0%9F%87%A6%F0%9F%87%B1%20AL_03%20%231
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?encryption=none&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream&type=ws#AL_1799_@Surfboardv2ray
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?path=/media/ws/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=nl.lucheeebezlimitnoekino.stream#AL_1800_@Surfboardv2ray
@@ -24,6 +23,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU3hMWEZ0b21ZOXlwTzRvOHJyTldFcE5TWkVGenNNbmZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWWV2T3JtdWp1ckpzTlAxYXRhMGtOZmpzeHdGTEFoZ0Q3M21yWlBKUDFJPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_5%7C259KB%2Fs%7CM003-260806%20%5B0d56bf2bbe3f%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTDRhaFNvTE5xcko4bVFaMXVLRkxHOG84VzRUY1lEVUlXMGdsZHA5R3JzPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_7%7C1.7MB%2Fs%7CM003-260806%20%5B16f0b7e65f2e%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2008
+ss://YWVzLTEyOC1nY206ZDk4ZDdlYzUtMjRkNy00ZWQ4LTgzMjktNzI4YjJjN2FkMWM1@038b7750485a79a0.lebufflonfermegroup.us:35190#%F0%9F%87%A6%F0%9F%87%B1%20AL_03%20%231
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2006
 ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2007
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2009
@@ -36,15 +36,8 @@ vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?security=realit
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban.freeinternat.com&type=tcp%23%F0%9F%AA%8689@oneclickvpnkeys#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2015
 vless://df97ce68-477f-4484-94c7-79eccab7319d@48.103.205.57:443?security=reality&encryption=none&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=alb1.angelsleep9.com&sid=28ffd89d510a739b#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2016
 vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=reality&alpn=http/1.1&encryption=none&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.alba.xanka.best&sid=c692a719#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2013
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWWV2T3JtdWp1ckpzTlAxYXRhMGtOZmpzeHdGTEFoZ0Q3M21yWlBKUDFJPQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1AL_4%7C93KB%2Fs%7CM003-260806
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
-ss://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823/?type=tcp&encryption=none&flow=#AL
-ss://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#REALITY|AL
-ss://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248/?type=tcp&encryption=none&flow=#AL
-vless://81c9cfa5-7522-490b-a613-99cdd2a52d29@185.12.127.228:2087?security=reality&sni=press.stonebridge-atelier.vip&pbk=PzV1ayb6Elgyc6vn9yS08g8c6KDP1Xh-0R181Fazhio&sid=6ab75ab2&type=grpc&serviceName=cas-al&mode=multi&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://81c9cfa5-7522-490b-a613-99cdd2a52d29@185.12.127.228:2087?security=reality&sni=press.stonebridge-atelier.vip&pbk=PzV1ayb6Elgyc6vn9yS08g8c6KDP1Xh-0R181Fazhio&sid=6ab75ab2&type=grpc&serviceName=cas-al&mode=multi&fp=ios#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://81c9cfa5-7522-490b-a613-99cdd2a52d29@185.12.127.228:2087?security=reality&sni=press.stonebridge-atelier.vip&pbk=PzV1ayb6Elgyc6vn9yS08g8c6KDP1Xh-0R181Fazhio&sid=6ab75ab2&type=grpc&serviceName=cas-al&mode=multi&fp=qq#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://81c9cfa5-7522-490b-a613-99cdd2a52d29@185.12.127.228:2087?security=reality&sni=press.stonebridge-atelier.vip&pbk=PzV1ayb6Elgyc6vn9yS08g8c6KDP1Xh-0R181Fazhio&sid=6ab75ab2&type=grpc&serviceName=cas-al&mode=multi&fp=safari#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#REALITY|AL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWWV2T3JtdWp1ckpzTlAxYXRhMGtOZmpzeHdGTEFoZ0Q3M21yWlBKUDFJPQ@130.49.189.158:43558#AL  | @Raydikalx | 857FC7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#AL  | @Raydikalx | 6A1329
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#AL  | @Raydikalx | EF9071
