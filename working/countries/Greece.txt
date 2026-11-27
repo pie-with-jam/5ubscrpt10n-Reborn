@@ -17,8 +17,8 @@ vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?mode=packet-up&p
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#[2069][GR][0][VLESS][None][Hope_Net][2026-09-17][2026-11-25 05:53]
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#[8111][GR][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
 trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#[1312][GR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
-trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-0948
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4106
+trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1=JBzxm@185.126.238.84:443?security=tls&sni=185.126.238.84#%F0%9F%87%AC%F0%9F%87%B7GR-185.126.238.84-1002
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4145
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#GR_2386_@Surfboardv2ray
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#GR_2387_@Surfboardv2ray
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#GR_2388_@Surfboardv2ray

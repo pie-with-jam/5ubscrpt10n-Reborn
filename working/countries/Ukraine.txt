@@ -82,9 +82,9 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@194.150.220.179:443?security=realit
 vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?encryption=none&security=none&type=tcp#[10540][UA][0][VLESS][None][oneclickvpnkeys][2026-11-19][2026-11-25 05:53]
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?sni=indigostar.click&type=ws&allowInsecure=0&security=tls&path=%2Fws&encryption=none&insecure=0&fp=firefox#[11741][UA][0][VLESS][None][nofiltering2][2026-10-29][2026-11-25 05:53]
 trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#[1813][UA][0][TROJAN][None][ext_raw.githubusercontent.com][2026-11-25][2026-11-25 05:53]
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0063
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7319
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7583
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0412
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-7375
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-7639
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#UA_942_@Surfboardv2ray
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?security=reality&encryption=none&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&fp=chrome&type=grpc&serviceName=grpc&sni=passport.yandex.ru#UA_1122_@Surfboardv2ray
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?security=reality&encryption=none&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&fp=chrome&type=grpc&serviceName=grpc&sni=passport.yandex.ru#UA_1123_@Surfboardv2ray
@@ -140,6 +140,7 @@ vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@ALSU.Deev-Guard.ir:44200?security=n
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#UA  | @Raydikalx | 957C79
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#UA  | @Raydikalx | FCB590
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d8b58872&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C591KB%2Fs%7CM003-260806%20%5B59eb9ffa2258%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6UA-185.164.175.81-0063
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun#[37520][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=@one_shop_official&fp=chrome&type=#[37509][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#[37495][UA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
