@@ -35,7 +35,6 @@ trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tl
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4767
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4925
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-6964
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
 vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?mode=auto&path=%2Fae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&type=xhttp&sni=fr.gorobsub.com&sid=3242cfd7#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%AB%F0%9F%87%B7
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@216.106.185.158:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%BA%F0%9F%87%B8
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%B8%F0%9F%87%AC
@@ -217,6 +216,7 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?sni=id1.nath
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2010
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2013
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?sni=i1tr.mateflora.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2008
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20trojan-ID-...
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2009
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?sni=i1tr.mateflora.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2007
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2011

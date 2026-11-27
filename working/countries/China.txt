@@ -405,10 +405,6 @@ ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-6944
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-6945
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNWEwYThkOS1hYjJjLTQwN2YtODlhNC1iZjAyN2QyMTYxODQ=@183.240.222.15:870#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.222.15-7641
-trojan://85dd0cc3-fa1b-49be-9e38-a56e8d76ab4b@sclass-01.catcat321.com:20001?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_71%20%231
-trojan://2e7ebefd-1572-4a4e-b1ec-51a9cb4157b8@sclass-01.catcat321.com:20058?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_72%20%231
-trojan://85dd0cc3-fa1b-49be-9e38-a56e8d76ab4b@sclass-01.catcat321.com:20001?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_71
-trojan://2e7ebefd-1572-4a4e-b1ec-51a9cb4157b8@sclass-01.catcat321.com:20058?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_72
 vmess://eyJhZGQiOiIxMjUuMTI0LjI1NC41IiwidiI6MiwicHMiOiLwn4eo8J+HsyBDTiDkuK3lm70gMiIsInBvcnQiOiIxMDgwIiwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 vmess://eyJhZGQiOiJ0ZW5jZW50LmRhbWFvb29vLmNvbSIsInYiOjIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9XzEzIiwicG9ydCI6IjExNDUyIiwiaWQiOiI4MmYyYTUxZi00ODhjLTQ3YjAtYjIyMy1kMTdmNDlkODY2MGQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiJkYXRhLWhrLXYxLnVzYWJvb2tzLmNvbS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9XzE0IiwicG9ydCI6IjIwMjA2IiwiaWQiOiJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkYXRhLWhrLXYxLnVzYWJvb2tzLmNvbS5jbiIsInRscyI6IiIsInBhdGgiOiIvZGViaWFuIn0=
@@ -527,6 +523,7 @@ trojan://299954a05eabaed82063bdff0ff4cae2@tyy129.magiclampcloud.com:59443?sni=ty
 trojan://2a9457028b242be77f485aec3693cd8f@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20145
 trojan://2bfc5fda7fbccde82d6fada1465d131c@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20146
 trojan://2ce88088024f525d77c2bda96e81d737@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20147
+trojan://2e7ebefd-1572-4a4e-b1ec-51a9cb4157b8@sclass-01.catcat321.com:20058?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_72%20%231
 trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20148
 trojan://3493ff930d879b214732f71d449538d6@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20149
 trojan://3520ebcc604f430b1abb25129b92ad03@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20150
@@ -597,6 +594,7 @@ trojan://81352974801287f06ab58f555f45ef0b@ja304.magiclampcloud.cn:59443?allowIns
 trojan://81f683c3f594588c69c9494526a57f3d@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20181
 trojan://828b96278358962c945c18913e3ce5b7@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20182
 trojan://8560843d8550aa368674c3bf0d4d3ad8@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20183
+trojan://85dd0cc3-fa1b-49be-9e38-a56e8d76ab4b@sclass-01.catcat321.com:20001?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_71%20%231
 trojan://881340284b2ba5737f5f892a846c2940@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20184
 trojan://8a6691810c87dd1c7ac2ac7103c334d9@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20185
 trojan://8e0cfdddbb7314e5c110576e7edec1f9@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20186
@@ -809,6 +807,8 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#%F0%9F%87%A8%F0
 vmess://eyJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTgzLjIzNi41MS4yMyIsImFpZCI6NjQsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBvcnQiOjUyMTEyLCJ0bHMiOiIifQ==
 vmess://eyJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+Ht/Cfh7pfUlVf5L+E572X5pavXzIiLCJhZGQiOiJjbTEuYXdzbGNuLmluZm8iLCJhaWQiOjAsImlkIjoiMjQzZWFiNTItOWFjMS00MDVjLTg4N2MtZWIxMTJjMDk4NWI4IiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwicG9ydCI6MjUyMzAsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6ImNtMS5hd3NsY24uaW5mbyIsInNuaSI6ImNtMS5hd3NsY24uaW5mbyJ9
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1#Relay_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_183
+trojan://85dd0cc3-fa1b-49be-9e38-a56e8d76ab4b@sclass-01.catcat321.com:20001?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_71
+trojan://2e7ebefd-1572-4a4e-b1ec-51a9cb4157b8@sclass-01.catcat321.com:20058?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%A8%F0%9F%87%B3%20CN_72
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp# CN | 118.145.128.2
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cXJ5bDZ4VkxrV1habHFEN0NjY3BRdz09@103.238.140.162:10002#CN  | @Raydikalx | 5599DB
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.1.4.7:0#CN  | @Raydikalx | 05DD01
