@@ -86,4 +86,3 @@ trojan://bIsrw94HH7zmhmvmGskKIb4HbmOZdcCR@148.72.168.35:58615?allowInsecure=1&ty
 trojan://bIsrw94HH7zmhmvmGskKIb4HbmOZdcCR@148.72.168.35:58615?allowInsecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20St%20Louis%20%7C%20%5BBL%5D
 trojan://bIsrw94HH7zmhmvmGskKIb4HbmOZdcCR@148.72.168.35:58615?allowInsecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20St%20Louis%20%7C%20%5BBL%5D
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#//Russia/St Petersburg
-vless://1fd2e2d1-96f5-2056-19fd-b375b1a9d851@xray-b8ct4r2f-sahdon-hosaindoost.cloady.io:443?&security=tls&fp=chrome&sni=xray-b8ct4r2f-sahdon-hosaindoost.cloady.io&type=ws&headerType=none&host=xray-b8ct4r2f-sahdon-hosaindoost.cloady.io&path=%2Fffad70ffdfc3bcda#United States/St Louis [TG]
