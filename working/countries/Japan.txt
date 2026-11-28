@@ -1566,10 +1566,8 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.27.11:5555#JP  | @Raydikalx | 41974C
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.40.243:5555#JP  | @Raydikalx | E6B419
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.15.111:5555#JP  | @Raydikalx | 470CF8
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.18.202:5555#JP  | @Raydikalx | D9A12C
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.29.60:5555#JP  | @Raydikalx | C11BCA
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.198.176:5555#JP  | @Raydikalx | A6BF46
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.221.183:5555#JP  | @Raydikalx | 53FD8D
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.245.25:5555#JP  | @Raydikalx | 1CD8CC
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.128.146:5555#JP  | @Raydikalx | 7650AA
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.130.59:5555#JP  | @Raydikalx | 80E313
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.174.191:5555#JP  | @Raydikalx | E6EE98
@@ -1583,7 +1581,6 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.189:5555#JP  | @Raydikalx | 43302E
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.3.83:5555#JP  | @Raydikalx | 87B79C
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.6.223:5555#JP  | @Raydikalx | 51D70B
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.248:5555#JP  | @Raydikalx | F13930
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.48:5555#JP  | @Raydikalx | E81DC0
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.135:5555#JP  | @Raydikalx | 36F42C
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#JP  | @Raydikalx | 24274E
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.15:5555#JP  | @Raydikalx | 0A4EFE
@@ -1593,7 +1590,6 @@ trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&sni=43.167.186.78&type=tcp#JP  | @Raydikalx | 217E0D
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&type=tcp#JP  | @Raydikalx | C4AF0E
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173&type=tcp#JP  | @Raydikalx | ECD4ED
-trojan://F3NzMNuYnG7akU2mSlBY@193.123.160.109:8443?security=tls#JP  | @Raydikalx | E18F21
 vless://18ce1302-4e37-4eac-bd4f-e3e0a983e589@45.76.98.127:443?fp=chrome&path=%2Fws&pbk=LZR1ZQzdHDSdooxAImvxEjFIs-gebEP3zf0J6V3qVSI&security=reality&sid=49fa0dad&sni=itunes.apple.com&type=ws#JP  | @Raydikalx | 016210
 vless://18ce1302-4e37-4eac-bd4f-e3e0a983e589@45.76.98.127:443?fp=chrome&host=itunes.apple.com&path=%2Fws&pbk=LZR1ZQzdHDSdooxAImvxEjFIs-gebEP3zf0J6V3qVSI&security=reality&sid=49fa0dad&sni=itunes.apple.com&type=ws#JP  | @Raydikalx | E158C3
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP  | @Raydikalx | 3C8099

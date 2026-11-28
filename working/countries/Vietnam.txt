@@ -138,6 +138,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://2144e802-a64f-4261-af53-41309fee1d99@221.133.21.135:8444?&security=tls&fp=chrome&sni=www.bing.com&type=ws&headerType=none&host=221.133.21.135&path=%2Ftk#VN  | @Raydikalx | 56ABB5
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN  | @Raydikalx | CC41E0
+vless://2144e802-a64f-4261-af53-41309fee1d99@221.133.21.135:8444?host=221.133.21.135&path=%2Ftk&security=tls&sni=www.bing.com&type=ws#VN  | @Raydikalx | 56ABB5
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.200
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.145
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#VN   SHADOWSOCKS-TCP-NTLS - VIETPN Company Limited  103.186.154.160

@@ -16,6 +16,7 @@ vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?security=realit
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%A6SA_1%7C1014KB%2Fs%7CM003-260806
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info&packetEncoding=xudp&sni=platform128.halalkhor.info#%F0%9F%87%B8%F0%9F%87%A6SA_2%7C1.0MB%2Fs%7CM003-260806
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?&type=ws&headerType=none&host=platform128.halalkhor.info&path=%2Fplatform128#%F0%9F%87%B8%F0%9F%87%A6%20SA_46
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?&type=ws&headerType=none&host=platform128.halalkhor.info&path=%2Fplatform128#SA  | @Raydikalx | FC1500
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#SA  | @Raydikalx | 4F03E4
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?type=grpc&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#[37957][SA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%2Ff&security=none&encryption=none&type=xhttp#[15770][SA][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -58,3 +59,4 @@ ss://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=%
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA Da433
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#SA  ROSE90
 ss://YWVzLTEyOC1nY206ZGFqa2RramRhJmRqYSovPw@260323.1.0.l3.unclemanco.com:6559/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%B8%F0%9F%87%A6%20SA_98
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?&type=ws&headerType=none&host=platform128.halalkhor.info&path=%2Fplatform128#[openproxylist.com] vless-SA

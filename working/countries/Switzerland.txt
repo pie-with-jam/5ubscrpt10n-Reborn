@@ -597,8 +597,6 @@ vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=aut
 vmess://a925a98c-ad7a-40c6-9fdf-130a1de69416@179.43.140.24:42831?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=/3x&security=none&type=tcp#CH  | @Raydikalx | FC93FD
 vmess://a925a98c-ad7a-40c6-9fdf-130a1de69416@179.43.140.24:42831?encryption=auto&headerType=http&path=/3x&security=none&type=tcp#CH  | @Raydikalx | AE4BCC
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiQ0gg8J+HqPCfh60gfCBAUmF5ZGlrYWx4IHwgQzJGMzZCIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#CH  | @Raydikalx | A80DAC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch0322.shopingggg.ir:19999#CH  | @Raydikalx | AA8E82
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch5965.shopingggg.ir:19999#CH  | @Raydikalx | 1DCF4F
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#CH  | @Raydikalx | F18D94
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#CH  | @Raydikalx | 252CA9
@@ -610,7 +608,7 @@ vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?encryption=none&
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=firefox&path=%2F&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#CH  | @Raydikalx | C5E5CF
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#CH  | @Raydikalx | 1ED64E
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&host=www.apple.com&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#CH  | @Raydikalx | 99AF64
-vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?encryption=none&mode=auto&path=/&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&security=reality&sid=77&sni=yandex.ru&type=xhttp#CH  | @Raydikalx | 716AD1
+vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?encryption=none&fp=&mode=auto&path=%2F&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&security=reality&sid=77&sni=yandex.ru&type=xhttp#CH  | @Raydikalx | 716AD1
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?flow=xtls-rprx-vision&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=raw#CH  | @Raydikalx | C4B138
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%ADCH_7%7C331KB%2Fs%7CM003-260806%20%5B1b442a9a3a52%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7709.shopingggg.ir:19999#%F0%9F%87%A8%F0%9F%87%ADCH_12%7C448KB%2Fs%7CS004-260618%20%5B1cc5237c9a2d%5D

@@ -128,6 +128,7 @@ vmess://eyJhZGQiOiIxMDMuMTQuMjcuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR  | @Raydikalx | C8B193
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@147.45.116.19:443?type=tcp&security=reality&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=br.monkora.org#BR  | @Raydikalx | 1365D5
 vless://5860b202-143f-4111-a6f6-ab94c5ef61c2@varzesh3.com:2095?path=/pgcfws-r4&security=&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=dox.safari-df.ir&type=ws#BR  | @Raydikalx | 192709
+vless://7a42d986-f0b8-46e7-82cf-9516e168a613@108.158.198.2:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=dkfsoyk9ju2as.cloudfront.net&type=ws&headerType=none&host=dkfsoyk9ju2as.cloudfront.net&path=%2F#BR  | @Raydikalx | B180A9
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=/Channel-ELiV2RAY---ELiV2RAY?ed=2048&host=Channel-ELiV2RAY--ELiV2RAY.nET&type=ws#BR  | @Raydikalx | FE4A26
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#BR  | @Raydikalx | A91C5E
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#BR  | @Raydikalx | C83471
