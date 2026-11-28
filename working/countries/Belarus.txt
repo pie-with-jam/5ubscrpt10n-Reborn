@@ -99,6 +99,7 @@ vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#BY  | @Raydikalx | 5BD250
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#BY  | @Raydikalx | 77CE15
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?fp=firefox&host=178.172.227.124&path=%2Fvless&security=none&sni=178.172.227.124&type=ws#BY  | @Raydikalx | 66AEC5
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=%2Fvless&security=none&encryption=none&host=178.172.227.124&type=ws#BY  | @Raydikalx | 010655
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#BY  | @Raydikalx | BB53C0
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#BY  | @Raydikalx | 001707
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?&type=ws&headerType=none&host=95.128.71.79&path=/vless#BY  | @Raydikalx | A0F4D9
