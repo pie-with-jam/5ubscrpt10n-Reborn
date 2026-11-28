@@ -67,7 +67,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmXHUyMDBkXHVkODNjXHVkZjA4XHU1
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#MY  | @Raydikalx | 7E8D78
 vless://adb16f46-ebc3-4f72-ba20-f8872dec43a9@47.250.139.22:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=erG7hYnWx8wELFn1-USl81_0mJlSJFlr8VBhtSsJwhY&sid=734c1ee6&type=tcp&headerType=none#MY  | @Raydikalx | EE6809
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#MY  | @Raydikalx | C2DA54
-vmess://eyJ2IjoiMiIsInBzIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3IiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#MY  | @Raydikalx | BACC24
 vless://%40Net2ray@47.250.195.135:20393/?type=tcp&encryption=none#[5][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.195.69.44:8443?security=tls&type=ws&path=%2FGOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#[34737][MY][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

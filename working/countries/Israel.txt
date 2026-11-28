@@ -42,6 +42,8 @@ vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?security=reality&
 vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?security=reality&encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&headerType=none&type=tcp&sni=15d7fft.nl11.h1clayd.click&sid=c71118d9399fb8c2#IL_905_@Surfboardv2ray
 vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?security=reality&encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&headerType=none&type=tcp&sni=15d7fft.nl11.h1clayd.click&sid=c71118d9399fb8c2#IL_906_@Surfboardv2ray
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#IL_1195_@Surfboardv2ray
+vless://26843758-24de-4f76-b5d0-624038e353c4@153.52.85.198:443?security=reality&encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&headerType=none&type=tcp&sni=15d7fft.nl11.h1clayd.click&sid=c71118d9399fb8c2#IL_39_@Surfboardv2ray
+vless://26843758-24de-4f76-b5d0-624038e353c4@195.206.235.72:443?encryption=none&security=reality&sni=71b840t.de7.h1clayd.click&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&type=tcp&headerType=none#IL_15_@Surfboardv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2002
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2003
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2004

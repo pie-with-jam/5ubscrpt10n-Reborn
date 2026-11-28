@@ -133,6 +133,7 @@ trojan://de8b90d8-c401-46d3-a01f-87cd3e50a65d@103.180.132.78:10022?allowInsecure
 trojan://78fd4474-ea2b-4a46-8cdc-b0d39e66ecdd@103.173.255.21:443?allowInsecure=1#VN%7C(%E8%83%96%E8%99%8ETG%E9%A2%91%E9%81%93@gitbig)%208
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.172:38388#%F0%9F%87%BB%F0%9F%87%B3VN%C2%B2_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CGM%7CX%7CSucceed%2001
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe# VN | 103.162.14.250
+vless://2144e802-a64f-4261-af53-41309fee1d99@221.133.21.135:8444/?type=ws&encryption=none&flow=&host=221.133.21.135&path=%2Ftk&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3VN|||14050907|wxdy666|V2rayCh
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#VN  | @Raydikalx | DE68F9
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN  | @Raydikalx | CC41E0
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp#VN  | @Raydikalx | DE68F9

@@ -323,8 +323,7 @@ ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#%F0%9F%87%B1%F
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=5c256336e3b673fa&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo#%F0%9F%87%B1%F0%9F%87%BBLV_13%7C284KB%2Fs%7CM003-260806%2001
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3# LV | 216.173.71.79
 vless://1357bb15-4189-d654-d849-969db9e93a4e@95.182.90.187:38389?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=www.speedtest.net&fp=chrome&pbk=6QuxfOrVDGXfdKyAo6Il9d_lHDsQsNeOQ4OAPqFMQXM&sid=763b490397d066f7&spx=/# LV | 95.182.90.187
-ss://YWVzLTEyOC1nY206MjYzYmM5ZTNjNDFlYTcwZTFkNGQyZTg5YzhmYTgzN2E@109.248.148.138:11468#LV  | @Raydikalx | BC45D6
-ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M@109.248.148.141:11471#LV  | @Raydikalx | 2F80D7
+ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M=@109.248.148.141:11471#LV  | @Raydikalx | 2F80D7
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#LV  | @Raydikalx | 7234B2
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#LV  | @Raydikalx | 9ADBAA
 vless://01e44dba-da95-4bf7-b5ca-6fce514d1585@2.27.210.198:57064?encryption=none&security=reality&sni=yandex-cdn-mirror.ru&fp=chrome&pbk=JapPViaO5Vi7qH7ox4TPi0WOyCjYZCNDDQCyc7RLBQw&sid=238341&type=xhttp&mode=auto&path=/#LV  | @Raydikalx | 4C06F3
@@ -344,7 +343,7 @@ vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?encryption=non
 vless://c934b37d-f794-4b7d-a590-13f736ea5cab@31.57.24.177:443?mode=packet-up&path=/SmlDER32Ja&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&insecure=0&host=slv04.subsconnect.com&fp=chrome&type=xhttp&allowInsecure=0&sni=slv04.subsconnect.com#LV  | @Raydikalx | 8A440C
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?security=reality&encryption=none&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&headerType=none&fp=chrome&type=tcp&sni=m.vk.com&sid=67ece882d65d0f1a#LV  | @Raydikalx | D611CB
 vless://eb64e036-d64e-42d7-94ac-9800d8f16b08@46.8.228.52:28329?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=EmrdveO2Gy-rvuyzUEDtbRO7Kp0Zc5tIwoCHsMIr5Xs&fp=chrome&spx=/64450295bb9870c&type=xhttp&sni=g.co&sid=c179ed#LV  | @Raydikalx | 943219
-vless://ed2e4dd1-d19f-48dd-b613-3f855b1d0765@188.130.154.204:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#LV  | @Raydikalx | D8E526
+ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M@109.248.148.141:11471#LV  | @Raydikalx | 2F80D7
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=raw#LV  | @Raydikalx | 289D87
 vless://4d259556-57f7-4e5a-9a4a-48868787fb38@31.58.171.53:443?flow=xtls-rprx-vision&fp=chrome&pbk=iCy_Y2B58KB39rw94EycaBO-aldt2PaMmWz62arreSo&security=reality&sid=f77f3068&sni=dl.google.com&type=tcp#LV  | @Raydikalx | A2CA2C
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=raw#LV  | @Raydikalx | B55611
@@ -1296,4 +1295,5 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@185.135.86.173:9041#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8335
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@185.135.86.173:9037#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8336
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8337
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-LV
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?&security=tls&fp=firefox&sni=fonts.plumstatic.com&type=ws&headerType=none&path=%2Fws#%5Bwww.v2nodes.com%5D%20vless-LV-1...
