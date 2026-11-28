@@ -1302,3 +1302,5 @@ ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@185.135.86.173:9041#%F0%9F%87%B1%F
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8335
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@185.135.86.173:9037#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8336
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@185.135.86.173:9031#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8337
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#[openproxylist.com] vless-LV
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?&security=tls&fp=firefox&sni=fonts.plumstatic.com&type=ws&headerType=none&path=%2Fws#%5Bwww.v2nodes.com%5D%20vless-LV-1...
