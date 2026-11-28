@@ -62,10 +62,6 @@ vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%2001
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%2002
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4CO-190.120.231.45-0775
-ss://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.147:62145?security=none&encryption=none&headerType=none&type=tcp#[4193][CO][0][SS][None][EliV2ray][2026-08-29][2026-11-28
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#[8053][CO][0][SS][None][ext_raw.githubusercontent.com][2026-11-28][2026-11-28
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#[1093][CO][194][SS][GH
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.147:62145?security=none&encryption=none&headerType=none&type=tcp#[7275][CO][0][VLESS][None][EliV2ray][2026-08-29][2026-11-28
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#CO  | @Raydikalx | 4818AB
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.130:62145?headerType=none&encryption=none&security=none&type=tcp#[23949][CO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.212:62145#[23977][CO][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
